@@ -1,5 +1,23 @@
 YYYY-MM-DD HH:MM 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
+1660-01-03 07:30 My wife had a very bad night of it through wind and cold.
+
+1660-01-02 21:50 Having not eaten anything but bread and cheese, my wife cut me a slice of brawn which I received from my Lady; as good as ever I had any.
+
+1660-01-02 21:10 I went home, and finding my wife gone to see Mrs. Hunt, I went to Will’s, and there sat with Mr. Ashwell talking and singing, and so home.
+
+1660-01-02 13:15 Mr. Moore and I and another gentleman went out and drank a cup of ale in the new market, and I eat some bread and cheese for my dinner.
+
+1660-01-02 11:20 Great talk that many places have declared for a free Parliament; it is believed they will be forced to fill up the House with old members. 
+
+1660-01-02 10:30 The House was to-day upon finishing the act for the Council of State, which they did; and were to sit again thereupon in the afternoon.
+
+1660-01-02 09:25 I went to Mr. Crew’s and borrowed 10l. of Mr. Andrewes for my own use, and so went to my office, where there was nothing to do. 
+
+1660-01-02 08:45 I went to Mr. Sheply who was drawing of sack in the cellar, and told me that my Lord had given him order to give me the dozen of bottles. 
+
+1660-01-02 08:05 Before I went forth old East brought me a dozen of bottles of sack, and I gave him a shilling for his pains.
+
 1660-01-01 19:30 Went with my wife to my father’s, and in going observed the great posts which the City have set up at the Conduit in Fleet-street.
 
 1660-01-01 17:10 I staid at home all the afternoon, looking over my accounts.
@@ -7,20 +25,6 @@ YYYY-MM-DD HH:MM 123456789012345678901234567890123456789012345678901234567890123
 1660-01-01 14:20 Dined at home in the garret, where my wife dressed the remains of a turkey, and in the doing of it she burned her hand.
 
 1660-01-01 12:00 Went to Mr. Gunning’s chapel, where he made a very good sermon: “That in the fulness of time God sent his Son, made of a woman,” &c.
-
-1660-01-01 11:50 Test 6 at 11:50.
-
-1660-01-01 11:38 Test 6 at 11:38.
-
-1660-01-01 11:34 Test 5 at 11:34.
-
-1660-01-01 11:24 Test 4 at 11:24.
-
-1660-01-01 11:17 Test 3 at 11:17.
-
-1660-01-01 11:05 Test 2 at 11:05.
-
-1660-01-01 11:00 Test 1 at 11am.
 
 1660-01-01 10:28 My own private condition very handsome, and esteemed rich, but indeed very poor; besides my office, which at present is somewhat uncertain.
 
