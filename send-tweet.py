@@ -8,6 +8,8 @@ import twitter
 
 class Tweeter:
 
+    # DEFAULT SETTINGS. OVERRIDE IN ENVIRONMENT SETTINGS:
+
     # 1 will output stuff.
     verbose = 0
 
@@ -49,8 +51,10 @@ class Tweeter:
     def start(self):
 
         london_tz = pytz.timezone('Europe/London')
+
         # eg, 2013-01-31 12:00:00
         time_now = datetime.datetime.now(london_tz)
+
         # eg, 1660-01-31 12:00:00
         old_time_now = london_tz.localize(
                         datetime.datetime(
@@ -75,16 +79,16 @@ class Tweeter:
         for line in f:
             line = line.strip()
             if line != '':
-                line_match = re.match('^(\d{4}-\d{2}-\d{2}\s\d{2}\:\d{2})\s(.*?)$',
+                line_match = re.match(
+                                '^(\d{4}-\d{2}-\d{2}\s\d{2}\:\d{2})\s(.*?)$',
                                                                         line)
                 if line_match:
                     [tweet_time, tweet_text] = line_match.groups()
                     naive_tweet_time = datetime.datetime.strptime(tweet_time,
                                                             '%Y-%m-%d %H:%M')
                     local_tweet_time = london_tz.localize(naive_tweet_time)
-                    time_diff = (old_time_now - local_tweet_time).seconds / 60
-                    print tweet_text
-                    if time_diff >= 0 and time_diff < self.script_frequency:
+                    time_diff = (old_time_now - local_tweet_time).seconds
+                    if time_diff >= 0 and time_diff < (self.script_frequency * 60):
                         if self.verbose == 1:
                             'Tweeting: %s' % tweet_text
                         api = twitter.Api(
