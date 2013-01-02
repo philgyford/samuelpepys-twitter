@@ -2,6 +2,15 @@
 
 There are files of tweets in dated yearly and monthly directories in `tweets/`. Most recent tweets at the top of each file.
 
+The script is quite simple. It looks for the most recent tweet with today's date that's within `SCRIPT_FREQUENCY` minutes. This means that:
+
+1. Tweets in the last `SCRIPT_FREQUENCY` minutes of yesterday might not be sent, depending on when your script runs.
+
+2. All tweets should be scheduled more than `SCRIPT_FREQUENCY` minutes apart, or some will never get tweeted.
+
+
+## Heroku setup
+
 Set Heroku environment variables for all the settings that `send-tweet.py` requires. eg:
 
     $ heroku config:set SCRIPT_FREQUENCY=10
@@ -18,9 +27,18 @@ Push all the code to your Heroku app:
 
 There you go.
 
-**Note:** The script is quite simple. It looks for the most recent tweet with today's date that's within `SCRIPT_FREQUENCY` minutes. This means that:
 
-1. Tweets in the last `SCRIPT_FREQUENCY` minutes of yesterday might not be sent, depending on when your script runs.
+## Local setup
 
-2. All tweets should be scheduled more than `SCRIPT_FREQUENCY` minutes apart, or some will never get tweeted.
+Using virtualenv and virtualenvwrapper, you can set the environment variables by having `$VIRTUAL_ENV/bin/postactivate` something like this:
 
+    #!/bin/bash
+    # This hook is run after this virtualenv is activated.
+
+    export VERBOSE=1
+    export YEARS_AHEAD=353
+    export SCRIPT_FREQUENCY=10
+    export TWITTER_CONSUMER_KEY=YOURCONSUMERKEY
+    export TWITTER_CONSUMER_SECRET=YOURCONSUMERSECRET
+    export TWITTER_ACCESS_TOKEN=YOURACCESSTOKEN
+    export TWITTER_ACCESS_TOKEN_SECRET=YOURACCESSTOKENSECRET

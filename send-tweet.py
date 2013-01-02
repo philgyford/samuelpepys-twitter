@@ -87,7 +87,7 @@ class Tweeter:
                     naive_tweet_time = datetime.datetime.strptime(tweet_time,
                                                             '%Y-%m-%d %H:%M')
                     local_tweet_time = london_tz.localize(naive_tweet_time)
-                    time_diff = (old_time_now - local_tweet_time).seconds
+                    time_diff = (old_time_now - local_tweet_time).total_seconds()
                     if time_diff >= 0 and time_diff < (self.script_frequency * 60):
                         if self.verbose == 1:
                             'Tweeting: %s' % tweet_text
