@@ -5,7 +5,7 @@ Python script for posting tweets at specific times. Used for the [@samuelpepys](
 
 ## Tweet files
 
-There are files of tweets in dated yearly directories and monthly files, eg, `tweets/1660/01.txt`. Most recent tweets at the top of each file. The years shoul be `YEARS_AHEAD` years ago. eg, if `YEARS_AHEAD` is 353, then tweets in the `1660` directory will be used in `2013`.
+There are files of tweets in dated yearly directories and monthly files, eg, `tweets/1660/01.txt`. Most recent tweets at the top of each file. The years shoul be `YEARS_AHEAD` years ago. eg, if `YEARS_AHEAD` is set to `353`, then tweets in the `1660` directory will be used in 2013.
 
 Tweets should be in time order, with most recent first. Each tweet should be on a single line, preceded by its date and time, eg:
 
@@ -30,20 +30,25 @@ at the start of each file, and setting your window to be exactly as wide as the 
 
 The script relies on environment variables for configuration. These are the possible settings:
 
-    # Output extra debug text while running? 1 or 0.
+    # Output extra debug text while running? 1 or 0 (Default).
     VERBOSE=1
 
-    # How many years ahead of the dated tweets are we?
+    # How many years ahead of the dated tweets are we? (Default: 0)
     YEARS_AHEAD=353
 
-    # How many minutes apart will the script be run?
+    # How many minutes apart will the script be run? (Default: 10)
     SCRIPT_FREQUENCY=10
+
+    # Which timezone are the times of the tweets in? (Default: 'Europe/London')
+    TIMEZONE='Europe/London'
 
     # OAuth settings from your Twitter app at https://dev.twitter.com/apps/
     TWITTER_CONSUMER_KEY=YOURCONSUMERKEY
     TWITTER_CONSUMER_SECRET=YOURCONSUMERSECRET
     TWITTER_ACCESS_TOKEN=YOURACCESSTOKEN
     TWITTER_ACCESS_TOKEN_SECRET=YOURACCESSTOKENSECRET
+
+See [Wikipedia's list](http://en.wikipedia.org/wiki/List_of_tz_database_time_zones) of TZ timezone strings for the `TIMEZONE` setting.
 
 
 ## Local setup
@@ -60,6 +65,7 @@ Using [virtualenv](http://www.virtualenv.org/) and [virtualenvwrapper](http://vi
     export VERBOSE=1
     export YEARS_AHEAD=353
     export SCRIPT_FREQUENCY=10
+    export TIMEZONE=Europe/London
     export TWITTER_CONSUMER_KEY=YOURCONSUMERKEY
     export TWITTER_CONSUMER_SECRET=YOURCONSUMERSECRET
     export TWITTER_ACCESS_TOKEN=YOURACCESSTOKEN

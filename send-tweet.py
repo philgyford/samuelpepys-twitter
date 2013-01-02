@@ -24,6 +24,12 @@ class Tweeter:
     twitter_access_token = ''
     twitter_access_token_secret = ''
 
+    # Which timezone are we using to check when tweets should be sent?
+    # eg 'Europe/London'.
+    # See http://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
+    # possible strings.
+    timezone = ''
+
     def __init__(self):
 
         self.project_root = os.path.abspath(os.path.dirname(__file__))
@@ -32,9 +38,9 @@ class Tweeter:
 
     def load_config(self):
 
-        self.years_ahead = int(os.environ.get('YEARS_AHEAD'))
+        self.years_ahead = int(os.environ.get('YEARS_AHEAD', '0'))
 
-        self.script_frequency = int(os.environ.get('SCRIPT_FREQUENCY'))
+        self.script_frequency = int(os.environ.get('SCRIPT_FREQUENCY', '10'))
 
         self.twitter_consumer_key = os.environ.get('TWITTER_CONSUMER_KEY')
 
@@ -46,17 +52,19 @@ class Tweeter:
         self.twitter_access_token_secret = os.environ.get(
                                                 'TWITTER_ACCESS_TOKEN_SECRET')
 
-        self.verbose = int(os.environ.get('VERBOSE'))
+        self.verbose = int(os.environ.get('VERBOSE', '0'))
+
+        self.timezone = os.environ.get('TIMEZONE', 'Europe/London')
 
     def start(self):
 
-        london_tz = pytz.timezone('Europe/London')
+        local_tz = pytz.timezone(self.timezone)
 
         # eg, 2013-01-31 12:00:00
-        time_now = datetime.datetime.now(london_tz)
+        time_now = datetime.datetime.now(local_tz)
 
         # eg, 1660-01-31 12:00:00
-        old_time_now = london_tz.localize(
+        old_time_now = local_tz.localize(
                         datetime.datetime(
                             int(time_now.strftime('%Y')) - self.years_ahead,
                             int(time_now.strftime('%m')),
@@ -86,7 +94,7 @@ class Tweeter:
                     [tweet_time, tweet_text] = line_match.groups()
                     naive_tweet_time = datetime.datetime.strptime(tweet_time,
                                                             '%Y-%m-%d %H:%M')
-                    local_tweet_time = london_tz.localize(naive_tweet_time)
+                    local_tweet_time = local_tz.localize(naive_tweet_time)
                     time_diff = (old_time_now - local_tweet_time).total_seconds()
                     if time_diff >= 0 and time_diff < (self.script_frequency * 60):
                         if self.verbose == 1:
