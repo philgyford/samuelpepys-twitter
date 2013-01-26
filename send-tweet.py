@@ -1,3 +1,4 @@
+import codecs
 import datetime
 import os
 import re
@@ -81,8 +82,9 @@ class Tweeter:
         month_file = '%s.txt' % time_now.strftime('%m')
 
         # eg tweets/1660/01.txt
-        f = open(os.path.join(self.project_root,
-                                            'tweets', year_dir, month_file))
+        f = codecs.open(os.path.join(
+                            self.project_root, 'tweets', year_dir, month_file),
+                        'r', 'utf-8')
 
         for line in f:
             line = line.strip()
