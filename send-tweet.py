@@ -36,9 +36,9 @@ class Tweeter:
 
         # import locale
         # print "Encoding: %s" % locale.getdefaultlocale()[1]
-        self.project_root = os.path.abspath(os.path.dirname(__file__))
-
         # print u"Unicode test: £ ’ …"
+
+        self.project_root = os.path.abspath(os.path.dirname(__file__))
 
         self.load_config()
 
