@@ -36,7 +36,7 @@ class Tweeter:
 
         import locale
         print "Encoding: %s" % locale.getdefaultlocale()[1]
-        print u"Unicode test: £ ’ …"
+        print u"Unicode test: £ ’ …".encode('utf-8')
 
         self.project_root = os.path.abspath(os.path.dirname(__file__))
 
