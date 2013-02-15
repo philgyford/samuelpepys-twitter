@@ -34,10 +34,6 @@ class Tweeter:
 
     def __init__(self):
 
-        import locale
-        print "Encoding: %s" % locale.getdefaultlocale()[1]
-        print u"Unicode test: £ ’ …".encode('utf-8')
-
         self.project_root = os.path.abspath(os.path.dirname(__file__))
 
         self.load_config()
@@ -104,9 +100,8 @@ class Tweeter:
                     local_tweet_time = local_tz.localize(naive_tweet_time)
                     time_diff = (old_time_now - local_tweet_time).total_seconds()
                     if time_diff >= 0 and time_diff < (self.script_frequency * 60):
-                        if self.verbose == 1:
-                            print u'Tweeting: %s [%s characters]' % (
-                                                tweet_text, len(tweet_text))
+                        self.log(u'Tweeting: %s [%s characters]' % (
+                                                tweet_text, len(tweet_text)))
                         api = twitter.Api(
                             consumer_key=self.twitter_consumer_key,
                             consumer_secret=self.twitter_consumer_secret,
@@ -114,10 +109,13 @@ class Tweeter:
                             access_token_secret=self.twitter_access_token_secret
                         )
                         status = api.PostUpdate(tweet_text)
-                        if self.verbose == 1:
-                            print status
+                        self.log(status)
                         break
         f.close()
+
+    def log(self, s):
+        if self.verbose == 1:
+            print s.encode('utf-8')
 
 
 class TweeterError(Exception):
