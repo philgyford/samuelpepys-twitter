@@ -100,7 +100,7 @@ class Tweeter:
                     time_diff = (old_time_now - local_tweet_time).total_seconds()
                     if time_diff >= 0 and time_diff < (self.script_frequency * 60):
                         if self.verbose == 1:
-                            print 'Tweeting: %s [%s characters]' % (
+                            print u'Tweeting: %s [%s characters]' % (
                                                 tweet_text, len(tweet_text))
                         api = twitter.Api(
                             consumer_key=self.twitter_consumer_key,
