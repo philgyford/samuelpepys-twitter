@@ -109,7 +109,7 @@ class Tweeter:
                             access_token_secret=self.twitter_access_token_secret
                         )
                         status = api.PostUpdate(tweet_text)
-                        self.log(status)
+                        self.log(status.text)
                         break
         f.close()
 
