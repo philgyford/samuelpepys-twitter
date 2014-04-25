@@ -28,7 +28,15 @@ at the start of each file, and setting your window to be exactly as wide as the 
 
 ## Configuration 
 
-The script relies on environment variables for configuration. These are the possible settings:
+Configuration can either be set in a config file or in environment settings. If `config.cfg` is present, that is used, otherwise environment settings. Copy `config_example.cfg` to `config.cfg` to use that.
+
+If using environment settings, they are listed below. The Twitter OAuth settings are required, the rest are optional.
+
+    # OAuth settings from your Twitter app at https://dev.twitter.com/apps/
+    TWITTER_CONSUMER_KEY=YOURCONSUMERKEY
+    TWITTER_CONSUMER_SECRET=YOURCONSUMERSECRET
+    TWITTER_ACCESS_TOKEN=YOURACCESSTOKEN
+    TWITTER_ACCESS_TOKEN_SECRET=YOURACCESSTOKENSECRET
 
     # Output extra debug text while running? 1 or 0 (Default).
     VERBOSE=1
@@ -41,12 +49,6 @@ The script relies on environment variables for configuration. These are the poss
 
     # Which timezone are the times of the tweets in? (Default: 'Europe/London')
     TIMEZONE='Europe/London'
-
-    # OAuth settings from your Twitter app at https://dev.twitter.com/apps/
-    TWITTER_CONSUMER_KEY=YOURCONSUMERKEY
-    TWITTER_CONSUMER_SECRET=YOURCONSUMERSECRET
-    TWITTER_ACCESS_TOKEN=YOURACCESSTOKEN
-    TWITTER_ACCESS_TOKEN_SECRET=YOURACCESSTOKENSECRET
 
 See [Wikipedia's list](http://en.wikipedia.org/wiki/List_of_tz_database_time_zones) of TZ timezone strings for the `TIMEZONE` setting.
 

@@ -1,7 +1,7 @@
-tweeter.cfg
 .DS_Store
 *.pyc
 *.sublime-*
 errors.txt
 footnotes_html.txt
+config.cfg
 

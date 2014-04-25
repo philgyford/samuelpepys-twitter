@@ -1,17 +1,24 @@
 # coding=utf-8
 import codecs
+import configparser
 import datetime
 import os
 import re
 import pytz
-
+import redis
 import twitter
 
 
 class Tweeter:
 
-    # DEFAULT SETTINGS. OVERRIDE IN ENVIRONMENT SETTINGS:
+    # These MUST be set in a config file or environment settings:
+    twitter_consumer_key = ''
+    twitter_consumer_secret = ''
+    twitter_access_token = ''
+    twitter_access_token_secret = ''
 
+    # These are OPTIONAL settings, with their defaults:
+    
     # 1 will output stuff.
     verbose = 0
 
@@ -21,46 +28,69 @@ class Tweeter:
     # How many minutes apart is the script running?
     script_frequency = 10
 
-    twitter_consumer_key = ''
-    twitter_consumer_secret = ''
-    twitter_access_token = ''
-    twitter_access_token_secret = ''
-
     # Which timezone are we using to check when tweets should be sent?
     # eg 'Europe/London'.
     # See http://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
     # possible strings.
-    timezone = ''
+    timezone = 'Europe/London'
 
     def __init__(self):
 
         self.project_root = os.path.abspath(os.path.dirname(__file__))
 
+        self.config_file = (os.path.join(self.project_root, 'config.cfg'))
+
         self.load_config()
 
     def load_config(self):
+        if os.path.isfile(self.config_file):
+            self.load_config_from_file()
+        else:
+            self.load_config_from_env()
 
-        self.years_ahead = int(os.environ.get('YEARS_AHEAD', '0'))
+    def load_config_from_file(self):
+        config = configparser.ConfigParser()
+        config.read(self.config_file)
 
-        self.script_frequency = int(os.environ.get('SCRIPT_FREQUENCY', '10'))
+        settings = config['DEFAULT']
 
+        # Required settings:
+        self.twitter_consumer_key = settings['TwitterConsumerKey']
+        self.twitter_consumer_secret = settings['TwitterConsumerSecret']
+        self.twitter_access_token = settings['TwitterAccessToken']
+        self.twitter_access_token_secret = settings['TwitterAccessTokenSecret']
+
+        # Optional settings:
+        self.verbose = int(settings.get('Verbose', self.verbose))
+        self.years_ahead = int(settings.get('YearsAhead', self.years_ahead))
+        self.script_frequency = int(settings.get('ScriptFrequency',
+                                                        self.script_frequency))
+        self.timezone = settings.get('Timezone', self.timezone)
+
+    def load_config_from_env(self):
+        # Required settings:
         self.twitter_consumer_key = os.environ.get('TWITTER_CONSUMER_KEY')
-
         self.twitter_consumer_secret = os.environ.get(
                                                     'TWITTER_CONSUMER_SECRET')
-
         self.twitter_access_token = os.environ.get('TWITTER_ACCESS_TOKEN')
-
         self.twitter_access_token_secret = os.environ.get(
                                                 'TWITTER_ACCESS_TOKEN_SECRET')
+        # Optional settings:
+        self.verbose = int(os.environ.get('VERBOSE', self.verbose))
+        self.years_ahead = int(os.environ.get('YEARS_AHEAD', self.years_ahead))
 
-        self.verbose = int(os.environ.get('VERBOSE', '0'))
+        self.script_frequency = int(os.environ.get('SCRIPT_FREQUENCY',
+                                                        self.script_frequency))
+        self.timezone = os.environ.get('TIMEZONE', self.timezone)
 
-        self.timezone = os.environ.get('TIMEZONE', 'Europe/London')
 
     def start(self):
 
-        local_tz = pytz.timezone(self.timezone)
+        try:
+            local_tz = pytz.timezone(self.timezone)
+        except pytz.exceptions.UnknownTimeZoneError:
+            raise TweeterError('Unknown or no timezone in settings: %s' % self.timezone)
+
 
         # eg, 2013-01-31 12:00:00
         time_now = datetime.datetime.now(local_tz)
