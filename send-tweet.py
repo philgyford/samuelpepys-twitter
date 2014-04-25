@@ -5,8 +5,15 @@ import datetime
 import os
 import re
 import pytz
-import redis
+import time
 import twitter
+
+try:
+    import redis
+    import urlparse
+    redis_is_available = True
+except ImportError:
+    redis_is_available = False
 
 
 class Tweeter:
@@ -33,6 +40,11 @@ class Tweeter:
     # See http://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
     # possible strings.
     timezone = 'Europe/London'
+
+    # Only used if we're using Redis.
+    redis_hostname = 'localhost'
+    redis_port = 6379
+    redis_password = ''
 
     def __init__(self):
 
@@ -67,6 +79,14 @@ class Tweeter:
                                                         self.script_frequency))
         self.timezone = settings.get('Timezone', self.timezone)
 
+        if redis_is_available:
+            self.redis_hostname = settings.get('RedisHostname',
+                                                        self.redis_hostname)
+            self.redis_port = settings.get('RedisPort', self.redis_port)
+            self.redis_password = settings.get('RedisPassword',
+                                                        self.redis_password)
+
+
     def load_config_from_env(self):
         # Required settings:
         self.twitter_consumer_key = os.environ.get('TWITTER_CONSUMER_KEY')
@@ -83,6 +103,11 @@ class Tweeter:
                                                         self.script_frequency))
         self.timezone = os.environ.get('TIMEZONE', self.timezone)
 
+        if redis_is_available:
+            redis_url = urlparse.urlparse(os.environ.get('REDIS_URL'))
+            self.redis_hostname = redis_url.hostname
+            self.redis_port = redis_url.port
+            self.redis_password = redis_url.password
 
     def start(self):
 
@@ -117,6 +142,8 @@ class Tweeter:
                             self.project_root, 'tweets', year_dir, month_file),
                         'r', 'utf-8')
 
+        tweets_to_send = []
+
         for line in f:
             line = line.strip()
             if line != '':
@@ -129,19 +156,29 @@ class Tweeter:
                                                             '%Y-%m-%d %H:%M')
                     local_tweet_time = local_tz.localize(naive_tweet_time)
                     time_diff = (old_time_now - local_tweet_time).total_seconds()
-                    if time_diff >= 0 and time_diff < (self.script_frequency * 60):
-                        self.log(u'Tweeting: %s [%s characters]' % (
-                                                tweet_text, len(tweet_text)))
-                        api = twitter.Api(
-                            consumer_key=self.twitter_consumer_key,
-                            consumer_secret=self.twitter_consumer_secret,
-                            access_token_key=self.twitter_access_token,
-                            access_token_secret=self.twitter_access_token_secret
-                        )
-                        status = api.PostUpdate(tweet_text)
-                        self.log(status.text)
-                        break
+                    # time_diff will be negative for all future tweets,
+                    # positive for all past tweets.
+                    if time_diff >= 0:
+                        if time_diff < (self.script_frequency * 60):
+                            tweets_to_send.append(tweet_text)
+                        else:
+                            # Reached the older tweets, so may as well stop.
+                            break
         f.close()
+
+        if len(tweets_to_send) > 0:
+            # We want to tweet the oldest one first:
+            for tweet_text in reversed(tweets_to_send):
+                self.log(u'Tweeting: %s [%s characters]' % (
+                                        tweet_text, len(tweet_text)))
+                api = twitter.Api(
+                    consumer_key=self.twitter_consumer_key,
+                    consumer_secret=self.twitter_consumer_secret,
+                    access_token_key=self.twitter_access_token,
+                    access_token_secret=self.twitter_access_token_secret
+                )
+                status = api.PostUpdate(tweet_text)
+                time.sleep(2)
 
     def log(self, s):
         if self.verbose == 1:

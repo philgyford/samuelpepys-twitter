@@ -50,6 +50,9 @@ If using environment settings, they are listed below. The Twitter OAuth settings
     # Which timezone are the times of the tweets in? (Default: 'Europe/London')
     TIMEZONE='Europe/London'
 
+	# Only needed if using Redis (see below). Example value:
+	REDIS_URL = redis://rediscloud:sjPfErI4xocRopQW@pub-redis-18850.us-east-1-2.1.ec2.garantiadata.com:18850
+
 See [Wikipedia's list](http://en.wikipedia.org/wiki/List_of_tz_database_time_zones) of TZ timezone strings for the `TIMEZONE` setting.
 
 
@@ -59,19 +62,7 @@ Use [pip](http://www.pip-installer.org/) to install required packages by doing:
 
     $ pip install -r requirements.txt
 
-Using [virtualenv](http://www.virtualenv.org/) and [virtualenvwrapper](http://virtualenvwrapper.readthedocs.org/), you can set the environment variables by having `$VIRTUAL_ENV/bin/postactivate` something like this:
-
-    #!/bin/bash
-    # This hook is run after this virtualenv is activated.
-
-    export VERBOSE=1
-    export YEARS_AHEAD=353
-    export SCRIPT_FREQUENCY=10
-    export TIMEZONE=Europe/London
-    export TWITTER_CONSUMER_KEY=YOURCONSUMERKEY
-    export TWITTER_CONSUMER_SECRET=YOURCONSUMERSECRET
-    export TWITTER_ACCESS_TOKEN=YOURACCESSTOKEN
-    export TWITTER_ACCESS_TOKEN_SECRET=YOURACCESSTOKENSECRET
+Set up config values as above, either via a config file (probably best) or environment settings.
 
 Then just run the script:
 
@@ -80,7 +71,7 @@ Then just run the script:
 
 ## Heroku setup
 
-Obviously, set up a new app.
+Set up a new Heroku app.
 
 Set Heroku environment variables for all the environment variables, eg:
 
@@ -97,4 +88,8 @@ Push all the code  and tweets to your Heroku app:
     $ git push heroku master
 
 There you go.
+
+
+## Using Redis
+
 
