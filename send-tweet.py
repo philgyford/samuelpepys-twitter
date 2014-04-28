@@ -156,7 +156,7 @@ class Tweeter:
                     if now_minus_tweet >= 0:
                         # And Tweet is since we last ran and within our max
                         # time window:
-                        if tweet_minus_lastrun >= 0 and now_minus_tweet < (self.max_time_window * 60):
+                        if tweet_minus_lastrun >= 0 and now_minus_tweet <= (self.max_time_window * 60):
                             tweets_to_send.append(tweet_text)
                         else:
                             break
