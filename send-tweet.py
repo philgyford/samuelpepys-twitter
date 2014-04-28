@@ -154,14 +154,11 @@ class Tweeter:
 
                     # Tweet is earlier than now:
                     if now_minus_tweet >= 0:
-                        print "A\n"
                         # And Tweet is since we last ran and within our max
                         # time window:
                         if tweet_minus_lastrun >= 0 and now_minus_tweet < (self.max_time_window * 60):
-                            print "Sending %s\n" % tweet_text
                             tweets_to_send.append(tweet_text)
                         else:
-                            print "Breaking\n"
                             break
 
         f.close()
