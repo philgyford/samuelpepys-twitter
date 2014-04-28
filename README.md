@@ -36,6 +36,8 @@ The last condition is to catch the following scenario: Something goes wrong with
 
 If you *would* want to tweet all the past 12 hours worth of tweets, set `MAX_TIME_WINDOW` to a very large number.
 
+Any tweets that match those conditions will be tweeted a couple of seconds apart, in the order their datetimes are in.
+
 
 ## Configuration 
 
