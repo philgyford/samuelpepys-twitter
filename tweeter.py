@@ -79,8 +79,8 @@ class Tweeter:
         self.verbose = int(settings.get('Verbose', self.verbose))
         self.years_ahead = int(settings.get('YearsAhead', self.years_ahead))
         self.timezone = settings.get('Timezone', self.timezone)
-        self.max_time_window = settings.get('MaxTimeWindow',
-                                                        self.max_time_window)
+        self.max_time_window = int(settings.get('MaxTimeWindow',
+                                                        self.max_time_window))
 
         self.redis_hostname = settings.get('RedisHostname',
                                                         self.redis_hostname)
@@ -100,8 +100,8 @@ class Tweeter:
         self.verbose = int(os.environ.get('VERBOSE', self.verbose))
         self.years_ahead = int(os.environ.get('YEARS_AHEAD', self.years_ahead))
         self.timezone = os.environ.get('TIMEZONE', self.timezone)
-        self.max_time_window = os.environ.get('MAX_TIME_WINDOW',
-                                                        self.max_time_window)
+        self.max_time_window = int(os.environ.get('MAX_TIME_WINDOW',
+                                                        self.max_time_window))
 
         redis_url = urlparse.urlparse(os.environ.get('REDIS_URL'))
         self.redis_hostname = redis_url.hostname
