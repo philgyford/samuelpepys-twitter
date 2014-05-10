@@ -90,10 +90,6 @@ Set Heroku environment variables for all the environment variables, eg:
 
     $ heroku config:set MAX_TIME_WINDOW=20
 
-Add the free [Heroku Scheduler](https://addons.heroku.com/scheduler) to your app:
-
-    $ heroku addons:add scheduler:standard
-
 Add a Redis database, eg:
 
 	$ h addons:add rediscloud
@@ -110,8 +106,22 @@ Push all the code  and tweets to your Heroku app:
 
     $ git push heroku master
 
+Scale the clock process so it'll run:
+
+	$ heroku ps:scale clock=1
+
 There you go.
 
 
+## Running on Heroku with Scheduler
 
+Previously we didn't use the clock process but ran this using the Scheduler. The downside is that it can only run up to once every 10 minutes. 
+
+To do it that way, remove the Procfile and push the code to Heroku.
+
+Add the free [Heroku Scheduler](https://addons.heroku.com/scheduler) to your app:
+
+    $ heroku addons:add scheduler:standard
+
+Have it run `python tweeter.py` every 10 minutes.
 
