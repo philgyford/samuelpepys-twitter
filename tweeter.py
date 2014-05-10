@@ -2,6 +2,7 @@
 import codecs
 import configparser
 import datetime
+import logging
 import os
 import re
 import pytz
@@ -11,6 +12,7 @@ import time
 import twitter
 import urlparse
 
+logging.basicConfig()
 
 class Tweeter:
 
@@ -47,11 +49,16 @@ class Tweeter:
 
     def __init__(self):
 
+        self.logger = logging.getLogger(__name__)
+
         self.project_root = os.path.abspath(os.path.dirname(__file__))
 
         self.config_file = (os.path.join(self.project_root, 'config.cfg'))
 
         self.load_config()
+
+        if self.verbose:
+            self.logger.setLevel(logging.INFO)
 
         self.redis = redis.Redis(host=self.redis_hostname,
                                 port=self.redis_port,
@@ -117,7 +124,7 @@ class Tweeter:
         # So the first time this is run, we can't do anythning.
         if last_run_time is None:
             self.set_last_run_time()
-            print "No last_run_time in database.\nThis must be the first time this has been run.\nSettinge last_run_time now.\nRun the script again in a few minutes or more, and it should work."
+            logging.warning("No last_run_time in database.\nThis must be the first time this has been run.\nSettinge last_run_time now.\nRun the script again in a few minutes or more, and it should work.")
             sys.exit(0)
 
         try:
@@ -229,8 +236,7 @@ class Tweeter:
 
 
     def log(self, s):
-        if self.verbose == 1:
-            print s.encode('utf-8')
+        self.logger.info(s.encode('utf-8'))
 
 
 class TweeterError(Exception):
