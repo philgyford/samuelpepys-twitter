@@ -9,7 +9,6 @@ sched = Scheduler()
 def timed_job():
     # Yes, this should add this stuff to a queue, rather than running it
     # directly. It doesn't.
-    print "TIMED JOB"
     tw = tweeter.Tweeter()
     tw.start()
 

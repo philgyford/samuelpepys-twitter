@@ -117,8 +117,6 @@ class Tweeter:
 
     def start(self):
 
-        self.log('Starting') # temp
-
         # eg datetime.datetime(2014, 4, 25, 18, 59, 51, tzinfo=<UTC>)
         last_run_time = self.get_last_run_time()
 
@@ -148,8 +146,6 @@ class Tweeter:
 
         tweets_to_send = []
 
-        self.log('llrt %s, ltm %s' % (local_last_run_time, local_time_now)) # temp
-
         for line in f:
             line = line.strip()
             if line != '':
@@ -162,15 +158,12 @@ class Tweeter:
 
                     now_minus_tweet = (local_time_now - local_modern_tweet_time).total_seconds()
                     tweet_minus_lastrun = (local_modern_tweet_time - local_last_run_time).total_seconds()
-                    self.log('lmtt %s, nmt %s, tml %s' % (local_modern_tweet_time, now_minus_tweet, tweet_minus_lastrun)) # temp
 
                     # Tweet is earlier than now:
                     if now_minus_tweet >= 0:
-                        self.log('gt 0') # temp
                         # And Tweet is since we last ran and within our max
                         # time window:
                         if tweet_minus_lastrun >= 0 and now_minus_tweet <= (self.max_time_window * 60):
-                            self.log('appending') # temp
                             tweets_to_send.append(tweet_text)
                         else:
                             break
