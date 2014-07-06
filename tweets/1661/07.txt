@@ -8,7 +8,7 @@ YYYY-MM-DD HH:MM 123456789012345678901234567890123456789012345678901234567890123
 
 1661-07-30 11:49 By water to the Wardrobe (meeting the King upon the water going in his barge to adjourn the House).
 
-1661-07-30 10:25 The Lords challenging their privileges not to have their houses searched, which makes them deny to pass the Bill for searching for pamphlets.
+1661-07-30 10:25 The Lords challenging their privileges not to have their houses searched which makes them deny to pass the Bill for searching for pamphlets.
 
 1661-07-29 16:46 My cozen Charles Glassecocke, though very ill himself, is gone to the country to his brother, John Glassecocke, who is a-dying there.
 
@@ -24,7 +24,7 @@ YYYY-MM-DD HH:MM 123456789012345678901234567890123456789012345678901234567890123
 
 1661-07-28 15:47 Come home with us Sir W. Pen, and drank with us, and then went away, and my wife after him to see his daughter that is come out of Ireland.
 
-1661-07-27 21:04 Writing a letter to my father at Brampton, who is there all alone, and I have not heard from him since my coming from him, which troubles me.
+1661-07-27 21:04 Writing a letter to my father at Brampton, who is there all alone, and I have not heard from him since my coming from him which troubles me.
 
 1661-07-27 17:42 With my Lady Jem. and Pall through bridge, and showed them the ships with great pleasure, and then took them to my house to show it them.
 
@@ -62,7 +62,7 @@ YYYY-MM-DD HH:MM 123456789012345678901234567890123456789012345678901234567890123
 
 1661-07-23 20:49 Troubled to hear how proud and idle Pall is grown, that I am resolved not to keep her.
 
-1661-07-23 19:13 To my father’s, where by my desire I met my uncle Thomas, and discoursed of my uncle’s will to him, and did satisfy [him] as well as I could.
+1661-07-23 19:13 To my father’s, where by my desire I met my uncle Thomas, and discoursed of my uncle’s will to him, and did satisfy him as well as I could.
 
 1661-07-23 17:04 I sat before Mrs. Palmer, the King’s mistress, and filled my eyes with her, which much pleased me.
 
@@ -82,7 +82,7 @@ YYYY-MM-DD HH:MM 123456789012345678901234567890123456789012345678901234567890123
 
 1661-07-22 03:57 Up by three, and going by four on my way to London.
 
-1661-07-21 20:28 It came to some agreement that for our giving of my aunt 10l. she is to quit the house, and for other matters they are to be left to the law.
+1661-07-21 20:28 It came to some agreement that for our giving of my aunt 10l. she is to quit the house and for other matters they are to be left to the law.
 
 1661-07-21 19:04 Came the two Trices, Mr. Greene, and Mr. Philips, and so we began to argue.
 
@@ -100,9 +100,9 @@ YYYY-MM-DD HH:MM 123456789012345678901234567890123456789012345678901234567890123
 
 1661-07-20 09:40 Up to Huntingdon this morning to Sir Robert Bernard, with whom I met Jaspar Trice.
 
-1661-07-19 14:12 My aunt continuing in her base, hypocritical tricks, which both Jane Perkin (of whom we make great use) and the maid do tell us every day of.
+1661-07-19 14:12 My aunt continuing in her base, hypocritical tricks which both Jane Perkin (of whom we make great use) and the maid do tell us every day of.
 
-1661-07-18 16:32 Had advice from Mr. Moore from London, by my desire, that the three witnesses of the will being all legatees, will not do the will any wrong.
+1661-07-18 16:32 Had advice from Mr Moore from London, by my desire, that the three witnesses of the will being all legatees, will not do the will any wrong.
 
 1661-07-17 10:05 Agreeing with Stankes to have a care of our business. We think ourselves in nothing happy but in lighting upon him to be our bayly.
 
@@ -116,9 +116,9 @@ YYYY-MM-DD HH:MM 123456789012345678901234567890123456789012345678901234567890123
 
 1661-07-15 14:30 With Dr. John Pepys and my old uncle, I read over the will, and had their advice therein, who, as to the sufficiency thereof confirmed me.
 
-1661-07-15 13:05 I rode to Impington, where I found my old uncle sitting all alone, like a man out of the world: he can hardly see; but all things else he do.
+1661-07-15 13:05 I rode to Impington where I found my old uncle sitting all alone, like a man out of the world: he can hardly see; but all things else he do.
 
-1661-07-15 11:12 With Dr. Fairbrother to the Rose tavern, and called for some wine, and there met with Mr. Turner, and sent for his wife, and were very merry.
+1661-07-15 11:12 With Dr Fairbrother to the Rose tavern, and called for some wine, and there met with Mr. Turner, and sent for his wife, and were very merry.
 
 1661-07-15 09:21 To King’s College chappell, where I found the scholars in their surplices at the service with the organs, which is a strange sight.
 
@@ -178,7 +178,7 @@ YYYY-MM-DD HH:MM 123456789012345678901234567890123456789012345678901234567890123
 
 1661-07-05 17:20 To the office, and that being done all went to Sir W. Batten’s and there had a venison pasty, and were very merry.
 
-1661-07-04 21:34 Mr. Batersby the apothecary told me that if my uncle had the emerods and that now they are stopped, bleeding behind by leeches will cure him.
+1661-07-04 21:34 Mr Batersby the apothecary told me that if my uncle had the emerods and that now they are stopped, bleeding behind by leeches will cure him.
 
 1661-07-04 18:27 Called at my father’s, and there I heard that my uncle Robert continues to have his fits of stupefaction every day for 10 or 12 hours.
 
@@ -196,7 +196,7 @@ YYYY-MM-DD HH:MM 123456789012345678901234567890123456789012345678901234567890123
 
 1661-07-02 17:12 The scene indeed is very fine and magnificent, and well acted, all but the Eunuch, who was so much out that he was hissed off the stage.
 
-1661-07-02 15:47 By the breaking of a board over our heads, we had a great deal of dust fell into the ladies’ necks and the men’s hair, which made good sport.
+1661-07-02 15:47 By the breaking of a board over our heads we had a great deal of dust fell into the ladies’ necks and the men’s hair, which made good sport.
 
 1661-07-02 15:22 To-day was acted the second part of “The Siege of Rhodes.” We staid a very great while for the King and the Queen of Bohemia.
 
