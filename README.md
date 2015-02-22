@@ -79,7 +79,9 @@ Set up config values as above, either via a config file (probably best) or envir
 
 Then just run the script:
 
-    $ python send-tweet.py
+    $ python tweeter.py
+
+That will send a tweet if there is one with an appropriate date and time.
 
 
 ## Heroku setup
@@ -100,17 +102,13 @@ Copy the Redis add-on's URL to the `REDIS_URL` environment variable:
 	[ copy that value ]
 	$ h config:set REDIS_URL=redis://rediscloud:...
 
-Go to your [Scheduler dashboard](https://heroku-scheduler.herokuapp.com/dashboard) and add a task like `python send-tweet.py` to run every 10 (or whatever `SCRIPT_FREQUENCY` you've set) minutes.
-
 Push all the code  and tweets to your Heroku app:
 
     $ git push heroku master
 
-Scale the clock process so it'll run:
-
-	$ heroku ps:scale clock=1
-
-There you go.
+There you go. I think that's it... The `Procfile` specifies a `clock` process
+that runs `clock.py`. This sets up a scheduler to run the code in `tweeter.py`
+every minute.
 
 
 ## Running on Heroku with Scheduler
