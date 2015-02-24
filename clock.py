@@ -1,4 +1,4 @@
-from apscheduler.schedulers import BackgroundScheduler
+from apscheduler.schedulers.background import BackgroundScheduler
 import logging
 import tweeter
 
