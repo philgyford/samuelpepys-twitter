@@ -1,18 +1,18 @@
-from apscheduler.schedulers import BlockingScheduler
+from apscheduler.schedulers import BackgroundScheduler
 import logging
 import tweeter
 
 logging.basicConfig()
-sched = Scheduler()
+scheduler = BackgroundScheduler()
 
-@sched.interval_schedule(minutes=1)
+@scheduler.scheduled_job(minutes=1)
 def timed_job():
     # Yes, this should add this stuff to a queue, rather than running it
     # directly. It doesn't.
     tw = tweeter.Tweeter()
     tw.start()
 
-sched.start()
+scheduler.start()
 
 while True:
     pass
