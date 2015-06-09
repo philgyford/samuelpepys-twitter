@@ -154,6 +154,7 @@ class Tweeter:
                                                                         line)
                 if line_match:
                     [tweet_time, tweet_text] = line_match.groups()
+                    logging.warning("Tweet time: %s" % tweet_time)
                     local_modern_tweet_time = self.modernize_time(tweet_time, local_tz)
 
                     now_minus_tweet = (local_time_now - local_modern_tweet_time).total_seconds()
