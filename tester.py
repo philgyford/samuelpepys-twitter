@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # coding=utf-8
 import codecs
 import datetime
@@ -36,7 +37,7 @@ class Tester:
 
         # Output all errors, if any.
         if len(self.errors) == 0:
-            print("\nEverything is OK.\n")
+            print("\nEverything is OK.")
         else:
             for err in self.errors:
                 # err has 'filepath', 'time' and 'text' elements.
