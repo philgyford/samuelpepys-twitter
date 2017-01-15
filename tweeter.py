@@ -150,8 +150,7 @@ class Tweeter:
             line = line.strip()
             if line != '':
                 line_match = re.match(
-                                '^(\d{4}-\d{2}-\d{2}\s\d{2}\:\d{2})\s(.*?)$',
-                                                                        line)
+                            '^(\d{4}-\d{2}-\d{2}\s\d{2}\:\d{2})\s(.*?)$', line)
                 if line_match:
                     [tweet_time, tweet_text] = line_match.groups()
                     local_modern_tweet_time = self.modernize_time(tweet_time, local_tz)

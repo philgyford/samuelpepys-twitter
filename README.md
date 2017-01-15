@@ -39,6 +39,19 @@ If you *would* want to tweet all the past 12 hours worth of tweets, set `MAX_TIM
 Any tweets that match those conditions will be tweeted a couple of seconds apart, in the order their datetimes are in.
 
 
+## Testing
+
+Use the included `tester.py` script to check the formatting of all tweet files. It will list errors for any tweets that are in the wrong order, or that are too long. eg:
+
+	$ python tester.py
+
+	FILE tweets/1660/01.txt
+	 1660-01-31 12:40: Time is after previous time (1660-01-31 11:00:00).
+
+	FILE tweets/1660/08.txt
+	 1660-08-28 22:50: Tweet is 141 characters long.
+
+
 ## Configuration 
 
 Configuration can either be set in a config file or in environment settings. If `config.cfg` is present, that is used, otherwise environment settings. Copy `config_example.cfg` to `config.cfg` to use that.
