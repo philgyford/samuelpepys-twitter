@@ -155,6 +155,8 @@ class Tweeter:
                 if line_match:
                     [tweet_time, tweet_text] = line_match.groups()
                     local_modern_tweet_time = self.modernize_time(tweet_time, local_tz)
+                    if local_modern_tweet_time is False:
+                        continue
 
                     now_minus_tweet = (local_time_now - local_modern_tweet_time).total_seconds()
                     tweet_minus_lastrun = (local_modern_tweet_time - local_last_run_time).total_seconds()
@@ -201,18 +203,27 @@ class Tweeter:
         modern equivalent in local time, eg:
         datetime.datetime(2014, 4, 28, 12, 34, 00, tzinfo=<DstTzInfo 'Europe/London' BST+1:00:00 DST>)
         `local_tz` is a pytz timezone object.
+        Returns False if something goes wrong.
         """
         naive_time = datetime.datetime.strptime(t, '%Y-%m-%d %H:%M')
-        local_modern_time = local_tz.localize(
-            datetime.datetime(
-                naive_time.year + self.years_ahead,
-                naive_time.month,
-                naive_time.day,
-                naive_time.hour,
-                naive_time.minute,
-                naive_time.second,
+        try:
+            local_modern_time = local_tz.localize(
+                datetime.datetime(
+                    naive_time.year + self.years_ahead,
+                    naive_time.month,
+                    naive_time.day,
+                    naive_time.hour,
+                    naive_time.minute,
+                    naive_time.second,
+                )
             )
-        )
+        except ValueError as e:
+            # Unless something else is wrong, it could be that naive_time
+            # is 29th Feb and there's no 29th Feb in the current, modern, year.
+            self.log(
+                u"Skipping %s as can't make a modern time from it: %s" % (t, e))
+            local_modern_time = False
+
         return local_modern_time
 
     def send_tweets(self, tweets):
