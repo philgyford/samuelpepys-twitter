@@ -124,7 +124,7 @@ YYYY-MM-DD HH:MM 123456789012345678901234567890123456789012345678901234567890123
 .
 1664-12-15 11:12 To the Coffeehouse, where great talke of the Comet seen in several places; and among our men at sea, and by my Lord Sandwich.
 
-1664-12-15 09:55 To Moorfields, and up and down to several houses to look for a place ‘pour rencontrer la femme de je sais quoi’, but could meet none.
+1664-12-15 09:55 To Moorfields, and up and down to several houses to look for a place pour rencontrer la femme de je sais quoi, but could meet none.
 
 1664-12-15 08:47 Mr. Cholmly tells me the King do hate my Lord Chancellor; and that the King and my Lord FitzHarding do laugh at him for a dull fellow.
 
