@@ -11,7 +11,7 @@ class Tester:
     Test all the text files to ensure:
         * Tweets are all in order - within each file the most recent should
           be first.
-        * All Tweets should be <= 140 characters in length.
+        * All Tweets should be <= 280 characters in length.
 
     Outputs a report listing all errors.
     """
@@ -81,7 +81,7 @@ class Tester:
                                 filepath,
                                 tweet_time,
                                 "Time is the same as previous time ({}).".format(prev_time))
-                    if len(tweet_text) > 140:
+                    if len(tweet_text) > 280:
                         self.add_error(
                             filepath,
                             tweet_time,
