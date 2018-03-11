@@ -13,15 +13,11 @@ You could set `YEARS_AHEAD` to `0` and then tweets will be sent on the day they'
 
 Tweets should be in time order, with most recent (ie, probably in the future) first. Each tweet should be on a single line, preceded by its date and time, eg:
 
-    1660-01-02 11:20 Great talk that many places have declared for a free Parliament; it is believed they will be forced to fill up the House with old members. 
+    1660-01-02 11:20 Great talk that many places have declared for a free Parliament; it is believed they will be forced to fill up the House with old members.
 
 Any lines that aren't of that format (ie, with that datetime format at the start, followed by a tweet) will be ignored. So feel free to comment out any tweets to be ignored by prepending them with a different character, and leave blank lines to make reading easier.
 
-The script doesn't check for length of tweet, so any tweets longer than 140 characters will be submitted and, I expect, rejected. Having a line like this:
-
-    YYYY-MM-DD HH:MM 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
-
-at the start of each file, and setting your window to be exactly as wide as the line, makes it easy to get tweet length correct.
+The script doesn't check for length of tweet, so any tweets longer than 280 characters will be submitted and rejected.
 
 
 ## What gets tweeted
@@ -49,10 +45,10 @@ Use the included `tester.py` script to check the formatting of all tweet files. 
 	 1660-01-31 12:40: Time is after previous time (1660-01-31 11:00:00).
 
 	FILE tweets/1660/08.txt
-	 1660-08-28 22:50: Tweet is 141 characters long.
+	 1660-08-28 22:50: Tweet is 281 characters long.
 
 
-## Configuration 
+## Configuration
 
 Configuration can either be set in a config file or in environment settings. If `config.cfg` is present, that is used, otherwise environment settings. Copy `config_example.cfg` to `config.cfg` to use that.
 
@@ -126,7 +122,7 @@ every minute.
 
 ## Running on Heroku with Scheduler
 
-Previously we didn't use the clock process but ran this using the Scheduler. The downside is that it can only run up to once every 10 minutes. 
+Previously we didn't use the clock process but ran this using the Scheduler. The downside is that it can only run up to once every 10 minutes.
 
 To do it that way, remove the Procfile and push the code to Heroku.
 
@@ -135,5 +131,3 @@ Add the free [Heroku Scheduler](https://addons.heroku.com/scheduler) to your app
     $ heroku addons:add scheduler:standard
 
 Have it run `python tweeter.py` every 10 minutes.
-
-
