@@ -204,7 +204,7 @@ YYYY-MM-DD HH:MM 123456789012345678901234567890123456789012345678901234567890123
 
 1665-07-10 22:44 To Richmond, and there, by night, walked with Mr. Charnocke, Sir Philip Warwicke’s clerk, to Moreclacke, a very pretty walk, and there staid a good while, now and then talking and sporting with Nan the servant.
 
-1665-07-10 17:39 It is, I perceive, an unpleasing thing to be at Court, everybody being fearful one of another, and all so sad, enquiring after the plague, so that I stole away by my horse
+1665-07-10 17:39 It is, I perceive, an unpleasing thing to be at Court, everybody being fearful one of another, and all so sad, enquiring after the plague, so that I stole away by my horse.
 
 1665-07-10 11:38 Having a coach of Mr. Povy’s attending me, in order to my coming to dine at his country house at Branford, I went, it being a pretty chariot, but most inconvenient as to the horses throwing dust and dirt into one’s eyes and upon one’s clothes.
 
