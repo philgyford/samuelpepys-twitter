@@ -4,6 +4,7 @@ import codecs
 import configparser
 import datetime
 import logging
+from mastodon import Mastodon
 import os
 import re
 import pytz
@@ -17,14 +18,16 @@ logging.basicConfig()
 
 class Tweeter:
 
-    # These MUST be set in a config file or environment settings:
     twitter_consumer_key = ''
     twitter_consumer_secret = ''
     twitter_access_token = ''
     twitter_access_token_secret = ''
 
-    # These are OPTIONAL settings, with their defaults:
-    
+    mastodon_client_id = ''
+    mastodon_client_secret = ''
+    mastodon_access_token = ''
+    mastodon_api_base_url = 'https://mastodon.social'
+
     # 1 will output stuff.
     verbose = 0
 
@@ -77,13 +80,16 @@ class Tweeter:
 
         settings = config['DEFAULT']
 
-        # Required settings:
         self.twitter_consumer_key = settings['TwitterConsumerKey']
         self.twitter_consumer_secret = settings['TwitterConsumerSecret']
         self.twitter_access_token = settings['TwitterAccessToken']
         self.twitter_access_token_secret = settings['TwitterAccessTokenSecret']
 
-        # Optional settings:
+        self.mastodon_client_id = settings['MastodonClientId']
+        self.mastodon_client_secret = settings['MastodonClientSecret']
+        self.mastodon_access_token = settings['MastodonAccessToken']
+        self.mastodon_api_base_url = settings['MastodonApiBaseUrl']
+
         self.verbose = int(settings.get('Verbose', self.verbose))
         self.years_ahead = int(settings.get('YearsAhead', self.years_ahead))
         self.timezone = settings.get('Timezone', self.timezone)
@@ -97,14 +103,18 @@ class Tweeter:
                                                         self.redis_password)
 
     def load_config_from_env(self):
-        # Required settings:
         self.twitter_consumer_key = os.environ.get('TWITTER_CONSUMER_KEY')
         self.twitter_consumer_secret = os.environ.get(
                                                     'TWITTER_CONSUMER_SECRET')
         self.twitter_access_token = os.environ.get('TWITTER_ACCESS_TOKEN')
         self.twitter_access_token_secret = os.environ.get(
                                                 'TWITTER_ACCESS_TOKEN_SECRET')
-        # Optional settings:
+
+        self.mastodon_client_id = os.environ.get('MASTODON_CLIENT_ID')
+        self.mastodon_client_secret = os.environ.get('MASTODON_CLIENT_SECRET')
+        self.mastodon_access_token = os.environ.get('MASTODON_ACCESS_TOKEN')
+        self.mastodon_api_base_url = os.environ.get('MASTODON_API_BASE_URL')
+
         self.verbose = int(os.environ.get('VERBOSE', self.verbose))
         self.years_ahead = int(os.environ.get('YEARS_AHEAD', self.years_ahead))
         self.timezone = os.environ.get('TIMEZONE', self.timezone)
@@ -177,6 +187,9 @@ class Tweeter:
         # We want to tweet the oldest one first, so reverse list:
         self.send_tweets(tweets_to_send[::-1])
 
+        # And the same with Mastodon toots:
+        self.send_toots(tweets_to_send[::-1])
+
     def set_last_run_time(self):
         """
         Set the 'last run time' in the database to now, in UTC.
@@ -231,19 +244,45 @@ class Tweeter:
         `tweets` is a list of tweet texts to post now.
         Should be in the order in which they need to be posted.
         """
+        if not self.twitter_consumer_key:
+            self.log(u'No Twitter Consumer Key set; not tooting')
+            return
 
         if len(tweets) > 0:
+            api = twitter.Api(
+                consumer_key=self.twitter_consumer_key,
+                consumer_secret=self.twitter_consumer_secret,
+                access_token_key=self.twitter_access_token,
+                access_token_secret=self.twitter_access_token_secret
+            )
             for tweet_text in tweets:
                 self.log(u'Tweeting: %s [%s characters]' % (
                                                 tweet_text, len(tweet_text)))
-                api = twitter.Api(
-                    consumer_key=self.twitter_consumer_key,
-                    consumer_secret=self.twitter_consumer_secret,
-                    access_token_key=self.twitter_access_token,
-                    access_token_secret=self.twitter_access_token_secret
-                )
                 status = api.PostUpdate(tweet_text)
                 time.sleep(2)
+
+    def send_toots(self, toots):
+        """
+        `toots` is a list of toot texts to post now.
+        Should be in the order in which they need to be posted.
+        """
+        if not self.mastodon_client_id:
+            self.log(u'No Mastodon Client ID set; not tooting')
+            return
+
+        if len(toots) > 0:
+            api = Mastodon(
+                client_id=self.mastodon_client_id,
+                client_secret=self.mastodon_client_secret,
+                access_token=self.mastodon_access_token,
+                api_base_url=self.mastodon_api_base_url
+            )
+            for toot_text in toots:
+                self.log(u'Tooting: %s [%s characters]' % (
+                                                    toot_text, len(toot_text)))
+                status = api.toot(toot_text)
+                time.sleep(2)
+
 
 
     def log(self, s):

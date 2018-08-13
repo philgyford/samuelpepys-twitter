@@ -1,8 +1,10 @@
 # Samuel Pepys Twitter
 
-Python script for posting tweets at specific times. Used for the [@samuelpepys](http://twitter.com/samuelpepys) Twitter account.
+Python script for posting Twitter tweets and/or Mastodon Toots at specific times. Used for the [@samuelpepys](http://twitter.com/samuelpepys) Twitter account and [@samuelpepys@mastodon.social](https://mastodon.social/@samuelpepys) Mastodon account.
 
 Uses Redis to store the time the script last ran.
+
+It can send only Twitter tweets, or only Mastodon toots, or send identical updates to both simultaneously. The instructions below mostly refer to "tweets" but consider tweets/toots interchangeable.
 
 
 ## Tweet files
@@ -50,15 +52,28 @@ Use the included `tester.py` script to check the formatting of all tweet files. 
 
 ## Configuration
 
-Configuration can either be set in a config file or in environment settings. If `config.cfg` is present, that is used, otherwise environment settings. Copy `config_example.cfg` to `config.cfg` to use that.
+Configuration can either be set in a config file or in environment settings. If `config.cfg` is present, that is used, otherwise environment settings.
 
-If using environment settings, they are listed below. The Twitter OAuth settings are required, the rest are optional. (Although if `REDIS_URL` or its config file equivalents are left out, the script tries to use a local, un-password-protected, database.)
+Whichever you use you should include the API settings for one or both of a Twitter app and Mastodon app. If you don't set the Twitter Consumer Key (or leave it empty), no tweets will be sent. If you don't set the Mastodon Client ID (or leave it empty), no toots will be sent.
+
+All other settings are optional.
+
+To use a config file, copy `config_example.cfg` to `config.cfg` to use that.
+
+If using environment settings, they are listed below. If `REDIS_URL` or its config file equivalents are left out, the script tries to use a local, un-password-protected, database.
 
     # OAuth settings from your Twitter app at https://dev.twitter.com/apps/
     TWITTER_CONSUMER_KEY=YOURCONSUMERKEY
     TWITTER_CONSUMER_SECRET=YOURCONSUMERSECRET
     TWITTER_ACCESS_TOKEN=YOURACCESSTOKEN
     TWITTER_ACCESS_TOKEN_SECRET=YOURACCESSTOKENSECRET
+
+    # Settings from your Mastodon app
+    MASTODON_CLIENT_ID=YOURCLIENTID
+    MASTODON_CLIENT_SECRET=YOURCLIENTSECRET
+    MASTODON_ACCESS_TOKEN=YOURACCESSTOKEN
+    # If this is left undefined, the default is 'https://mastodon.social'
+    MASTODON_API_BASE_URL=YOURAPIBASEURL
 
     # Output extra debug text while running? 1 or 0 (Default).
     VERBOSE=1
