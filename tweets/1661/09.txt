@@ -172,7 +172,7 @@ YYYY-MM-DD HH:MM 123456789012345678901234567890123456789012345678901234567890123
 
 1661-09-06 09:32 My wife holding her resolution to go, and though there could not be much hurt in it, yet my own jealousy put a hundred things into my mind.
 
-1661-09-05 20:33 My wife and I to the fair, and I showed her the Italians dancing the ropes, and the women that do strange tumbling tricks
+1661-09-05 20:33 My wife and I to the fair, and I showed her the Italians dancing the ropes, and the women that do strange tumbling tricks.
 
 1661-09-05 14:20 My aunt Kite is sick ready to die and sends for my uncle and me to come to take charge of things, and to be entrusted with her daughter.
 
@@ -213,4 +213,3 @@ YYYY-MM-DD HH:MM 123456789012345678901234567890123456789012345678901234567890123
 1661-09-01 14:22 We were very merry with Sir W. Pen about the loss of his tankard, though all be but a cheat, and he do not yet understand it.
 
 1661-09-01 06:30 Last night being very rainy the rain broke into my house, the gutter being stopped, and spoiled all my ceilings almost.
-

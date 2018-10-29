@@ -30,7 +30,7 @@ YYYY-MM-DD HH:MM 123456789012345678901234567890123456789012345678901234567890123
 
 1665-08-25 19:20 I am told that Dr. Burnett, my physician, is this morning dead of the plague; which is strange, his man dying so long ago, and his house this month open again. Now himself dead.
 
-1665-08-24 15:10 down to Sir J. Minnes and Lord Bruncker to Greenwich to sign some of the Treasurer’s books, and there dined very well; and thence to look upon our rooms again at the King’s house, which are not yet ready for us.
+1665-08-24 15:10 Down to Sir J. Minnes and Lord Bruncker to Greenwich to sign some of the Treasurer’s books, and there dined very well; and thence to look upon our rooms again at the King’s house, which are not yet ready for us.
 
 1665-08-23 17:48 Received a very kind and good letter from my Lord Sandwich of his arrival with the fleet at Solebay, and the joy he has at my last news he met with, of the marriage of my Lady Jemimah.
 
@@ -84,7 +84,7 @@ YYYY-MM-DD HH:MM 123456789012345678901234567890123456789012345678901234567890123
 
 1665-08-18 03:40 As we grew sleepy, went in and upon velvet cushions of the King’s that belong to the yacht fell to sleep, which we all did pretty well, having risen in the night to look for a new comet which is said to have lately shone, but we could see no such thing.
 
-1665-08-17 22:09 Short of Gravesend we come to an anchor, and to supper mighty merry, and after it, being moonshine, we out of the cabbin to laugh and talk
+1665-08-17 22:09 Short of Gravesend we come to an anchor, and to supper mighty merry, and after it, being moonshine, we out of the cabbin to laugh and talk.
 
 1665-08-17 16:28 We down to the water and by boat to Greenwich to the Bezan yacht, where Sir W. Batten, Sir J. Minnes, my Lord Bruncker and myself, with some servants, embarked in the yacht.
 
@@ -104,7 +104,7 @@ YYYY-MM-DD HH:MM 123456789012345678901234567890123456789012345678901234567890123
 
 1665-08-14 17:48 To Sir W. Batten’s, where very merry, good cheer, and up and down the garden with great content to me, and, after dinner, beat Captain Cocke at billiards, won about 8s. of him and my Lord Bruncker.
 
-1665-08-13 22:04 To bed with a mind as free as to the business of the world as if I were not worth 100l. in the whole world, every thing being evened under my hand in my books and papers
+1665-08-13 22:04 To bed with a mind as free as to the business of the world as if I were not worth 100l. in the whole world, every thing being evened under my hand in my books and papers.
 
 1665-08-13 17:10 Clearing all matters in packing up my papers and books, and giving instructions in writing to my executors, thereby perfecting the whole business of my will, to my very great joy.
 
@@ -164,9 +164,9 @@ YYYY-MM-DD HH:MM 123456789012345678901234567890123456789012345678901234567890123
 
 1665-08-04 22:44 I took boat and down to Woolwich very late, and there found my wife and her woman upon the key hearing a fellow in a barge that lay by fiddle.
 
-1665-08-04 19:32 home, and found all things well, and letters from Dover that my Lord Hinchingbroke is arrived at Dover, and would be at Scott’s hall this night, where the whole company will meet. I wish myself with them.
+1665-08-04 19:32 Home, and found all things well, and letters from Dover that my Lord Hinchingbroke is arrived at Dover, and would be at Scott’s hall this night, where the whole company will meet. I wish myself with them.
 
-1665-08-04 14:04 I took horse, and Mr. Barrow with me bore me company to Gravesend, discoursing of his business, wherein I vexed him, and he me, I seeing his frowardness, but yet that he is in my conscience a very honest man
+1665-08-04 14:04 I took horse, and Mr. Barrow with me bore me company to Gravesend, discoursing of his business, wherein I vexed him, and he me, I seeing his frowardness, but yet that he is in my conscience a very honest man.
 
 1665-08-04 08:26 With much joy, bade “God be with you!” and an end I think it will be to my mirth for a great while, it having been the passage of my whole life the most pleasing for the time.
 
@@ -180,7 +180,7 @@ YYYY-MM-DD HH:MM 123456789012345678901234567890123456789012345678901234567890123
 
 1665-08-03 11:05 I rode very finely to Dagenhams; all the way people, citizens, walking to and again to enquire how the plague is in the City this week by the Bill; which by chance, at Greenwich, I had heard was 2,020 of the plague, and 3,000 and odd of all diseases.
 
-1665-08-03 06:03 Up, and betimes to Deptford to Sir G. Carteret’s, where, not liking the horse that had been hired by Mr. Uthwayt for me, I did desire Sir G. Carteret to let me ride his new 40l. horse, which he did, and so I left my ‘hacquenee’ behind
+1665-08-03 06:03 Up, and betimes to Deptford to Sir G. Carteret’s, where, not liking the horse that had been hired by Mr. Uthwayt for me, I did desire Sir G. Carteret to let me ride his new 40l. horse, which he did, and so I left my ‘hacquenee’ behind.
 
 1665-08-02 17:32 Allowing myself several sums which I had hitherto not reckoned myself sure of, because I would not be over sure of any thing, though with reason I might do it, I did find myself really worth 1900l, for which the great God of Heaven and Earth be praised!
 

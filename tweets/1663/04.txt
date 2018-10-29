@@ -1,6 +1,6 @@
 YYYY-MM-DD HH:MM 12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
-1663-04-30 13:28 I never could have thought there had been upon earth a man so little curious in the world as Stankes is. 
+1663-04-30 13:28 I never could have thought there had been upon earth a man so little curious in the world as Stankes is.
 
 1663-04-30 13:24 What a stir Stankes makes with being wearied in walking in London. He would not be wooed to go to a play, to White Hall, or to the lyons.
 
@@ -40,7 +40,7 @@ YYYY-MM-DD HH:MM 123456789012345678901234567890123456789012345678901234567890123
 
 1663-04-25 20:46 I fear my wife will hardly do any great good at dancing, because she is conceited that she do well already, though I think no such thing.
 
-1663-04-25 20:44 Merrily practising to dance, which my wife hath begun to learn this day of Mr. Pembleton
+1663-04-25 20:44 Merrily practising to dance, which my wife hath begun to learn this day of Mr. Pembleton.
 
 1663-04-25 15:27 The Queen is grieved at the King’s neglecting her, he having not supped with her this quarter of a year, every night with Lady Castlemaine.
 
@@ -150,7 +150,7 @@ YYYY-MM-DD HH:MM 123456789012345678901234567890123456789012345678901234567890123
 
 1663-04-05 11:27 Spent the morning in reading part of Osborne’s Advice to his Son (which I shall not never enough admire for sense and language).
 
-1663-04-04 17:58 we home and found the house as clean as if nothing had been done there to-day, which made us give the cook 12d. a piece, each of us.
+1663-04-04 17:58 We home and found the house as clean as if nothing had been done there to-day, which made us give the cook 12d. a piece, each of us.
 
 1663-04-04 16:22 At the Park was the King, and in another coach my Lady Castlemaine, they greeting one another at every tour.
 
@@ -195,4 +195,3 @@ YYYY-MM-DD HH:MM 123456789012345678901234567890123456789012345678901234567890123
 1663-04-01 08:40 My father tells me how unquiett my mother is grown, that he is not able to live almost with her, if it were not for Pall.
 
 1663-04-01 07:20 To my Cozen Roger Pepys, to see and talk with him a little; who tells me that, with much ado, the Parliament do agree to throw down Popery.
-

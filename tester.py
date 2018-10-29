@@ -11,7 +11,9 @@ class Tester:
     Test all the text files to ensure:
         * Tweets are all in order - within each file the most recent should
           be first.
-        * All Tweets should be <= 280 characters in length.
+        * All Tweets are <= 280 characters in length.
+        * All Tweets start with something that's not a lowercase character.
+        * All Tweets end with something that's not a lowercase character.
 
     Outputs a report listing all errors.
     """
@@ -46,7 +48,7 @@ class Tester:
                     dir_file = '/'.join(err['filepath'].split('/')[-2:])
                     print("\nFILE tweets/{}".format(dir_file))
 
-                print(" {}: {}".format(err['time'], err['text']).encode('utf-8'))
+                print(u" {}: {}".format(err['time'], err['text']).encode('utf-8'))
 
                 last_file = err['filepath']
 
@@ -68,26 +70,34 @@ class Tester:
                 if line_match:
                     [tweet_time, tweet_text] = line_match.groups()
 
+                    # Check times are in the correct order.
+
                     t = datetime.datetime.strptime(tweet_time, '%Y-%m-%d %H:%M')
 
                     if prev_time is not None:
                         if t > prev_time:
-                            self.add_error(
-                                filepath,
-                                tweet_time,
+                            self.add_error(filepath, tweet_time,
                                 "Time is after previous time ({}).".format(prev_time))
                         elif t == prev_time:
-                            self.add_error(
-                                filepath,
-                                tweet_time,
+                            self.add_error(filepath, tweet_time,
                                 "Time is the same as previous time ({}).".format(prev_time))
+                    prev_time = t
+
+                    # Test tweet length.
+
                     if len(tweet_text) > 280:
-                        self.add_error(
-                            filepath,
-                            tweet_time,
+                        self.add_error(filepath, tweet_time,
                             "Tweet is {} characters long.".format(len(tweet_text)))
 
-                    prev_time = t
+                    # Test first/last characters.
+
+                    if tweet_text[0].islower():
+                        self.add_error(filepath, tweet_time,
+                            u'Tweet begins with lowercase character ("{}...")'.format(tweet_text[:20]))
+
+                    if tweet_text[-1].islower():
+                        self.add_error(filepath, tweet_time,
+                            u'Tweet ends with lowercase character ("...{}")'.format(tweet_text[-20:]))
         f.close()
 
     def add_error(self, filepath, dt, txt):

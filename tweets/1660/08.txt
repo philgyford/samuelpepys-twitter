@@ -10,7 +10,7 @@ YYYY-MM-DD HH:MM 123456789012345678901234567890123456789012345678901234567890123
 
 1660-08-30 15:10 My wife went to Mr. Pierce’s wife’s child’s christening, and was urged to be godmother, but I advised her before-hand not to do it.
 
-1660-08-30 13:50 At Westminster Hall I met with Mr. Paget the lawyer, and dined with him at Heaven. 
+1660-08-30 13:50 At Westminster Hall I met with Mr. Paget the lawyer, and dined with him at Heaven.
 
 1660-08-30 11:40 To White Hall, where I met with the Act of Indemnity (so long talked of), with the Act of Rate for Pole-money, and for judicial proceedings.
 
@@ -162,15 +162,15 @@ YYYY-MM-DD HH:MM 123456789012345678901234567890123456789012345678901234567890123
 
 1660-08-14 14:30 My father, after dinner, takes leave, after I had given him 40s. for the last half year for my brother John at Cambridge.
 
-1660-08-14 13:40 Home by water to the Tower, where my father, Mr. Fairbrother, and Cooke dined with me. 
+1660-08-14 13:40 Home by water to the Tower, where my father, Mr. Fairbrother, and Cooke dined with me.
 
 1660-08-14 10:20 To the Privy Seal, and thence to my Lord’s, where Mr. Pim, the tailor, and I agreed upon making me a velvet coat.
 
-1660-08-13 21:50 Home by coach, and took my 100l. that I had formerly left at Mr. Rawlinson’s, which is the first that ever I was master of at once. 
+1660-08-13 21:50 Home by coach, and took my 100l. that I had formerly left at Mr. Rawlinson’s, which is the first that ever I was master of at once.
 
 1660-08-13 21:10 I to my Lord’s; where he told me that he would suddenly go into the country, and so did commend the business of his sea commission to me.
 
-1660-08-13 20:30 My father and Creed and I to the old Rhenish Winehouse, and talked and drank till night. 
+1660-08-13 20:30 My father and Creed and I to the old Rhenish Winehouse, and talked and drank till night.
 
 1660-08-13 09:10 A sitting day at our office.
 
@@ -192,7 +192,7 @@ YYYY-MM-DD HH:MM 123456789012345678901234567890123456789012345678901234567890123
 
 1660-08-10 20:45 Never since I was a man in the world was I ever so great a stranger to public affairs as now I am.
 
-1660-08-10 20:30 For this month or two it is not imaginable how busy my head has been
+1660-08-10 20:30 For this month or two it is not imaginable how busy my head has been.
 
 1660-08-10 18:00 I to my Lord’s, and went home, taking my lute with me. It had been all this while since I came from sea at my Lord’s for him to play on.
 
@@ -282,4 +282,4 @@ YYYY-MM-DD HH:MM 123456789012345678901234567890123456789012345678901234567890123
 
 1660-08-01 12:00 I took Mr. Harper to the Leg in King Street, and did give him his dinner.
 
-1660-08-01 06:10 Up very early, and by water to Whitehall to my Lord’s, and there to my Lord’s lodging (Wm. Howe being now ill of the gout at Mr. Pierce’s). 
+1660-08-01 06:10 Up very early, and by water to Whitehall to my Lord’s, and there to my Lord’s lodging (Wm. Howe being now ill of the gout at Mr. Pierce’s).

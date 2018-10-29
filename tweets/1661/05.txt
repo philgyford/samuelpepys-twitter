@@ -96,7 +96,7 @@ YYYY-MM-DD HH:MM 123456789012345678901234567890123456789012345678901234567890123
 
 1661-05-19 14:41 So we went down into the garden and dragged Capt. Ferrers to the bench, where he looked like a dead man, but could not stir.
 
-1661-05-19 14:39 We found Capt. Ferrers crawled upon his knees, but could not rise
+1661-05-19 14:39 We found Capt. Ferrers crawled upon his knees, but could not rise.
 
 1661-05-19 14:38 The balcone windows were open and Capt. Ferrers leaps down into the garden: the most desperate frolic that ever I saw in my life.
 
@@ -241,4 +241,3 @@ YYYY-MM-DD HH:MM 123456789012345678901234567890123456789012345678901234567890123
 1661-05-01 13:50 We set forth again, and so to Portsmouth, seeming to me to be a very pleasant and strong place.
 
 1661-05-01 10:00 Bated at Petersfield, in the room which the King lay in lately at his being there. Here very merry, and played us and our wives at bowls.
-

@@ -82,7 +82,7 @@ YYYY-MM-DD HH:MM 123456789012345678901234567890123456789012345678901234567890123
 
 1664-01-20 12:06 Sir Richard Ford, who told me that Turner is to be hanged to-morrow, and with what impudence he hath carried out his trial.
 
-1664-01-20 11:20 by water to my brother’s, whom I find not well in bed, sicke, they think, of a consumption, and I fear he is not well, but do not complain.
+1664-01-20 11:20 By water to my brother’s, whom I find not well in bed, sicke, they think, of a consumption, and I fear he is not well, but do not complain.
 
 1664-01-20 09:10 My Lord did seal a lease for the house he is now taking in Lincoln’s Inn Fields, which stands him in 250 per annum rent.
 
@@ -253,4 +253,3 @@ YYYY-MM-DD HH:MM 123456789012345678901234567890123456789012345678901234567890123
 1664-01-01 08:57 Mr Deering came with the best New Year’s gift that ever I had, a bill of exchange drawn upon himself for the payment of 50l. to Mr Luellin.
 
 1664-01-01 08:04 Went to bed between 4 and 5 in the morning with my mind in good temper of satisfaction and slept till about 8.
-

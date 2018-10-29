@@ -106,7 +106,7 @@ YYYY-MM-DD HH:MM 123456789012345678901234567890123456789012345678901234567890123
 
 1662-09-19 09:49 None of the rest going, I went alone to Deptford, and there went on where they left last night to pay Woolwich yard.
 
-1662-09-18 15:28 After a great dinner and much discourse, we arose and took leave, and home to the business of my office, where I thank God I take delight
+1662-09-18 15:28 After a great dinner and much discourse, we arose and took leave, and home to the business of my office, where I thank God I take delight.
 
 1662-09-18 13:28 There being want of corn in Paris, a collection made for the poor, there was two pearls brought in, which were sold for 200,000 crownes.
 
@@ -269,4 +269,3 @@ YYYY-MM-DD HH:MM 123456789012345678901234567890123456789012345678901234567890123
 1662-09-01 09:28 We found the Duke going out by coach with his Duchess, and he told us he was to go abroad with the Queen to-day.
 
 1662-09-01 08:30 With Sir W. Batten and Sir W. Pen by coach to St. James’s, this being the first day of our meeting there by the Duke’s order.
-

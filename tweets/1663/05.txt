@@ -170,7 +170,7 @@ YYYY-MM-DD HH:MM 123456789012345678901234567890123456789012345678901234567890123
 
 1663-05-15 16:46 My Lord Hinchingbroke, I am told, hath had a mischance to kill his boy by his birding-piece going off as he was a-fowling.
 
-1663-05-15 15:24 My Lady Castlemaine rules the King who hath all the tricks of Aretin that are practised to give pleasure. In which he is able having a large
+1663-05-15 15:24 My Lady Castlemaine rules the King who hath all the tricks of Aretin that are practised to give pleasure. In which he is able having a large…
 
 1663-05-15 13:10 There was a falling-out two days ago at my Lord of Oxford’s house, where there were high words and blows, and pulling off of perriwiggs.
 
@@ -281,4 +281,3 @@ YYYY-MM-DD HH:MM 123456789012345678901234567890123456789012345678901234567890123
 1663-05-01 15:47 I advised my father to living within the compass of 50l. a year, and all in such kind words as not only made them but myself to weep.
 
 1663-05-01 10:22 Captain Grove sent me a side of pork, which was the oddest present that was ever made any man; but the fellow do it in kindness.
-

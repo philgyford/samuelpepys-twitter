@@ -124,11 +124,11 @@ YYYY-MM-DD HH:MM 123456789012345678901234567890123456789012345678901234567890123
 
 1661-07-15 08:02 After I was trimmed, I went to Christ College, and found my brother John at eight o’clock in bed, which vexed me.
 
-1661-07-15 07:04 Up by three o’clock this morning, and rode to Cambridge, and was there by seven o’clock
+1661-07-15 07:04 Up by three o’clock this morning, and rode to Cambridge, and was there by seven o’clock.
 
 1661-07-14 20:21 To Hinchingbroke, which is now all in dirt, because of my Lord’s building, which will make it very magnificent.
 
-1661-07-14 19:33 My father and I walked round Portholme and viewed all the fields, which was very pleasant. 
+1661-07-14 19:33 My father and I walked round Portholme and viewed all the fields, which was very pleasant.
 
 1661-07-13 19:04 Mr. Philips comes home from London, and so we have the best counsel he could give us, but for all that we were not quiet in our minds.
 
@@ -207,4 +207,3 @@ YYYY-MM-DD HH:MM 123456789012345678901234567890123456789012345678901234567890123
 1661-07-01 12:16 Among other things, a fair chest of drawers for my own chamber, and an Indian gown for myself. The first cost me 33s., the other 34s.
 
 1661-07-01 12:14 This morning I went up and down into the city, to buy several things, as I have lately done, for my house.
-
