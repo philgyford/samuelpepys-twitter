@@ -125,6 +125,7 @@ class Tweeter:
         self.redis_hostname = redis_url.hostname
         self.redis_port = redis_url.port
         self.redis_password = redis_url.password
+        self.log("REDIS: "+self.redis_hostname + ' ' + self.redis_port)
 
     def start(self):
 
@@ -137,6 +138,8 @@ class Tweeter:
             self.set_last_run_time()
             logging.warning("No last_run_time in database.\nThis must be the first time this has been run.\nSettinge last_run_time now.\nRun the script again in a few minutes or more, and it should work.")
             sys.exit(0)
+
+        self.log('LAST_RUN_TIME: '+last_run_time)
 
         try:
             local_tz = pytz.timezone(self.timezone)
@@ -196,6 +199,7 @@ class Tweeter:
         """
         time_now = datetime.datetime.now(pytz.timezone('UTC'))
         self.redis.set('last_run_time', time_now.strftime("%Y-%m-%d %H:%M:%S"))
+        self.log("SETTING LAST_RUN_TIME: "+time_now.strftime("%Y-%m-%d %H:%M:%S"))
 
     def get_last_run_time(self):
         """
@@ -205,6 +209,7 @@ class Tweeter:
         or `None` if it isn't currently set.
         """
         last_run_time = self.redis.get('last_run_time')
+        self.log("GOT LAST_RUN_TIME: "+last_run_time)
         if last_run_time:
             return datetime.datetime.strptime(last_run_time, "%Y-%m-%d %H:%M:%S").replace(tzinfo=pytz.timezone('UTC'))
         else:
