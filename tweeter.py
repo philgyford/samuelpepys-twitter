@@ -125,7 +125,7 @@ class Tweeter:
         self.redis_hostname = redis_url.hostname
         self.redis_port = redis_url.port
         self.redis_password = redis_url.password
-        self.log("REDIS: {} {}"format(self.redis_hostname, self.redis_port))
+        self.log("REDIS: {} {}".format(self.redis_hostname, self.redis_port))
 
     def start(self):
 
