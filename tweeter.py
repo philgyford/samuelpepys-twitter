@@ -386,6 +386,7 @@ class Tweeter:
             return
 
         for tweet in tweets:
+            previous_status_id = None
 
             if tweet['in_reply_to_time'] is not None:
                 # This tweet is a reply, so check that it's a reply to the
@@ -395,8 +396,6 @@ class Tweeter:
 
                 if tweet['in_reply_to_time'] == previous_status_time:
                     previous_status_id = self.redis.get('previous_tweet_id')
-                else:
-                    previous_status_id = None
 
             self.log('Tweeting: {} [{} characters]'.format(
                                         tweet['text'], len(tweet['text']) ))
@@ -432,6 +431,7 @@ class Tweeter:
             return
 
         for tweet in tweets:
+            previous_status_id = None
 
             if tweet['in_reply_to_time'] is not None:
                 # This tweet is a reply, so check that it's a reply to the
@@ -441,8 +441,6 @@ class Tweeter:
 
                 if tweet['in_reply_to_time'] == previous_status_time:
                     previous_status_id = self.redis.get('previous_toot_id')
-                else:
-                    previous_status_id = None
 
             self.log('Tooting: {} [{} characters]'.format(
                                         tweet['text'], len(tweet['text']) ))
