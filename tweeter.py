@@ -13,7 +13,7 @@ import pytz
 import configparser
 import redis
 import twitter
-from mastodon import Mastodon
+from mastodon import Mastodon, MastodonError
 
 
 logging.basicConfig()
@@ -370,6 +370,7 @@ class Tweeter:
             'time' (e.g. '1666-02-09 12:35')
             'text' (e.g. "This is my tweet")
             'is_reply_to' (e.g. '1666-02-09 12:34' or '')
+            'in_reply_to_time' (e.g. '1666-02-09 12:33', or None)
 
         Should be in the order in which they need to be posted.
         """
@@ -383,39 +384,39 @@ class Tweeter:
                 # This tweet is a reply, so check that it's a reply to the
                 # immediately previous tweet.
                 # It *should* be, but if something went wrong, maybe not.
-                previous_status_time = self.redis.get('previous_status_time')
+                previous_status_time = self.redis.get('previous_tweet_time')
 
                 if tweet['in_reply_to_time'] == previous_status_time:
-                    previous_tweet_id = self.redis.get('previous_tweet_id')
+                    previous_status_id = self.redis.get('previous_tweet_id')
                 else:
-                    previous_tweet_id = None
+                    previous_status_id = None
 
             self.log('Tweeting: {} [{} characters]'.format(
-                                            tweet['text'],
-                                            len(tweet['text']) ))
+                                        tweet['text'], len(tweet['text']) ))
 
             try:
                 status = self.twitter_api.PostUpdate(
-                                tweet['text'],
-                                in_reply_to_status_id=previous_tweet_id)
+                                    tweet['text'],
+                                    in_reply_to_status_id=previous_status_id)
             except twitter.TwitterError as e:
                 self.error(e)
             else:
                 # Set these so that we can see if the next tweet is a reply
                 # to this one, and then one ID this one was.
-                self.redis.set('previous_status_time', tweet['time'])
+                self.redis.set('previous_tweet_time', tweet['time'])
                 self.redis.set('previous_tweet_id', status.id)
 
             time.sleep(2)
 
-    def send_toots(self, toots):
+    def send_toots(self, tweets):
         """
-        `toots` is a list of toot texts to post now.
+        `tweets` is a list of toot texts to post now.
 
         Each element is a dict of:
             'time' (e.g. '1666-02-09 12:35')
             'text' (e.g. "This is my toot")
             'is_reply' boolean; is this a reply to the previous toot.
+            'in_reply_to_time' (e.g. '1666-02-09 12:33', or None)
 
         Should be in the order in which they need to be posted.
         """
@@ -423,12 +424,34 @@ class Tweeter:
             self.log('No Mastodon Client ID set; not tooting')
             return
 
-        for toot in toots:
-            self.log('Tooting: %s [%s characters]' % (
-                                        toot['text'], len(toot['text'])))
-            status = self.mastodon_api.toot(toot['text'])
-            time.sleep(2)
+        for tweet in tweets:
 
+            if tweet['in_reply_to_time'] is not None:
+                # This tweet is a reply, so check that it's a reply to the
+                # immediately previous toot.
+                # It *should* be, but if something went wrong, maybe not.
+                previous_status_time = self.redis.get('previous_toot_time')
+
+                if tweet['in_reply_to_time'] == previous_status_time:
+                    previous_status_id = self.redis.get('previous_toot_id')
+                else:
+                    previous_status_id = None
+
+            self.log('Tooting: {} [{} characters]'.format(
+                                        tweet['text'], len(tweet['text']) ))
+
+            try:
+                status = self.mastodon_api.toot(toot['text'],
+                                            in_reply_to_id=previous_status_id)
+            except MastodonError as e:
+                self.error(e)
+            else:
+                # Set these so that we can see if the next tweet is a reply
+                # to this one, and then one ID this one was.
+                self.redis.set('previous_toot_time', tweet['time'])
+                self.redis.set('previous_toot_id', status.id)
+
+            time.sleep(2)
 
     def log(self, s):
         self.logger.info(s)
