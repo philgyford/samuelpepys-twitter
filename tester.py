@@ -55,7 +55,7 @@ class Tester:
     def test_file(self, filepath):
         "Test an individual file."
 
-        with open(path) as file:
+        with open(filepath) as file:
             lines = [line.strip() for line in file]
 
         prev_time = None
@@ -74,7 +74,7 @@ class Tester:
                     (?:                         # Don't count this group
                         \s                      # A space before the 'r'
                         (
-                            r                   # A literal 'r'.
+                            \w                  # A literal 'r' (probably).
                         )                       # GROUP 2: r (or None)
                     )?                          # The 'r ' is optional
                     \s+                         # One or more spaces
