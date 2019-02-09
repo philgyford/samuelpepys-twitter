@@ -12,7 +12,7 @@ import redis
 import sys
 import time
 import twitter
-import urlparse
+import urllib.parse as urlparse
 
 logging.basicConfig()
 
@@ -66,7 +66,9 @@ class Tweeter:
 
         self.redis = redis.Redis(host=self.redis_hostname,
                                 port=self.redis_port,
-                                password=self.redis_password)
+                                password=self.redis_password,
+                                charset='utf-8',
+                                decode_responses=True)
 
     def load_config(self):
         if os.path.isfile(self.config_file):
@@ -205,6 +207,7 @@ class Tweeter:
         or `None` if it isn't currently set.
         """
         last_run_time = self.redis.get('last_run_time')
+        print(last_run_time)
         if last_run_time:
             return datetime.datetime.strptime(last_run_time, "%Y-%m-%d %H:%M:%S").replace(tzinfo=pytz.timezone('UTC'))
         else:
@@ -234,7 +237,7 @@ class Tweeter:
             # Unless something else is wrong, it could be that naive_time
             # is 29th Feb and there's no 29th Feb in the current, modern, year.
             self.log(
-                u"Skipping %s as can't make a modern time from it: %s" % (t, e))
+                "Skipping %s as can't make a modern time from it: %s" % (t, e))
             local_modern_time = False
 
         return local_modern_time
@@ -245,7 +248,7 @@ class Tweeter:
         Should be in the order in which they need to be posted.
         """
         if not self.twitter_consumer_key:
-            self.log(u'No Twitter Consumer Key set; not tooting')
+            self.log('No Twitter Consumer Key set; not tooting')
             return
 
         if len(tweets) > 0:
@@ -256,7 +259,7 @@ class Tweeter:
                 access_token_secret=self.twitter_access_token_secret
             )
             for tweet_text in tweets:
-                self.log(u'Tweeting: %s [%s characters]' % (
+                self.log('Tweeting: %s [%s characters]' % (
                                                 tweet_text, len(tweet_text)))
                 status = api.PostUpdate(tweet_text)
                 time.sleep(2)
@@ -267,7 +270,7 @@ class Tweeter:
         Should be in the order in which they need to be posted.
         """
         if not self.mastodon_client_id:
-            self.log(u'No Mastodon Client ID set; not tooting')
+            self.log('No Mastodon Client ID set; not tooting')
             return
 
         if len(toots) > 0:
@@ -278,7 +281,7 @@ class Tweeter:
                 api_base_url=self.mastodon_api_base_url
             )
             for toot_text in toots:
-                self.log(u'Tooting: %s [%s characters]' % (
+                self.log('Tooting: %s [%s characters]' % (
                                                     toot_text, len(toot_text)))
                 status = api.toot(toot_text)
                 time.sleep(2)
@@ -286,7 +289,7 @@ class Tweeter:
 
 
     def log(self, s):
-        self.logger.info(s.encode('utf-8'))
+        self.logger.info(s)
 
 
 class TweeterError(Exception):

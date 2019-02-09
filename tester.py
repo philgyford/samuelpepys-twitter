@@ -48,7 +48,7 @@ class Tester:
                     dir_file = '/'.join(err['filepath'].split('/')[-2:])
                     print("\nFILE tweets/{}".format(dir_file))
 
-                print(u" {}: {}".format(err['time'], err['text']).encode('utf-8'))
+                print(" {}: {}".format(err['time'], err['text']))
 
                 last_file = err['filepath']
 
@@ -93,11 +93,11 @@ class Tester:
 
                     if tweet_text[0].islower():
                         self.add_error(filepath, tweet_time,
-                            u'Tweet begins with lowercase character ("{}...")'.format(tweet_text[:20]))
+                            'Tweet begins with lowercase character ("{}...")'.format(tweet_text[:20]))
 
                     if tweet_text[-1].islower():
                         self.add_error(filepath, tweet_time,
-                            u'Tweet ends with lowercase character ("...{}")'.format(tweet_text[-20:]))
+                            'Tweet ends with lowercase character ("...{}")'.format(tweet_text[-20:]))
         f.close()
 
     def add_error(self, filepath, dt, txt):
