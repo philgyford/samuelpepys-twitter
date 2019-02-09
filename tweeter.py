@@ -185,12 +185,6 @@ class Tweeter:
         tweets_to_send = self.get_tweets_to_send(
                                     all_tweets, last_run_time, local_time_now)
 
-        self.log("DEBUG: Local time now: {}".format(local_time_now))
-        self.log("DEBUG: Last run time: {}".format(last_run_time))
-
-        self.log("DEBUG: All tweets: {}".format(len(all_tweets)))
-        self.log("DEBUG: Tweets to send: {}".format(len(tweets_to_send)))
-
         self.set_last_run_time()
 
         # We want to tweet the oldest one first, so reverse list:
