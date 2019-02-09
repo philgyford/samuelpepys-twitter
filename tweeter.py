@@ -170,6 +170,8 @@ class Tweeter:
 
         local_time_now = datetime.datetime.now(self.local_tz)
 
+        self.log("Local time now: {}".format(local_time_now))
+
         year_dir = str(int(local_time_now.strftime('%Y')) - self.years_ahead)
         month_file = '%s.txt' % local_time_now.strftime('%m')
 
@@ -181,8 +183,12 @@ class Tweeter:
 
         all_tweets = self.get_all_tweets(lines)
 
+        self.log("All tweets: {}".format(len(all_tweets)))
+
         tweets_to_send = self.get_tweets_to_send(
                                     all_tweets, last_run_time, local_time_now)
+
+        self.log("Tweets to send: {}".format(len(tweets_to_send)))
 
         self.set_last_run_time()
 
