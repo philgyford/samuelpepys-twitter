@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 # coding=utf-8
-import codecs
 import datetime
 from glob import glob
 import os
@@ -56,19 +55,37 @@ class Tester:
     def test_file(self, filepath):
         "Test an individual file."
 
-        f = codecs.open(filepath, 'r', 'utf-8')
+        with open(path) as file:
+            lines = [line.strip() for line in file]
 
         prev_time = None
 
-        for line in f:
-            line = line.strip()
+        for line in lines:
             if line != '':
                 # Use same match as in tweeter.py, and only test matching lines.
-                line_match = re.match(
-                            '^(\d{4}-\d{2}-\d{2}\s\d{2}\:\d{2})\s(.*?)$', line)
+
+                pattern = '''
+                    ^                           # Start of line
+                    (
+                        \d\d\d\d-\d\d-\d\d      # Date like 1666-02-09
+                        \s
+                        \d\d\:\d\d              # Time like 14:08
+                    )                           # GROUP 1: Date and time
+                    (?:                         # Don't count this group
+                        \s                      # A space before the 'r'
+                        (
+                            r                   # A literal 'r'.
+                        )                       # GROUP 2: r (or None)
+                    )?                          # The 'r ' is optional
+                    \s+                         # One or more spaces
+                    (.*?)                       # The tweet text
+                    $                           # End of line
+                '''
+
+                line_match = re.search(pattern, line, re.VERBOSE)
 
                 if line_match:
-                    [tweet_time, tweet_text] = line_match.groups()
+                    [tweet_time, tweet_kind, tweet_text] = line_match.groups()
 
                     # Check times are in the correct order.
 
@@ -82,6 +99,13 @@ class Tester:
                             self.add_error(filepath, tweet_time,
                                 "Time is the same as previous time ({}).".format(prev_time))
                     prev_time = t
+
+                    # Test valid kinds
+
+                    if tweet_kind is not None:
+                        if tweet_kind != 'r':
+                            self.add_error(filepath, tweet_time,
+                                "Kind should be nothing or 'r'. It was: '{}'.".format(tweet_kind))
 
                     # Test tweet length.
 
@@ -98,7 +122,6 @@ class Tester:
                     if tweet_text[-1].islower():
                         self.add_error(filepath, tweet_time,
                             'Tweet ends with lowercase character ("...{}")'.format(tweet_text[-20:]))
-        f.close()
 
     def add_error(self, filepath, dt, txt):
         self.errors.append({
