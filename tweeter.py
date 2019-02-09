@@ -135,7 +135,7 @@ class Tweeter:
         # So the first time this is run, we can't do anythning.
         if last_run_time is None:
             self.set_last_run_time()
-            logging.warning("No last_run_time in database.\nThis must be the first time this has been run.\nSettinge last_run_time now.\nRun the script again in a few minutes or more, and it should work.")
+            logging.warning("No last_run_time in database.\nThis must be the first time this has been run.\nSettinge last_run_time now.\nRun the script again in a minute or more, and it should work.")
             sys.exit(0)
 
         try:
