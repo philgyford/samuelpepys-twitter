@@ -35,7 +35,7 @@ the tweet's "kind". `r`, a reply, is currently the only option, see below). Vali
 
     1660-01-02 11:20   This is tweet 3
 
-    1660-01-02 11:18 r This is a reply to the previous tweet.
+    1660-01-02 11:18 r This is a reply to tweet 1.
 
     1660-01-02 11:16   This is tweet 1.
 
