@@ -381,6 +381,8 @@ class Tweeter:
 
         Should be in the order in which they need to be posted.
         """
+        return
+        
         if self.twitter_api is None:
             self.log('No Twitter Consumer Key set; not tweeting')
             return
@@ -446,7 +448,7 @@ class Tweeter:
                                         tweet['text'], len(tweet['text']) ))
 
             try:
-                status = self.mastodon_api.toot(tweet['text'],
+                status = self.mastodon_api.status_post(tweet['text'],
                                             in_reply_to_id=previous_status_id)
             except MastodonError as e:
                 self.error(e)
