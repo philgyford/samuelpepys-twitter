@@ -446,7 +446,7 @@ class Tweeter:
                                         tweet['text'], len(tweet['text']) ))
 
             try:
-                status = self.mastodon_api.toot(toot['text'],
+                status = self.mastodon_api.toot(tweet['text'],
                                             in_reply_to_id=previous_status_id)
             except MastodonError as e:
                 self.error(e)
