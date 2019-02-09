@@ -207,7 +207,7 @@ class Tweeter:
         or `None` if it isn't currently set.
         """
         last_run_time = self.redis.get('last_run_time')
-        print(last_run_time)
+
         if last_run_time:
             return datetime.datetime.strptime(last_run_time, "%Y-%m-%d %H:%M:%S").replace(tzinfo=pytz.timezone('UTC'))
         else:
