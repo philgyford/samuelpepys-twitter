@@ -381,8 +381,6 @@ class Tweeter:
 
         Should be in the order in which they need to be posted.
         """
-        return
-        
         if self.twitter_api is None:
             self.log('No Twitter Consumer Key set; not tweeting')
             return
