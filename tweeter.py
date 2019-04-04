@@ -252,8 +252,8 @@ class Tweeter:
                     tweet['in_reply_to_time'] = in_reply_to_time
 
                     self.log("Preparing: '{}...' timed {}, is_reply: {}, local_last_run_time: {}, local_modern_tweet_time: {}, in_reply_to_time: {}".format(
-                        self.tweet['text'][:20],
-                        self.tweet['time'],
+                        tweet['text'][:20],
+                        tweet['time'],
                         tweet['is_reply'],
                         local_last_run_time,
                         local_modern_tweet_time,
