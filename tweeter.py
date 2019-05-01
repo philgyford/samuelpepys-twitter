@@ -36,8 +36,8 @@ class Tweeter:
     # How many years ahead are we of the dated tweets?
     years_ahead = 0
 
-    # Whenever we last ran this script, we'll only ever post tweets from within
-    # the past max_time_window minutes.
+    # No matter when we last ran this script, we'll only ever post
+    # tweets from within the past max_time_window minutes.
     max_time_window = 20
 
     # Which timezone are we using to check when tweets should be sent?
@@ -240,7 +240,7 @@ class Tweeter:
                 local_modern_tweet_time - local_last_run_time
             ).total_seconds()
 
-            if now_minus_tweet >= 0:
+            if now_minus_tweet > 0:
                 # Tweet is earlier than now.
                 if tweet_minus_lastrun >= 0 and now_minus_tweet <= (
                     self.max_time_window * 60
