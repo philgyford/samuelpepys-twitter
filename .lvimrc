@@ -1,0 +1,5 @@
+
+if &filetype == "text"
+  setlocal textwidth=300 colorcolumn=300
+endif
+
