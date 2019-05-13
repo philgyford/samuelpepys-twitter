@@ -55,7 +55,7 @@ class Tester:
         "Test an individual file."
 
         with open(filepath) as file:
-            lines = [line.strip() for line in file]
+            lines = [line for line in file]
 
         prev_time = None
 
@@ -144,6 +144,15 @@ class Tester:
                             filepath,
                             tweet_time,
                             'Tweet ends with lowercase character ("...{}")'.format(
+                                tweet_text[-20:]
+                            ),
+                        )
+
+                    if tweet_text.endswith(" "):
+                        self.add_error(
+                            filepath,
+                            tweet_time,
+                            'Tweet ends with a space ("...{}")'.format(
                                 tweet_text[-20:]
                             ),
                         )
