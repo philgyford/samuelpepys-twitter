@@ -1,4 +1,4 @@
-YYYY-MM-DD HH:MM x 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890 
+YYYY-MM-DD HH:MM x 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
 1666-06-30 22:28   I am providing against a foul day to get as much money into my hands as I can, at least out of the public hands, that so, if a turn, which I fear, do come, I may have a little to trust to.
 
@@ -24,7 +24,7 @@ YYYY-MM-DD HH:MM x 1234567890123456789012345678901234567890123456789012345678901
 
 1666-06-27 14:27   Carried my wife to her sister’s and I to Mr. Hales’s, to pay for my father’s picture, which cost me 10l. the head and 25s. the frame.
 
-1666-06-27 11:15   To Mr. Cade’s, the stationer, stood till the shower was over, it being a great and welcome one after so much dry weather. Here I understand that Ogleby is putting out some new fables of his owne, which will be very fine and very satyricall. 
+1666-06-27 11:15   To Mr. Cade’s, the stationer, stood till the shower was over, it being a great and welcome one after so much dry weather. Here I understand that Ogleby is putting out some new fables of his owne, which will be very fine and very satyricall.
 
 1666-06-27 10:21   To my office awhile, and then down the river a little way to see vessels ready for the carrying down of 400 land soldiers to the fleet.
 
@@ -64,7 +64,7 @@ YYYY-MM-DD HH:MM x 1234567890123456789012345678901234567890123456789012345678901
 
 1666-06-23 22:10   Mercer’s mother in the evening did come and satisfy my wife, and by and by Mercer did come, which I was mighty glad of and eased of much pain about her.
 
-1666-06-23 19:34   Down to Tower Wharfe thinking to go by water, but could not get watermen; they being now so scarce, by reason of the great press; so to the Custome House, and there, with great threats, got a couple to carry me down to Deptford, all the way reading Pompey the Great. 
+1666-06-23 19:34   Down to Tower Wharfe thinking to go by water, but could not get watermen; they being now so scarce, by reason of the great press; so to the Custome House, and there, with great threats, got a couple to carry me down to Deptford, all the way reading Pompey the Great.
 
 1666-06-23 13:27   What with the going away of my father today and the loss of Mercer, I after dinner went up to my chamber and there could have cried to myself, had not people come to me about business.
 
@@ -228,13 +228,13 @@ YYYY-MM-DD HH:MM x 1234567890123456789012345678901234567890123456789012345678901
 
 1666-06-06 20:32   Before I got home, the bonefires were lighted all the towne over, and I going through Crouched Friars, seeing Mercer at her mother’s gate, stopped, and ’light.
 
-1666-06-06 17:55   I to Lovett’s, and there to my trouble saw plainly that my project of varnished books will not take, it not keeping colour, not being able to take polishing upon a single paper. 
+1666-06-06 17:55   I to Lovett’s, and there to my trouble saw plainly that my project of varnished books will not take, it not keeping colour, not being able to take polishing upon a single paper.
 
 1666-06-06 16:10   Drawing up my vows for the rest of the year to Christmas; but, Lord! to see in what a condition of happiness I am, if I would but keep myself so; but my love of pleasure is such, that my very soul is angry with itself for my vanity in so doing.
 
 1666-06-06 13:35   Home and found my wife at dinner, and after dinner my father and she out to Hales’s, where my father is to begin to sit to-day for his picture, which I have a desire to have.
 
-1666-06-06 12:25   Comes to our office 40 people almost of all sorts and qualities to hear the news, which I took great delight to tell them. 
+1666-06-06 12:25   Comes to our office 40 people almost of all sorts and qualities to hear the news, which I took great delight to tell them.
 
 1666-06-06 09:50 r We were all so overtaken with this good news, that the Duke ran with it to the King, who was gone to chappell, and there all the Court was in a hubbub, being rejoiced over head and ears in this good news.
 
@@ -274,7 +274,7 @@ YYYY-MM-DD HH:MM x 1234567890123456789012345678901234567890123456789012345678901
 
 1666-06-04 10:50   Major Halsey did bring news that he did see the Prince and his fleet at nine of the clock yesterday morning, four or five leagues to sea behind the Goodwin, so that by the hearing of the guns this morning we conclude he is come to the fleet.
 
-1666-06-04 09:16   So far as to yesterday it is a miraculous thing that we did hear every where most plainly the guns go off, and yet at Deale and Dover to last night they did not hear one word of a fight, nor think they heard one gun. 
+1666-06-04 09:16   So far as to yesterday it is a miraculous thing that we did hear every where most plainly the guns go off, and yet at Deale and Dover to last night they did not hear one word of a fight, nor think they heard one gun.
 
 1666-06-04 09:12 r I saw a letter, dated last night, from Strowd, Governor of Dover Castle, which says that the Prince come thither the night before with his fleet, but that for the guns which we writ that we heard, it is only a mistake for thunder.
 

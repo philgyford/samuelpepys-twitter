@@ -226,7 +226,7 @@ YYYY-MM-DD HH:MM   1234567890123456789012345678901234567890123456789012345678901
 
 1660-04-04 12:45   Mr. Blackburne told me that it was certain now that the King must of necessity come in.
 
-1660-04-04 12:30   There come Colonel Thomson with the wooden leg, and General Pen, and dined with my Lord. 
+1660-04-04 12:30   There come Colonel Thomson with the wooden leg, and General Pen, and dined with my Lord.
 
 1660-04-03 21:40   My heart exceeding heavy for not hearing of my dear wife and indeed I do not remember that ever my heart was so apprehensive of her absence.
 

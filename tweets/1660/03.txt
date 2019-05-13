@@ -58,7 +58,7 @@ YYYY-MM-DD HH:MM   1234567890123456789012345678901234567890123456789012345678901
 
 1660-03-23 14:45   I to the cabin allotted for me, which was the best that any had that belonged to my Lord.
 
-1660-03-23 13:15   Soon as my Lord on board, the guns went off bravely from the ships. 
+1660-03-23 13:15   Soon as my Lord on board, the guns went off bravely from the ships.
 
 1660-03-23 13:00   We saw the great breach which the late high water had made, to the loss of many 1000l. to the people about Limehouse.
 
@@ -164,7 +164,7 @@ YYYY-MM-DD HH:MM   1234567890123456789012345678901234567890123456789012345678901
 
 1660-03-16 07:15   No sooner out of bed but troubled with abundance of clients, seamen.
 
-1660-03-15 22:00   I went to Westminster Hall, and the Parliament sat till ten at night, being expected to dissolve themselves to-day, but they did not. 
+1660-03-15 22:00   I went to Westminster Hall, and the Parliament sat till ten at night, being expected to dissolve themselves to-day, but they did not.
 
 1660-03-15 14:25   I did promise to give my wife all that I have in the world but my books, in case I should die at sea.
 
@@ -194,11 +194,11 @@ YYYY-MM-DD HH:MM   1234567890123456789012345678901234567890123456789012345678901
 
 1660-03-11 22:20   After supper home, where the wench had provided all things against tomorrow to wash, and so to bed, where I much troubled with my coughing.
 
-1660-03-11 17:10   All the day busy without my band on, putting up my books and things, in order to my going to sea. 
+1660-03-11 17:10   All the day busy without my band on, putting up my books and things, in order to my going to sea.
 
 1660-03-10 23:10   My wife was late making of caps for me, and the wench making an end of a pair of stockings that she was knitting of.
 
-1660-03-10 19:40   W. Howe went with me to my office, whither also Mr. Madge comes half foxed and played the fool upon the violin that made me weary. 
+1660-03-10 19:40   W. Howe went with me to my office, whither also Mr. Madge comes half foxed and played the fool upon the violin that made me weary.
 
 1660-03-10 16:10   I took occasion to tell my wife of my going to sea, who was troubled at it and was at last willing to continue at Mr Bowyer’s in my absence.
 
@@ -222,7 +222,7 @@ YYYY-MM-DD HH:MM   1234567890123456789012345678901234567890123456789012345678901
 
 1660-03-07 17:50   My father left my uncle with his leg very dangerous, and do believe he cannot continue in that condition long.
 
-1660-03-07 17:30   My uncle Wight and I homewards, parted at Fleet Street, where I found my father newly come home from Brampton very well. 
+1660-03-07 17:30   My uncle Wight and I homewards, parted at Fleet Street, where I found my father newly come home from Brampton very well.
 
 1660-03-07 15:50   I went to the Pope’s Head Alley and called on Adam Chard, and bought a catcall there, it cost me two groats.
 
@@ -240,7 +240,7 @@ YYYY-MM-DD HH:MM   1234567890123456789012345678901234567890123456789012345678901
 
 1660-03-06 17:00   The ladies went into the dining-room, where it was full of tag, rag, and bobtail, dancing, singing, and drinking, of which I was ashamed.
 
-1660-03-06 14:10   I played upon a viall, and Mr. Tanner a viallin, and were very merry, with a special good dinner, with abundance of wine. 
+1660-03-06 14:10   I played upon a viall, and Mr. Tanner a viallin, and were very merry, with a special good dinner, with abundance of wine.
 
 1660-03-06 09:45   My Lord asked me whether I could, without too much inconvenience, go to sea as his secretary, and bid me think of it.
 
@@ -268,7 +268,7 @@ YYYY-MM-DD HH:MM   1234567890123456789012345678901234567890123456789012345678901
 
 1660-03-03 17:15   I hear this day from many that things are in a very doubtful posture, some of the Parliament being willing to keep the power in their hands.
 
-1660-03-03 16:30   Went by appointment to Hering, the merchant, but missed of my money, at which I was much troubled, but could not help myself. 
+1660-03-03 16:30   Went by appointment to Hering, the merchant, but missed of my money, at which I was much troubled, but could not help myself.
 
 1660-03-03 15:51   My Lord told me he feared there was new design hatching, as if Monk had a mind to get into the saddle.
 
@@ -300,4 +300,4 @@ YYYY-MM-DD HH:MM   1234567890123456789012345678901234567890123456789012345678901
 
 1660-03-01 09:30   Mr. Sheply being not within I went up. Out of the box where my Lord’s pamphlets lay, I chose as many as I had a mind to have for my own use.
 
-1660-03-01 09:10   I went to my Lord’s lodgings, thinking to have spoke with Mr. Sheply, having not been to visit him since my coming to town. 
+1660-03-01 09:10   I went to my Lord’s lodgings, thinking to have spoke with Mr. Sheply, having not been to visit him since my coming to town.
