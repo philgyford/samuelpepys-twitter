@@ -236,13 +236,15 @@ class Tweeter:
 
             local_modern_tweet_time = self.modernize_time(tweet["time"])
             now_minus_tweet = (local_time_now - local_modern_tweet_time).total_seconds()
-            tweet_minus_lastrun = (
-                local_modern_tweet_time - local_last_run_time
-            ).total_seconds()
 
             if now_minus_tweet > 0:
                 # Tweet is earlier than now.
-                if tweet_minus_lastrun >= 0 and now_minus_tweet <= (
+
+                tweet_minus_lastrun = (
+                    local_modern_tweet_time - local_last_run_time
+                ).total_seconds()
+
+                if tweet_minus_lastrun > 0 and now_minus_tweet <= (
                     self.max_time_window * 60
                 ):
                     # And Tweet is since we last ran and within our max time window.
