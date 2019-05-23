@@ -240,11 +240,11 @@ class Tweeter:
             if now_minus_tweet > 0:
                 # Tweet is earlier than now.
 
-                tweet_minus_lastrun = (
+                tweet_minus_last_run = (
                     local_modern_tweet_time - local_last_run_time
                 ).total_seconds()
 
-                if tweet_minus_lastrun > 0 and now_minus_tweet <= (
+                if tweet_minus_last_run > 0 and now_minus_tweet <= (
                     self.max_time_window * 60
                 ):
                     # And Tweet is since we last ran and within our max time window.
@@ -265,12 +265,14 @@ class Tweeter:
                         "is_reply: {}, "
                         "local_last_run_time: {}, "
                         "local_modern_tweet_time: {}, "
+                        "tweet_minus_last_run: {}, "
                         "in_reply_to_time: {}".format(
                             tweet["text"][:20],
                             tweet["time"],
                             tweet["is_reply"],
                             local_last_run_time,
                             local_modern_tweet_time,
+                            tweet_minus_last_run,
                             in_reply_to_time,
                         )
                     )
