@@ -242,7 +242,7 @@ YYYY-MM-DD HH:MM x 1234567890123456789012345678901234567890123456789012345678901
 
 1666-09-06 05:20 r I met Mr. Gawden at the gate of the office to call our men to Bishop’s-gate, where no fire had yet been near, and there is now one broke out which did give great grounds to people, and to me too, to think that there is some kind of plot in this.
 
-1666-09-05 20:04 r So home, and find there good hopes of saving our office; but great endeavours of watching all night, and having men ready; and so we lodged them in the office, and had drink and bread and cheese for them.
+1666-09-05 21:04 r So home, and find there good hopes of saving our office; but great endeavours of watching all night, and having men ready; and so we lodged them in the office, and had drink and bread and cheese for them.
 
 1666-09-05 17:50 r I took up a piece of glass of Mercers’ Chappell in the street, where much more was, so melted and buckled with the heat of the fire like parchment.
 
@@ -326,11 +326,11 @@ YYYY-MM-DD HH:MM x 1234567890123456789012345678901234567890123456789012345678901
 
 1666-09-02 20:52 r The churches, houses, and all on fire and flaming at once; and a horrid noise the flames made, and the cracking of houses at their ruins.
 
-1666-09-02 20:20 r We staid till, it being darkish, we saw the fire as only one entire arch of fire from this to the other side the bridge, and in a bow up the hill for an arch of above a mile long: it made me weep to see it.
+1666-09-02 20:37 r We staid till, it being darkish, we saw the fire as only one entire arch of fire from this to the other side the bridge, and in a bow up the hill for an arch of above a mile long: it made me weep to see it.
 
-1666-09-02 20:05 r As it grew darker, the fire appeared more and more, and in corners and upon steeples, and between churches and houses, as far as we could see up the hill of the City, in a most horrid malicious bloody flame, not like the fine flame of an ordinary fire.
+1666-09-02 20:28 r As it grew darker, the fire appeared more and more, and in corners and upon steeples, and between churches and houses, as far as we could see up the hill of the City, in a most horrid malicious bloody flame, not like the fine flame of an ordinary fire.
 
-1666-09-02 19:45 r We to a little ale-house on the Bankside, over against the Three Cranes, and there staid till it was dark almost, and saw the fire grow.
+1666-09-02 20:15 r We to a little ale-house on the Bankside, over against the Three Cranes, and there staid till it was dark almost, and saw the fire grow.
 
 1666-09-02 17:15 r So near the fire as we could for smoke; and all over the Thames, with one’s face in the wind, you were almost burned with a shower of firedrops. This is very true; so as houses were burned by these drops of fire, three or four, nay, five or six houses, one from another.
 
