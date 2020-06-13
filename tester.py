@@ -157,6 +157,25 @@ class Tester:
                             ),
                         )
 
+                    # Tests for errors that I had to correct.
+
+                    # 'jj' or 'kk' from making a mistake in vim:
+                    tweet_match = (re.search(r"\W?(jj|kk)\W?", tweet_text))
+                    if tweet_match:
+                        span = tweet_match.span()
+                        start = span[0] - 10
+                        end = span[1] + 10
+                        self.add_error(
+                            filepath,
+                            tweet_time,
+                            '"{}" found: "{}")'.format(
+                                tweet_match.groups()[0],
+                                tweet_text[start:end]
+                            ),
+                        )
+
+
+
     def add_error(self, filepath, dt, txt):
         self.errors.append({"filepath": filepath, "time": dt, "text": txt})
 
