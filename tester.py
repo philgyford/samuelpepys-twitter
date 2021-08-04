@@ -25,6 +25,8 @@ class Tester:
         # Will be a list of dicts:
         self.errors = []
 
+        self.tweet_count = 0
+
     def start(self):
 
         # Cycle through every directory in /tweets/ whose name is four digits:
@@ -35,6 +37,8 @@ class Tester:
                     self.test_file(os.path.join(self.project_root, "tweets", d, f))
 
         last_file = None
+
+        print("\n{:,} tweets checked.".format(self.tweet_count))
 
         # Output all errors, if any.
         if len(self.errors) == 0:
@@ -85,6 +89,8 @@ class Tester:
 
                 if line_match:
                     [tweet_time, tweet_kind, tweet_text] = line_match.groups()
+
+                    self.tweet_count += 1
 
                     # Check times are in the correct order.
 
@@ -172,7 +178,6 @@ class Tester:
                                 tweet_match.groups()[0], tweet_text[start:end]
                             ),
                         )
-
 
     def add_error(self, filepath, dt, txt):
         self.errors.append({"filepath": filepath, "time": dt, "text": txt})
