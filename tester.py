@@ -38,12 +38,8 @@ class Tester:
 
         last_file = None
 
-        print("\n{:,} tweets checked.".format(self.tweet_count))
-
         # Output all errors, if any.
-        if len(self.errors) == 0:
-            print("\nEverything is OK.")
-        else:
+        if len(self.errors) > 0:
             for err in self.errors:
                 # err has 'filepath', 'time' and 'text' elements.
                 if last_file is None or last_file != err["filepath"]:
@@ -54,6 +50,11 @@ class Tester:
                 print(" {}: {}".format(err["time"], err["text"]))
 
                 last_file = err["filepath"]
+
+        print("\n{:,} tweets checked.".format(self.tweet_count))
+
+        if len(self.errors) == 0:
+            print("\nEverything is OK.")
 
     def test_file(self, filepath):
         "Test an individual file."
