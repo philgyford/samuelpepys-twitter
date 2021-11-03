@@ -95,7 +95,12 @@ class Tester:
 
                     # Check times are in the correct order.
 
-                    t = datetime.datetime.strptime(tweet_time, "%Y-%m-%d %H:%M")
+                    try:
+                        t = datetime.datetime.strptime(tweet_time, "%Y-%m-%d %H:%M")
+                    except ValueError as e:
+                        self.add_error(filepath, tweet_time, e)
+                        # Have to return as we won't have a valid value for t.
+                        return
 
                     if prev_time is not None:
                         if t > prev_time:
