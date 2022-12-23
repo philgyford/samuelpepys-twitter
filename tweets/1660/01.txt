@@ -1,12 +1,16 @@
-YYYY-MM-DD HH:MM   12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+YYYY-MM-DD HH:MM 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
-1660-01-31 22:00   I could find nothing in Mr Downing’s letter concerning my office; but I could discern that Hawly had a mind I would be Clerk of the Council.
+1660-01-31 22:00   I could find nothing in Mr. Downing’s letter, which Hawly brought me, concerning my office; but I could discern that Hawly had a mind that I would get to be Clerk of the Council, I suppose that he might have the greater salary.
 
-1660-01-31 17:30   I found Mrs. Jem among the people below at work and she came up hot and merry, as if they had given her wine, at which I was troubled.
+1660-01-31 17:30   To Mrs. Jem, where I found her maid in bed in a fit of the ague, and Mrs. Jem among the people below at work and by and by she came up hot and merry, as if they had given her wine, at which I was troubled, but said nothing.
 
-1660-01-31 15:10   To Westminster Hall, where all we clerks had orders to wait upon the Committee, at the Star Chamber that is to try Colonel Jones.
+1660-01-31 15:33   To Will’s, where I sat an hour or two with Mr. Godfrey Austin, a scrivener in King Street. Here I met and afterwards bought the answer to General Monk’s letter, which is a very good one, and I keep it by me.
 
-1660-01-31 11:00   Mr. Hawly newly come from shipboard from his master brought me a letter of direction what to do in his lawsuit with Squib about his house.
+1660-01-31 15:10   After dinner to Westminster Hall, where all we clerks had orders to wait upon the Committee, at the Star Chamber that is to try Colonel Jones, and were to give an account what money we had paid him; but the Committee did not sit today.
+
+1660-01-31 11:00   Home and dined with my wife when in came Mr. Hawly newly come from shipboard from his master, and brought me a letter of direction what to do in his lawsuit with Squib about his house and office.
+
+1660-01-31 10:34   To my office where I paid 1200l. to Mr. Frost and at noon went to Will’s to give one of the Excise office a pot of ale that came today to tell over a bag of his that wanted 7l. in it, which he found over in another bag.
 
 1660-01-31 09:40   I fell to my lute till 9 o’clock. Then to my Lord’s lodgings and set out a barrel of soap to be carried to Mrs. Ann.
 
@@ -14,167 +18,191 @@ YYYY-MM-DD HH:MM   1234567890123456789012345678901234567890123456789012345678901
 
 1660-01-30 20:00   There seems now to be a general cease of talk, it being taken for granted that Monk do resolve to stand to the Parliament, and nothing else.
 
-1660-01-30 16:30   I went and sat awhile and played at cards with Mrs. Jem, whose maid had newly got an ague and was ill thereupon.
+1660-01-30 17:15 r So homewards again, having great need to do my business, and so pretending to meet Mr. Shott the wood monger of Whitehall I went and eased myself at the Harp and Ball, and thence home.
 
-1660-01-30 07:30   I fell a-singing of “Great, good, and just,” &c. and put myself in mind that this was the fatal day, ten years since, his Majesty died.
+1660-01-30 16:22   I by water playing on my flageolette and not finding my wife come home again from her father’s I went and sat awhile and played at cards with Mrs. Jem, whose maid had newly got an ague and was ill thereupon.
+
+1660-01-30 07:30   Before I was up, I fell a-singing of my song, “Great, good, and just,” &c. and put myself thereby in mind that this was the fatal day, now ten years since, his Majesty died.
 
 1660-01-29 20:30   By my father I understand that my uncle Fenner and my aunt were much pleased with our entertaining them.
 
-1660-01-29 17:00   I spent the afternoon in casting up my accounts, and do find myself to be worth 40l. and more, which I did not think.
+1660-01-29 17:00   I spent the afternoon in casting up my accounts, and do find myself to be worth 40l. and more, which I did not think, but am afraid that I have forgot something.
 
-1660-01-28 14:30   I went to Heaven, where Luellin and I dined on a breast of mutton all alone, discoursing of the changes that we have seen.
+1660-01-29 11:00   I went to Mr. Gunning’s, where he made an excellent sermon upon the 2d of the Galatians, about the difference that fell between St. Paul and St. Peter (the feast day of St. Paul being a day or two ago).
 
-1660-01-28 11:21   I went down and sent a porter to my house for my best fur cap, but he coming too late with it I did not present it to Mr. Downing.
+1660-01-28 14:30   I went to Heaven, where Luellin and I dined on a breast of mutton all alone, discoursing of the changes that we have seen and the happiness of them that have estates of their own.
 
-1660-01-28 11:10   Mr. Downing took a very civil leave of me, beyond my expectation. I was afraid that he would have told me of removing me from my office.
+1660-01-28 12:10 r I went to Westminster Hall, and bound up my cap at Mrs. Michell’s, who was much taken with my cap, and endeavoured to overtake the coach at the Exchange and to give it him there, but I met with one that told me that he was gone.
 
-1660-01-28 09:15   Mr. Downing told me that he was resolved to be gone for Holland this morning.
+1660-01-28 11:21 r So I went down and sent a porter to my house for my best fur cap, but he coming too late with it I did not present it to him.
+
+1660-01-28 11:10 r Mr. Downing took a very civil leave of me, beyond my expectation, for I was afraid that he would have told me something of removing me from my office; but he did not, but that he would do me any service that lay in his power.
+
+1660-01-28 09:15 r Mr. Hawly came into the office and I left him and carried it to Mr. Downing, who then told me that he was resolved to be gone for Holland this morning.
 
 1660-01-28 08:30   I went to Mr. Downing and carried him three characters, and then to my office and wrote another, while Mr. Frost staid telling money.
 
-1660-01-27 23:50   I fell a writing the characters for Mr. Downing, and I sat up till almost twelve writing, and wrote two of them.
+1660-01-27 23:53   So home and fell a writing the characters for Mr. Downing, and about nine at night Mr. Hawly came, and after he was gone I sat up till almost twelve writing, and wrote two of them.
 
-1660-01-27 15:00   Coming home my wife told me that Mr. Hawly had been there to speak with me, and seemed angry that I had not been at the office that day.
+1660-01-27 15:34 r So I made haste to him, but found no such thing from him, but he sent me to Mr. Sherwin’s about getting Mr. Squib to come to him tomorrow, and I carried him an answer.
 
-1660-01-27 14:10   To Mr. G. Montagu’s house, and was forced to dine with him, and had a brave dinner and the greatest civility that ever I had from any man.
+1660-01-27 15:00   Coming home again my wife told me that Mr. Hawly had been there to speak with me, and seemed angry that I had not been at the office that day, and she told me she was afraid that Mr. Downing may have a mind to pick some hole in my coat.
+
+1660-01-27 14:10   I was told by my bookseller, Mrs. Michell, that Mr. G. Montagu had inquired there for me. So I went to his house, and was forced by him to dine with him, and had a plenteous brave dinner and the greatest civility that ever I had from any man.
+
+1660-01-27 09:10   I met with Tom Newton, my old comrade, and took him to the Crown, and gave him his morning draft. He did talk very high what he would do with the Parliament, that he would have what place he would, and that he might be one of the Clerks to the Council if he would.
 
 1660-01-26 23:00   The news this day is a letter that speaks absolutely Monk’s concurrence with this Parliament, and nothing else, which yet I hardly believe.
 
-1660-01-26 21:20   I fell to writing of two characters for Mr. Downing, and carried them to him, and he did not like them but corrected them.
+1660-01-26 21:20 r Then they all went and I fell to writing of two characters for Mr. Downing, and carried them to him, and he did not like them but corrected them, so that tomorrow I am to do them anew.
 
-1660-01-26 15:20   We were as merry as I could frame myself to be in the company, W. Joyce talking after the old rate and drinking hard, vexed his father.
+1660-01-26 17:15 r When it became dark they all went away but Mr. Pierce, and W. Joyce, and their wives and Tom, and drank a bottle of wine afterwards, so that Will did heartily vex his father and mother by staying. At which I and my wife were much pleased.
 
-1660-01-26 13:41   …a dish of fowl, three pullets, two dozen larks in a dish; a great tart, a neat’s tongue, a dish of anchovies; a dish of prawns and cheese.
+1660-01-26 15:20 r My company was my father, my uncle Fenner, his two sons, Mr. Pierce, and all their wives, and my brother Tom. We were as merry as I could frame myself to be in the company, W. Joyce talking after the old rate and drinking hard, vexed his father and mother and wife.
 
-1660-01-26 13:30   To my Lord’s lodgings where my wife had got ready a very fine dinner. viz. a dish of marrow bones; a leg of mutton; a loin of veal;…
+1660-01-26 13:30   To my Lord’s lodgings where my wife had got ready a very fine dinner – viz. a dish of marrow bones; a leg of mutton; a loin of veal; a dish of fowl, three pullets, and two dozen larks all in a dish; a great tart, a neat’s tongue, a dish of anchovies; a dish of prawns and cheese.
 
-1660-01-25 23:00   To my Lord’s and got most things ready against tomorrow, and my wife was making of her tarts and larding of her pullets till eleven o’clock.
+1660-01-26 10:22   To my office for 20l. to carry to Mr. Downing, which I did and back again. Then came Mr. Frost to pay Mr. Downing his 500l., and I went to him for the warrant and brought it Mr. Frost. Called for some papers at Whitehall for Mr. Downing.
 
-1660-01-25 18:20   Mr. Evans, my Lady Wright's butler, had me into his buttery, and gave me sack and a lesson on his lute, which he played very well.
+1660-01-25 23:00   I went to my Lord’s and got most things ready against tomorrow, as fires and laying the cloth, and my wife was making of her tarts and larding of her pullets.
 
-1660-01-25 17:00   I called at Paul’s Churchyard, where I bought Buxtorf’s Hebrew Grammar; and read a declaration of the gentlemen of Northampton.
+1660-01-25 18:20   To my Lady Wright to speak with her, but she was abroad, so Mr. Evans, her butler, had me into his buttery, and gave me sack and a lesson on his lute, which he played very well.
 
-1660-01-25 14:40   I heard that in Cheapside there had been a gibbet set up, and the picture of Huson hung upon it in the middle of the street.
+1660-01-25 17:00   I called at Paul’s Churchyard, where I bought Buxtorf’s Hebrew Grammar; and read a declaration of the gentlemen of Northampton which came out this afternoon.
 
-1660-01-25 14:00   By water to my Uncle White’s to dinner, where I met my father, where we alone had a fine jole of Ling to dinner.
+1660-01-25 14:40   I heard that in Cheapside there had been but a little before a gibbet set up, and the picture of Huson hung upon it in the middle of the street.
 
-1660-01-24 20:30   The Parliament gave order that the late Committee of Safety should come before them, and all their papers, and their model of Government.
+1660-01-25 14:00   I went by water to my Uncle White’s to dinner, where I met my father, where we alone had a fine jole of Ling to dinner.
 
-1660-01-24 17:15   My father and I spoke privately in the little room to my sister Pall about stealing of things as my wife’s scissars and my maid’s book.
+1660-01-25 11:55   Called up early to Mr. Downing; he gave me a Character, such a one as my Lord’s, to make perfect, and likewise gave me his order for 500l. to carry to Mr. Frost, which I did and so to my office, where I did do something about the character.
 
-1660-01-24 14:55   Mr. Southerne, and Lambert, brought with them the declaration from the Parliament, wherein they declare for law and gospel, and for tythes.
+1660-01-24 20:30   This day the Parliament gave order that the late Committee of Safety should come before them this day se’nnight, and all their papers, and their model of Government that they had made, to be brought in with them.
+
+1660-01-24 17:15   With my father home, where he and I spoke privately in the little room to my sister Pall about stealing of things as my wife’s scissars and my maid’s book, at which my father was much troubled.
+
+1660-01-24 14:55   There came in Mr. Southerne,  and with him Lambert, lieutenant of my Lord’s ship, and brought with them the declaration that came out today from the Parliament, wherein they declare for law and gospel, and for tythes; but I do not find people apt to believe them.
 
 1660-01-24 14:30   Mr. Lucy and several other gentlemen coming in after dinner, swearing and singing as if they were mad, only he singing very handsomely.
 
-1660-01-24 14:15   There was pulling off Mrs. bride’s and Mr. bridegroom’s ribbons; with a great deal of fooling among them that I and my wife did not like.
+1660-01-24 14:00   We found Mrs. Carrick very fine, and one Mr. Lucy, who called one another husband and wife, and after dinner a great deal of mad stir. There was pulling off Mrs. bride’s and Mr. bridegroom’s ribbons, with a great deal of fooling among them that I and my wife did not like.
 
-1660-01-24 14:00   We found Mrs. Carrick very fine, and one Mr. Lucy, who called one another husband and wife, and after dinner a great deal of mad stir.
+1660-01-24 11:30   I called on my wife and took her to Mr. Pierces, she in the way being exceedingly troubled with a pair of new pattens, and I vexed to go so slow, it being late.
 
-1660-01-24 11:30   Took my wife to Mr. Pierces, she in the way being exceedingly troubled with a pair of new pattens, and I vexed to go so slow, it being late.
+1660-01-23 23:58   At the Clerk’s chamber I met with Simons and Luellin, and went with them to Mr. Mount’s chamber at the Cock Pit, where we had some rare pot venison, and ale to abundance till almost twelve at night, and after a song round we went home.
 
-1660-01-24 00:00   I met with Simons and Luellin, and went with them to Mr. Mount’s at the Cock Pit, where we had some rare pot venison, and ale to abundance.
+1660-01-23 18:30   I staid and made up Mrs. Ann’s bills, and played a game or two at cards, and thence to Westminster Hall, it being very dark. I paid Mrs. Michell, my bookseller, and back to Whitehall, and in the garden, going through to the Stone Gallery I fell into a ditch, it being very dark.
 
-1660-01-23 18:30   I paid Mrs. Michell, my bookseller, and back to Whitehall, and, going through to the Stone Gallery I fell into a ditch, it being very dark.
-
-1660-01-23 15:40   I went out and paid Waters, and went to see Mrs. Jem, where I found my Lady Wright, but Scott was so drunk that he could not be seen.
+1660-01-23 15:40   I went out and paid Wilkinson what I did owe him, and brought a piece of beef home for dinner. Thence I went out and paid Waters, the vintner, and went to see Mrs. Jem, where I found my Lady Wright, but Scott was so drunk that he could not be seen.
 
 1660-01-23 10:50   Came home and found my wife dressing of the girl’s head, by which she was made to look very pretty.
 
-1660-01-23 10:00   Called out to carry 20l. to Mr. Downing, and finding Mr. Pierce, the surgeon, I took him to the Axe and gave him his morning draft.
+1660-01-23 10:00   Called out to carry 20l. to Mr. Downing, which I did and came back, and finding Mr. Pierce, the surgeon, I took him to the Axe and gave him his morning draft.
 
 1660-01-22 21:45   This day I began to put on buckles to my shoes, which I have bought yesterday of Mr. Wotton.
 
 1660-01-22 17:15   To church to Mr. Herring, where a lazy poor sermon.
 
-1660-01-22 15:00   My father shewed me a letter from Mr. Widdrington, of Christ’s College, wherein he do express very great kindness for my brother.
+1660-01-22 15:00   After dinner my father showed me a letter from Mr. Widdrington, of Christ’s College, in Cambridge, wherein he do express very great kindness for my brother, and my father intends that my brother shall go to him.
 
-1660-01-22 12:55   By appointment my wife met me, and so to my father’s to dinner, where we had not been to my shame in a fortnight before.
+1660-01-22 12:55   At the door by appointment my wife met me, and so to my father’s to dinner, where we had not been to my shame in a fortnight before.
 
-1660-01-22 12:05   To Mr Messum’s. A sermon about the duty of all to give good example in our lives and conversation, which he himself was guilty of not doing.
+1660-01-22 12:05   To Mr. Messum’s, where I met with W. Thurburn and sat with him in his pew. A very eloquent sermon about the duty of all to give good example in our lives and conversation, which I fear he himself was most guilty of not doing.
 
-1660-01-21 19:30   Poor Mr. Cook, that is like to be put out of his clerk’s place, came and railed at me for endeavouring to put him out and get myself in.
+1660-01-21 19:30   Poor Mr. Cook, that is like to be put out of his clerk’s place, came and railed at me for endeavouring to put him out and get myself in, when I was already in a good condition. But I satisfied him.
 
 1660-01-21 16:20   To Steadman’s at the Mitre, in Fleet-street, in our way calling on Mr. Fage, who told me how the City have some hopes of Monk.
 
 1660-01-21 10:40   To my office where nothing to do.
 
-1660-01-21 09:10   To Mr. Downing who chid me because I did not give him notice of some of his guests failed him.
+1660-01-21 07:40   Up early in finishing my accounts and writing to my Lord and from thence to my Lord’s and took leave of Mr. Sheply and possession of all the keys and the house.
 
 1660-01-20 21:40   This day three citizens of London went to meet Monk from the Common Council.
 
-1660-01-20 17:30   To Westminster Hall where Mrs. Lane and the rest of the maids had their white scarfs, all having been at the burial of a young bookseller.
+1660-01-20 17:30   To Westminster Hall where Mrs. Lane and the rest of the maids had their white scarfs, all having been at the burial of a young bookseller in the Hall.
 
-1660-01-20 15:15   I went to the Coffee Club where there was nothing done but choosing of a Committee for orders.
+1660-01-20 15:15   Calling on Mr. Stephens and Wootton (with whom I drank) about business of my Lord’s I went to the Coffee Club where there was nothing done but choosing of a Committee for orders.
 
-1660-01-20 14:30   By water with Mr. Maylard and Hales to the Swan in Fish Street at our colly feast, where we were very merry at our Jole of Ling.
+1660-01-20 14:30   By water with Mr. Maylard and Hales to the Swan in Fish Street at our Goal Feast, where we were very merry at our Jole of Ling, and from thence Mr. Falconberge would go drink a cup of ale at a place where I had like to have shot at a scholar that lay over the house of office.
 
 1660-01-19 22:10   To bed.
 
-1660-01-19 19:00   With all the Clerks of the Council, and they do all tell me that my name was mentioned the last night, but that nothing was done in it.
+1660-01-19 19:00   I went to White Hall, and did stay at Marsh’s, with Simons, Luellin, and all the rest of the Clerks of the Council, who I hear are all turned out, only the two Leighs, and they do all tell me that my name was mentioned the last night, but that nothing was done in it.
 
-1660-01-19 14:50   To the French Ordinary, where Mr. Downing this day feasted Sir Arth. Haselrigge, and did stay to put him in mind of me.
+1660-01-19 14:50   To the French Ordinary, where Mr. Downing this day feasted Sir Arth. Haselrigge, and a great many more of the Parliament, and did stay to put him in mind of me.
 
-1660-01-19 10:50   To Whitehall where I met with Sir Ant. Cooper and did give him some answer from my Lord and he did give us leave to keep the lodgings still.
+1660-01-19 10:50   I met Mr. Pierce, so at the Harp and Ball drank our morning draft and so to Whitehall where I met with Sir Ant. Cooper and did give him some answer from my Lord and he did give us leave to keep the lodgings still.
 
-1660-01-19 09:10   I feared that Mr. Downing’s doing of it was but only to ease himself of the salary which he gives me.
+1660-01-19 08:56 r I could not tell what to do, whether to thank him or no; but by and by I did; but not very heartily, for I feared that his doing of it was but only to ease himself of the salary which he gives me.
 
-1660-01-19 08:56   I was a little stumbled, and could not tell what to do, whether to thank Mr. Downing or no; but by and by I did; but not very heartily.
+1660-01-19 08:45   At his bed side Mr. Downing told me, that he had a kindness for me, and that he thought that he had done me one; and that was, that he had got me to be one of the Clerks of the Council; at which I was a little stumbled.
 
-1660-01-19 08:45   Mr. Downing told me that he had a kindness for me; and that was that he had got me to be one of the Clerks of the Council.
-
-1660-01-18 20:45   The world is at a loss to think what Monk will do: the City saying that he will be for them, and the Parliament saying he will be for them.
+1660-01-18 20:45   All the world is at a loss to think what Monk will do: the City saying that he will be for them, and the Parliament saying he will be for them.
 
 1660-01-18 14:15   To Wilkinson’s, where we had a dinner for Mr. Talbot, Adams, Pinkny and his son, but his son did not come. Here we were very merry.
 
-1660-01-17 18:10   Sydenham was voted out of the House for sitting any more this Parliament, and Salloway was voted out likewise and sent to the Tower.
+1660-01-17 19:45   I turned in at Harper’s, where Jack Price was, and I drank with him and he told me, among other, things, how much the Protector is altered, though he would seem to bear out his trouble very well, yet he is scarce able to talk sense with a man.
 
-1660-01-17 15:40   Mr. Moore told me the reason of his melancholy was unkindness from Mrs. Jane after great expressions of love.
+1660-01-17 18:10   To Westminster, and met Shaw and Washington, who told me how this day Sydenham was voted out of the House for sitting any more this Parliament, and that Salloway was voted out likewise and sent to the Tower, during the pleasure of the House.
 
-1660-01-17 10:00   At Kensington we understood how that my Lord Chesterfield had killed another gentleman about half an hour before, and was fled.
+1660-01-17 16:30   To the Coffee Club, and heard good discourse; it was in answer to Mr. Harrington’s answer, who said that the state of the Roman government was not a settled government, and so it was no wonder that the balance of propriety was in one hand, and the command in another.
 
-1660-01-17 09:00   I took Mr. Woodfine to Will’s and drank with him. Thence to the coach, where my wife was ready, and so we went towards Twickenham.
+1660-01-17 15:40   I to Mr. Crew’s, thinking to have spoke with Mr. Moore and Mrs. Jane, he having told me the reason of his melancholy was some unkindness from her after so great expressions of love, and that he would desire me to take an occasion of speaking with her.
 
-1660-01-17 01:00   I staid up till the bell-man came by just under my window, and cried, “Past one of the clock, and a cold, frosty, windy morning.”
+1660-01-17 10:00 r In our way, at Kensington we understood how that my Lord Chesterfield had killed another gentleman about half an hour before, and was fled.
 
-1660-01-16 21:00   I played on my flageolet, and staid there till nine o’clock, very merry and drawn on with one song after another till it came to be so late.
+1660-01-17 09:00 r In the Hall I met Mr. Woodfine, and took him to Will’s and drank with him. Thence the child and I to the coach, where my wife was ready, and so we went towards Twickenham.
 
-1660-01-16 19:50   To the Green Dragon, on Lambeth Hill, and there we sang of all sorts of things, and I ventured with good success upon things at first sight.
+1660-01-17 07:50   I went to Mr. Crew’s, and having given Mr. Edward money to give the servants, I took him into the coach that waited for us and carried him to my house, where the coach waited for me while I and the child went to Westminster Hall, and bought him some pictures.
 
-1660-01-16 14:50   After dinner we had pretty good singing, and Hazard sung alone after the old fashion, which was very much cried up, but I did not like it.
+1660-01-17 01:00 r I staid up till the bell-man came by with his bell just under my window as I was writing of this very line, and cried, “Past one of the clock, and a cold, frosty, windy morning.” I then went to bed, and left my wife and the maid a-washing still.
 
-1660-01-16 10:40   Mr. Downing did mention to me his going back into Holland, and did ask me whether I would go or no, but gave me little encouragement.
+1660-01-16 22:40 r Sheply, Harrison and myself, we went towards Westminster on foot, and at the Golden Lion, near Charing Cross, we went in and drank a pint of wine, and so parted, and thence home, where I found my wife and maid a-washing.
 
-1660-01-16 09:10   I went to Mr. Crew’s, and he gave me direction to go to-morrow with Mr. Edward to Twickenham, and did talk to me concerning things of state.
+1660-01-16 21:00 r I ventured with good success upon things at first sight, and after that I played on my flageolet, and staid there till nine o’clock, very merry and drawn on with one song after another till it came to be so late.
+
+1660-01-16 19:50   To the Green Dragon, on Lambeth Hill, both the Mr. Pinkney’s, Smith, Harrison, Morrice, that sang the bass, Sheply and I, and there we sang of all sorts of things.
+
+1660-01-16 14:50 r But in a closet we had a very good dinner by Mr. Pinkny’s courtesy, and after dinner we had pretty good singing, and one, Hazard, sung alone after the old fashion, which was very much cried up, but I did not like it.
+
+1660-01-16 12:40   Harry Ethall came to me and went along with Mr. Maylard by coach as far as Salsbury Court, and there we set him down, and we went to the Clerks, where we came a little too late.
+
+1660-01-16 10:40   Mr. Downing he came and found me all alone; and did mention to me his going back into Holland, and did ask me whether I would go or no, but gave me little encouragement, but bid me consider of it.
+
+1660-01-16 09:55 r I went from thence, and in my way went into an alehouse and drank my morning draft with Matthew Andrews and two or three more of his friends, coachmen. And of one of them I did hire a coach to carry us tomorrow to Twickenham.
+
+1660-01-16 09:10   I went up to Mr. Crew’s, and at his bedside he gave me direction to go tomorrow with Mr. Edward to Twickenham, and likewise did talk to me concerning things of state; and expressed his mind how just it was that the secluded members should come to sit again.
 
 1660-01-15 21:00   It being a cold day and a great snow my physic did not work so well as it should have done.
 
-1660-01-15 12:50   My brother John came to me, and I corrected his Greek speech to say the Apposition, though I believe he was as well able to do it as myself.
+1660-01-15 12:50   My brother John came to me, and I corrected as well as I could his Greek speech to say the Apposition, though I believe he himself was as well able to do it as myself.
 
-1660-01-15 09:30   Having been exceedingly disturbed in the night with the barking of a dog that I could not sleep for an hour or two, I slept late.
+1660-01-15 09:30   Having been exceedingly disturbed in the night with the barking of a dog of one of our neighbours that I could not sleep for an hour or two, I slept late, and then in the morning took physic.
 
-1660-01-14 19:40   To the Coffee-house, and heard argument against Mr. Harrington’s assertion, that overbalance of propriety was the foundation of government.
+1660-01-14 19:40   I went with my wife, and left her at market, and went myself to the Coffee-house, and heard exceeding good argument against Mr. Harrington’s assertion, that overbalance of propriety was the foundation of government.
 
 1660-01-14 11:50   I met with Captain Holland, who told me that he hath brought his wife to my house, so I posted home and got a dish of meat for them.
 
-1660-01-13 21:30   I went home and found my wife gone abroad to Mr. Hunt’s, and came in a little after me.
+1660-01-13 21:30   I went home and found my wife gone abroad to Mr. Hunt’s, and came in a little after me. So to bed.
 
 1660-01-13 19:10   To Mr. Vines, where he and I and Mr. Hudson played half-a-dozen things, there being there Dick’s wife and her sister.
 
-1660-01-13 17:30   I went to Mrs. Jem, and found her up and merry, and that it did not prove the small-pox, but only the swine-pox.
+1660-01-13 17:30   I went to Mrs. Jem, and found her up and merry, and that it did not prove the small-pox, but only the swine-pox; so I played a game or two at cards with her.
 
-1660-01-13 16:20   My wife was unwilling to let me go forth. I saw she followed me, and so I took her round through Whitehall, and so carried her home angry.
+1660-01-13 16:20   Home again, and my wife was very unwilling to let me go forth, but with some discontent would go out if I did, and I going forth towards Whitehall, I saw she followed me, and so I staid and took her round through Whitehall, and so carried her home angry.
 
 1660-01-13 10:10   To my office, where nothing to do. So to Will’s with Mr. Pinkney, who invited me to their feast at his Hall the next Monday.
 
-1660-01-13 09:00   Mr. Fage told me that Monk’s letter that came to them by the sword-bearer was a cunning piece, and that which they did not much trust to.
+1660-01-13 09:03 r He also told me that Monk’s letter was a cunning piece, and that which they did not much trust to; but they were resolved to make no more applications to the Parliament, nor to pay any money, unless the secluded members be brought in, or a free Parliament chosen.
+
+1660-01-13 09:00   Mr. Fage told me how high Haselrigge, and Morly, began at my Lord Mayor’s to exclaim against the City of London, saying they had forfeited their charter. And how the Chamberlain of the City did take them down, letting them know how much they were formerly beholding to the City.
 
 1660-01-12 21:50   I went to bed, and in discourse broke to my wife what my thoughts were concerning my design of getting money by, &c.
 
-1660-01-12 18:10   Finding my letters this day not gone by the carrier I new sealed them, but my brother Tom coming we fell into discourse.
+1660-01-12 21:10   Home, and finding my letters this day not gone by the carrier I new sealed them, but my brother Tom coming we fell into discourse about my intention to feast the Joyces. I sent for a bit of meat for him from the cook’s, and forgot to send my letters this night.
 
-1660-01-12 14:20   To the Half Moon, where I found the Captain and Mr. Billingsly, where we were merry, and had the man that plays so well on the Welsh harp.
+1660-01-12 14:20   To the Half Moon, where I found the Captain and Mr. Billingsly and Newman, a barber, where we were very merry, and had the young man that plays so well on the Welsh harp. Billingsly paid for all.
 
-1660-01-12 11:00   I drink my morning at Harper’s with Mr. Sheply and a seaman, and so to my office where Captain Holland appointed a meeting in the afternoon.
+1660-01-12 11:00   I drink my morning at Harper’s with Mr. Sheply and a seaman, and so to my office, where Captain Holland came to see me, and appointed a meeting in the afternoon.
 
 1660-01-11 19:50   I went to see Mrs. Jem, who was in bed, and now granted to have the small-pox.
 
@@ -182,119 +210,125 @@ YYYY-MM-DD HH:MM   1234567890123456789012345678901234567890123456789012345678901
 
 1660-01-11 17:10   I went towards London, and in my way went in to see Crowly, who was now grown a very great loon and very tame.
 
-1660-01-11 15:15   After a game at shittle-cock with Mr. Walgrave and Mr. Edward, I returned to my father, and went to an alehouse.
+1660-01-11 15:15   After a game at shittle-cock with Mr. Walgrave and Mr. Edward, I returned to my father, and taking him from W. Joyce’s, who was not abroad himself, we inquired of a porter, and by his direction went to an alehouse, where after a cup or two we parted.
 
-1660-01-11 11:30   Being at Will’s with Captain Barker, who hath paid me 300l. this morning, in comes my father, and with him I walked.
+1660-01-11 13:30   Being at Will’s with Captain Barker, who hath paid me 300l. this morning at my office, in comes my father, and with him I walked, and leave him at W. Joyce’s, and went myself to Mr. Crew’s, but came too late to dine.
 
-1660-01-10 21:10   I went home and wrote a letter, and went to Harper’s, and staid there till Tom carried it to the postboy at Whitehall.
+1660-01-10 21:10   I went home and wrote a letter, and went to Harper’s, and staid there till Tom carried it to the postboy at Whitehall. So home to bed.
 
-1660-01-10 19:40   With Doling to Mother Lams, who told me how this day Scott was made Intelligencer.
+1660-01-10 19:40   With Doling to Mother Lams, who told me how this day Scott was made Intelligencer, and that the rest of the members that were objected against last night, their business was to be heard this day se’nnight.
 
-1660-01-10 19:00   To the Coffee-house, where were a great confluence of gentlemen; viz Mr. Harrington, Poultny, Gold, Dr Petty; &c, where admirable discourse.
+1660-01-10 19:00   To the Coffee-house, where were a great confluence of gentlemen; viz. Mr. Harrington, Poultny, chairman, Gold, Dr Petty; &c., where admirable discourse till at night.
 
-1660-01-10 17:10   To Westminster, overtaking Captain Okeshott in his silk cloak, whose sword got hold of many people in walking.
+1660-01-10 17:10   So to Westminster, overtaking Captain Okeshott in his silk cloak, whose sword got hold of many people in walking.
 
-1660-01-10 14:45   Jenings and I into London (it being through heat of the sun a great thaw and dirty), and coming back drank a pint of wine at the Star.
+1660-01-10 14:45   Jenings and I into London (it being through heat of the sun a great thaw and dirty) to show our bills of return, and coming back drank a pint of wine at the Star in Cheapside.
 
 1660-01-10 12:30   Into the Hall, and meeting the Quarter Master, Jenings, and Captain Rider, we four went to a cook’s to dinner.
 
-1660-01-10 07:40   In my way met with Greatorex, and at an alehouse he showed me the first sphere of wire that ever he made, and indeed it was very pleasant.
+1660-01-10 07:40   Went out early, and in my way met with Greatorex, and at an alehouse he showed me the first sphere of wire that ever he made, and indeed it was very pleasant.
 
-1660-01-09 22:00   Mr. Hawly told me that I must pay all the money that I have, at which I was put to a great loss how I should get money to make up my cash.
+1660-01-09 22:00   Mr. Hawly told me that I was mist this day at my office, and that tomorrow I must pay all the money that I have, at which I was put to a great loss how I should get money to make up my cash, and so went to bed in great trouble.
 
-1660-01-09 19:35   I heard how the nine officers that had their commissions taken away from them, were commanded to their farthest houses from London.
+1660-01-09 21:54   I met with the Quarter Master of my Lord’s troop, and his clerk Mr. Jenings, and took them home, and gave them a bottle of wine, and the remainder of my collar of brawn; and so good night.
+
+1660-01-09 19:35   Sir H. Vane was voted out of the House, and he would retire himself to his house at Raby, as also all the rest of the nine officers that had their commissions formerly taken away from them, were commanded to their farthest houses from London during the pleasure of the Parliament.
 
 1660-01-09 18:15   To Mrs. Jem’s, and found her in bed, and she was afraid that it would prove the small-pox.
 
-1660-01-09 17:30   Into the Hall, where I heard for certain that Monk was coming to London, and that Bradshaw’s lodgings were preparing for him.
+1660-01-09 17:30   I went with Muddiman to the Coffee-House, and gave 18d. to be entered of the Club. Thence into the Hall, where I heard for certain that Monk was coming to London, and that Bradshaw’s lodgings were preparing for him.
 
-1660-01-09 11:00   Scobel was called to the bar for entering in the journal for 1653: “This day his Excellence the Lord General Cromwell dissolved this House.”
+1660-01-09 14:10 r W. Simons told me how his uncle Scobel was called to the bar, for entering in the journal of the House, for the year 1653, these words: “This day his Excellence the Lord General Cromwell dissolved this House;” which words the Parliament voted a forgery.
 
-1660-01-09 09:45   I found Muddiman a good scholar, an arch rogue; though he writes new books for the Parliament, he did declare he did it only to get money.
+1660-01-09 14:04 r I found Muddiman a good scholar, an arch rogue; and owns that though he writes news books for the Parliament, yet he did declare that he did it only to get money; and did talk very basely of many of them.
 
-1660-01-09 08:55   I have been troubled with thoughts how to get money to pay them that I have borrowed money of, my money being in my uncle’s hands.
+1660-01-09 14:02   I looked over and corrected my brother John’s speech, which he is to make the next apposition, and after that I went towards my office, and in my way met with W. Simons, Muddiman, and Jack Price, and went with them to Harper’s and in many sorts of talk.
 
-1660-01-08 13:15   To my father’s, where I found my wife, who was forced to dine there, we not having one coal of fire, and it being very hard frosty weather.
+1660-01-09 08:55   For these two or three days I have been much troubled with thoughts how to get money to pay them that I have borrowed money of, by reason of my money being in my uncle’s hands.
 
-1660-01-08 11:45   To Mr. Gunning’s, where a good sermon, wherein he told us good authority for us to believe that Christ did follow his father’s trade.
+1660-01-08 13:15   To my father’s to dinner, where I found my wife, who was forced to dine there, we not having one coal of fire in the house, and it being very hard frosty weather.
 
-1660-01-07 22:35   And so we went home, and put in at my Lord’s lodgings, where we staid late, eating of his turkey-pie, and reading of Quarles’ Emblems.
+1660-01-08 11:45   I went to Mr. Gunning’s, where a good sermon, wherein he showed the life of Christ, and told us good authority for us to believe that Christ did follow his father’s trade, and was a carpenter till thirty years of age.
 
-1660-01-07 20:20   I went to Dr. Whores, where I heard some symphony and songs of his own making, performed by Mr. May, Harding, and Mallard.
+1660-01-07 22:35   And so we went home, and put in at my Lord’s lodgings, where we staid late, eating of part of his turkey-pie, and reading of Quarles’ Emblems. So home and to bed.
 
-1660-01-07 18:45   A great deal of discourse with one of the Embassador's gentlemen concerning the difference between the zeal of the French and the Spaniard.
+1660-01-07 20:20   I went along with them to Dr. Whores (sending my wife to Mrs. Jem’s to a sack-posset), where I heard some symphony and songs of his own making, performed by Mr. May, Harding, and Mallard.
 
-1660-01-07 17:30   A messenger from Mr. Downing came to fetch me, so I went and was forced to stay in expectation of the French Embassador, who at last came.
+1660-01-07 18:15   A messenger from Mr. Downing came to fetch me, so I went and was forced to stay till night in expectation of the French Embassador. I had a great deal of discourse with one of his gentlemen concerning the reason of the difference between the zeal of the French and the Spaniard.
+
+1660-01-07 14:10   At my office, in came Mrs. Turner, Theoph., Madame Morrice, and Joyce, and after I had done I took them home to my house and Mr. Hawly came after, and I got a dish of steaks and a rabbit for them, while they were playing a game or two at cards.
 
 1660-01-07 12:45   I took Mrs. Turner, Theoph. Madame Morrice, and Joyce, home to my house, and I got a dish of steaks and a rabbit for them.
 
-1660-01-06 21:00   To my cosen, where, after a good supper, we had a brave cake brought us, and in the choosing, Pall was Queen and Mr. Stradwick was King.
+1660-01-06 21:00 r To my cosen Stradwick, where, after a good supper, there being there my father, mother, brothers, and sister, my cosen Scott and his wife, Mr. Drawwater and his wife, and her brother, Mr. Stradwick, we had a brave cake brought us, and Pall was Queen and Mr. Stradwick was King.
 
-1660-01-06 16:35   I went to Westminster to Mr. Vines, where George and I fiddled a good while, Dick and his wife and her sister being there.
+1660-01-06 16:35 r Leaving my wife with my cozen Stradwick, I went to Westminster to Mr. Vines, where George and I fiddled a good while, Dick and his wife (who was lately brought to bed) and her sister being there.
 
-1660-01-06 13:15   Went to my cosen, and found them just sat down to dinner, which was good; only the venison pasty was palpable beef, which was not handsome.
+1660-01-06 13:15   I took my wife and went to my cosen, Thomas Pepys, and found them just sat down to dinner, which was very good; only the venison pasty was palpable beef, which was not handsome.
 
 1660-01-06 08:30   Mr. Sheply and I did eat our breakfast at Mrs. Harper’s, (my brother John being with me) upon a cold turkey-pie and a goose.
 
-1660-01-05 20:56   Mr. Fage told me it is true the City had not time enough to do much, but they are resolved to shake off the soldiers.
+1660-01-05 21:58   I went to my father’s, where I found Mrs. Ramsey and her grandchild, a pretty girl, and staid a while and talked with them and my mother, and then took my leave, only heard of an invitation to go to dinner tomorrow to my cosen Thomas Pepys.
 
-1660-01-05 20:45   I left my wife playing at cards, and went with my lanthorn to Mr. Fage, to consult concerning my nose, who told me it was nothing but cold.
+1660-01-05 20:56 r He told me it is true the City had not time enough to do much, but they are resolved to shake off the soldiers; and that unless there be a free Parliament chosen, he did believe there are half the Common Council will not levy any money by order of this Parliament.
 
-1660-01-05 20:00   My wife and I, it being a great frost, went to Mrs. Jem’s, in expectation to eat a sack-posset, but Mr. Edward not coming it was put off.
+1660-01-05 20:45   I went with my lanthorn to Mr. Fage, to consult concerning my nose, who told me it was nothing but cold.
 
-1660-01-05 19:11   Monk and Fairfax were commanded up to town, and the Prince’s lodgings are to be provided for Monk at Whitehall.
+1660-01-05 20:00   My wife and I, it being a great frost, went to Mrs. Jem’s, in expectation to eat a sack-posset, but Mr. Edward not coming it was put off; and so I left my wife playing at cards with her.
 
-1660-01-05 19:00   The Parliament hath this night voted that the members that were discharged from sitting in the years 1648 and 49, were duly discharged.
+1660-01-05 19:00   The Parliament hath this night voted that the members that were discharged from sitting in the years 1648 and 49, were duly discharged; and Monk and Fairfax were commanded up to town, and the Prince’s lodgings were to be provided for Monk at Whitehall.
 
-1660-01-05 17:00   And so to my office again; where the Excise money was brought, and some of it told to soldiers.
+1660-01-05 17:00   And so to my office again; where the Excise money was brought, and some of it told to soldiers till it was dark.
 
 1660-01-05 13:00   I dined with Mr. Sheply, at my Lord’s lodgings, upon his turkey-pie.
 
 1660-01-04 23:00   Home and so to bed, but much troubled with my nose, which was much swelled.
 
-1660-01-04 22:00   Home, and from thence to Mr. Hunt’s, and sat with them and Mr. Hawly at cards, and was much made of by them.
+1660-01-04 22:00   Home, and from thence to Mr. Hunt’s, and sat with them and Mr. Hawly at cards till ten at night, and was much made of by them.
 
-1660-01-04 18:45   Certain news that my Lord Lambert his forces were all forsaking him, and that he did now declare for the Parliament himself.
+1660-01-04 20:45   I went to Will’s again, where I found them still at cards, and Spicer had won 14s. of Shaw and Vines. Then I spent a little time with G. Vines and Maylard at Vines’s at our viols.
 
-1660-01-04 15:05   To Shaw, but I found him at cards with Spicer and D. Vines, and could not get him along with me. I was vext at this.
+1660-01-04 18:45   Came letters from the North, that brought certain news that my Lord Lambert his forces were all forsaking him, and that he was left with only fifty horse, and that he did now declare for the Parliament himself.
 
-1660-01-04 13:30   Some say that Lambert must yield up; others, that he is strong and the Fifth-monarchy-men stick to him if he declares for a free Parliament.
+1660-01-04 15:05   I went to Will’s to Shaw, who promised me to go along with me to Atkinson’s about some money, but I found him at cards with Spicer and D. Vines, and could not get him along with me. I was vext at this.
+
+1660-01-04 13:30   Strange the difference of men’s talk! Some say that Lambert must of necessity yield up; others, that he is very strong, and that the Fifth-monarchy-men stick to him, if he declares for a free Parliament.
 
 1660-01-04 12:10   It snowed hard all this morning, and was very cold, and my nose was much swelled with cold.
 
-1660-01-04 10:20   I met with the Clerk and Quarter Master of my Lord’s troop, and took them to the Swan and gave them their morning’s draft.
+1660-01-04 10:20   Then into the Hall again, where I met with the Clerk and Quarter Master of my Lord’s troop, and took them to the Swan and gave them their morning’s draft, they being just come to town. Mr. Jenkins showed me two bills of exchange for money to receive upon my Lord’s and my pay.
 
 1660-01-04 09:55   I went down into the Hall and to Will’s, where Hawly brought a piece of his Cheshire cheese, and we were merry with it.
 
-1660-01-04 07:45   Came Mr. Vanly to me for his half-year’s rent, which I had not in the house, but took his man to the office and there paid him.
+1660-01-04 07:45   Early came Mr. Vanly to me for his half-year’s rent, which I had not in the house, but took his man to the office and there paid him.
 
 1660-01-03 22:15   I went home, and there found Mr. Hunt and his wife, and Mr. Hawly, who sat with me till ten at night at cards, and so broke up and to bed.
 
-1660-01-03 17:45   The Parliament voted that vacancies, by the death of the old members, shall be filled up; but those that are living shall not be called in.
+1660-01-03 17:45 r They had also voted that all vacancies in the House, by the death of any of the old members, shall be filled up; but those that are living shall not be called in.
 
-1660-01-03 17:30   To White Hall, where I understood that the Parliament had passed the act for indemnity to the soldiers and officers that would come in.
+1660-01-03 17:30   To White Hall, where I understood that the Parliament had passed the act for indemnity to the soldiers and officers that would come in, in so many days, and that my Lord Lambert should have benefit of the said act.
 
-1660-01-03 13:00   Went home, where Mrs. Jem, her maid, Mr. Sheply, Hawly, and Moore dined with me on a piece of beef and cabbage, and a collar of brawn.
+1660-01-03 16:30   Went home, where Mrs. Jem, her maid, Mr. Sheply, Hawly, and Moore dined with me on a piece of beef and cabbage, and a collar of brawn. We then fell to cards till dark.
 
 1660-01-03 11:15   I went to Westminster, where I found soldiers in my office to receive money, and paid it them.
 
-1660-01-03 08:55   I went out, it being a great frost, and walked to Mrs. Turner’s to stop her from coming to see me to-day, because of Mrs. Jem’s coming.
+1660-01-03 08:55   I went out, it being a great frost, and walked to Mrs. Turner’s to stop her from coming to see me today, because of Mrs. Jem’s coming.
 
 1660-01-03 07:30   My wife had a very bad night of it through wind and cold.
 
-1660-01-02 21:50   Having not eaten anything but bread and cheese, my wife cut me a slice of brawn which I received from my Lady; as good as ever I had any.
+1660-01-02 21:50   Having not eaten anything but bread and cheese, my wife cut me a slice of brawn which I received from my Lady; which proves as good as ever I had any. So to bed.
 
 1660-01-02 21:10   I went home, and finding my wife gone to see Mrs. Hunt, I went to Will’s, and there sat with Mr. Ashwell talking and singing, and so home.
 
-1660-01-02 13:15   Mr. Moore and I and another gentleman went out and drank a cup of ale in the new market, and I eat some bread and cheese for my dinner.
+1660-01-02 13:15   Mr. Moore and I and another gentleman went out and drank a cup of ale together in the new market, and there I eat some bread and cheese for my dinner.
 
-1660-01-02 11:20   Great talk that many places have declared for a free Parliament; it is believed they will be forced to fill up the House with old members.
+1660-01-02 11:20 r Great talk that many places have declared for a free Parliament; and it is believed that they will be forced to fill up the House with the old members.
 
-1660-01-02 10:30   The House was to-day upon finishing the act for the Council of State, which they did; and were to sit again thereupon in the afternoon.
+1660-01-02 10:30   The House was today upon finishing the act for the Council of State, which they did; and for the indemnity to the soldiers; and were to sit again thereupon in the afternoon.
 
 1660-01-02 09:25   I went to Mr. Crew’s and borrowed 10l. of Mr. Andrewes for my own use, and so went to my office, where there was nothing to do.
 
-1660-01-02 08:45   I went to Mr. Sheply who was drawing of sack in the cellar, and told me that my Lord had given him order to give me the dozen of bottles.
+1660-01-02 08:45   I went to Mr. Sheply who was drawing of sack in the wine cellar to send to other places as a gift from my Lord, and told me that my Lord had given him order to give me the dozen of bottles.
 
 1660-01-02 08:05   Before I went forth old East brought me a dozen of bottles of sack, and I gave him a shilling for his pains.
 
@@ -304,12 +338,12 @@ YYYY-MM-DD HH:MM   1234567890123456789012345678901234567890123456789012345678901
 
 1660-01-01 14:20   Dined at home in the garret, where my wife dressed the remains of a turkey, and in the doing of it she burned her hand.
 
-1660-01-01 12:00   Went to Mr. Gunning’s chapel, where he made a very good sermon: “That in the fulness of time God sent his Son, made of a woman,” &c.
+1660-01-01 12:00   Went to Mr. Gunning’s chapel at Exeter House, where he made a very good sermon upon these words: “That in the fulness of time God sent his Son, made of a woman,” &c.; showing, that, by “made under the law,” is meant his circumcision, which is solemnized this day.
 
-1660-01-01 10:28   My own private condition very handsome, and esteemed rich, but indeed very poor; besides my office, which at present is somewhat uncertain.
+1660-01-01 10:28 r My own private condition very handsome, and esteemed rich, but indeed very poor; besides my goods of my house, and my office, which at present is somewhat uncertain. Mr. Downing master of my office.
 
-1660-01-01 10:17   The new Common Council of the City sent to Monk their sword-bearer, to acquaint him with their desires for a free and full Parliament.
+1660-01-01 10:17 r The new Common Council of the City do speak very high; and had sent to Monk their sword-bearer, to acquaint him with their desires for a free and full Parliament, which is at present the desires, and the hopes, and expectation of all.
 
-1660-01-01 10:06   Blessed be God, at the end of the last year I was in very good health, without any sense of my old pain, but upon taking of cold.
+1660-01-01 10:06   Blessed be God, at the end of the last year I was in very good health, without any sense of my old pain, but upon taking of cold. I lived in Axe Yard having my wife, and servant Jane, and no more in family than us three.
 
 1660-01-01 08:25   I rose, put on my suit with great skirts, having not lately worn any other clothes but them.
