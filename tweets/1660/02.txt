@@ -360,7 +360,7 @@ YYYY-MM-DD HH:MM r 1234567890123456789012345678901234567890123456789012345678901
 
 1660-02-02 16:37 r I took my money and went to Mrs. Johnson, my Lord’s sempstress, and giving her my money to lay up, Doling and I went up stairs to a window, and see the foot face the horse and beat them back, and stood bawling and calling in the street for a free Parliament and money.
 
-1660-02-02 16:15 r After I had received the money we went to the Bridge Tavern and drank a quart of wine and so back by water, landing Mr. Calthrop’s man at the Temple and we went homewards but over against Somerset House, hearing the noise of guns, we landed and found the Strand full of soldiers.
+1660-02-02 16:15   After I had received the money we went to the Bridge Tavern and drank a quart of wine and so back by water, landing Mr. Calthrop’s man at the Temple and we went homewards but over against Somerset House, hearing the noise of guns, we landed and found the Strand full of soldiers.
 
 1660-02-02 08:50   Drank at Harper’s with Doling, and so to my office, where I found all the officers of the regiments in town, waiting to receive money that their soldiers might go out of town, and what was in the Exchequer they had.
 
