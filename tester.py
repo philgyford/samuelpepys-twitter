@@ -66,7 +66,7 @@ class Tester:
 
         for line in lines:
             if line != "":
-                # Use same match as in tweeter.py, and only test matching lines.
+                # Use same match as in poster.py, and only test matching lines.
 
                 pattern = r"""
                     ^                           # Start of line

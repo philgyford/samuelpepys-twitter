@@ -1,6 +1,6 @@
 from apscheduler.schedulers.background import BackgroundScheduler
 import logging
-import tweeter
+import poster
 
 logging.basicConfig()
 scheduler = BackgroundScheduler()
@@ -9,8 +9,8 @@ scheduler = BackgroundScheduler()
 def timed_job():
     # Yes, this should add this stuff to a queue, rather than running it
     # directly. It doesn't.
-    tw = tweeter.Tweeter()
-    tw.start()
+    p = poster.Poster()
+    p.start()
 
 scheduler.start()
 

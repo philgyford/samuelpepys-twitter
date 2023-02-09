@@ -8,88 +8,87 @@ Mastodon account.
 Uses Redis to store the time the script last ran.
 
 It can send only Twitter tweets, or only Mastodon toots, or send identical
-updates to both simultaneously. The instructions below mostly refer to "tweets"
-but consider tweets/toots interchangeable.
+updates to both simultaneously.
 
 It needs to be run automatically, ideally once per minute, e.g. via `cron`.
 Every minute, this should be run:
 
-    python tweeter.py
+    python poster.py
 
 See below for installation instructions, including for Heroku.
 
 
-## Tweet files
+## Post files
 
-There are files of tweets in dated yearly directories and monthly files, eg,
-`tweets/1660/01.txt`. Most recent tweets at the top of each file. The years
+There are files of posts in dated yearly directories and monthly files, eg,
+`posts/1660/01.txt`. Most recent posts at the top of each file. The years
 should be `YEARS_AHEAD` years ago. eg, if `YEARS_AHEAD` is set to `353`, then
-tweets in the `1660` directory will be used in 2013.
+posts in the `1660` directory will be used in 2013.
 
-You could set `YEARS_AHEAD` to `0` and then tweets will be sent on the day
+You could set `YEARS_AHEAD` to `0` and then posts will be sent on the day
 they're dated for. Possibly a more useful and common requirement!
 
-Tweets should be in time order, with most recent first. Each tweet should be on
+Posts should be in time order, with most recent first. Each post should be on
 a single line, preceded by its date and time,  and an optional 'r' (to indicate
-the tweet's "kind". `r`, a reply, is currently the only option, see below). Valid formats:
+the post's "kind". `r`, a reply, is currently the only option, see below). Valid formats:
 
-    1660-01-02 11:20   This is tweet 3
+    1660-01-02 11:20   This is post 3
 
-    1660-01-02 11:18 r This is a reply to tweet 1.
+    1660-01-02 11:18 r This is a reply to post 1.
 
-    1660-01-02 11:16   This is tweet 1.
+    1660-01-02 11:16   This is post 1.
 
 Any lines that aren't of that format will be ignored. So feel free to comment
-out any tweets to be ignored by prepending them with a different character, and
+out any posts to be ignored by prepending them with a different character, and
 leave blank lines to make reading easier.
 
-The script doesn't check for length of tweet, so any tweets longer than 280
+The script doesn't check for length of post, so any posts longer than 280
 characters will be submitted and rejected.
 
 
-## What gets tweeted
+## What gets posted
 
-The script looks through all the tweets and grabs any whose time (adjusted with
+The script looks through all the posts and grabs any whose time (adjusted with
     `YEARS_AHEAD`) fulfills all three conditions:
 
 1. It is earlier than *now* (ie, not in the future).
 2. It is since the script last ran.
 3. It is also since `MAX_TIME_WINDOW` minutes ago.
 
-The last condition is to catch the following scenario: Something goes wrong with the server or script and it isn't run successfully for, say, 12 hours. The next time it's run it would instantly tweet all tweets set for the last 12 hours. Assuming we don't want this, set `MAX_TIME_WINDOW` to how many minutes back we'd want to check.
+The last condition is to catch the following scenario: Something goes wrong with the server or script and it isn't run successfully for, say, 12 hours. The next time it's run it would instantly post all posts set for the last 12 hours. Assuming we don't want this, set `MAX_TIME_WINDOW` to how many minutes back we'd want to check.
 
-If you *would* want to tweet all the past 12 hours worth of tweets, set `MAX_TIME_WINDOW` to a very large number.
+If you *would* want to post all the past 12 hours worth of posts, set `MAX_TIME_WINDOW` to a very large number.
 
-Any tweets that match those conditions will be tweeted a couple of seconds apart, in the order their datetimes are in.
+Any posts that match those conditions will be posted a couple of seconds apart, in the order their datetimes are in.
 
 
 ## Replies
 
 If a line has an `r` between the time and the text, it is a reply to whichever
-tweet is on the line below it, so it will be posted "in reply to" that tweet.
-If, for some reason, the previous tweet failed to post, the reply will still
+post is on the line below it, so it will be posted "in reply to" that post.
+If, for some reason, the previous post failed to post, the reply will still
 be posted, but not as a reply.
 
 Note: Replies do not currently work across month boundaries. i.e. if the very
-earliest tweet in a month's file is an `r` it will be posted as a standard,
-non-reply tweet.
+earliest post in a month's file is an `r` it will be posted as a standard,
+non-reply post.
 
 
 ## Testing
 
-Use the included `tester.py` script to check the formatting of all tweet files.
-It will list errors for any tweets that are in the wrong order, or that are too
+Use the included `tester.py` script to check the formatting of all post files.
+It will list errors for any posts that are in the wrong order, or that are too
 long, or that aren't of the correct format. eg:
 
 	$ python tester.py
 
-	FILE tweets/1660/01.txt
+	FILE posts/1660/01.txt
 	 1660-01-31 12:40: Time is after previous time (1660-01-31 11:00:00).
 
-	FILE tweets/1660/08.txt
-	 1660-08-28 22:50: Tweet is 281 characters long.
+	FILE posts/1660/08.txt
+	 1660-08-28 22:50: Post is 281 characters long.
 
-	FILE tweets/1660/09.txt
+	FILE posts/1660/09.txt
 	 1660-08-29 14:12: Kind should be nothing or 'r'. It was: 'x'.
 
 
@@ -121,13 +120,13 @@ If using environment settings, they are listed below. If `REDIS_URL` or its conf
     # Output extra debug text while running? 1 or 0 (Default).
     VERBOSE=1
 
-    # How many years ahead of the dated tweets are we? (Default: 0)
+    # How many years ahead of the dated posts are we? (Default: 0)
     YEARS_AHEAD=353
 
-    # Regardless of when the script last ran, never send tweets that are older than this many minutes. (Default: 20)
+    # Regardless of when the script last ran, never send posts that are older than this many minutes. (Default: 20)
     MAX_TIME_WINDOW=20
 
-    # Which timezone are the times of the tweets in? (Default: 'Europe/London')
+    # Which timezone are the times of the posts in? (Default: 'Europe/London')
     TIMEZONE='Europe/London'
 
 	# Example value:
@@ -148,9 +147,9 @@ environment settings.
 
 Then just run the script:
 
-    $ pipenv run ./tweeter.py
+    $ pipenv run ./poster.py
 
-That will send a tweet if there is one with an appropriate date and time.
+That will send a post if there is one with an appropriate date and time.
 
 
 ## Heroku setup
@@ -171,12 +170,12 @@ Copy the Redis add-on's URL to the `REDIS_URL` environment variable:
 	[ copy that value ]
 	$ h config:set REDIS_URL=redis://rediscloud:...
 
-Push all the code  and tweets to your Heroku app:
+Push all the code and posts to your Heroku app:
 
     $ git push heroku master
 
 There you go. I think that's it... The `Procfile` specifies a `clock` process
-that runs `clock.py`. This sets up a scheduler to run the code in `tweeter.py`
+that runs `clock.py`. This sets up a scheduler to run the code in `poster.py`
 every minute.
 
 
@@ -191,4 +190,4 @@ Add the free [Heroku Scheduler](https://addons.heroku.com/scheduler) to your app
 
     $ heroku addons:add scheduler:standard
 
-Have it run `python tweeter.py` every 10 minutes.
+Have it run `python poster.py` every 10 minutes.

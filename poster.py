@@ -18,7 +18,7 @@ from mastodon import Mastodon, MastodonError
 logging.basicConfig()
 
 
-class Tweeter:
+class Poster:
 
     twitter_consumer_key = ""
     twitter_consumer_secret = ""
@@ -33,14 +33,14 @@ class Tweeter:
     # 1 will output stuff.
     verbose = 0
 
-    # How many years ahead are we of the dated tweets?
+    # How many years ahead are we of the dated posts?
     years_ahead = 0
 
     # No matter when we last ran this script, we'll only ever post
-    # tweets from within the past max_time_window minutes.
+    # posts from within the past max_time_window minutes.
     max_time_window = 20
 
-    # Which timezone are we using to check when tweets should be sent?
+    # Which timezone are we using to check when posts should be sent?
     # eg 'Europe/London'.
     # See http://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
     # possible strings.
@@ -492,9 +492,9 @@ class Tweeter:
 
 
 def main():
-    tweeter = Tweeter()
+    poster = Poster()
 
-    tweeter.start()
+    poster.start()
 
 
 if __name__ == "__main__":
