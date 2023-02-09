@@ -9,11 +9,11 @@ import re
 class Tester:
     """
     Test all the text files to ensure:
-        * Tweets are all in order - within each file the most recent should
+        * Posts are all in order - within each file the most recent should
           be first.
-        * All Tweets are <= 280 characters in length.
-        * All Tweets start with something that's not a lowercase character.
-        * All Tweets end with something that's not a lowercase character.
+        * All posts are <= 280 characters in length.
+        * All posts start with something that's not a lowercase character.
+        * All posts end with something that's not a lowercase character.
 
     Outputs a report listing all errors.
     """
@@ -25,16 +25,16 @@ class Tester:
         # Will be a list of dicts:
         self.errors = []
 
-        self.tweet_count = 0
+        self.post_count = 0
 
     def start(self):
 
-        # Cycle through every directory in /tweets/ whose name is four digits:
-        for d in glob("{}/tweets/{}".format(self.project_root, "[0-9]" * 4)):
+        # Cycle through every directory in /posts/ whose name is four digits:
+        for d in glob("{}/posts/{}".format(self.project_root, "[0-9]" * 4)):
             for f in os.listdir(d):
                 # Test every .txt file:
                 if f.endswith(".txt"):
-                    self.test_file(os.path.join(self.project_root, "tweets", d, f))
+                    self.test_file(os.path.join(self.project_root, "posts", d, f))
 
         last_file = None
 
@@ -45,13 +45,13 @@ class Tester:
                 if last_file is None or last_file != err["filepath"]:
                     # eg 'FILE: 1660/01.txt'
                     dir_file = "/".join(err["filepath"].split("/")[-2:])
-                    print("\nFILE tweets/{}".format(dir_file))
+                    print("\nFILE posts/{}".format(dir_file))
 
                 print(" {}: {}".format(err["time"], err["text"]))
 
                 last_file = err["filepath"]
 
-        print("\n{:,} tweets checked.".format(self.tweet_count))
+        print("\n{:,} posts checked.".format(self.post_count))
 
         if len(self.errors) == 0:
             print("\nEverything is OK.")
@@ -82,23 +82,23 @@ class Tester:
                         )                       # GROUP 2: r (or None)
                     )?                          # The 'r ' is optional
                     \s+                         # One or more spaces
-                    (.*?)                       # The tweet text
+                    (.*?)                       # The post text
                     $                           # End of line
                 """
 
                 line_match = re.search(pattern, line, re.VERBOSE)
 
                 if line_match:
-                    [tweet_time, tweet_kind, tweet_text] = line_match.groups()
+                    [post_time, post_kind, post_text] = line_match.groups()
 
-                    self.tweet_count += 1
+                    self.post_count += 1
 
                     # Check times are in the correct order.
 
                     try:
-                        t = datetime.datetime.strptime(tweet_time, "%Y-%m-%d %H:%M")
+                        t = datetime.datetime.strptime(post_time, "%Y-%m-%d %H:%M")
                     except ValueError as e:
-                        self.add_error(filepath, tweet_time, e)
+                        self.add_error(filepath, post_time, e)
                         # Have to return as we won't have a valid value for t.
                         return
 
@@ -106,13 +106,13 @@ class Tester:
                         if t > prev_time:
                             self.add_error(
                                 filepath,
-                                tweet_time,
+                                post_time,
                                 "Time is after previous time ({}).".format(prev_time),
                             )
                         elif t == prev_time:
                             self.add_error(
                                 filepath,
-                                tweet_time,
+                                post_time,
                                 "Time is the same as previous time ({}).".format(
                                     prev_time
                                 ),
@@ -121,67 +121,67 @@ class Tester:
 
                     # Test valid kinds
 
-                    if tweet_kind is not None:
-                        if tweet_kind != "r":
+                    if post_kind is not None:
+                        if post_kind != "r":
                             self.add_error(
                                 filepath,
-                                tweet_time,
+                                post_time,
                                 "Kind should be nothing or 'r'. It was: '{}'.".format(
-                                    tweet_kind
+                                    post_kind
                                 ),
                             )
 
-                    # Test tweet length.
+                    # Test post length.
 
-                    if len(tweet_text) > 280:
+                    if len(post_text) > 280:
                         self.add_error(
                             filepath,
-                            tweet_time,
-                            "Tweet is {} characters long.".format(len(tweet_text)),
+                            post_time,
+                            "Post is {} characters long.".format(len(post_text)),
                         )
 
                     # Test first/last characters.
 
-                    if tweet_text[0].islower():
+                    if post_text[0].islower():
                         self.add_error(
                             filepath,
-                            tweet_time,
-                            'Tweet begins with lowercase character ("{}...")'.format(
-                                tweet_text[:20]
+                            post_time,
+                            'Post begins with lowercase character ("{}...")'.format(
+                                post_text[:20]
                             ),
                         )
 
-                    if tweet_text[-1].islower():
+                    if post_text[-1].islower():
                         self.add_error(
                             filepath,
-                            tweet_time,
-                            'Tweet ends with lowercase character ("...{}")'.format(
-                                tweet_text[-20:]
+                            post_time,
+                            'Post ends with lowercase character ("...{}")'.format(
+                                post_text[-20:]
                             ),
                         )
 
-                    if tweet_text.endswith(" "):
+                    if post_text.endswith(" "):
                         self.add_error(
                             filepath,
-                            tweet_time,
-                            'Tweet ends with a space ("...{}")'.format(
-                                tweet_text[-20:]
+                            post_time,
+                            'Post ends with a space ("...{}")'.format(
+                                post_text[-20:]
                             ),
                         )
 
                     # Tests for errors that I had to correct.
 
                     # 'jj' or 'kk' from making a mistake in vim:
-                    tweet_match = re.search(r"\W?(jj|kk)\W?", tweet_text)
-                    if tweet_match:
-                        span = tweet_match.span()
+                    post_match = re.search(r"\W?(jj|kk)\W?", post_text)
+                    if post_match:
+                        span = post_match.span()
                         start = span[0] - 10
                         end = span[1] + 10
                         self.add_error(
                             filepath,
-                            tweet_time,
+                            post_time,
                             '"{}" found: "{}")'.format(
-                                tweet_match.groups()[0], tweet_text[start:end]
+                                post_match.groups()[0], post_text[start:end]
                             ),
                         )
 

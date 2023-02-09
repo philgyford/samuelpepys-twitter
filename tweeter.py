@@ -158,7 +158,7 @@ class Tweeter:
         # eg datetime.datetime(2014, 4, 25, 18, 59, 51, tzinfo=<UTC>)
         last_run_time = self.get_last_run_time()
 
-        # We need to have a last_run_time set before we can send any tweets.
+        # We need to have a last_run_time set before we can send any posts.
         # So the first time this is run, we can't do anythning.
         if last_run_time is None:
             self.set_last_run_time()
@@ -175,118 +175,118 @@ class Tweeter:
         year_dir = str(int(local_time_now.strftime("%Y")) - self.years_ahead)
         month_file = "%s.txt" % local_time_now.strftime("%m")
 
-        # eg tweets/1660/01.txt
-        path = os.path.join(self.project_root, "tweets", year_dir, month_file)
+        # eg posts/1660/01.txt
+        path = os.path.join(self.project_root, "posts", year_dir, month_file)
 
         with open(path) as file:
             lines = [line.strip() for line in file]
 
-        all_tweets = self.get_all_tweets(lines)
+        all_posts = self.get_all_posts(lines)
 
-        tweets_to_send = self.get_tweets_to_send(
-            all_tweets, last_run_time, local_time_now
+        posts_to_send = self.get_posts_to_send(
+            all_posts, last_run_time, local_time_now
         )
 
         self.set_last_run_time()
 
         # We want to tweet the oldest one first, so reverse list:
-        self.send_tweets(tweets_to_send[::-1])
+        self.send_tweets(posts_to_send[::-1])
 
         # And the same with Mastodon toots:
-        self.send_toots(tweets_to_send[::-1])
+        self.send_toots(posts_to_send[::-1])
 
-    def get_all_tweets(self, lines):
+    def get_all_posts(self, lines):
         """
         Go through all the lines in the file and, for any that contain
-        valid tweet data, add them to a list to return.
+        valid post data, add them to a list to return.
 
-        Returns a list of dicts, each one data about a tweet.
+        Returns a list of dicts, each one data about a post.
         """
-        tweets = []
+        posts = []
 
         for line in lines:
 
             if line != "":
-                tweet = self.parse_tweet_line(line)
+                post = self.parse_post_line(line)
 
-                if tweet:
-                    tweets.append(tweet)
+                if post:
+                    posts.append(post)
                 else:
-                    # An invalid line format or invalid tweet time.
+                    # An invalid line format or invalid post time.
                     continue
 
-        return tweets
+        return posts
 
-    def get_tweets_to_send(self, all_tweets, last_run_time, local_time_now):
+    def get_posts_to_send(self, all_posts, last_run_time, local_time_now):
         """
-        Work out which of all the tweets in the month need to be sent.
+        Work out which of all the posts in the month need to be sent.
 
-        all_tweets - List of dicts, one per tweet
+        all_posts - List of dicts, one per post
         last_run_time - datetime object for when the script was last run
         local_time_now - timezone-aware datetime for now
 
-        Returns a list of dicts of the tweets that need sending.
+        Returns a list of dicts of the posts that need sending.
         """
 
-        tweets_to_send = []
+        posts_to_send = []
 
         local_last_run_time = last_run_time.astimezone(self.local_tz)
 
-        for n, tweet in enumerate(all_tweets):
+        for n, post in enumerate(all_posts):
 
-            local_modern_tweet_time = self.modernize_time(tweet["time"])
-            now_minus_tweet = (local_time_now - local_modern_tweet_time).total_seconds()
+            local_modern_post_time = self.modernize_time(post["time"])
+            now_minus_post = (local_time_now - local_modern_post_time).total_seconds()
 
-            if now_minus_tweet > 0:
-                # Tweet is earlier than now.
+            if now_minus_post > 0:
+                # Post is earlier than now.
 
-                tweet_minus_last_run = (
-                    local_modern_tweet_time - local_last_run_time
+                post_minus_last_run = (
+                    local_modern_post_time - local_last_run_time
                 ).total_seconds()
 
-                if tweet_minus_last_run > 0 and now_minus_tweet <= (
+                if post_minus_last_run > 0 and now_minus_post <= (
                     self.max_time_window * 60
                 ):
-                    # And Tweet is since we last ran and within our max time window.
+                    # And post is since we last ran and within our max time window.
 
-                    if tweet["is_reply"] is True:
-                        # Get the time of the previous tweet, which is the one
-                        # this tweet is replying to.
-                        prev_tweet = all_tweets[n + 1]
-                        in_reply_to_time = prev_tweet["time"]
+                    if post["is_reply"] is True:
+                        # Get the time of the previous post, which is the one
+                        # this post is replying to.
+                        prev_post = all_posts[n + 1]
+                        in_reply_to_time = prev_post["time"]
                     else:
                         in_reply_to_time = None
 
-                    tweet["in_reply_to_time"] = in_reply_to_time
+                    post["in_reply_to_time"] = in_reply_to_time
 
                     self.log(
                         "Preparing: '{}...' "
                         "timed {}, "
                         "is_reply: {}, "
                         "local_last_run_time: {}, "
-                        "local_modern_tweet_time: {}, "
-                        "tweet_minus_last_run: {}, "
+                        "local_modern_post_time: {}, "
+                        "post_minus_last_run: {}, "
                         "in_reply_to_time: {}".format(
-                            tweet["text"][:20],
-                            tweet["time"],
-                            tweet["is_reply"],
+                            post["text"][:20],
+                            post["time"],
+                            post["is_reply"],
                             local_last_run_time,
-                            local_modern_tweet_time,
-                            tweet_minus_last_run,
+                            local_modern_post_time,
+                            post_minus_last_run,
                             in_reply_to_time,
                         )
                     )
 
-                    tweets_to_send.append(tweet)
+                    posts_to_send.append(post)
                 else:
                     break
 
-        return tweets_to_send
+        return posts_to_send
 
-    def parse_tweet_line(self, line):
+    def parse_post_line(self, line):
         """
         Given one line from a text file, try to parse it out into time and
-        tweet text.
+        post text.
 
         Returns a dict of data if successful, otherwise False
 
@@ -297,7 +297,7 @@ class Tweeter:
         1666-02-09 14:08 r This is my text
         1666-02-09 14:08 r   This is my text
         """
-        tweet = False
+        post = False
 
         pattern = r"""
             ^                           # Start of line
@@ -313,32 +313,32 @@ class Tweeter:
                 )                       # GROUP 2: r (or None)
             )?                          # The 'r ' is optional
             \s+                         # One or more spaces
-            (.*?)                       # The tweet text
+            (.*?)                       # The post text
             $                           # End of line
         """
 
         line_match = re.search(pattern, line, re.VERBOSE)
 
         if line_match:
-            [tweet_time, tweet_kind, tweet_text] = line_match.groups()
+            [post_time, post_kind, post_text] = line_match.groups()
 
             # Check the time maps to a valid modern time:
-            local_modern_tweet_time = self.modernize_time(tweet_time)
+            local_modern_post_time = self.modernize_time(post_time)
 
-            if local_modern_tweet_time:
+            if local_modern_post_time:
 
-                if tweet_kind == "r":
+                if post_kind == "r":
                     is_reply = True
                 else:
                     is_reply = False
 
-                tweet = {
-                    "time": tweet_time,
-                    "text": tweet_text.strip(),
+                post = {
+                    "time": post_time,
+                    "text": post_text.strip(),
                     "is_reply": is_reply,
                 }
 
-        return tweet
+        return post
 
     def set_last_run_time(self):
         """
@@ -392,9 +392,9 @@ class Tweeter:
 
         return local_modern_time
 
-    def send_tweets(self, tweets):
+    def send_tweets(self, posts):
         """
-        `tweets` is a list of tweets to post now.
+        `posts` is a list of tweets to post now.
 
         Each element is a dict of:
             'time' (e.g. '1666-02-09 12:35')
@@ -408,39 +408,39 @@ class Tweeter:
             self.log("No Twitter Consumer Key set; not tweeting")
             return
 
-        for tweet in tweets:
+        for post in posts:
             previous_status_id = None
 
-            if tweet["in_reply_to_time"] is not None:
+            if post["in_reply_to_time"] is not None:
                 # This tweet is a reply, so check that it's a reply to the
                 # immediately previous tweet.
                 # It *should* be, but if something went wrong, maybe not.
                 previous_status_time = self.redis.get("previous_tweet_time")
 
-                if tweet["in_reply_to_time"] == previous_status_time:
+                if post["in_reply_to_time"] == previous_status_time:
                     previous_status_id = self.redis.get("previous_tweet_id")
 
             self.log(
-                "Tweeting: {} [{} characters]".format(tweet["text"], len(tweet["text"]))
+                "Tweeting: {} [{} characters]".format(post["text"], len(post["text"]))
             )
 
             try:
                 status = self.twitter_api.PostUpdate(
-                    tweet["text"], in_reply_to_status_id=previous_status_id
+                    post["text"], in_reply_to_status_id=previous_status_id
                 )
             except twitter.TwitterError as e:
                 self.error(e)
             else:
                 # Set these so that we can see if the next tweet is a reply
                 # to this one, and then one ID this one was.
-                self.redis.set("previous_tweet_time", tweet["time"])
+                self.redis.set("previous_tweet_time", post["time"])
                 self.redis.set("previous_tweet_id", status.id)
 
             time.sleep(2)
 
-    def send_toots(self, tweets):
+    def send_toots(self, posts):
         """
-        `tweets` is a list of toot texts to post now.
+        `posts` is a list of toot texts to post now.
 
         Each element is a dict of:
             'time' (e.g. '1666-02-09 12:35')
@@ -454,32 +454,32 @@ class Tweeter:
             self.log("No Mastodon Client ID set; not tooting")
             return
 
-        for tweet in tweets:
+        for post in posts:
             previous_status_id = None
 
-            if tweet["in_reply_to_time"] is not None:
-                # This tweet is a reply, so check that it's a reply to the
+            if post["in_reply_to_time"] is not None:
+                # This toot is a reply, so check that it's a reply to the
                 # immediately previous toot.
                 # It *should* be, but if something went wrong, maybe not.
                 previous_status_time = self.redis.get("previous_toot_time")
 
-                if tweet["in_reply_to_time"] == previous_status_time:
+                if post["in_reply_to_time"] == previous_status_time:
                     previous_status_id = self.redis.get("previous_toot_id")
 
             self.log(
-                "Tooting: {} [{} characters]".format(tweet["text"], len(tweet["text"]))
+                "Tooting: {} [{} characters]".format(post["text"], len(post["text"]))
             )
 
             try:
                 status = self.mastodon_api.status_post(
-                    tweet["text"], in_reply_to_id=previous_status_id
+                    post["text"], in_reply_to_id=previous_status_id
                 )
             except MastodonError as e:
                 self.error(e)
             else:
-                # Set these so that we can see if the next tweet is a reply
+                # Set these so that we can see if the next toot is a reply
                 # to this one, and then one ID this one was.
-                self.redis.set("previous_toot_time", tweet["time"])
+                self.redis.set("previous_toot_time", post["time"])
                 self.redis.set("previous_toot_id", status.id)
 
             time.sleep(2)
