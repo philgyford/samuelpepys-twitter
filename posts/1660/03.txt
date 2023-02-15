@@ -1,278 +1,344 @@
-YYYY-MM-DD HH:MM   12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+YYYY-MM-DD HH:MM r 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
 1660-03-31 21:50   Mr. Sheply, Howe, Ibbott, and I supped in my cabin together.
 
-1660-03-31 14:30   I did give Mr. Hill that lives in Axe-yard a bottle of wine, and was satisfied of the power that I have to make my friends welcome.
+1660-03-31 11:30   Mr. Hill that lives in Axe-yard was here on board with the Vice-Admiral. I did give him a bottle of wine, and was exceedingly satisfied of the power that I have to make my friends welcome.
 
 1660-03-31 10:00   Captain Jowles of the “Wexford” came on board, for whom I got commission from my Lord to be commander of the ship.
 
-1660-03-30 16:10   My Lord and many others went on board the Nazeby, where every thing was out of order, and a new chimney made for my Lord in his bedchamber.
+
+1660-03-30 14:50 r My Lord and many others went on board her, where every thing was out of order, and a new chimney made for my Lord in his bedchamber, which he was much pleased with. My Lord, in his discourse, discovered a great deal of love to this ship.
 
 1660-03-30 13:45   While my Lord and we were at dinner, the Nazeby came in sight towards us, and at last came to anchor close by us.
 
 1660-03-30 09:10   I was saluted with two letters, from some that I had done a favour to, which brought me in each a piece of gold.
 
-1660-03-29 21:20   Mr. Sheply returned from London, and told us that the King’s effigies was new making to be set up in the Exchange again.
 
-1660-03-29 19:05   The Vice-Admiral did wholly deny any such thing, and protested to stand by the General.
+1660-03-29 22:00   We lie still a little below Gravesend.
 
-1660-03-29 18:50   A whispering of some of the Vice-Admiral’s captains that they were dissatisfied, and did intend to fight themselves, to oppose the General.
+1660-03-29 21:20   Mr. Sheply returned from London, and told us of several elections for the next Parliament. That the King’s effigies was new making to be set up in the Exchange again.
+
+1660-03-29 18:50   Was a great whispering of some of the Vice-Admiral’s captains that they were dissatisfied, and did intend to fight themselves, to oppose the General. But it was soon hushed, and the Vice-Admiral did wholly deny any such thing, and protested to stand by the General.
+
 
 1660-03-28 17:50   This morning and the whole day busy, and that the more because Mr. Burr was about his own business all the day at Gravesend.
 
-1660-03-27 21:30   Supped with my Lord too, with the Captain, and after that to work again till it be very late.
 
-1660-03-27 16:00   Sir H. Wright came onboard us about his business of being chosen Parliament-man. My Lord brought him to my cabin, when I was hard a-writing.
+1660-03-27 23:20   Supped with my Lord too, with the Captain, and after that to work again till it be very late. So to bed.
 
-1660-03-27 10:10   Passing by the Vice-Admiral, the frigates did give us abundance of guns and we them, so much that the report broke the windows in my cabin.
+1660-03-27 17:30   All the afternoon exceeding busy in writing of letters and orders. Sir Harry Wright came onboard us, about his business of being chosen Parliament-man.
 
-1660-03-26 22:10   Mr. Sheply and W. Howe brought some wine and things to eat in my cabin, where we were merry, remembering the day of being cut for the stone.
+1660-03-27 10:10   We fell into the Hope, and in our passing by the Vice-Admiral, he and the rest of the frigates did give us abundance of guns and we them, so much that the report of them broke all the windows in my cabin and broke off the iron bar that was upon it.
+
+
+1660-03-26 23:15 r Captain Cuttance came afterwards and sat drinking a bottle of wine till eleven, a kindness he do not usually do the greatest officer in the ship. After that to bed.
+
+1660-03-26 22:10   Mr. Sheply and W. Howe came and brought some bottles of wine and some things to eat in my cabin, where we were very merry, remembering the day of being cut for the stone.
 
 1660-03-26 17:40   All the afternoon very many orders were made, till I was very weary.
 
-1660-03-26 10:20   I rose early, and went about making of an establishment of the whole Fleet, and a list of all the ships, with the number of men and guns.
+1660-03-26 09:20   I went about making of an establishment of the whole Fleet, and a list of all the ships, with the number of men and guns.
 
-1660-03-26 07:00   Within my soul I can and do rejoice, and bless God, being at this time blessed be his holy name, in as good health as ever I was in my life.
+1660-03-26 06:10 r Only within my soul I can and do rejoice, and bless God, being at this time blessed be his holy name, in as good health as ever I was in my life.
 
-1660-03-26 06:45   This day it is two years since it pleased God that I was cut of the stone at Mrs. Turner’s in Salisbury Court.
+1660-03-26 06:05   This day it is two years since it pleased God that I was cut of the stone at Mrs. Turner’s in Salisbury Court. And did resolve while I live to keep it a festival, and for ever to have Mrs. Turner with me. But now it pleases God that I am where I am and so prevented to do it.
+
 
 1660-03-25 16:10   Sermon again, at which I slept, God forgive me! After that, it being a fair day, I walked with the Captain upon the deck talking.
 
-1660-03-25 14:00   Up into the great cabin above to dinner with the Captain, where was Captain Isham and all the officers of the ship.
+1660-03-25 14:00   Captain Cuttance and I had oysters, my Lord being in his cabin not intending to stir out to-day. After that up into the great cabin above to dinner with the Captain, where was Captain Isham and all the officers of the ship.
 
-1660-03-25 10:20   Mr. Ibbott, at the end of the table, begun to preach and made a very good sermon, upon the duty of all Christians to be stedfast in faith.
+1660-03-25 10:20   Mr. Ibbott, at the end of the long table, begun to pray and preach and indeed made a very good sermon, upon the duty of all Christians to be stedfast in faith.
 
-1660-03-25 07:10   There was a letter from Mr. Blackburne, who with his own hand superscribes it to S.P. Esq., of which God knows I was not a little proud.
+1660-03-25 07:10 r There was one from Mr. Blackburne, who with his own hand superscribes it to S.P. Esq., of which God knows I was not a little proud.
 
-1660-03-25 02:00   Letters came from London by our coxon, so they waked me, but I would not rise but bid him stay till morning.
+1660-03-25 06:10   About two o’clock in the morning, etters came from London by our coxon, so they waked me, but I would not rise but bid him stay till morning, which he did, and then I rose and carried them in to my Lord, who read them a-bed.
 
-1660-03-24 22:30   This day Mr. Creed came on board and dined very boldly with my Lord, but he could not get a bed there.
 
-1660-03-24 22:10   At work hard all the day writing letters to the Council, &c.
+1660-03-24 22:55 r At work hard all the day writing letters to the Council, &c. I despatch many letters abroad and it was late before we could get to bed.
 
-1660-03-24 15:40   The boy Eliezer flung down a can of beer upon my papers which made me give him a box of the ear, it having all spoiled my papers.
+1660-03-24 15:40 r The boy Eliezer flung down a can of beer upon my papers which made me give him a box of the ear, it having all spoiled my papers and cost me a great deal of work.
 
-1660-03-24 06:10   I slept very well, and the weather being good I was not sick at all, yet I know not when I shall be.
+1660-03-24 13:20 r Mr. Creed came on board and dined very boldly with my Lord, but he could not get a bed there.
 
-1660-03-23 20:50   We were late writing of orders for the getting of ships ready, &c.; and making of others to all the seaports between Hastings and Yarmouth.
+1660-03-24 06:10   Slept very well, and the weather being good I was not sick at all yet, I know not what I shall be.
 
-1660-03-23 14:45   I to the cabin allotted for me, which was the best that any had that belonged to my Lord.
 
-1660-03-23 13:15   Soon as my Lord on board, the guns went off bravely from the ships.
+1660-03-23 22:30 r To bed in my cabin, which was but short; however I made shift with it.
 
-1660-03-23 13:00   We saw the great breach which the late high water had made, to the loss of many 1000l. to the people about Limehouse.
+1660-03-23 21:50 r We were late writing of orders for the getting of ships ready, &c.; and also making of others to all the seaports between Hastings and Yarmouth, to stop all dangerous persons that are going or coming between Flanders and there.
 
-1660-03-23 12:45   My Lord and the Captain in one barge, and W. Howe and I, &c., in the other, to the Long Reach, where the Swiftsure lay at anchor.
+1660-03-23 14:45 r I to the cabin allotted for me, which was the best that any had that belonged to my Lord. I got out some things out of my chest for writing and to work presently, Mr. Burr and I both.
 
-1660-03-23 11:30   My Lord in Sir Wright’s coach with Capt. Isham, Mr. Thomas, J. Crew, W. Howe, and I in a Hackney to the Tower where the barges staid for us.
+1660-03-23 13:15 r Soon as my Lord on board, the guns went off bravely from the ships.
 
-1660-03-23 09:00   Young Reeve brought me a little perspective glass which I bought for my Lord, it cost me 8s.
+1660-03-23 12:45 r My Lord and the Captain in one, and W. Howe and I, &c., in the other, to the Long Reach, where the Swiftsure lay at anchor; (in our way we saw the great breach which the late high water had made, to the loss of many 1000l. to the people about Limehouse.)
 
-1660-03-23 08:10   Hither came Gilb. Holland, and brought me a stick rapier and Shelston a sugar-loaf, and had brought his wife who he said was a pretty woman.
+1660-03-23 11:30 r My Lord in Sir H. Wright’s coach with Captain Isham, Mr. Thomas, John Crew, W. Howe, and I in a Hackney to the Tower, where the barges staid for us.
 
-1660-03-23 07:00   To the barber’s and put on my cravat there.
+1660-03-23 09:00 r Young Reeve also brought me a little perspective glass which I bought for my Lord, it cost me 8s.
+
+1660-03-23 08:10 r Hither came Gilb. Holland, and brought me a stick rapier and Shelston a sugar-loaf, and had brought his wife who he said was a very pretty woman to the Ship tavern hard by for me to see but I could not go.
+
+1660-03-23 07:30 r Then to the barber’s and put on my cravat there. So to my Lord again, who was almost ready to be gone and had staid for me.
 
 1660-03-23 06:10   Up early, carried my Lord’s will in a black box to Mr. William Montagu for him to keep for him.
 
-1660-03-22 21:20   This day Mr. Sheply went away on board and I sent my boy with him.
 
-1660-03-22 17:50   Took leave of Mr. George Mountagu, and received my warrant of Mr. Blackburne, to be Secretary to the two Generals of the Fleet.
+1660-03-22 21:55 r Mr. Moore being out of town tonight I could not take leave of him nor speak to him about business which troubled me much. I left my small case therefore with Mr. Andrews for him.
 
-1660-03-22 17:00   Took leave of Kate Sterpin who was very sorry to part with me.
+1660-03-22 21:20 r This day Mr. Sheply went away on board and I sent my boy with him. This day also Mrs. Jemimah went to Marrowbone, so I could not see her.
 
-1660-03-22 15:15   I pray God to keep me from being proud or too much lifted up.
+1660-03-22 18:20 r Took leave of Mr. George Mountagu, and received my warrant of Mr. Blackburne, to be Secretary to the two Generals of the Fleet.
 
-1660-03-22 15:00   People now promise me anything; one a rapier, the other a vessel of wine or a gun. One offered me his silver hatband to do him a courtesy.
+1660-03-22 17:40   Then to take my leave of the Clerks of the Council, and thence Doling and Luellin would have me go with them to Mount’s chamber, where we sat and talked and then I went away.
 
-1660-03-22 12:30   I went forth about my own business to buy a pair of riding grey serge stockings and sword and belt and hose.
+1660-03-22 17:00   To Westminster, and took leave of Kate Sterpin who was very sorry to part with me, and after that of Mr. George Mountagu, and received my warrant of Mr. Blackburne, to be Secretary to the two Generals of the Fleet.
 
-1660-03-22 09:10   The weather continuing very bad my Lord would not go to-day.
+1660-03-22 14:05 r Strange how these people do now promise me anything; one a rapier, the other a vessel of wine or a gun, and one offered me his silver hatband to do him a courtesy. I pray God to keep me from being proud or too much lifted up hereby.
 
-1660-03-22 07:15   Mr. Hawly came to me and I gave him the key of my house to keep, and he went with me to Mr. Crew’s, and there I took my last leave of him.
+1660-03-22 14:00   I went forth to buy a pair of riding grey serge stockings and sword and belt and hose, and after that took Wotton and Brigden to the Pope’s Head Tavern in Chancery Lane, where Gilb. Holland and Shelston were, and we dined and drank a great deal of wine, and they paid all.
 
-1660-03-22 06:45   Up very early and set things in order at my house, and so took leave of Mrs. Crispe and her daughter (who was in bed) and of Mrs. Hunt.
+1660-03-22 12:02 r But the weather continuing very bad my Lord would not go to-day. My Lord spent this morning private in sealing of his last will and testament with Mr. W. Mountagu.
 
-1660-03-21 22:10   To Crisp’s, where we were very merry; the old woman sent for a supper for me, and gave me a handkercher with strawberry buttons on it.
+1660-03-22 07:15 r Mr. Hawly came to me and I gave him the key of my house to keep, and he went with me to Mr. Crew’s, and there I took my last leave of him.
 
-1660-03-21 18:10   To London and took a short melancholy leave of my father and mother without having them to drink or say anything of business one to another.
+1660-03-22 05:45 r Up very early and set things in order at my house, and so took leave of Mrs. Crispe and her daughter (who was in bed) and of Mrs. Hunt.
 
-1660-03-21 14:00   To a tavern over against Mr. Pierce’s with judge Advocate Fowler and Mr. Burr, and sat and drank with them two or three pints of wine.
 
-1660-03-21 08:10   To my Lord’s, but the wind very high against us, and the weather bad we could not go to-day.
+1660-03-21 22:10 r To Westminster to Crisp’s, where we were very merry; the old woman sent for a supper for me, and gave me a handkercher with strawberry buttons on it, and so to bed.
 
-1660-03-20 19:00   By reason of rain and an easterly wind, the water was so high that there was boats rowed in King Street and all our yard was drowned.
+1660-03-21 16:30   By coach to London, and took a short melancholy leave of my father and mother, without having them to drink, or say anything of business one to another. And indeed I had a fear upon me I should scarce ever see my mother again, she having a great cold then upon her.
 
-1660-03-20 15:40   Hither comes Pim’s boy, with two monteeres for me to take my choice of, and I chose the saddest colour and left the other for Mr. Sheply.
+1660-03-21 14:00   I went to a tavern over against Mr. Pierce’s with judge Advocate Fowler and Mr. Burr, and sat and drank with them two or three pints of wine.
 
-1660-03-20 15:10   W. Simons comes to us and I gave them my foy against my going to sea; and so we took leave one of another, they promising me to write to me.
+1660-03-21 08:10   To my Lord’s, but the wind very high against us, and the weather bad we could not go to-day; here I did very much business.
 
-1660-03-20 09:40   My Lord giving me all letters and papers that come to him about business, for me to give him account of when we come on shipboard.
 
-1660-03-20 08:30   This morning I rose early and went to my house to put things in a little order against my going, which I conceive will be to-morrow.
+1660-03-20 19:00 r To Westminster, where by reason of rain and an easterly wind, the water was so high that there was boats rowed in King Street and all our yard was drowned, that one could not go to my house, so as no man has seen the like almost, most houses full of water.
+
+1660-03-20 15:40 r Hither comes Pim’s boy, by my direction, with two monteeres for me to take my choice of, and I chose the saddest colour and left the other for Mr. Sheply.
+
+1660-03-20 15:10 r To the Bull Head whither W. Simons comes to us and I gave them my foy against my going to sea; and so we took leave one of another, they promising me to write to me to sea.
+
+1660-03-20 09:40 r To my Lord, where I found very great deal of business, he giving me all letters and papers that come to him about business, for me to give him account of when we come on shipboard.
+
+1660-03-20 08:30   I rose early and went to my house to put things in a little order against my going, which I conceive will be tomorrow (the weather still very rainy).
+
 
 1660-03-19 21:00   This day my Lord dined at my Lord Mayor’s, and Jasper was made drunk, which my Lord was very angry at.
 
 1660-03-19 20:15   My mind is still much troubled for my poor wife, but I hope that this undertaking will be worth my pains.
 
-1660-03-19 18:50   The discourse now-a-day is that the King will come again; and for all I see, it is the wishes of all; and all do believe that it will be so.
+1660-03-19 18:50   All the discourse now-a-day is, that the King will come again; and for all I see, it is the wishes of all; and all do believe that it will be so.
 
-1660-03-19 14:40   With some sea officers to the Swan, where we drank wine till one comes to me to pay me some money from Worcester, viz., 25l.
+1660-03-19 16:200 r Going home the water was high, and so I got Crockford to carry me over it. So home, and left my money there.
 
-1660-03-19 11:00   Mr. Blackburne told me that it was much to be feared that the King would come in, for all good men and good things were now discouraged.
+1660-03-19 14:40   With some sea officers to the Swan, where we drank wine till one comes to me to pay me some money from Worcester, viz., 25l. His name is Wilday.
 
-1660-03-19 07:20   Early to my Lord, where infinity of business to do, which makes my head full.
+1660-03-19 12:30   While we were at dinner, my Lord Monk’s lifeguard come by with the Serjeant at Arms before them, with two Proclamations, that all Cavaliers do depart the town; but the other that all officers that were lately disbanded should do the same.
 
-1660-03-18 22:10   To Mrs. Crisp, where we sat talking, I giving them the best advice that I could concerning their son, how he should go to sea.
+1660-03-19 11:00   To the Admiralty, where a good while with Mr. Blackburne, who told me that it was much to be feared that the King would come in, for all good men and good things were now discouraged.
 
-1660-03-18 19:40   Called at Mr. Blagrave’s, where I took up my note that he had of mine for 40s., which he did give me as a pawn while he had my lute.
+1660-03-19 07:20   Early to my Lord, where infinity of business to do, which makes my head full; and indeed, for these two or three days, I have not been without a great many cares and thoughts concerning them.
 
-1660-03-18 18:10   Mr. Woodfine took me to an alehouse in Drury Lane, and we sat and drank, and ate toasted cakes which were very good.
+
+1660-03-18 22:10   So to Mrs. Crisp, where she and her daughter and son and I sat talking, I giving them the best advice that I could concerning their son, how he should go to sea, and so to bed.
+
+1660-03-18 19:40   Homewards, and called at Mr. Blagrave’s, where I took up my note that he had of mine for 40s., which he two years ago did give me as a pawn while he had my lute.
+
+1660-03-18 18:10   I met with Mr. Woodfine, who took me to an alehouse in Drury Lane, and we sat and drank together, and ate toasted cakes which were very good, and we had a great deal of mirth with the mistress of the house about them.
 
 1660-03-18 15:30   To Mr. Mossum’s, where he made a very gallant sermon upon “Pray for the life of the King and the King’s son.” (Ezra vi. 10.)
 
-1660-03-18 09:45   To my Lord’s where I gave Captain Williamson commission to be Captain of the Harp, and he gave me a piece of gold and 20s. in silver.
+1660-03-18 09:45   To my Lord’s lodging where I found Captain Williamson and gave him his commission to be Captain of the Harp, and he gave me a piece of gold and 20s. in silver.
 
-1660-03-18 07:50   I rose early and went to the barber’s (Jervas) in Palace Yard and I was trimmed by him, and afterwards drank with him a cup or two of ale.
+1660-03-18 07:50   I rose early and went to the barber’s (Jervas) in Palace Yard and I was trimmed by him, and afterwards drank with him a cup or two of ale, and did begin to hire his man to go with me to sea.
 
-1660-03-17 22:15   To bed, and Laud, Mrs. Crisp’s son lay with me in the best chamber in her house, which indeed was finely furnished.
 
-1660-03-17 19:30   I went home with Mr. Crips to his mother’s house by me in Axe Yard, where I found Dr. Clodius’s wife and sat there talking.
+1660-03-17 22:15 r To bed, and Laud, Mrs. Crisp’s son lay with me in the best chamber in her house, which indeed was finely furnished.
 
-1660-03-17 14:30   After dinner to my own house, where all things were put up into the dining-room and locked up, and my wife took the keys along with her.
+1660-03-17 22:05 r I went home with Mr. Crisp to his mother’s house by me in Axe Yard, where I found Dr. Clodius’s wife and sat there talking and hearing of old Mrs. Crisp playing of her old lessons upon the harpsichon till it was time to go to bed.
 
-1660-03-17 11:25   I did seal my will to my wife, whereby I did give her all that I have in the world, but my books which I give to my brother John.
+1660-03-17 19:30   At the Admiralty, I met my Lord there and got a commission for Williamson to be captain of the Harp frigate, and afterwards went by coach taking Mr. Crisp with me to my Lord and got him to sign it at table as he was at supper.
 
-1660-03-17 11:10   Took my wife by coach to the Chequer in Holborn, where, after we had drank, &c., she took coach and so farewell.
+1660-03-17 14:30 r After dinner to my own house, where all things were put up into the dining-room and locked up, and my wife took the keys along with her.
 
-1660-03-17 09:40   I had much business with my Lord, and papers, great store, given me by my Lord to dispose of as of the rest.
+1660-03-17 11:50 r I staid behind with Tom Alcock and Mr. Anderson, my old chamber fellow at Cambridge his brother, and drank with them there, who were come to me thither about one that would have a place at sea.
 
-1660-03-17 08:00   We rose and I gave my wife some money to serve her for a time, and what papers of consequence I had.
+1660-03-17 11:10 r Took my wife by coach to the Chequer in Holborn, where, after we had drank, &c., she took coach and so farewell.
 
-1660-03-17 07:20   Bade adieu in bed to the company of my wife.
+1660-03-17 10:30 r In the presence of Mr. Moore (who made it) and Mr. Hawly, I did before I went out with my wife, seal my will to her, whereby I did give her all that I have in the world, but my books which I give to my brother John, excepting only French books, which my wife is to have.
+
+1660-03-17 09:40 r I had much business with my Lord, and papers, great store, given me by my Lord to dispose of as of the rest.
+
+1660-03-17 07:20 r Bade adieu in bed to the company of my wife. We rose and I gave my wife some money to serve her for a time, and what papers of consequence I had.
+
 
 1660-03-16 22:30   From the Hall I went home to bed, very sad in mind to part with my wife, but God’s will be done.
 
-1660-03-16 21:00   Yesterday, one came with a ladder to the Great Exchange, and wiped with a brush the inscription that was upon King Charles.
+1660-03-16 21:00   I am told that yesterday one came with a ladder to the Great Exchange, and wiped with a brush the inscription that was upon King Charles, and that there was a great bonfire made in the Exchange, and people called out “God bless. King Charles the Second!”
 
-1660-03-16 20:45   The whole Hall was joyful thereat, as well as themselves, and now they begin to talk loud of the King.
+1660-03-16 20:30   To Westminster Hall, where I heard how the Parliament had this day dissolved themselves, and did pass very cheerfully through the Hall, and the Speaker without his mace. The whole Hall was joyful thereat, as well as themselves, and now they begin to talk loud of the King.
 
-1660-03-16 20:30   To Westminster Hall, where I heard how the Parliament had this day dissolved themselves, and did pass very cheerfully through the Hall.
+1660-03-16 15:40   Will Bowyer came to tell us that he would bear my wife company in the coach tomorrow.
 
-1660-03-16 15:40   So home again, where Will Bowyer came to tell us that he would bear my wife company in the coach to-morrow.
+1660-03-16 14:05   In my way home I went to the Chapel in Chancery Lane to bespeak papers of all sorts and other things belonging to writing against my voyage.
 
 1660-03-16 09:10   To Mr. Sheply, to the Rhenish Tavern House, where Mr. Pim, the tailor, was, and gave us a morning draft and a neat’s tongue.
 
 1660-03-16 07:15   No sooner out of bed but troubled with abundance of clients, seamen.
 
-1660-03-15 22:00   I went to Westminster Hall, and the Parliament sat till ten at night, being expected to dissolve themselves to-day, but they did not.
 
-1660-03-15 14:25   I did promise to give my wife all that I have in the world but my books, in case I should die at sea.
+1660-03-15 22:12   I went to Westminster Hall, and the Parliament sat till ten at night, thinking and being expected to dissolve themselves to-day, but they did not. Great talk tonight that the discontented officers did think this night to make a stir, but prevented.
 
-1660-03-15 14:10   Into London by water, and in Fish Street my wife and I bought a bit of salmon for 8d. and went to the Sun Tavern and ate it.
+1660-03-15 14:10   Into London by water, and in Fish Street my wife and I bought a bit of salmon for 8d. and went to the Sun Tavern and ate it, where I did promise to give her all that I have in the world but my books, in case I should die at sea.
 
-1660-03-15 11:30   Packing up my things to be sent by cart with the rest of my Lord’s. So to Will’s, where I took leave of some of my friends.
+1660-03-15 09:15   In the Hall paid and made even with Mrs. Michell; afterwards met with old Beale, and at the Axe paid him this quarter to Ladyday next.
 
-1660-03-14 22:30   By coach to Mrs. Jem, where I staid a while, and so home, and put up my things in a sea-chest that Mr. Sheply lent me, and so to bed.
+1660-03-15 08:30   Early packing up my things to be sent by cart with the rest of my Lord’s. So to Will’s, where I took leave of some of my friends.
+
+
+1660-03-14 22:30   By coach, it raining hard, to Mrs. Jem, where I staid a while, and so home, and late in the night put up my things in a sea-chest that Mr. Sheply lent me, and so to bed.
 
 1660-03-14 16:50   Went to the Admiralty, where a strange thing how I am already courted by the people.
 
-1660-03-14 14:15   Coming home telling my wife what we had to dinner, she had a mind to some cabbage, and I sent for some and she had it.
+1660-03-14 13:30   Mr. Pierce the surgeon and I to Whitehall, where with Luellin we dined at Marsh’s. Coming home telling my wife what we had to dinner, she had a mind to some cabbage, and I sent for some and she had it.
 
 1660-03-14 12:10   I saw General Monk and methought he seemed a dull heavy man.
 
 1660-03-14 10:40   Among others that came to me I hired a boy of Jenkins of Westminster and Burr to be my clerk.
 
-1660-03-13 19:40   Things seem doubtful what will be the end of all; for the Parliament seems to be strong for the King while the soldiers do all talk against.
+1660-03-14 08:40   To my Lord, where infinity of applications to him and to me. To my great trouble, my Lord gives me all the papers that was given to him, to put in order and give him an account of them.
 
-1660-03-13 08:20   My Lord told me that I was to be secretary and Creed to be deputy treasurer to the Fleet, at which I was troubled, but I could not help it.
 
-1660-03-12 21:50   I took a thing for my cold, namely a spoonful of honey and a nutmeg scraped into it, and so took it into my mouth.
+1660-03-13 20:40   The Parliament voted all that had been done by the former Rump against the House of Lords be void. Things seem very doubtful what will be the end of all; for the Parliament seems to be strong for the King, while the soldiers do all talk against.
 
-1660-03-12 10:30   I left my wife at the Exchange and at Bedells the bookseller’s at the Temple gate I paid 12l. 10s. 6d. for Mr. Fuller by his direction.
+1660-03-13 19:25   To the Admiralty, where I talked with Mr. Creed both the Brothers, and they were very seemingly willing and glad that I have the place since my Lord would dispose of it otherwise than to them.
 
-1660-03-12 07:20   The wench rose at two in the morning to wash, and my wife and I lay talking a while. I by reason of my cold could not tell how to sleep.
+1660-03-13 08:25   It rained hard and I got up early, and got to London by 8 o’clock at my Lord’s lodgings, who told me that I was to be secretary, and Creed to be deputy treasurer to the Fleet, at which I was troubled, but I could not help it.
 
-1660-03-11 22:20   After supper home, where the wench had provided all things against tomorrow to wash, and so to bed, where I much troubled with my coughing.
+
+1660-03-12 21:50 r Here I lay and took a thing for my cold, namely a spoonful of honey and a nutmeg scraped into it, by Mr. Bowyer’s direction, and so took it into my mouth, which I found did do me much good.
+
+1660-03-12 20:00   To the White Horse in King Street, where I got Mr. Buddle’s horse to ride to Huntsmore to Mr. Bowyer’s, where I found him and all well, and willing to have my wife come and board with them while I was at sea, which was the business I went about.
+
+1660-03-12 10:30   My wife and I to the Exchange, where we bought a great many things, where I left her and went into London, and at Bedells the bookseller’s at the Temple gate I paid 12l. 10s. 6d. for Mr. Fuller by his direction.
+
+1660-03-12 07:20   The wench rose at two in the morning to wash, and my wife and I lay talking a great while. I by reason of my cold could not tell how to sleep.
+
+
+1660-03-11 22:20   After supper home, where the wench had provided all things against tomorrow to wash, and so to bed, where I much troubled with my cold and coughing.
 
 1660-03-11 17:10   All the day busy without my band on, putting up my books and things, in order to my going to sea.
 
-1660-03-10 23:10   My wife was late making of caps for me, and the wench making an end of a pair of stockings that she was knitting of.
+
+1660-03-10 23:10   My wife was late making of caps for me, and the wench making an end of a pair of stockings that she was knitting of. So to bed.
 
 1660-03-10 19:40   W. Howe went with me to my office, whither also Mr. Madge comes half foxed and played the fool upon the violin that made me weary.
 
-1660-03-10 16:10   I took occasion to tell my wife of my going to sea, who was troubled at it and was at last willing to continue at Mr Bowyer’s in my absence.
+1660-03-10 16:10   By coach home, where I took occasion to tell my wife of my going to sea, who was much troubled at it, and was with some dispute at last willing to continue at Mr. Bowyer’s in my absence.
 
-1660-03-10 11:45   To the Treasurer of the Navy, where I received 500l. for my Lord, and having left 200l. of it with Mr. Rawlinson, I went to the Sun tavern.
+1660-03-10 11:45   To the Treasurer of the Navy, where I received 500l. for my Lord, and I went to the Sun tavern on Fish Street Hill, where Mr. Hill, Stevens and Mr. Hater of the Navy Office had invited me, where we had good discourse and a fine breakfast of Mr. Hater.
 
-1660-03-10 09:00   I told my father my resolution to go to sea and consulted with him how to dispose of my wife. We resolved of letting her be at Mr. Bowyer’s.
+1660-03-10 09:00   Went to my father’s, whom I took in his cutting house, and there I told him my resolution to go to sea with my Lord, and consulted with him how to dispose of my wife, and we resolved of letting her be at Mr. Bowyer’s.
 
-1660-03-10 06:45   Being overheated with drink I made a promise to drink no strong drink this week for I find it makes me sweat and puts me quite out of order.
+1660-03-10 06:30   All night troubled in my thoughts how to order my business upon this great change with me that I could not sleep, and being overheated with drink I made a promise to drink no strong drink this week, for I find that it makes me sweat and puts me quite out of order.
 
-1660-03-10 06:30   All night troubled in my thoughts how to order my business upon this great change with me that I could not sleep.
 
-1660-03-09 22:10   Mr. Butler and I to Harper’s, where we sat and drank for two hours; the old woman she was drunk and began to talk foolishly.
+1660-03-09 22:34   This day it was resolved that the writs do go out in the name of the Keepers of the Liberty, and I hear that it is resolved privately that a treaty be offered with the King. And that Monk did check his soldiers highly for what they did yesterday.
 
-1660-03-09 11:30   In the Painted Chamber walked a good while; I telling my Lord that I was willing and ready to go with him to sea, he agreed that I should,
+1660-03-09 22:10   Mr. Butler and I to Harper’s, where we sat and drank for two hours; the old woman she was drunk and began to talk foolishly in commendation of her son James.
 
-1660-03-08 18:00   Officers of the Army, and some of the Parliament, had a conference at White Hall to make all right again, but I know not what is done.
+1660-03-09 12:55 r I went and dined at Mr. Crew’s, where Mr. Hawly comes to me, and I told him the business and showed him the letter promising him 20l. a year, which he liked very well of. I did the same to Mr. Moore, which he also took for a courtesy.
 
-1660-03-08 15:40   Home about two o’clock, and took my wife by land to Paternoster Row, to buy some Paragon for a petticoat and so home again.
+1660-03-09 11:30   My Lord in the Painted Chamber walked a good while; and I telling him that I was willing and ready to go with him to sea, he agreed that I should, and advised me what to write to Mr. Downing about it.
 
-1660-03-08 09:40   There was a general damp over men’s minds and faces upon the Officers of the Army being about making a remonstrance against Charles Stuart.
 
-1660-03-07 17:50   My father left my uncle with his leg very dangerous, and do believe he cannot continue in that condition long.
+1660-03-08 18:00   Some of the Officers of the Army, and some of the Parliament, had a conference at White Hall to make all right again, but I know not what is done.
 
-1660-03-07 17:30   My uncle Wight and I homewards, parted at Fleet Street, where I found my father newly come home from Brampton very well.
+1660-03-08 16:37 r Going home I met with Mr. King that belonged to the Treasurers at War and took him to Harper’s, who told me that he and the rest of his fellows are cast out of office by the new Treasurers.
 
-1660-03-07 15:50   I went to the Pope’s Head Alley and called on Adam Chard, and bought a catcall there, it cost me two groats.
+1660-03-08 15:40   Home, and took my wife by land to Paternoster Row, to buy some Paragon for a petticoat and so home again.
 
-1660-03-07 13:20   By appointment to the Angel, where Chetwind, Mr. Thomas and Doling were at oysters, and beginning Lent this day with a fish dinner.
+1660-03-08 12:45   I met at the Dog tavern Captain Philip Holland, with whom I advised how to make some advantage of my Lord’s going to sea, which he told me might be by having of five or six servants entered on board, and I to give them what wages I pleased, and so their pay to be mine.
 
-1660-03-07 10:30   My Lord offered all the ways that could be, how he might do me good, with the greatest liberty and love that could be.
+1660-03-08 12:03   To Westminster Hall, where there was a general damp over men’s minds and faces upon some of the Officers of the Army being about making a remonstrance against Charles Stuart or any single person; but it was told that the General had put a stop to it, so all was well again.
 
-1660-03-07 09:15   I met with Mr. Lynes, the surgeon, who promised me some seeds of the sensitive plant.
 
-1660-03-06 22:00   My mind, I must needs remember, has been very much eased and joyed at my Lord’s great expressions of kindness this day.
+1660-03-07 17:53 r This news and my Lord’s great kindness makes me very cheerful within. I pray God make me thankful.
 
-1660-03-06 20:55   Every body now drinks the King’s health without any fear, whereas before it was very private that a man dare do it.
+1660-03-07 17:50 r He tells me that my uncle did acquaint him very largely what he did intend to do with his estate, to make me his heir and give my brother Tom something, and that my father and mother should have likewise something, to raise portions for John and Pall.
 
-1660-03-06 20:40   My Lord told me that he did believe it would not last long if the Protector were brought in; no, nor the King neither.
+1660-03-07 17:30   My uncle Wight and I homewards, parted at Fleet Street, where I found my father newly come home from Brampton very well. He left my uncle with his leg very dangerous, and do believe he cannot continue in that condition long.
 
-1660-03-06 17:00   The ladies went into the dining-room, where it was full of tag, rag, and bobtail, dancing, singing, and drinking, of which I was ashamed.
+1660-03-07 15:50   I went to the Pope’s Head Alley and called on Adam Chard, and bought a catcall there, it cost me two groats. Thence went and gave him a cup of ale.
 
-1660-03-06 14:10   I played upon a viall, and Mr. Tanner a viallin, and were very merry, with a special good dinner, with abundance of wine.
+1660-03-07 13:20   By appointment to the Angel in King Street, where Chetwind, Mr. Thomas and Doling were at oysters, and beginning Lent this day with a fish dinner.
 
-1660-03-06 09:45   My Lord asked me whether I could, without too much inconvenience, go to sea as his secretary, and bid me think of it.
+1660-03-07 10:35 r My Lord did wonder why Lambert was so willing to be put into the Tower, and thinks he has some design in it; but I think that he is so poor that he cannot use his liberty for debts, if he were at liberty; and so it is as good and better for him to be there, than any where else.
 
-1660-03-06 09:30   My Lord bade me look out now some good place, and he would use all his own, and all the interest of his friends, to do me good.
+1660-03-07 10:30   My Lord did give me the best advice that he could what was best for me, whether to stay or go with him, and offered all the ways that could be, how he might do me good, with the greatest liberty and love that could be.
 
-1660-03-05 19:50   Mr. Hunt told me how the Parliament had voted that the Covenant be printed and hung in churches again.
+1660-03-07 09:15   I went to my Lord at Mr. Crew’s. Here, among many that were here, I met with Mr. Lynes, the surgeon, who promised me some seeds of the sensitive plant. I spoke too with Mr. Pierce the surgeon, who gave me great encouragement to go to sea with my Lord.
 
-1660-03-05 17:30   Mr. Pinkney shewed me how he had alway kept the Lion and Unicorn, in the back of his chimney, in expectation of the King’s coming again.
 
-1660-03-05 15:20   Here we staid and drank till Mr. Adams began to be overcome.
+1660-03-06 22:00   My mind, I must needs remember, has been very much eased and joyed at my Lord’s great expressions of kindness this day, and in discourse thereupon my wife and I lay awake an hour or two in our bed.
 
-1660-03-05 12:45   By water to Billingsgate, at the Salutation Tavern, whither Mr. Talbot and Adams came, and bring a great good meat, a ham of bacon, &c.
+1660-03-06 21:12 r Monk this day is feasted at Mercers’ Hall, and is invited one after another to all the twelve Halls in London! Many think that he is honest yet, and some or more think him to be a fool that would raise himself, but think that he will undo himself by endeavouring it.
+
+1660-03-06 20:55 r Every body now drinks the King’s health without any fear, whereas before it was very private that a man dare do it.
+
+1660-03-06 20:40 r My Lord told me that there was great endeavours to bring in the Protector again; but he told me, too, that he did believe it would not last long if he were brought in; no, nor the King neither, unless he carry himself very soberly and well.
+
+1660-03-06 20:23   I hear that the Lords do intend to sit, and great store of them are now in town, and I see in the Hall to-day. Overton at Hull do stand out, but can, it is thought, do nothing; and Lawson, it is said, is gone with some ships thither, but all that is nothing.
+
+1660-03-06 17:45 r Home and wrote by the post, by my Lord’s command, for J. Goods to come up presently. For my Lord intends to go forthwith into the Swiftsure till the Nazeby be ready.
+
+1660-03-06 16:03 r Well, they all went down into the dining-room, where it was full of tag, rag, and bobtail, dancing, singing, and drinking, of which I was ashamed, and after I had staid a dance or two I went away.
+
+1660-03-06 15:25   I went to see Mrs. Jem, at whose chamber door I found a couple of ladies, but she not being there, we hunted her out, and found that she and another had hid themselves behind a door.
+
+1660-03-06 14:10   To the Bell, where were Mr. Eglin, Veezy, Vincent a butcher, and Mr. Tanner, with whom I played upon a viall, and he a viallin, after dinner, and were very merry, with a special good dinner, a leg of veal and bacon, two capons and sausages and fritters, with abundance of wine.
+
+1660-03-06 11:30   Here comes my uncle Tom, whom I took to Will’s and drank with, poor man, he comes to inquire about the knights of Windsor, of which he desires to get to be one.
+
+1660-03-06 09:55 r He told me also, that he did believe the King would come in, and did discourse with me about it, and about the affection of the people and City, at which I was full glad.
+
+1660-03-06 09:45 r He asked me whether I could, without too much inconvenience, go to sea as his secretary, and bid me think of it. He also began to talk of things of State, and told me that he should want one in that capacity at sea, that he might trust in, and therefore he would have me to go.
+
+1660-03-06 09:30 r He likewise bade me look out now at this turn some good place, and he would use all his own, and all the interest of his friends that he had in England, to do me good.
+
+1660-03-06 09:20   My Lord asked me how things were with me, and what he had endeavoured to do with my uncle to get him to do something for me but he would say nothing too.
+
+
+1660-03-05 19:50   At home I found Mr. Hunt, who told me how the Parliament had voted that the Covenant be printed and hung in churches again. Great hopes of the King’s coming again.
+
+1660-03-05 17:30   To Westminster by water, only seeing Mr. Pinkney at his own house, where he showed me how he had alway kept the Lion and Unicorn, in the back of his chimney, bright, in expectation of the King’s coming again.
+
+1660-03-05 14:45   I met with Mr. Sheply and Mr. Pinkney at Will’s, who took me by water to Billingsgate, at the Salutation Tavern, whither by-and-by, Mr. Talbot and Adams came, and bring a great good meat, a ham of bacon, &c. Here we staid and drank till Mr. Adams began to be overcome.
 
 1660-03-05 10:15   Early in the morning Mr. Hill comes to string my theorbo, which we were about till past ten o’clock, with a great deal of pleasure.
 
-1660-03-04 21:00   To my mother again, and after supper she and I talked very high about religion, I in defence of the religion I was born in.
 
-1660-03-04 14:40   We three to Mr. Messum’s where we met Mons. L’Impertinent, who got us a seat and told me a ridiculous story.
+1660-03-04 21:00   To my mother, and after supper she and I talked very high about religion, I in defence of the religion I was born in.
+
+1660-03-04 14:40   To Mr. Messum’s where we met Mons. L’Impertinent, who got us a seat and told me a ridiculous story how that he had caused a simple citizen to spend 80l. in entertainments of him and some friends of his upon pretence of some service that he would do him in his suit after a widow.
 
 1660-03-04 11:30   Before I went to church I sang Orpheus’ Hymn to my viall. After that to Mr. Gunning’s, an excellent sermon upon charity.
 
-1660-03-03 20:15   Tom Harper talked huge high that my Lord Protector would come in place again, which is much discoursed of, though I do not see it possible.
 
-1660-03-03 20:00   Tom Harper took me to a place in Drury Lane where we drank a great deal of strong water, more than ever I did in my life at one time before.
+1660-03-03 20:15 r He talked huge high that my Lord Protector would come in place again, which indeed is much discoursed of again, though I do not see it possible.
 
-1660-03-03 17:15   I hear this day from many that things are in a very doubtful posture, some of the Parliament being willing to keep the power in their hands.
+1660-03-03 20:00   I met with Tom Harper, who took me into a place in Drury Lane, where we drank a great deal of strong water, more than ever I did in my life at one time before.
+
+1660-03-03 17:15   I met Mr. Gifford, who took me and gave me half a pint of wine, and told me, as I hear this day from many, that things are in a very doubtful posture, some of the Parliament being willing to keep the power in their hands.
 
 1660-03-03 16:30   Went by appointment to Hering, the merchant, but missed of my money, at which I was much troubled, but could not help myself.
 
-1660-03-03 15:51   My Lord told me he feared there was new design hatching, as if Monk had a mind to get into the saddle.
+1660-03-03 15:40 r I by coach with my Lord, to Mr. Crew’s, in our way talking of publick things, and how I should look after getting of his Commissioner’s despatch. He told me he feared there was new design hatching, as if Monk had a mind to get into the saddle.
 
-1660-03-03 15:40   By coach with my Lord, in our way talking of publick things, and how I should look after getting of his Commissioner’s despatch.
+1660-03-03 13:45   I to Warwick House, in Holborn, to my Lord, where he dined with my Lord of Manchester, Sir Dudley North, my Lord Fiennes, and my Lord Barkly.
 
 1660-03-03 13:00   My brother Tom came and dined with me, and told me that my mother was not very well, and that my Aunt Fenner was very ill too.
 
@@ -282,22 +348,30 @@ YYYY-MM-DD HH:MM   1234567890123456789012345678901234567890123456789012345678901
 
 1660-03-03 09:20   To Westminster Hall, where I found that my Lord was last night voted one of the Generals at Sea, and Monk the other.
 
+
 1660-03-02 22:15   Spent the evening in my study, and so after some talk with my wife, then to bed.
 
-1660-03-02 17:30   Great is the talk of a single person, and that it would now be Charles, George, or Richard again.
+1660-03-02 17:45 r Great is the talk of a single person, and that it would now be Charles, George, or Richard again. For the last of which, my Lord St. John is said to speak high.
+
+1660-03-02 17:38 r I hear the City militia is put into good posture, and it is thought that Monk will not be able to do any great matter against them now, if he have a mind.
 
 1660-03-02 17:10   To Westminster Hall, where I saw Sir G. Booth at liberty.
 
-1660-03-02 15:40   To the Swan tavern, where we drank a quart or two of wine, and so parted.
+1660-03-02 15:40 r To the Swan tavern, where we drank a quart or two of wine, and so parted.
 
-1660-03-02 13:30   I met with Mr. Eglin and Thomas, who took me to the Leg, where we had two brave dishes of meat, one of fish, a carp and some other fishes.
+1660-03-02 13:30   I met with Mr. Eglin, Chetwind, and Thomas, who took me to the Leg in King’s street, where we had two brave dishes of meat, one of fish, a carp and some other fishes, as well done as ever I ate any.
 
-1660-03-01 20:30   To Westminster, where at the Sun Mr. Sheply and I spent two or three hours in a pint or two of wine, discoursing of matters in the country.
+1660-03-02 07:30   I went to my Lord at Mr. Crew’s, where I spoke to him. Here were a great many come to see him, as Secretary Thurlow who is now by this Parliament chosen again Secretary of State. There were also General Monk’s trumpeters to give my Lord a sound of their trumpets this morning.
 
-1660-03-01 14:45   Mr. Crew’s coachman was to be buried, he being a day before killed with a blow of one of his horses that struck his skull into his brain.
 
-1660-03-01 13:15   To Mr. Crew’s whither Mr. Thomas was newly come to town, to bring the thanks of the county to General Monk for the return of the Parliament.
+1660-03-01 21:30   This day the Parliament did vote that they would not sit longer than the 15th day of this month.
 
-1660-03-01 09:30   Mr. Sheply being not within I went up. Out of the box where my Lord’s pamphlets lay, I chose as many as I had a mind to have for my own use.
+1660-03-01 20:30 r By water to Westminster, where at the Sun Mr. Sheply and I spent two or three hours in a pint or two of wine, discoursing of matters in the country, among other things telling me that my uncle did to him make a very kind mention of me, and what he would do for me.
 
-1660-03-01 09:10   I went to my Lord’s lodgings, thinking to have spoke with Mr. Sheply, having not been to visit him since my coming to town.
+1660-03-01 14:45 r We tarried late before we went to dinner, it being the day that John, Mr. John Crew’s coachman, was to be buried in the afternoon, he being a day or two before killed with a blow of one of his horses that struck his skull into his brain.
+
+1660-03-01 13:15 r Mr. Sheply and I went to Mr. Crew’s, whither Mr. Thomas was newly come to town, being sent with Sir H. Yelverton, my old school-fellow at Paul’s School, to bring the thanks of the county to General Monk for the return of the Parliament.
+
+1660-03-01 09:30 r But he being not within I went up, and out of the box where my Lord’s pamphlets lay, I chose as many as I had a mind to have for my own use and left the rest.
+
+1660-03-01 09:10   Went to my Lord’s lodgings, thinking to have spoke with Mr. Sheply, having not been to visit him since my coming to town.
