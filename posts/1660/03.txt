@@ -46,7 +46,7 @@ YYYY-MM-DD HH:MM r 1234567890123456789012345678901234567890123456789012345678901
 
 1660-03-25 16:10   Sermon again, at which I slept, God forgive me! After that, it being a fair day, I walked with the Captain upon the deck talking.
 
-1660-03-25 14:00   Captain Cuttance and I had oysters, my Lord being in his cabin not intending to stir out to-day. After that up into the great cabin above to dinner with the Captain, where was Captain Isham and all the officers of the ship.
+1660-03-25 14:00   Captain Cuttance and I had oysters, my Lord being in his cabin not intending to stir out today. After that up into the great cabin above to dinner with the Captain, where was Captain Isham and all the officers of the ship.
 
 1660-03-25 10:20   Mr. Ibbott, at the end of the long table, begun to pray and preach and indeed made a very good sermon, upon the duty of all Christians to be stedfast in faith.
 
@@ -99,7 +99,7 @@ YYYY-MM-DD HH:MM r 1234567890123456789012345678901234567890123456789012345678901
 
 1660-03-22 14:00   I went forth to buy a pair of riding grey serge stockings and sword and belt and hose, and after that took Wotton and Brigden to the Pope’s Head Tavern in Chancery Lane, where Gilb. Holland and Shelston were, and we dined and drank a great deal of wine, and they paid all.
 
-1660-03-22 12:02 r But the weather continuing very bad my Lord would not go to-day. My Lord spent this morning private in sealing of his last will and testament with Mr. W. Mountagu.
+1660-03-22 12:02 r But the weather continuing very bad my Lord would not go today. My Lord spent this morning private in sealing of his last will and testament with Mr. W. Mountagu.
 
 1660-03-22 07:15 r Mr. Hawly came to me and I gave him the key of my house to keep, and he went with me to Mr. Crew’s, and there I took my last leave of him.
 
@@ -112,7 +112,7 @@ YYYY-MM-DD HH:MM r 1234567890123456789012345678901234567890123456789012345678901
 
 1660-03-21 14:00   I went to a tavern over against Mr. Pierce’s with judge Advocate Fowler and Mr. Burr, and sat and drank with them two or three pints of wine.
 
-1660-03-21 08:10   To my Lord’s, but the wind very high against us, and the weather bad we could not go to-day; here I did very much business.
+1660-03-21 08:10   To my Lord’s, but the wind very high against us, and the weather bad we could not go today; here I did very much business.
 
 
 1660-03-20 19:00 r To Westminster, where by reason of rain and an easterly wind, the water was so high that there was boats rowed in King Street and all our yard was drowned, that one could not go to my house, so as no man has seen the like almost, most houses full of water.
@@ -190,7 +190,7 @@ YYYY-MM-DD HH:MM r 1234567890123456789012345678901234567890123456789012345678901
 1660-03-16 07:15   No sooner out of bed but troubled with abundance of clients, seamen.
 
 
-1660-03-15 22:12   I went to Westminster Hall, and the Parliament sat till ten at night, thinking and being expected to dissolve themselves to-day, but they did not. Great talk tonight that the discontented officers did think this night to make a stir, but prevented.
+1660-03-15 22:12   I went to Westminster Hall, and the Parliament sat till ten at night, thinking and being expected to dissolve themselves today, but they did not. Great talk tonight that the discontented officers did think this night to make a stir, but prevented.
 
 1660-03-15 14:10   Into London by water, and in Fish Street my wife and I bought a bit of salmon for 8d. and went to the Sun Tavern and ate it, where I did promise to give her all that I have in the world but my books, in case I should die at sea.
 
@@ -291,7 +291,7 @@ YYYY-MM-DD HH:MM r 1234567890123456789012345678901234567890123456789012345678901
 
 1660-03-06 20:40 r My Lord told me that there was great endeavours to bring in the Protector again; but he told me, too, that he did believe it would not last long if he were brought in; no, nor the King neither, unless he carry himself very soberly and well.
 
-1660-03-06 20:23   I hear that the Lords do intend to sit, and great store of them are now in town, and I see in the Hall to-day. Overton at Hull do stand out, but can, it is thought, do nothing; and Lawson, it is said, is gone with some ships thither, but all that is nothing.
+1660-03-06 20:23   I hear that the Lords do intend to sit, and great store of them are now in town, and I see in the Hall today. Overton at Hull do stand out, but can, it is thought, do nothing; and Lawson, it is said, is gone with some ships thither, but all that is nothing.
 
 1660-03-06 17:45 r Home and wrote by the post, by my Lord’s command, for J. Goods to come up presently. For my Lord intends to go forthwith into the Swiftsure till the Nazeby be ready.
 
