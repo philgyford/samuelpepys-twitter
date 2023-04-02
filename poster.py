@@ -11,7 +11,7 @@ import urllib.parse as urlparse
 import pytz
 import configparser
 import redis
-import twitter
+import tweepy
 from mastodon import Mastodon, MastodonError
 
 
@@ -30,7 +30,8 @@ class Poster:
     mastodon_access_token = ""
     mastodon_api_base_url = "https://mastodon.social"
 
-    # 1 will output stuff.
+    # 1 will output INFO logging and above.
+    # 2 will output DEBUG logging and above.
     verbose = 0
 
     # How many years ahead are we of the dated posts?
@@ -64,7 +65,10 @@ class Poster:
         self.load_config()
 
         if self.verbose:
-            self.logger.setLevel(logging.INFO)
+            if self.verbose == 1:
+                self.logger.setLevel(logging.INFO)
+            elif self.verbose == 2:
+                self.logger.setLevel(logging.DEBUG)
 
         self.redis = redis.Redis(
             host=self.redis_hostname,
@@ -78,10 +82,10 @@ class Poster:
         self.mastodon_api = None
 
         if self.twitter_consumer_key:
-            self.twitter_api = twitter.Api(
+            self.twitter_api = tweepy.Client(
                 consumer_key=self.twitter_consumer_key,
                 consumer_secret=self.twitter_consumer_secret,
-                access_token_key=self.twitter_access_token,
+                access_token=self.twitter_access_token,
                 access_token_secret=self.twitter_access_token_secret,
             )
 
@@ -96,7 +100,7 @@ class Poster:
         try:
             self.local_tz = pytz.timezone(self.timezone)
         except pytz.exceptions.UnknownTimeZoneError:
-            self.error("Unknown or no timezone in settings: %s" % self.timezone)
+            self.logger.error("Unknown or no timezone in settings: %s" % self.timezone)
             sys.exit(0)
 
     def load_config(self):
@@ -126,9 +130,10 @@ class Poster:
         self.timezone = settings.get("Timezone", self.timezone)
         self.max_time_window = int(settings.get("MaxTimeWindow", self.max_time_window))
 
-        self.redis_hostname = settings.get("RedisHostname", self.redis_hostname)
-        self.redis_port = int(settings.get("RedisPort", self.redis_port))
-        self.redis_password = settings.get("RedisPassword", self.redis_password)
+        redis_url = urlparse.urlparse(settings.get("RedisURL"))
+        self.redis_hostname = redis_url.hostname
+        self.redis_port = redis_url.port
+        self.redis_password = redis_url.password
 
     def load_config_from_env(self):
         self.twitter_consumer_key = os.environ.get("TWITTER_CONSUMER_KEY")
@@ -154,15 +159,17 @@ class Poster:
         self.redis_password = redis_url.password
 
     def start(self):
+        self.logger.debug("Running start()")
 
         # eg datetime.datetime(2014, 4, 25, 18, 59, 51, tzinfo=<UTC>)
         last_run_time = self.get_last_run_time()
+        self.logger.debug(f"Last run time: {last_run_time}")
 
         # We need to have a last_run_time set before we can send any posts.
         # So the first time this is run, we can't do anythning.
         if last_run_time is None:
             self.set_last_run_time()
-            logging.warning(
+            self.logger.warning(
                 "No last_run_time in database.\n"
                 "This must be the first time this has been run.\n"
                 "Settinge last_run_time now.\n"
@@ -259,7 +266,7 @@ class Poster:
 
                     post["in_reply_to_time"] = in_reply_to_time
 
-                    self.log(
+                    self.logger.info(
                         "Preparing: '{}...' "
                         "timed {}, "
                         "is_reply: {}, "
@@ -387,7 +394,7 @@ class Poster:
         except ValueError as e:
             # Unless something else is wrong, it could be that naive_time
             # is 29th Feb and there's no 29th Feb in the current, modern, year.
-            self.log("Skipping %s as can't make a modern time from it: %s" % (t, e))
+            self.logger.info(f"Skipping {t} as can't make a modern time from it: {e}")
             local_modern_time = False
 
         return local_modern_time
@@ -405,7 +412,7 @@ class Poster:
         Should be in the order in which they need to be posted.
         """
         if self.twitter_api is None:
-            self.log("No Twitter Consumer Key set; not tweeting")
+            self.logger.debug("No Twitter Consumer Key set; not tweeting")
             return
 
         for post in posts:
@@ -420,21 +427,21 @@ class Poster:
                 if post["in_reply_to_time"] == previous_status_time:
                     previous_status_id = self.redis.get("previous_tweet_id")
 
-            self.log(
+            self.logger.info(
                 "Tweeting: {} [{} characters]".format(post["text"], len(post["text"]))
             )
 
             try:
-                status = self.twitter_api.PostUpdate(
-                    post["text"], in_reply_to_status_id=previous_status_id
+                response = self.twitter_api.create_tweet(
+                    text=post["text"], in_reply_to_tweet_id=previous_status_id
                 )
-            except twitter.TwitterError as e:
-                self.error(e)
+            except tweepy.TweepyException as e:
+                self.logger.error(e)
             else:
                 # Set these so that we can see if the next tweet is a reply
                 # to this one, and then one ID this one was.
                 self.redis.set("previous_tweet_time", post["time"])
-                self.redis.set("previous_tweet_id", status.id)
+                self.redis.set("previous_tweet_id", response.data["id"])
 
             time.sleep(2)
 
@@ -451,7 +458,7 @@ class Poster:
         Should be in the order in which they need to be posted.
         """
         if self.mastodon_api is None:
-            self.log("No Mastodon Client ID set; not tooting")
+            self.logger.debug("No Mastodon Client ID set; not tooting")
             return
 
         for post in posts:
@@ -466,7 +473,7 @@ class Poster:
                 if post["in_reply_to_time"] == previous_status_time:
                     previous_status_id = self.redis.get("previous_toot_id")
 
-            self.log(
+            self.logger.info(
                 "Tooting: {} [{} characters]".format(post["text"], len(post["text"]))
             )
 
@@ -475,7 +482,7 @@ class Poster:
                     post["text"], in_reply_to_id=previous_status_id
                 )
             except MastodonError as e:
-                self.error(e)
+                self.logger.error(e)
             else:
                 # Set these so that we can see if the next toot is a reply
                 # to this one, and then one ID this one was.
@@ -483,12 +490,6 @@ class Poster:
                 self.redis.set("previous_toot_id", status.id)
 
             time.sleep(2)
-
-    def log(self, s):
-        self.logger.info(s)
-
-    def error(self, s):
-        self.logger.error(s)
 
 
 def main():

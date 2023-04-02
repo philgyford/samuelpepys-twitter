@@ -1,0 +1,38 @@
+version: "3.9"
+
+# For use in development only.
+
+services:
+
+  redis:
+    container_name: poster_redis
+    deploy:
+      resources:
+        limits:
+          # When set to 0 these will use as much as needed:
+          cpus: "0"
+          memory: "0"
+    image: "redis:7-bullseye"
+    restart: unless-stopped
+    stop_grace_period: "3s"
+    volumes:
+      - "redis:/data"
+
+  clock:
+    build: .
+    command: >
+      sh -c "
+      python clock.py
+      "
+    container_name: poster_clock
+    depends_on:
+      - redis
+    env_file: .env
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
+    volumes:
+      - .:/code
+
+volumes:
+  redis:

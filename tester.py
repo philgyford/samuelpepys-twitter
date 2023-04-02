@@ -155,7 +155,7 @@ class Tester:
                         self.add_error(
                             filepath,
                             post_time,
-                            'Post ends with lowercase character ("...{}")'.format(
+                            'Post ends with lowercase character, not punctuation ("...{}")'.format(
                                 post_text[-20:]
                             ),
                         )
