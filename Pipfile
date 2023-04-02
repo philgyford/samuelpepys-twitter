@@ -5,7 +5,7 @@ name = "pypi"
 
 [packages]
 configparser = "*"
-python-twitter = "*"
+tweepy = "*"
 pytz = "*"
 redis = "*"
 APScheduler = "*"
