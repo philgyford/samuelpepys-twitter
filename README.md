@@ -110,34 +110,44 @@ long, or that aren't of the correct format. eg:
 
 ## Configuration
 
-Configuration can either be set in a config file or in environment variables. If `config.cfg` is present, that is used, otherwise environment variables.
+Configuration can either be set in a config file or in environment variables.
+If `config.cfg` is present, that is used, otherwise environment variables.
 
-Whichever you use you should include the API settings for one or both of a Twitter app and Mastodon app. If you don't set the Twitter Consumer Key (or leave it empty), no tweets will be sent. If you don't set the Mastodon Client ID (or leave it empty), no posts will be sent.
+Whichever you use you should include the API settings for one or both of a
+Twitter app (API v2) and Mastodon app. If you don't set the Twitter Consumer Key (or
+leave it empty), no tweets will be sent. If you don't set the Mastodon Client
+ID (or leave it empty), no posts will be sent.
 
 All other settings are optional.
 
-If the environment variable `REDIS_URL` – or its config file equivalent – is left out, the script tries to use a local, un-password-protected, database.
+If the environment variable `REDIS_URL` – or its config file equivalent – is
+left out, the script tries to use a local, un-password-protected, database.
 
-See [Wikipedia's list](http://en.wikipedia.org/wiki/List_of_tz_database_time_zones) of TZ timezone strings for the `TIMEZONE` setting.
+See [Wikipedia's list](http://en.wikipedia.org/wiki/List_of_tz_database_time_zones)
+of TZ timezone strings for the `TIMEZONE` setting.
 
 ### Config file
 
-To use a config file, copy `config_example.cfg` to `config.cfg`. Then change the values appropriately for your project.
+To use a config file, copy `config_example.cfg` to `config.cfg`. Then change the
+values appropriately for your project.
 
 ### Environment variables
 
 To use environment variables, *don't* create a `config.cfg` file.
 
-You can copy `.env_example` to `.env`, and change its values appropriately. This will set environment variables during local development with Docker, and might work with however you choose to deploy to production.
+You can copy `.env_example` to `.env`, and change its values appropriately. This
+will set environment variables during local development with Docker, and might
+work with however you choose to deploy to production.
 
-Or, if using a service like Heroku, set the environment variables as the service requires, using `.env_example` as a guide for what to set (see below).
+Or, if using a service like Heroku, set the environment variables as the service
+requires, using `.env_example` as a guide for what to set (see below).
 
 
 ## Local development
 
 You could run it in a local virtual environment, installing python requirements
-from the `requirements.txt` file. Then set up either a `config.cfg` or `.env` file
-(see above). Then run the script:
+from the `requirements.txt` file. Then set up either a `config.cfg` or `.env`
+file (see above). Then run the script:
 
     $ ./poster.py
 
@@ -191,7 +201,8 @@ The downside is that it can only run up to once every 10 minutes.
 
 To do it that way, remove the `Procfile` and push the code to Heroku.
 
-Add the free [Heroku Scheduler](https://addons.heroku.com/scheduler) to your app:
+Add the free [Heroku Scheduler](https://addons.heroku.com/scheduler) to your
+app:
 
     $ heroku addons:add scheduler:standard
 
