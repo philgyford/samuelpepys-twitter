@@ -1,283 +1,339 @@
-YYYY-MM-DD HH:MM   12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+YYYY-MM-DD HH:MM r 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
-1660-11-30 23:55   I went up and sat till twelve at night again to make an end of my Lord’s accounts, as I did the last night.
 
-1660-11-30 20:20   I sent for Mr. Hater, and broke the other barrel of oysters with him, and did afterwards sit down discoursing of sea terms to learn of him.
+1660-11-30 23:59   I went up and sat till twelve at night again to make an end of my Lord’s accounts, as I did the last night. Which at last I made a good end of, and so to bed.
 
-1660-11-30 12:00   I having two barrels of oysters at home I caused one of them and some wine to be brought to the office, and there the Officers did eat them.
+1660-11-30 20:20 r At home I sent for Mr. Hater, and broke the other barrel with him, and did afterwards sit down discoursing of sea terms to learn of him.
 
-1660-11-30 00:00   In a great ease of mind and spirit I fell about the auditing of Mr. Shepley’s accounts with my Lord, till I began to doze, and so to bed.
+1660-11-30 12:30   I having two barrels of oysters at home I caused one of them and some wine to be brought to the office, and there the Officers did eat them.
 
-1660-11-29 08:41   Mr. Davis did seem ready to have it stopt, and did tell me how thieves did attempt to rob his house last night, which do make us all afraid.
+1660-11-30 00:10   In a great ease of mind and spirit I fell about the auditing of Mr. Shepley’s last accounts with my Lord by my Lord’s desire, and about that I sat till 12 o’clock at night, till I began to doze, and so to bed, with my heart praising God for his mercy to us.
 
-1660-11-29 08:30   Seeing a great deal of foul water come into my parlour from under the partition between me and Mr. Davis, I did step thither to him.
 
-1660-11-28 21:50   Among the officers do hear that they may have our salaries allowed by the Treasurer, which do make me very glad, and praise God for it.
+1660-11-29 08:41 r He did seem very ready to have it stopt, and did also tell me how thieves did attempt to rob his house last night, which do make us all afraid.
 
-1660-11-28 12:00   With Mr. Shepley and Pinkney to the Sun, and did give them a glass of wine and a peck of oysters for joy of my getting this money.
+1660-11-29 08:30   Seeing a great deal of foul water come into my parlour from under the partition between me and Mr. Davis, I did step thither to him and tell him of it.
 
-1660-11-28 11:10   To my Lord’s, where Major Hart did pay me; 23l. 14s. 9d., due to me upon my pay in my Lord’s troop at the time of our disbanding.
 
-1660-11-27 23:00   I do remember I did leave my boy Waineman at Whitehall with order to stay there for me, at which I was troubled, but the boy came home well.
+1660-11-28 21:50   To the office, and among the officers do hear that they may have our salaries allowed by the Treasurer, which do make me very glad, and praise God for it.
 
-1660-11-27 17:20   Mr. Moore told me how the House had this day voted the King to have all the Excise for ever.
+1660-11-28 14:40 r Home, where I found that Mr. Creed had sent me the 11l. 5s. that is due to me upon the remains of account for my sea business, which is also so much clear money to me, and my bill of impresse1 for 30l. is also cleared, so that I am wholly clear as to the sea in all respects.
 
-1660-11-27 14:00   To my Lord’s, where I found my wife, and she and I dined with him and my Lady, and my Lord did show us great respect.
+1660-11-28 12:00 r From thence with Mr. Shepley and Pinkney to the Sun, and did give them a glass of wine and a peck of oysters for joy of my getting this money.
 
-1660-11-27 10:40   In King Street there was a falling out between a drayman and my Lord Chesterfield’s coachman, and one of his footmen killed.
+1660-11-28 11:10   To my Lord’s, where Major Hart did pay me; 23l. 14s. 9d., due to me upon my pay in my Lord’s troop at the time of our disbanding, which is a great blessing to have without taking any law in the world for.
 
-1660-11-27 10:00   I found my Lord gone to the Wardrobe, whither he do now go every other morning, and do resolve to understand and look after the business.
+
+1660-11-27 23:10   Home, where when I come I do remember that I did leave my boy Waineman at Whitehall with order to stay there for me in the court, at which I was much troubled, but about 11 o’clock at night the boy came home well, and so we all to bed.
+
+1660-11-27 18:10   I do hear that the Queen’s going to France is stopt, which do like me well, because then the King will be in town the next month, which is my month again at the Privy Seal.
+
+1660-11-27 17:20   I met Mr. Moore, who had been at my house, and took him to my father’s, and we three to Standing’s to drink. Here Mr. Moore told me how the House had this day voted the King to have all the Excise for ever.
+
+1660-11-27 14:10 r Soon as dinner was done my wife took her leave, and went with Mr. Blackburne and his wife to London to a christening of a Brother’s child of his on Tower Hill.  And I to a play, “The Scorn-full Lady.”
+
+1660-11-27 14:00   To my Lord’s, where I found my wife, and she and I dined with him and my Lady, and great company of my Lord’s friends, and my Lord did show us great respect.
+
+1660-11-27 10:40   To Westminster Hall, and in King Street there being a great stop of coaches, there was a falling out between a drayman and my Lord Chesterfield’s coachman, and one of his footmen killed.
+
+1660-11-27 10:00   To Whitehall, where I found my Lord gone abroad to the Wardrobe, whither he do now go every other morning, and do seem to resolve to understand and look after the business himself.
+
 
 1660-11-26 21:50   Home, there hear that my Lady Batten had given my wife a visit (the first that ever she made her), which pleased me exceedingly.
 
-1660-11-26 19:40   The Comptroller and I to the Mitre to a glass of wine, when we fell into a discourse of poetry.
+1660-11-26 19:40   The Comptroller and I to the Mitre to a glass of wine, when we fell into a discourse of poetry, and he did repeat some verses of his own making which were very good.
 
-1660-11-26 13:30   To it all the morning, and dined at home where my father dined with me, who seems to take pleasure to have a son that is neat in his house.
+1660-11-26 13:30   To it all the morning, and dined at home where my father come and dined with me, who seems to take much pleasure to have a son that is neat in his house.
 
-1660-11-25 19:30   I went home, where I had a letter brought me from my Lord to get a ship ready to carry the Queen’s things over to France.
+
+1660-11-25 19:30   I went home, where I had a letter brought me from my Lord to get a ship ready to carry the Queen’s things over to France, she being to go within five or six days.
 
 1660-11-25 17:00   To my father’s to see my mother who is troubled much with the stone.
 
-1660-11-25 15:20   After dinner I went and ranged about to many churches, among the rest to the Temple, where I heard Dr. Wilkins a little.
+1660-11-25 15:20   I went and ranged about to many churches, among the rest to the Temple, where I heard Dr. Wilkins a little (late Maister of Trinity in Cambridge).
 
-1660-11-24 22:10   I fell to entering these two good songs of Mr. Lawes, “Helpe, helpe, O helpe,” and “O God of Heaven and Hell” in my song book.
 
-1660-11-24 15:20   I to Mr. de Cretz and did take away my Lord’s picture, and I paid 3l. 10s. for it and the frame, and am well pleased with it and the price.
+1660-11-24 22:10   I fell to entering these two good songs of Mr. Lawes, “Helpe, helpe, O helpe,” and “O God of Heaven and Hell” in my song book, to which I have got Mr. Child to set the base to the Theorbo, and that done to bed.
 
-1660-11-24 13:40   I dined with my lady, there being Mr. Child and Mrs. Borfett, who are never absent at dinner there, under pretence of a wooing.
+1660-11-24 15:20   I to Mr. de Cretz and did take away my Lord’s picture, which is now finished for me, and I paid 3l. 10s. for it and the frame, and am well pleased with it and the price.
 
-1660-11-23 11:00   Capt. Straughan did talk what he is able to advise the King for good husbandry in his ships. I do believe that he is a knowing man.
+1660-11-24 13:40   To my Lord’s, where I dined with my lady, there being Mr. Child and Mrs. Borfett, who are never absent at dinner there, under pretence of a wooing.
 
-1660-11-22 17:10   I to the new playhouse and saw part of the “Traitor,” a very good Tragedy; Mr. Moon did act the Traitor very well.
 
-1660-11-22 15:20   To Mr. Fox’s again, where many gentlemen dined with us, and most princely dinner, all provided for me and my friends.
+1660-11-23 11:30 r He did talk much what he is able to advise the King for good husbandry in his ships, as by ballasting them with lead ore and many other tricks, but I do believe that he is a knowing man in sea-business.
 
-1660-11-22 14:25   My wife standing near the Princess Henrietta with two or three black patches on, and well dressed, did seem to me much handsomer than she.
+1660-11-23 11:00   Standing looking upon the workmen doing of my new door to my house, there comes Captain Straughan the Scot, and he would needs take me to the Dolphin, and give me a glass of ale and a peck of oysters, he and I.
 
-1660-11-22 14:14   The Princess Henrietta's dressing of herself with her hair frized short up to her ears, did make her seem so much the less to me.
 
-1660-11-22 14:03   The Princess Henrietta is very pretty, but much below my expectation.
+1660-11-22 21:30 r At last, by knocking, Mr. Harrison the door-keeper did open us the door.
 
-1660-11-22 13:52   The Princess of Orange I had often seen before.
+1660-11-22 21:10 r To White Hall, and there, with Laud the page that went with me, we could not get out of Henry the Eighth’s gallery into the further part of the boarded gallery, where my Lord was walking with my Lord Ormond; and we had a key of Sir S. Morland’s, but all would not do.
 
-1660-11-22 13:41   The Queen a very little plain old woman, and nothing more in her presence in any respect nor garb than any ordinary woman.
+1660-11-22 17:20 r I to the new playhouse and saw part of the “Traitor,” a very good Tragedy; Mr. Moon did act the Traitor very well.
 
-1660-11-22 13:30   Mr. Fox got my wife placed behind the Queen’s chair, and I got into the crowd. By and by the Queen and the two Princesses came to dinner.
+1660-11-22 15:30 r I took coach for my wife and me homewards, and I light at the Maypole in the Strand, and sent my wife home.
 
-1660-11-22 13:15   Mr. Fox came in presently and did receive us with a great deal of respect; and then did take my wife and I to the Queen’s presence-chamber.
+1660-11-22 15:20 r Dinner being done, we went to Mr. Fox’s again, where many gentlemen dined with us, and most princely dinner, all provided for me and my friends, but I bringing none but myself and wife, he did call the company to help to eat up so much good victuals.
 
-1660-11-22 13:00   To Mr. Fox’s, where we found an alderman of London paying 1500l. in gold for the King, which was the most gold that ever I saw in my life.
+1660-11-22 14:25 r But my wife standing near her with two or three black patches on, and well dressed, did seem to me much handsomer than she.
 
-1660-11-22 12:30   My wife and I walked to the Old Exchange, and there she bought her a white whisk and put it on, and I a pair of gloves.
+1660-11-22 13:52 r The Princess of Orange I had often seen before. The Princess Henrietta is very pretty, but much below my expectation; and her dressing of herself with her hair frized short up to her ears, did make her seem so much the less to me.
 
-1660-11-21 23:10   I sent for the barber, who staid so long with me that he was locked into the house, and we were fain to call up Griffith, to let him out.
+1660-11-22 13:41 r By and by the Queen and the two Princesses came to dinner. The Queen a very little plain old woman, and nothing more in her presence in any respect nor garb than any ordinary woman.
 
-1660-11-21 20:12   I took much pleasure to have the neighbours come forth into the yard to hear me.
+1660-11-22 13:15 r Mr. Fox came in presently and did receive us with a great deal of respect; and then did take my wife and I to the Queen’s presence-chamber; where he got my wife placed behind the Queen’s chair, and I got into the crowd.
 
-1660-11-21 20:00   To my viallin (the first time that I have played on it since I came to this house) in my dining room, and afterwards to my lute.
+1660-11-22 13:00 r We took coach for Whitehall to Mr. Fox’s, where we found Mrs. Fox within, and an alderman of London paying 1000l. or 1500l. in gold upon the table for the King, which was the most gold that ever I saw together in my life.
 
-1660-11-21 11:30   My wife went home, and I to Pope’s Head, and bought me an aggate hafted knife, which cost me 5s.
+1660-11-22 12:30   My wife and I walked to the Old Exchange, and there she bought her a white whisk and put it on, and I a pair of gloves,
+
+1660-11-22 08:10   Came the carpenters to make me a door at the other side of my house, going into the entry, which I was much pleased with.
+
+
+1660-11-21 23:10 r So up to bed, leaving my wife to wash herself, and to do other things against to-morrow to go to court.
+
+1660-11-21 22:30   I sent for the barber, who staid so long with me that he was locked into the house, and we were fain to call up Griffith, to let him out.
+
+1660-11-21 20:00   To my viallin (the first time that I have played on it since I came to this house) in my dining room, and afterwards to my lute there, and I took much pleasure to have the neighbours come forth into the yard to hear me.
+
+1660-11-21 11:30 r My wife went home, and I to Pope’s Head, and bought me an aggate hafted knife, which cost me 5s.
 
 1660-11-21 10:50   My wife and I went to Paternoster Row, and there we bought some green watered moyre for a morning wastecoate.
 
 1660-11-21 09:10   My cozen Thomas Pepys, the turner, sent me a cupp of lignum vitae for a token.
 
-1660-11-20 18:10   Home, where I found the house in a washing pickle, and my wife in a joyful condition when I told her that she is to see the Queen.
 
-1660-11-20 14:30   I saw the first time one Moone, said to be the best actor in the world, and indeed it is the finest play-house that ever was in England.
+1660-11-20 18:10   Home, where I found the house in a washing pickle, and my wife in a very joyful condition when I told her that she is to see the Queen.
 
-1660-11-20 13:00   To the new Play-house near Lincoln’s-Inn-Fields (formerly Gibbon’s tennis-court), where the play of “Beggar’s Bush” was newly begun.
+1660-11-20 17:30 r It was well acted: and here I saw the first time one Moone, who is said to be the best actor in the world, lately come over with the King, and indeed it is the finest play-house, I believe, that ever was in England.
 
-1660-11-20 10:45   My Lord did commit the viewing of these accounts to me, which was a great joy to me to see that he do look upon me as one to put trust in.
+1660-11-20 14:20   Mr. Shepley and I to the new Play-house near Lincoln’s-Inn-Fields (which was formerly Gibbon’s tennis-court), where the play of “Beggar’s Bush” was newly begun.
 
-1660-11-20 10:30   I staid with my Lord and Mr. Shepley, looking over my Lord’s accounts and to set matters straight between him and Shepley.
+1660-11-20 13:40 r To the organ, where Mr. Child and one Mr Mackworth (who plays finely upon the violin) were playing, and so we played till dinner and then dined, where my Lord in a very good humour and kind to me.
+
+1660-11-20 10:30 r I staid with my Lord and Mr. Shepley, looking over my Lord’s accounts and to set matters straight between him and Shepley, and he did commit the viewing of these accounts to me, which was a great joy to me to see that my Lord do look upon me as one to put trust in.
 
 1660-11-20 08:40   I rose and with Will to my Lord’s by land, it being a very hard frost, the first we have had this year.
 
 1660-11-20 02:00   So to my musique and sat up late at it, and so to bed, leaving my wife to sit up till 2 o’clock that she may call the wench up to wash.
 
-1660-11-19 14:40   To the Globe, and did choose two pictures to hang up which my wife did not like when I came home. So I sent the picture of Paris back again.
 
-1660-11-19 10:50   To see my Lord’s picture at De Cretz, and he says it is very like him, and I say so too.
+1660-11-19 14:40   I went by water to London to the Globe in Cornhill, and there did choose two pictures to hang up in my house, which my wife did not like when I came home, and so I sent the picture of Paris back again.
 
-1660-11-18 20:00   After sermon my Lady took us home and there we supped with her and Sir W. Batten, and Pen, and were much made of.
+1660-11-19 11:10   To see my Lord’s picture at De Cretz, and he says it is very like him, and I say so too.
 
-1660-11-18 11:30   To our own church, where Mr. Powel (a crook legged man that went formerly with me to Paul’s School), preached a good sermon.
+1660-11-19 10:30 r Talking of those men who now stand condemned for murdering the King, he says that he believes that, if the law would give leave, the King is a man of so great compassion that he would wholly acquit them.
 
-1660-11-17 14:20   I dined with my Lady and my Lady Pickering, where her son John dined with us, who do continue a fool as he ever was since I knew him.
+1660-11-19 10:10   After we had done a little at the office this morning, I went with the Treasurer in his coach to White Hall, and in our way, in discourse, do find him a very good-natured man.
 
-1660-11-16 23:20   We went to a barrel of oysters at Sir W. Batten’s, and so home, and I to the setting of my papers in order, which did keep me up late.
 
-1660-11-16 15:35   He does it as a favour to me to offer to come in upon a way of getting of money, which they call Bottomry, which I do not yet understand.
+1660-11-18 20:00  Tto our own church and my wife with me (the first time that she and my Lady Batten came to sit in our new pew), and after sermon my Lady took us home and there we supped with her and Sir W. Batten, and Pen, and were much made of.
 
-1660-11-16 15:20   To discourse about the putting out of 80l. to a man who would give me 15l. per annum for 8 years for it which I did not think profit enough.
+1660-11-18 11:30   To our own church, Where Mr. Powel (a crook legged man that went formerly with me to Paul’s School), preached a good sermon.
 
-1660-11-16 10:00   Mr. Fontleroy and I to the Swan, and in discourse he seems to be wise and say little, though I know things are changed against his mind.
+
+1660-11-17 14:10   I dined with my Lady and my Lady Pickering, where her son John dined with us, who do continue a fool as he ever was since I knew him. His mother would fain marry him to get a portion for his sister Betty but he will not hear of it.
+
+1660-11-17 12:10   Hither came Major, who tells me that the Regiment is now disbanded, and that there is some money coming to me for it.
+
+1660-11-17 10:20   To Whitehall, where I inquired at the Privy Seal Office for a form for a nobleman to make one his Chaplain. But I understanding that there is not any, I did draw up one, and so to my Lord’s, and there I did give him it to sign for Mr. Turner to be his first Chaplain.
+
+
+1660-11-16 23:20   We went to a barrel of oysters at Sir W. Batten’s, and so home, and I to the setting of my papers in order, which did keep me up late. So to bed.
+
+1660-11-16 15:35 r He seems to do it as a great favour to me to offer to come in upon a way of getting of money, which they call Bottomry, which I do not yet understand, but do believe there may be something in it of great profit.
+
+1660-11-16 15:20   Mr. Snow and I to discourse about the putting out of 80l. to a man who lacks the money and would give me 15l. per annum for 8 years for it, which I did not think profit enough, and so he seemed to be disappointed by my refusal of it but I would not now part with my money easily.
+
+1660-11-16 10:00   In Westminster Hall I met with Mr. Fontleroy (my old acquaintance, whom I had not seen a long time), and he and I to the Swan, and in discourse he seems to be wise and say little, though I know things are changed against his mind.
+
 
 1660-11-15 22:10   I found my wife much satisfied with my Lord’s discourse and respect to her, and so after prayers to bed.
 
-1660-11-15 12:10   I did leave my wife to dine with my Lord, the first time he did take notice of her as my wife, and did seem to have a just esteem for her.
+1660-11-15 14:30 r To Sir W. Batten’s to dinner, he having a couple of Servants married today; and so there was a great number of merchants, and others of good quality after dinner to make an offering. And I did give ten shillings and no more, though I believe most of the rest did give more.
 
-1660-11-15 11:30   I got my wife carried in to my Lady, who was hiring of a French maid. They could not understand one another till my wife came to interpret.
+1660-11-15 12:30 r I did leave my wife to dine with my Lord, the first time he ever did take notice of her as my wife, and did seem to have a just esteem for her.
 
-1660-11-15 10:40   I leave my picture with Mr. de Cretz to copy out another for himself, and took the original by a porter with me to my Lord’s.
+1660-11-15 12:00 r As dinner was coming on table, my wife came to my Lord’s, and I got her carried in to my Lady, who took physic today, and was just now hiring of a French maid that was with her, and they could not understand one another till my wife came to interpret.
 
-1660-11-15 10:10   I did see Mr. de Cretz give some finishing touches to my Lord’s picture, so at last it is complete to my mind.
+1660-11-15 11:00 r My Lord did show me the King’s picture, which was done in Flanders; it came today, and indeed it is the most pleasant and the most like him that ever I saw picture in my life.
+
+1660-11-15 10:40 r I found my Lord within, and staid hearing him and Mr. Child playing upon my Lord’s new organ, the first time I ever heard it.
+
+1660-11-15 10:10   To Mr. de Cretz, whither I sent for J. Spicer, and we staid and did see him give some finishing touches to my Lord’s picture, so at last it is complete to my mind, and I leave mine with him to copy out another for himself, and took the original by a porter with me to my Lord’s.
 
 1660-11-15 09:40   To Westminster, and it being very cold upon the water I went all alone to the Sun and drank a draft of mulled white wine.
 
-1660-11-14 23:20   We did drink a great quantity of sack and did tell many merry stories, and in good humours we were all.
 
-1660-11-14 21:50   To the Dolphin, where we found Sir W. Batten, who is seldom a night from hence.
+1660-11-14 22:50   Sir W. Pen, the Comptroller, and I to the Dolphin, where we found Sir W. Batten, who is seldom a night from hence, and there we did drink a great quantity of sack and did tell many merry stories, and in good humours we were all.
 
-1660-11-14 11:00   I went into Cheapside to Mr. Beauchamp’s, to look out a piece of plate to give Mr. Fox from my Lord, and did choose a gilt tankard.
+1660-11-14 11:00   I went into Cheapside to Mr. Beauchamp’s, the goldsmith, to look out a piece of plate to give Mr. Fox from my Lord, for his favour about the 4,000l., and did choose a gilt tankard.
 
-1660-11-14 10:10   This day was the first that we do begin to sit in the afternoon, and not in the forenoon.
+1660-11-14 10:10   Office day. This day was the first that we do begin to sit in the afternoon, and not in the forenoon.
 
-1660-11-13 14:40   Not knowing the nature of her oven, my wife did heat it too hot, and so overbake her things, but knows how to do better another time.
 
-1660-11-13 13:50   Home to dinner, where I found my wife making of pies and tarts to try her oven with, which she has never yet done.
+1660-11-13 13:50   Home to dinner, where I found my wife making of pies and tarts to try her oven with, which she has never yet done, but not knowing the nature of it, did heat it too hot, and so a little overbake her things, but knows how to do better another time.
 
-1660-11-13 08:10   I took Mr. Moore to the Wardrobe; indeed there is a great deal of room in it, but very ugly till my Lord hath bestowed great cost upon it.
+1660-11-13 08:10   I met with Mr. Moore, and I found him to be a most careful, painful, and able man in business, and took him to the Wardrobe, and showed him all the house; and indeed there is a great deal of room in it, but very ugly till my Lord hath bestowed great cost upon it.
 
-1660-11-13 07:30   I met with Mr. Moore, who was going to my house, and indeed I found him to be a most careful, painful, and able man in business.
 
-1660-11-12 16:00   Pall promised me that she would, and with many thanks did weep for joy, which did give me and my wife some content and satisfaction.
+1660-11-12 17:40   Last night, my wife and I were troubled all night with the sound of drums in our ears, which in the morning we found to be Mr. Davys’s jack, but not knowing the cause of its going all night, I understand today that they have had a great feast today.
 
-1660-11-12 15:47   We went all together into the little room, and there I told Pall what my mind was, to have her come not as a sister, but as a servant.
+1660-11-12 16:00 r Which she promised me that she would, and with many thanks did weep for joy, which did give me and my wife some content and satisfaction.
 
-1660-11-12 15:35   We discoursed about my sister’s coming to live with me, which I have much mind for her good to have, and yet I am afeard of her ill-nature.
+1660-11-12 15:55 r Coming home again, he and I, and my wife, my mother and Pall, went all together into the little room, and there I told her plainly what my mind was, to have her come not as a sister in any respect, but as a servant.
 
-1660-11-12 15:20   To my father’s, where I found my wife buying of a tablecloth and a dozen of napkins of diaper, the first that ever I bought in my life.
+1660-11-12 15:35 r My father and I took occasion to go forth, and went and drank at Mr. Standing’s, and there discoursed seriously about my sister’s coming to live with me, which I have much mind for her good to have, and yet I am much afeard of her ill-nature.
+
+1660-11-12 15:20   To my father’s, where I found my wife, who had been with my father today, buying of a tablecloth and a dozen of napkins of diaper, the first that ever I bought in my life.
 
 1660-11-12 12:00   To De Cretz, where I saw my Lord’s picture finished, which do please me very well.
 
-1660-11-12 11:10   Mr. Comptroller and I sat a while at the office to do business, and thence I went with him to his house in Lime Street, a fine house.
+1660-11-12 11:10   Mr. Comptroller and I sat a while at the office to do business, and thence I went with him to his house in Lime Street, a fine house, and where I never was before.
 
-1660-11-11 20:10   Dr. Thomas Pepys told my brother that he loved my wife so well that if she had a child he would never marry, but leave all to my child.
 
-1660-11-11 15:00   I saw Mr. Fox's lady, Mrs. Elizabeth Whittle, whom I had a great opinion of, and did make an anagram or two upon her name when I was a boy.
+1660-11-11 20:10 r Dr. Thomas Pepys, who my wife told me after I was come home, that he had told my brother Thomas that he loved my wife so well that if she had a child he would never marry, but leave all that he had to my child.
 
-1660-11-11 11:45   This day also did Mr. Mills begin to read all the Common Prayer, which I was glad of.
+1660-11-11 19:40   Walked to Whitehall, it being very cold and foul and rainy weather. I found my Lord at home, and after giving him an account of some business, I returned and went to my father’s where I found my wife, and there we supped.
 
-1660-11-11 11:26   I hope it will not always be so, it not being handsome for our servants to sit so equal with us.
+1660-11-11 15:00   I went to Mr. Fox’s at Whitehall, when I first saw his lady, formerly Mrs. Elizabeth Whittle, whom I had formerly a great opinion of, and did make an anagram or two upon her name when I was a boy. She proves a very fine lady, and mother to fine children.
 
-1660-11-11 11:15   There being no woman this day, we sat in the foremost pew, and behind us our servants.
+1660-11-11 11:45 r This day also did Mr. Mills begin to read all the Common Prayer, which I was glad of.
+
+1660-11-11 11:15 r There being no woman this day, we sat in the foremost pew, and behind us our servants, and I hope it will not always be so, it not being handsome for our servants to sit so equal with us.
 
 1660-11-11 11:00   Sir W. Batten and I went to Church into our new gallery, the first time it was used, and it not being yet quite finished.
 
+
 1660-11-10 22:15   This night going home, Will and I bought a goose.
 
-1660-11-10 22:00   After reading of that and the comedy of the Rump, which is also very silly, I went to bed.
+1660-11-10 22:00 r After reading of that and the comedy of the Rump, which is also very silly, I went to bed.
 
 1660-11-10 20:10   To Paul’s Churchyard, and there bought Montelion, which this year do not prove so good as the last was; so after reading it I burnt it.
 
-1660-11-10 15:30   We went with a foul copy to the Parliament house, where we met Sir Clarges and Mr. Spry, and after we had given them satisfaction we parted.
+1660-11-10 16:40   The Comptroller showed me the state of his case; how the King did owe him about 6000l. But I do not see great likelihood for them to be paid, since they begin already in Parliament to dispute the paying of the just sea-debts.
 
-1660-11-10 09:00   Sir Wm. Batten and I to make up an account of the wages of the officers and mariners, ready to present to the Committee of Parliament.
+1660-11-10 15:30 r So we broke up, leaving the thing to be wrote over fair and carried to Trinity House for Sir Wm. Batten’s hand. When staying very long I found (as appointed) the Treasurer and Comptroller at Whitehall, and so we went with a foul copy to the Parliament house.
 
-1660-11-09 22:10   To my father’s and staid late talking with my father about my sister Pall’s coming to live with me if she would come and be as a servant.
+1660-11-10 09:00   Sir Wm. Batten and I to make up an account of the wages of the officers and mariners at sea, ready to present to the Committee of Parliament this afternoon.
+
+
+1660-11-09 22:10   I went to my father’s and staid late talking about my sister Pall’s coming to live with me if she would come and be as a servant (which my wife did seem to be pretty willing to do today), and he seems to take it very well, and intends to consider of it.
 
 1660-11-09 16:30   To Whitehall where I found my Lord, who had an organ set up to-day in his dining-room, but it seems an ugly one in the form of Bridewell.
 
-1660-11-09 14:00   Good sport with Mr. Talbot, who eats no sort of fish, and there was nothing else till we sent for a neat’s tongue.
+1660-11-09 14:00 r Good sport with Mr. Talbot, who eats no sort of fish, and there was nothing else till we sent for a neat’s tongue.
 
-1660-11-09 13:40   To dinner, where we had Mr. Shepley, Talbot, Adams, Chaplin and Osborne, our dinner given us by Mr. Ady and Mr. Wine, the King’s fishmonger.
+1660-11-09 13:40   To dinner with Mr. Wivell at the Hoop Tavern, where we had Mr. Shepley, Talbot, Adams, Mr. Chaplin and Osborne, and our dinner given us by Mr. Ady and another, Mr. Wine, the King’s fishmonger.
 
-1660-11-09 09:20   Lay long in bed this morning though an office day, because of our going to bed late last night.
+1660-11-09 08:20 r Lay long in bed this morning though an office day, because of our going to bed late last night.
 
-1660-11-09 02:30   So home, where I found my wife up, she shewed me her head which was very well dressed to-day, she having been to see her father and mother.
+1660-11-09 02:30 r So home, where I found my wife up, she showed me her head which was very well dressed today, she having been to see her father and mother.
 
-1660-11-09 01:45   We sat very late doing the work and waiting for the tide, it being moonshine we got to London before two in the morning.
+1660-11-09 01:45 r We sat very late doing the work and waiting for the tide, it being moonshine we got to London before two in the morning.
 
-1660-11-08 18:10   Went forward in my walk with some men, and in our way we met with many merry seamen that had got their money paid them to-day.
 
-1660-11-08 16:50   Being troubled with a looseness, I went to an alehouse at the end of Ratcliffe, and did give a groat for a pot of ale, and there I did shit.
+1660-11-08 18:10 r So went forward in my walk with some men that were going that way a great pace, and in our way we met with many merry seamen that had got their money paid them today.
 
-1660-11-08 16:30   With Commissioner Pett as far as Ratcliffe, where I left him, and I (unwilling to leave the rest of the officers) went back to Deptford.
+1660-11-08 16:50 r Being very much troubled with a sudden looseness, I went into a little alehouse at the end of Ratcliffe, and did give a groat for a pot of ale, and there I did shit.
 
-1660-11-08 15:50   Commissioner Pett and I went on board the yacht, which is one of the finest things that ever I saw for neatness in so small a vessel.
+1660-11-08 16:30 r With him as far as Ratcliffe, where I left him going by water to London, and I (unwilling to leave the rest of the officers) went back again to Deptford.
+
+1660-11-08 15:50   Commissioner Pett and I went on board the yacht, which indeed is one of the finest things that ever I saw for neatness and room in so small a vessel. Mr. Pett is to make one to outdo this for the honour of his country, which I fear he will scarce better.
 
 1660-11-08 14:30   I went to Mr. Davys’s and saw his house (where I was once before a great while ago) and I found him a very pretty man.
 
-1660-11-07 18:30   This was the first day of the proclamation against hackney coaches coming into the streets to be hired, yet I got one to carry me home.
+1660-11-08 13:30   Sir Wm. and the Treasurer and I went by barge with Sir Wm. Doyley and Mr. Prin to Deptford, to pay off the Henrietta, and had a good dinner.
 
-1660-11-07 17:20   Bowyer told me how my wife’s brother had a horse at grass with him, which I was troubled to hear, it being his boldness upon my score.
 
-1660-11-07 16:00   I went to see my Lord’s picture, which is almost done, and do please me very well.
+1660-11-07 22:20   Read late in the last night’s book of Trials, and told my wife about her brother’s horse at Mr. Bowyer’s, who is also much troubled for it, and do intend to go to-morrow to inquire the truth.
 
-1660-11-07 14:20   My Lord did tell me how the King had promised him 4000l. per annum for ever, and had already given him a bill under his hand.
+1660-11-07 18:30   Notwithstanding this was the first day of the King’s proclamation against hackney coaches coming into the streets to stand to be hired, yet I got one to carry me home.
 
-1660-11-07 13:40   My Lord did say it was gratitude did bring him to his obedience to the King; and did also bless himself with his good fortune.
+1660-11-07 17:20   Meeting my father Bowyer, I took him to Mr. Harper’s, and there drank with him. Among other things in discourse he told me how my wife’s brother had a horse at grass with him, which I was troubled to hear, it being his boldness upon my score.
 
-1660-11-07 06:00   This night I was troubled all night with a dream that my wife was dead, which made me that I slept ill all night.
+1660-11-07 16:00 r He called for the fiddles and books, and we two and W. Howe, and Mr. Childe, did sing and play some psalmes of Will. Lawes’s, and some songs; and so I went away. So I went to see my Lord’s picture, which is almost done, and do please me very well.
 
-1660-11-06 21:15   I would have my will, and so we went to bed and lay all night in a quarrel.
+1660-11-07 14:25 r My Lord did advise with me how to get this received, and to put out 3000l. into safe hands at use, and the other he will make use of for his present occasion. This he did advise with me about with much secresy.
 
-1660-11-06 21:00   My wife and I did fall out about the dog’s being put down into the cellar, which I had a mind to have done because of his fouling the house.
+1660-11-07 14:20 r My Lord bid all go out of the room, and did tell me how the King had promised him 4000l. per annum for ever, and had already given him a bill under his hand (which he showed me) for 4000l. that Mr. Fox is to pay him.
 
-1660-11-06 17:20   I fell a-reading of the tryalls of the late men that were hanged for the King’s death, and found good satisfaction in reading thereof.
+1660-11-07 13:40   At dinner, my Lord, in discourse of the great opinion of the virtue – gratitude, did say it was that did bring him to his obedience to the King; and did also bless himself with his good fortune.
 
-1660-11-06 15:20   The ships were the Indian, sold for 1,300l., and the Half-moon, sold for 830l.
+1660-11-07 06:00 r This night I was troubled all night with a dream that my wife was dead, which made me that I slept ill all night.
 
-1660-11-06 14:40   To our office, where we met all, for the sale of two ships by an inch of candle (the first time that ever I saw any of this kind).
+
+1660-11-06 22:10   To bed, and my wife and I did fall out about the dog’s being put down into the cellar, which I had a mind to have done because of his fouling the house, and I would have my will, and so we went to bed and lay all night in a quarrel.
+
+1660-11-06 17:20   Home, and fell a-reading of the tryalls of the late men that were hanged for the King’s death, and found good satisfaction in reading thereof.
+
+1660-11-06 15:20 r The ships were the Indian, sold for 1,300l., and the Half-moon, sold for 830l.
+
+1660-11-06 14:40   To our office, where we met all, for the sale of two ships by an inch of candle (the first time that ever I saw any of this kind), where I observed how they do invite one another, and at last how they all do cry, and we have much to do to tell who did cry last.
+
+1660-11-06 12:20   With Mr. Creed, and meeting with Mr. Chetwind, I took them to the Sun, and did give them a barrel of oysters, and had good discourse; Mr. Chetwind told me how he did fear that this late business of the Duke of York’s would prove fatal to my Lord Chancellor.
+
 
 1660-11-05 21:40   This 5th of November is observed exceeding well in the City; and at night great bonfires and fireworks.
 
 1660-11-05 20:00   Mr. Moore came and sat with me, and there I took a book and he did instruct me in many law notions, in which I took great pleasure.
 
-1660-11-05 10:20   Being disappointed of money, we failed of going to Deptford to pay off the Henrietta to-day.
+1660-11-05 19:30   At the office at night, to make up an account of what the debts of nineteen of the twenty-five ships that should have been paid off, is increased since the adjournment of the Parliament, they being to sit again tomorrow.
 
-1660-11-04 21:50   My wife seemed very pretty to-day, it being the first time I had given her leave to wear a black patch.
+1660-11-05 10:20   Being disappointed of money, we failed of going to Deptford to pay off the Henrietta today.
 
-1660-11-04 19:00   To my father’s, where I found my mother in greater and greater pain of the stone.
 
-1660-11-04 17:30   Much company I found to come to Mrs. Pearse, and cannot wonder at it, for she is very pretty and wanton.
+1660-11-04 21:50   My wife seemed very pretty today, it being the first time I had given her leave to wear a black patch.
 
-1660-11-04 17:10   With Mr. Pearse and Mr. Sheply, calling at the Bell to see the seven Flanders mares that my Lord has bought, where we drank Hull ale.
+1660-11-04 19:00   To my father’s, where I found my mother in greater and greater pain of the stone. I staid long and drank with them.
 
-1660-11-04 14:50   I went to my Lord’s, and having spoke with him, I went to the Abbey, where the first time that ever I heard the organs in a cathedral!
+1660-11-04 17:30 r Much company I found to come to her, and cannot wonder at it, for she is very pretty and wanton.
 
-1660-11-04 11:45   This declaration of the King’s do give the Presbyterians some satisfaction, and a pretence to read the Common Prayer.
+1660-11-04 17:10   To my Lord’s, where I found Mr. Pierce, the surgeon, and with him and Mr. Sheply, in our way calling at the Bell to see the seven Flanders mares that my Lord has bought lately, where we drank several bottles of Hull ale.
 
-1660-11-04 11:30   To church where Mr. Mills did begin to nibble at the Common Prayer, by saying “Glory be to the Father, &c” after he had read the two psalms.
+1660-11-04 14:50   To Westminster, where I went to my Lord’s, and having spoke with him, I went to the Abbey, where the first time that ever I heard the organs in a cathedral!
 
-1660-11-03 16:40   We took Mrs. Lane to the alehouse, where I made her angry with commending of Tom Newton and her new sweetheart to be both too good for her.
+1660-11-04 11:45 r This declaration of the King’s do give the Presbyterians some satisfaction, and a pretence to read the Common Prayer, which they would not do before because of their former preaching against it.
+
+1660-11-04 11:30   To our own church, where Mr. Mills did begin to nibble at the Common Prayer, by saying “Glory be to the Father, &c.” after he had read the two psalms; but the people had been so little used to it, that they could not tell what to answer.
+
+
+1660-11-03 16:40   I met with Tom Doling, and we two took Mrs. Lane to the alehouse, where I made her angry with commending of Tom Newton and her new sweetheart to be both too good for her, so that we parted with much anger, which made Tom and me good sport.
 
 1660-11-03 14:30   To White Hall, where my Lord and Lady were gone to kiss the Queene’s hand.
 
-1660-11-02 21:40   I observed few bonfires in the City, for the Queen’s coming; whereby I guess that (as I believed before) her coming do please but very few.
 
-1660-11-02 20:00   In Paul’s church-yard I called at Kirton’s, and there they had got a mass book for me, which I bought and cost me twelve shillings.
+1660-11-02 22:30   In Paul’s church-yard I called at Kirton’s, and there they had got a mass book for me, which I bought and cost me 12 shillings; and, when I came home, sat up late and read in it with great pleasure to my wife, to hear that she was long ago so well acquainted with.
 
-1660-11-02 19:20   Took coach at White Hall and carried Mr. Childe as far as the Strand, and myself got as far as Ludgate by all the bonfires.
+1660-11-02 20:00 r I observed few bonfires in the City, for the Queen’s coming; whereby I guess that (as I believed before) her coming do please but very few.
 
-1660-11-02 18:40   I supt with my Lord he being merry, telling merry stories of the country mayors, how they entertained the King all the way as he come along.
+1660-11-02 19:20 r Took coach at White Hall and carried Mr. Childe as far as the Strand, and myself got as far as Ludgate by all the bonfires, but with a great deal of trouble; and there the coachman desired that I would release him, for he durst not go further for the fires.
 
-1660-11-02 17:10   I was told the Queen was a-coming; so I got a sculler for sixpence to carry me thither and back again, but I could not get to see the Queen.
+1660-11-02 18:40 r I supt with my Lord, he being merry, telling stories of the country mayors, how they entertained the King all the way as he come along; and how the country gentlewomen did hold up their heads to be kissed by the King, not taking his hand to kiss as they should do.
 
-1660-11-02 16:50   To White Hall, where when I came I saw the boats going very thick to Lambeth, and all the stairs to be full of people.
+1660-11-02 17:00 r To White Hall, where when I came I saw the boats going very thick to Lambeth, and all the stairs to be full of people. I was told the Queen was a-coming; so I got a sculler for sixpence to carry me thither and back again, but I could not get to see the Queen.
 
-1660-11-02 16:10   With Mr. Cooke that made the silver bosses, and Mr. Stephens the silversmith to the tavern, and did give them a pint of wine.
+1660-11-02 16:10 r With Mr. Cooke that made them, and Mr. Stephens the silversmith to the tavern, and did give them a pint of wine.
 
-1660-11-02 15:00   I saw some silver bosses put upon my new Bible, which cost me 6s. 6d. the making, and 7s. 6d. the silver.
+1660-11-02 15:00   I saw some silver bosses put upon my new Bible, which cost me 6s. 6d. the making, and 7s. 6d. the silver, which, with 9s. 6d. the book, comes in all to 1l. 3s. 6d.
 
-1660-11-02 13:50   Mr. Holliard dined with me, with whom I had great discourse concerning the cure of the King’s evil, which he do deny any effect at all.
+1660-11-02 13:50   Dined at home, and by chance Mr. Holliard called at dinner time and dined with me, with whom I had great discourse concerning the cure of the King’s evil, which he do deny altogether any effect at all.
+
 
 1660-11-01 21:00   So home by moonlight, it being about 9 o’clock before we got home.
 
 1660-11-01 19:30   We called at Bow and drank there, and took leave of Mr. Johnson of Blackwall, who dined with us and rode with us thus far.
 
-1660-11-01 17:00   From Sir W. Batten's house to an ale-house near the church, where we sat and drank and were merry, and so we mounted for London again.
+1660-11-01 17:00   From Sir W. Batten's house to an ale-house near the church, where we sat and drank and were merry, and so we mounted for London again, Sir W. Batten with us.
 
-1660-11-01 14:25   I was much afraid that Mr. Christmas would have remembered the words that I said the day the King was beheaded.
+1660-11-01 14:25 r But I found afterwards that he did go away from school before that time.
 
-1660-11-01 14:10   Mr. Christmas did remember that I was a great Roundhead when I was a boy.
+1660-11-01 14:10 r He did remember that I was a great Roundhead when I was a boy, and I was much afraid that he would have remembered the words that I said the day the King was beheaded (that, were I to preach upon him, my text should be “The memory of the wicked shall rot”).
 
-1660-11-01 13:50   Here dined with us two or three more country gentle men; among the rest Mr. Christmas, my old school-fellow, with whom I had much talk.
+1660-11-01 13:50 r Here dined with us two or three more country gentle men; among the rest Mr. Christmas, my old school-fellow, with whom I had much talk.
 
-1660-11-01 12:10   Sir W. Batten showed us a chair, where he that sits down is catched with two irons, that come round about him, which makes good sport.
+1660-11-01 12:10 r Among other things he showed us my Lady’s closet, where was great store of rarities; as also a chair, which he calls King Harry’s chair, where he that sits down is catched with two irons, that come round about him, which makes good sport.
 
-1660-11-01 10:50   We came to Sir W. Batten’s, where he lives like a prince, and we were made very welcome.
+1660-11-01 10:50 r We came to Sir W. Batten’s, where he lives like a prince, and we were made very welcome.
 
 1660-11-01 10:20   Sir W. Pen and I were mounted early, and had very merry discourse all the way, he being very good company.
