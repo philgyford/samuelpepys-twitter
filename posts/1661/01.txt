@@ -1,314 +1,351 @@
-YYYY-MM-DD HH:MM   12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+YYYY-MM-DD HH:MM r 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
-1661-01-31 19:20   My mother tells me my aunt is pretty well yet cannot live long. She believes my uncle would marry again were my aunt dead, which God forbid.
+1661-01-31 18:50   To my father’s to see my mother, who is pretty well after her journey from Brampton. She tells me my aunt is pretty well, yet cannot live long. My uncle pretty well too, and she believes would marry again were my aunt dead, which God forbid.
 
-1661-01-31 18:50   To my father’s to see my mother, who is pretty well after her journey from Brampton.
-
-1661-01-31 17:00   The first time that Argalus and Parthenia hath been acted: it is good though wronged by my over great expectations, as all things else are.
-
-1661-01-31 14:40   To the Theatre, and sat in the pit among the company of fine ladys, &c.; and the house was exceeding full, to see Argalus and Parthenia.
+1661-01-31 17:20   To the Theatre, and there sat in the pit among the company of fine ladys, &c.; and the house was exceeding full, to see Argalus and Parthenia, the first time that it hath been acted: and indeed it is good, though wronged by my over great expectations, as all things else are.
 
 1661-01-31 12:10   This morning with Mr. Coventry at Whitehall about getting a ship to carry my Lord’s deals to Lynne, and we have chosen the Gift.
 
-1661-01-30 19:20   My wife and Lady Batten are lately come back from being abroad, and seeing of Cromwell, Ireton, and Bradshaw hanged and buried at Tyburn.
 
-1661-01-30 18:40   I had a letter from my brother John, a very ingenious one, and he therein begs to have leave to come to town at the Coronacion.
+1661-01-30 19:20   To my Lady Batten’s; where my wife and she are lately come back again from being abroad, and seeing of Cromwell, Ireton, and Bradshaw hanged and buried at Tyburn.
 
-1661-01-30 17:10   I went home, and there understand that my mother is come home well from Brampton.
+1661-01-30 17:10   I went home, and there understand that my mother is come home well from Brampton, and had a letter from my brother John, a very ingenious one, and he therein begs to have leave to come to town at the Coronacion.
 
-1661-01-30 14:50   We please ourselves to see young Davis and Whitton, two of our clerks, in the field, who we observe to take much pleasure together.
+1661-01-30 14:50 r And besides much discourse did please ourselves to see young Davis and Whitton, two of our clerks, going by us in the field, who we observe to take much pleasure together, and I did most often see them at play together.
 
 1661-01-30 14:30   Sir W. Pen and I into Moorfields and had a brave talk, it being a most pleasant day.
 
-1661-01-30 11:20   Mr. Mills made a most excellent sermon; speaking excellently of the justice of God in punishing men for the sins of their ancestors.
+1661-01-30 09:50   (Fast day). The first time that this day hath been yet observed. And Mr. Mills made a most excellent sermon, upon “Lord forgive us our former iniquities;” speaking excellently of the justice of God in punishing men for the sins of their ancestors.
 
-1661-01-30 06:50   (Fast day). The first time that this day hath been yet observed.
 
-1661-01-29 21:20   To Mr. Turner’s house, where we had a most neat little but costly and genteel supper.
+1661-01-29 21:30 r Going away, Mr. Davis’s eldest son took up my old Lady Slingsby in his arms, and carried her to the coach, and is said to be able to carry three of the biggest men that were in the company, which I wonder at.
+
+1661-01-29 21:20   To Mr. Turner’s house, where the Comptroller, Sir William Batten, and Mr. Davis and their ladies; and here we had a most neat little but costly and genteel supper, and after that a great deal of impertinent mirth by Mr. Davis, and some catches, and so broke up.
 
 1661-01-29 16:50   After great patience and little expectation, from so poor beginning, I saw three acts of “The Mayd in ye Mill” acted to my great content.
 
-1661-01-29 11:10   Over the fields to Lambeth, and there drank, it being a most glorious and warm day, even to amazement, for this time of the year.
+1661-01-29 11:10   Mr. Moore making up accounts with me all this morning till Lieut. Lambert came, and so with them over the water to Southwark, and so over the fields to Lambeth, and there drank, it being a most glorious and warm day, even to amazement, for this time of the year.
 
-1661-01-28 17:35   I sitting in a dark place, a lady spit backward upon me by a mistake. After seeing her to be a very pretty lady, I was not troubled at it.
+
+1661-01-28 17:25 r Here, I sitting behind in a dark place, a lady spit backward upon me by a mistake, not seeing me, but after seeing her to be a very pretty lady, I was not troubled at it at all.
 
 1661-01-28 17:20   To the Theatre, where I saw again “The Lost Lady,” which do now please me better than before.
 
-1661-01-28 14:10   After some talk of Cromwell, Ireton and Bradshaw’s bodies being taken out of their graves to-day, I went to Mr. Crew’s.
+1661-01-28 17:10 r After some talk of Cromwell, Ireton and Bradshaw’s bodies being taken out of their graves today, I went to Mr. Crew’s and thence to the Theatre, where I saw again “The Lost Lady,” which do now please me better than before.
 
-1661-01-28 13:30   To Fleet Street, with my sword to Mr. Brigden (lately made Captain of the Auxiliaries) to be refreshed, and with him to an ale-house.
+1661-01-28 13:30   To Fleet Street, with my sword to Mr. Brigden (lately made Captain of the Auxiliaries) to be refreshed, and with him to an ale-house, where I met Mr. Davenport.
 
-1661-01-27 22:40   After supper we fell to oysters, and Mr. Turner went and fetched some strong waters, and so being very merry we parted, and home to bed.
 
-1661-01-27 16:20   I asked Sir W. Pen Mr. Coventry’s opinion of me, and Sir W. Batten’s of my Lord Sandwich, which do both please me.
+1661-01-27 22:00   To Sir W. Batten’s, where very merry, and here I met the Comptroller and his lady and daughter, and Mrs. Turner and her husband supped with us here (I having fetched my wife thither), and after supper we fell to oysters, and then Mr. Turner went and fetched some strong waters.
+
+1661-01-27 16:20   Sir W. Pen and I an hour in the garden talking, and he did answer me to many things, I asked Mr. Coventry’s opinion of me, and Sir W. Batten’s of my Lord Sandwich, which do both please me.
 
 1661-01-27 13:50   At dinner was very angry at my people’s eating a fine pudding (made me by Slater, the cook, last Thursday) without my wife’s leave.
 
-1661-01-27 06:50   Letters come from Portsmouth. The Princess is well, and my Lord Sandwich set sail with the Queen and her yesterday from thence for France.
+1661-01-27 06:50   Letters come to me from Portsmouth, telling me that the Princess is now well, and my Lord Sandwich set sail with the Queen and her yesterday from thence for France.
 
-1661-01-26 14:20   With Lieut. Lambert we made ourselves merry by taking away his ribbans and garters, having made him to confess that he is lately married.
+
+1661-01-26 14:20   There dined with me this day both the Pierces and their wives, and Captain Cuttance, and Lieutenant Lambert, with whom we made ourselves very merry by taking away his ribbans and garters, having made him to confess that he is lately married.
 
 1661-01-26 12:00   Comes one that had formerly known me and I him, but I know not his name, to borrow 5l. of me, but I had the wit to deny him.
 
+
 1661-01-25 21:40   This night comes two cages, which I bought this evening for my canary birds, which Captain Rooth this day sent me.
 
-1661-01-25 15:10   Mr. Salisbury came to show me my Lord’s picture in little, of his doing. It is strange to what a perfection he is come in a year’s time.
+1661-01-25 15:10   Mr. Hater and I to look upon the instructions of my Lord Northumberland’s, but we were interrupted by Mr. Salisbury’s coming in, who came to see me and to show me my Lord’s picture in little, of his doing. And truly it is strange to what a perfection he is come in a year’s time.
 
-1661-01-24 14:20   The first dinner I have made since I came hither. This cost me above 5l., and merry we were — only my chimney smokes.
 
-1661-01-24 13:40   There dined with me Sir William Batten and his lady and daughter, Sir W. Pen, Mr. Fox, and Captain Cuttance.
+1661-01-24 13:50   There dined with me Sir William Batten and his lady and daughter, Sir W. Pen, Mr. Fox (his lady being ill could not come), and Captain Cuttance. The first dinner I have made since I came hither. This cost me above 5l., and merry we were – only my chimney smokes.
 
-1661-01-23 21:50   I in my chamber all the evening looking over my Osborn’s works and new Emanuel Thesaurus Patriarchae.
 
-1661-01-23 17:15   And so home, by the way paying many little debts for wine and pictures, &c., which is my great pleasure.
+1661-01-23 21:50   I in my chamber all the evening looking over my Osborn’s works and new Emanuel Thesaurus Patriarchae. So late to bed, having ate nothing today but a piece of bread and cheese at the ale-house with Greatorex, and some bread and butter at home.
 
-1661-01-23 17:00   To my bookseller’s, and for books, and to Stevens, the silversmith, to make clean some plate against to-morrow.
+1661-01-23 17:00   To my bookseller’s, and for books, and to Stevens, the silversmith, to make clean some plate against tomorrow, and so home, by the way paying many little debts for wine and pictures, &c., which is my great pleasure.
 
-1661-01-23 16:10   With Greatorex to Gresham Colledge, and saw the manner of the house, and found great company of persons of honour there.
+1661-01-23 16:10 r With him to Gresham Colledge (where I never was before), and saw the manner of the house, and found great company of persons of honour there.
 
-1661-01-23 15:00   Greatorex told me that he was upon a design to go to Teneriffe to try experiments there.
+1661-01-23 14:40   Without dinner, went into the City, and there meeting with Greatorex, we went and drank a pot of ale. He told me that he was upon a design to go to Teneriffe to try experiments there.
 
-1661-01-23 14:40   Without dinner, went into the City, and there meeting with Greatorex, we went and drank a pot of ale.
 
-1661-01-22 16:50   The best way of beginning a sentence, if a man should be out and forget his last sentence, his last refuge is to begin with an Utcunque.
+1661-01-22 16:50 r And by the way in discourse tells me that the best way of beginning a sentence, if a man should be out and forget his last sentence (which he never was), that then his last refuge is to begin with an Utcunque.
 
-1661-01-22 16:35   Dr. Fuller did to four great scholars dictate in Latin, upon different subjects of their proposing, faster than they were able to write.
+1661-01-22 16:35 r And also to what perfection he hath now brought the art of memory; that he did lately to four eminently great scholars dictate together in Latin, upon different subjects of their proposing, faster than they were able to write, till they were tired.
 
-1661-01-22 16:20   I met with Dr. Thomas Fuller, who tells me of his last and great book that is coming out: his History of all the Families in England.
+1661-01-22 16:20   I met with Dr. Thomas Fuller, and took him to the Dog, where he tells me of his last and great book that is coming out: that is, his History of all the Families in England; and could tell me more of my own, than I knew myself.
 
-1661-01-22 14:50   After a little dinner my wife and I by coach into London, and bought some glasses.
+1661-01-22 10:00 r It pleased me much now to come in this condition to this place, where I was once a petitioner for my exhibition in Paul’s School; and also where Sir G. Downing (my late master) was chairman, and so but equally concerned with me.
 
-1661-01-22 10:00   It pleased me much now to come in this condition to this place, where I was once a petitioner for my exhibition in Paul’s School.
+1661-01-22 09:50   To Mercer’s Chappell where we met with the King’s Councell for Trade, upon some proposals of theirs for settling convoys for the whole English trade, and that by having 33 ships settled by the King for that purpose, which indeed was argued very finely by many persons of honour.
 
-1661-01-22 09:40   We met with the King’s Councell for Trade, upon some proposals of theirs for settling convoys for the whole English trade.
+1661-01-22 09:10   To the Comptroller’s house, where I read over his proposals to the Lord Admiral for the regulating of the officers of the Navy, in which he hath taken much pains, only he do seem to have too good opinion of them himself.
+
 
 1661-01-21 22:22   This day many more of the Fifth Monarchy men were hanged.
 
-1661-01-21 22:10   So home to supper and then to bed, having eat no dinner to-day.
+1661-01-21 22:10   So home to supper and then to bed, having eat no dinner today.
 
-1661-01-21 16:42   Ways are dusty, the flyes fly up and down, and the rose-bushes are full of leaves, such a time of the year as was never known in this world.
+1661-01-21 16:30   It is strange what weather we have had all this winter; no cold at all; but the ways are dusty, and the flyes fly up and down, and the rose-bushes are full of leaves, such a time of the year as was never known in this world before here.
 
-1661-01-21 16:30   It is strange what weather we have had all this winter; no cold at all.
+1661-01-21 12:02 r We are glad of it, for it is a work that will much displease the poor seamen, and so we are glad to have no hand in it.
 
-1661-01-21 12:02   We are glad of it, for it is a work that will much displease the poor seamen, and so we are glad to have no hand in it.
+1661-01-21 10:20   Sir W. Batten, the Comptroller and I to Westminster, to the Commissioners for paying off the Army and Navy, where the Duke of Albemarle was; and we sat with our hats on, and did discourse about paying off the ships and do find that they do intend to undertake it without our help.
 
-1661-01-21 11:50   We sat with our hats on, and did discourse about paying off the ships and do find that they do intend to undertake it without our help.
-
-1661-01-21 10:20   Sir W. Batten, the Comptroller and I to Westminster, to the Commissioners for paying off the Army and Navy, where the Duke of Albemarle was.
 
 1661-01-20 22:20   After prayers to write down my journall for the last five days, and so to bed.
 
 1661-01-20 16:30   My wife and I to Church in the afternoon, and that being done we went to see my uncle and aunt Wight.
 
-1661-01-19 19:20   From thence by link, and bought two mouse traps of Thomas Pepys, the Turner, and so went and drank a cup of ale with him.
 
-1661-01-19 17:15   Here I was troubled to be seen by four of our office clerks, which sat in the half-crown box and I in the 1s. 6d.
+1661-01-19 19:20 r From thence by link, and bought two mouse traps of Thomas Pepys, the Turner, and so went and drank a cup of ale with him, and so home and wrote by post to Portsmouth to my Lord.
 
-1661-01-19 17:00   I went to the Theatre, where I saw “The Lost Lady,” which do not please me much.
-
-1661-01-19 13:40   I went to the Leg in King Street and had a rabbit for myself and my Will.
+1661-01-19 17:00   I went to the Theatre, where I saw “The Lost Lady,” which do not please me much. Here I was troubled to be seen by four of our office clerks, which sat in the half-crown box and I in the 1s. 6d.
 
 1661-01-19 12:00   My Lady told me how Mr. Hetley is dead of the small-pox going to Portsmouth with my Lord.
 
-1661-01-19 10:50   Meeting Venner and Pritchard upon a sledge, who with two more Fifth Monarchy men were hanged to-day, and the two first drawn and quartered.
+1661-01-19 11:20 r The Treasurer did tell me that he did suspect Thos. Hater to be an informer of them in this work, which we do take to be a diminution of us, which do trouble me, and I do intend to find out the truth.
 
-1661-01-18 21:50   Took home with me from the bookseller’s Ogilby’s Æsop, which he had bound for me, and indeed I am very much pleased with the book.
+1661-01-19 11:15 r We walked up and down, and at last found Sir G. Carteret, whom I had not seen a great while, and did discourse with him about our assisting the Commissioners in paying off the Fleet, which we think to decline.
 
-1661-01-18 21:00   Mr. Hollier did advise me, both as to the stone and the decay of my memory, to avoid drinking often, which I am resolved to leave off.
+1661-01-19 10:50   To the Comptroller’s, and with him by coach to White Hall; in our way meeting Venner and Pritchard upon a sledge, who with two more Fifth Monarchy men were hanged today, and the two first drawn and quartered.
 
-1661-01-18 20:10   In comes Will Joyce to us drunk, and in a talking vapouring humour of his state, and I know not what, which did vex me cruelly.
 
-1661-01-18 11:45   At home found all well, but the monkey loose, which did anger me. I did strike her till she was almost dead, that they might make her fast.
+1661-01-18 21:50   Took home with me from the bookseller’s Ogilby’s Aesop, which he had bound for me, and indeed I am very much pleased with the book.
 
-1661-01-18 11:00   After a morning draft I took horse and guide for London; and through some rain, and a wind in my face, I got to London at eleven o’clock.
+1661-01-18 21:00 r I took Mr. Hollier to the Greyhound, where he did advise me above all things, both as to the stone and the decay of my memory (of which I now complain to him), to avoid drinking often, which I am resolved, if I can, to leave off.
 
-1661-01-17 22:30   To bed, the page and I in one bed, and the two captains in another, where we had very good mirth with our most abominable lodging.
+1661-01-18 20:10   I to see my father who I found well, and took him to Standing’s to drink a cup of ale. In comes Will Joyce to us drunk, and in a talking vapouring humour of his state, and I know not what, which did vex me cruelly.
 
-1661-01-17 20:42   Whether to make his elder son heir, which my Lady is for, and I against, but rather to make all equall.
+1661-01-18 11:45   At home found all well, but the monkey loose, which did anger me, and so I did strike her till she was almost dead, that they might make her fast again, which did still trouble me more.
 
-1661-01-17 20:30   At supper my Lady and I entered into a great dispute concerning what were best for a man to do with his estate.
+1661-01-18 11:00 r After a morning draft I took horse and guide for London; and through some rain, and a great wind in my face, I got to London at eleven o’clock.
 
-1661-01-17 16:50   It begun to be dark before we come to Dartford, and the horses to fayle, which was our care to prevent, for fear of my Lord’s displeasure.
 
-1661-01-17 14:30   I rode with my Lady in the coach, and the page on the horse that I should have rid on — he desiring it.
+1661-01-17 22:30 r We returned to our Inn and to bed, the page and I in one bed, and the two captains in another, all in one chamber, where we had very good mirth with our most abominable lodging.
 
-1661-01-17 11:50   From thence on board the Newcastle, to show my Lady the difference between a great and a small ship.
+1661-01-17 22:10 r We being merry, we bade my Lady goodnight, and intended to have gone to the Post-house to drink, and hear a pretty girl play of the cittern, but it was late, and we could not hear her, and the guard came to examine what we were.
 
-1661-01-17 11:00   I confess it was a great pleasure to myself to see the ship that I begun my good fortune in.
+1661-01-17 20:30 r We sat and talked till supper, and at supper my Lady and I entered into a great dispute concerning what were best for a man to do with his estate – whether to make his elder son heir, which my Lady is for, and I against, but rather to make all equall.
 
-1661-01-17 10:20   The officers of the ship had prepared a handsome breakfast for my Lady, and while she was pledging my Lord’s health they give her five guns.
+1661-01-17 16:50 r It begun to be dark before we could come to Dartford, and to rain hard, and the horses to fayle, which was our great care to prevent, for fear of my Lord’s displeasure, so here we sat up for tonight, as also Captains Cuttance and Blake, who came along with us.
 
-1661-01-17 09:50   Thence to the Charles, where my Lady took great pleasure to see all the rooms, and to hear me tell her how things are when my Lord is there.
+1661-01-17 14:30 r We took coach, and I went into the coach, and went through the town, without making stop at our inn, but left J. Goods to pay the reckoning. So I rode with my lady in the coach, and the page on the horse that I should have rid on – he desiring it.
 
-1661-01-17 09:10   We went through Ham Creeke to the Soverayne (a goodly sight all the way to see the brave ships that lie here), which is a most noble ship.
+1661-01-17 11:50 r From thence on board the Newcastle, to show my Lady the difference between a great and a small ship. Among these ships I did give away 7l.
 
-1661-01-16 18:30   The sport was how my Lady had intended to keep herself unknown, and how the Captain of the Charles had forsoothed her, though he knew her.
+1661-01-17 11:00 r I confess it was a great pleasure to myself to see the ship that I begun my good fortune in.
 
-1661-01-16 18:00   I found my Lady and her daughter Jem, and Mrs. Browne, all at a great loss, not finding me here, but at my coming she was overjoyed.
+1661-01-17 10:20 r After we had seen all, then the officers of the ship had prepared a handsome breakfast for her, and while she was pledging my Lord’s health they give her five guns. That done, we went off, and then they give us thirteen guns more.
 
-1661-01-16 15:00   And so over to Southwarke to the posthouse, and there took horse and guide to Dartford and thence to Rochester.
+1661-01-17 09:50 r From thence to the Charles, where my lady took great pleasure to see all the rooms, and to hear me tell her how things are when my Lord is there.
 
-1661-01-16 13:00   By and by I did resolve to go to my Lady; and so by boat home and put on my boots.
+1661-01-17 09:10 r We went through Ham Creeke to the Soverayne (a goodly sight all the way to see the brave ships that lie here) first, which is a most noble ship. I never saw her before.
 
-1661-01-16 10:50   I did not know what to do, being loth to follow my Lady, and yet could not imagine what she would do when she found me not there.
 
-1661-01-16 10:10   I to wait upon my Lady; but coming to her lodgings I find that she is gone this morning to Chatham by coach, thinking to meet me there.
+1661-01-16 18:30 r The sport was how she had intended to have kept herself unknown, and how the Captain (whom she had sent for) of the Charles had forsoothed her, though he knew her well and she him.
 
-1661-01-15 22:40   Comes in my boy and tells me that his mistress do lie at Mrs. Hunt’s, who is very ill, with which being something satisfied, I went to bed.
+1661-01-16 18:00 r I found my Lady and her daughter Jem., and Mrs. Browne and five servants, all at a great loss, not finding me here, but at my coming she was overjoyed.
 
-1661-01-15 22:00   My wife not yet come home, so I went up to put my papers in order, and then was much troubled my wife was not come, it being 10 o’clock.
+1661-01-16 17:10 r And thence to Rochester (I having good horses and good way, come thither about half-an-hour after daylight, which was before 6 o’clock and I set forth after two).
 
-1661-01-15 18:20   I perceive none of our officers care much for one another, but I do keep in with them all as much as I can.
+1661-01-16 14:05 r And so by boat home and put on my boots, and so over to Southwarke to the posthouse, and there took horse and guide to Dartford.
 
-1661-01-15 15:10   To Blackwall and viewed the dock and the new Wet dock, and a new merchantman which is to be launched shortly, to be called the Royal Oak.
+1661-01-16 11:40 r In this trouble, I went to take a walk in Westminster Hall and by chance met with Mr. Child, who went forth with my Lady today, but his horse being bad, he come back again, which then did trouble me more, so that I did resolve to go to her.
 
-1661-01-15 14:30   We walked into the rope-yard, where I took great notice of all the several works belonging to the making of a cable.
+1661-01-16 10:10   I to my Lady; but coming to her lodgings I find that she is gone to Chatham by coach, thinking to meet me there, which did trouble me exceedingly, and I did not know what to do, being loth to follow her, and yet could not imagine what she would do when she found me not there.
+
+
+1661-01-15 22:40 r By and by comes in my boy and tells me that his mistress do lie this night at Mrs. Hunt’s, who is very ill, with which being something satisfied, I went to bed.
+
+1661-01-15 22:00 r Home, where my wife not yet come home, so I went up to put my papers in order, and then was much troubled my wife was not come, it being 10 o’clock just now striking as I write this last line.
+
+1661-01-15 21:10 r I perceive none of our officers care much for one another, but I do keep in with them all as much as I can. Sir W. Pen is still very ill as when I went.
+
+1661-01-15 20:50 r I went to see Sir W. Pen, and there found Mr. Coventry come to see him, and now had an opportunity to thank him, and he did express much kindness to me. I sat a great while with Sir Wm. after he was gone, and had much talk with him.
+
+1661-01-15 20:00 r We walked to Dick-Shore, and thence to the Towre and so home. Where I found my wife and Pall abroad.
+
+1661-01-15 15:10 r After a cup of burnt wine at the tavern there, we took barge and went to Blackwall and viewed the dock and the new Wet dock, which is newly made there, and a brave new merchantman which is to be launched shortly, and they say to be called the Royal Oak.
+
+1661-01-15 14:30 r We walked to the waterside and in our way walked into the rope-yard, where I do look into the tar-houses and other places, and took great notice of all the several works belonging to the making of a cable.
+
+1661-01-15 13:40   To dinner at Mr. Ackworth’s, where there also dined with us one Captain Bethell, a friend of the Comptroller’s. A good dinner and very handsome.
 
 1661-01-15 12:00   Up and down the yard all the morning and seeing the seamen exercise, which they do already very handsomely.
 
-1661-01-14 22:20   I with Mr. Ackworth to his house, where he has a very proper lovely woman to his wife, who both sat with me in my chamber.
 
-1661-01-14 19:50   To Mr. Pett’s, the shipwright, and there supped, his wife a proper woman, and has been handsome, and yet has a very pretty hand.
+1661-01-14 22:20   I with Mr. Ackworth to his house, where he has a very pretty house, and a very proper lovely woman to his wife, who both sat with me in my chamber, and they being gone, I went to bed, which was also most neat and fine.
+
+1661-01-14 19:50   To Mr. Pett’s, the shipwright, and there supped, where he did treat us very handsomely (and strange it is to see what neat houses all the officers of the King’s yards have), his wife a proper woman, and has been handsome, and yet has a very pretty hand.
+
+1661-01-14 16:30   Mrs. Pett, her husband being gone this morning with Sir W. Batten to Chatham, lent us her coach, and carried us to Woolwich, where we did also dispose of the arms there and settle the guards.
 
 1661-01-14 11:50   I spent much time walking with Lieutenant Lambert, walking up and down the yards, who did give me much light into things there.
 
-1661-01-13 22:55   At last we hear that it was only five or six men that did ride through the guard in the town, without stopping to the guard.
+1661-01-14 10:50   The arms being come this morning from the Tower, we caused them to be distributed.
 
-1661-01-13 22:42   Seamen of all the ships present repair to us, and there we armed with every one a handspike, with which they were as fierce as could be.
 
-1661-01-13 22:30   No sooner in bed, but we had an alarm, and so we rose: and the Comptroller comes into the Yard to us.
+1661-01-13 23:40 r But all being quiet there, we caused the seamen to go on board again: And so we all to bed (after I had sat awhile with Mr. Davis in his study, which is filled with good books and some very good song books) I likewise to bed.
 
-1661-01-13 15:40   With Commissioner Petter and his wife to Greenwich Church, where a good sermon, a fine church, and a great company of handsome women.
+1661-01-13 22:55 r At last we hear that it was only five or six men that did ride through the guard in the town, without stopping to the guard that was there; and, some say, shot at them.
+
+1661-01-13 22:30   No sooner in bed, but we had an alarm, and so we rose: and the Comptroller comes into the Yard to us; and seamen of all the ships present repair to us, and there we armed with every one a handspike, with which they were as fierce as could be.
+
+1661-01-13 15:40 r With him and his wife and daughter-in-law by coach to Greenwich Church, where a good sermon, a fine church, and a great company of handsome women.
+
+1661-01-13 12:10 r With Commissioner Pett to his lodgings there (which he hath for the present while he is building the King’s yacht, which will be a pretty thing, and much beyond the Dutchman’s).
 
 1661-01-13 11:00   We all went to church, and sat in the pew belonging to us, where a cold sermon of a young man that never had preached before.
 
-1661-01-12 20:00   I went home with Mr. Davis, storekeeper, and was prince-like lodged, with so much respect and honour I was at a loss how to behave myself.
 
-1661-01-12 14:10   Never till now did I see the great authority of my place, all the captains of the fleet coming cap in hand to us.
+1661-01-12 20:00 r I went home with Mr. Davis, storekeeper (whose wife is ill and so I could not see her), and was there most prince-like lodged, with so much respect and honour that I was at a loss how to behave myself.
 
-1661-01-12 11:30   To Deptford, where we fell to choosing four captains to command the guards, and choosing the places where to keep them.
+1661-01-12 14:10 r We dined at the Globe, having our messenger with us to take care for us. Never till now did I see the great authority of my place, all the captains of the fleet coming cap in hand to us.
 
-1661-01-12 09:10   Major Waters, a deaf and amorous melancholy gentleman, is under a despayr in love, which makes him bad company, though a good-natured man.
+1661-01-12 11:30 r And so on foot to Deptford (our servants by water), where we fell to choosing four captains to command the guards, and choosing the places where to keep them, and other things in order thereunto.
+
+1661-01-12 09:10   With Colonel Slingsby and a friend of his, Major Waters (a deaf and most amorous melancholy gentleman, who is under a despayr in love, as the Colonel told me, which makes him bad company, though a most good-natured man), by water to Redriffe.
+
+
+1661-01-11 20:10 r To the Coffeehouse, where I met Captain Morrice, the upholster, who would fain have lent me a horse tonight to have rid with him upon the Cityguards, with the Lord Mayor, there being some new expectations of these rogues; but I refused by reason of my going out of town tomorrow.
 
 1661-01-11 19:00   Walked to Paul’s Churchyard, and bespoke some books against next week.
 
 1661-01-11 13:50   Dined at home, discontented that my wife do not go neater now she has two maids.
 
-1661-01-11 11:35   This news do make people think something indeed, that three of the Royal Family should fall sick of the same disease, one after another.
+1661-01-11 11:25 r And so was forced to come back again into Portsmouth harbour; and in their way, by negligence of the pilot, run upon the Horse sand. This news do make people think something indeed, that three of the Royal Family should fall sick of the same disease, one after another.
 
-1661-01-11 11:20   Comes news that the Princess Henrietta is fallen sick of the meazles on board the London, after the Queen and she was under sail.
+1661-01-11 11:20   Comes news, by letters from Portsmouth, that the Princess Henrietta is fallen sick of the meazles on board the London, after the Queen and she was under sail.
 
-1661-01-10 19:25   A thing that never was heard of, that so few men should dare and do so much mischief.
 
-1661-01-10 19:12   All these Fanatiques that have done all this are not in all about 31. Whereas we did believe them to be at least 500.
+1661-01-10 19:20 r Their word was, “The King Jesus, and the heads upon the gates.” Few would receive any quarter, but such as were taken by force and kept alive; expecting Jesus to come here and reign in the world presently and will not believe but their work will be carried on though they do die.
 
-1661-01-10 19:00   Among other things Mr. Davis told us the particular examinations of these Fanatiques that are taken.
+1661-01-10 19:08 r Whereas we did believe them (because they were seen in every place almost in the City, and had been about Highgate two or three days, and in several other places) to be at least 500. A thing that never was heard of, that so few men should dare and do so much mischief.
 
-1661-01-10 15:40   I went with my wife to see Sir W. Pen, who we found ill still, but he do make very much of it.
+1661-01-10 19:03 r … routed all the Trainbands that they met with, put the King’s life-guards to the run, killed about twenty men, broke through the City gates twice; and all this in the day-time, when all the City was in arms; are not in all about 31.
 
-1661-01-10 14:10   To Mrs. Hunt where I found a Frenchman, and as I came in was kissing my wife which I did not like, though there could not be any hurt in it.
+1661-01-10 19:00 r Among other things Mr. Davis told us the particular examinations of these Fanatiques that are taken: and in short it is this, of all these Fanatiques that have done all this, viz.…
 
-1661-01-10 10:00   We both went forth and at the Hoop by the bridge we drank two pints of wormwood and sack.
+1661-01-10 15:40   I went with my wife to see Sir W. Pen, who we found ill still, but he do make very much of it. Here we sat a great while, at last comes in Mr. Davis and his lady (who takes it very ill that my wife never did go to see her), and so we fell to talk.
 
-1661-01-10 09:40   There comes Mr. Hawley to me and brings me my money for the quarter of a year’s salary of my place under Downing that I was at sea.
+1661-01-10 14:10   So to Mrs. Hunt, where I found a Frenchman, a lodger of hers, at dinner, and just as I came in was kissing my wife, which I did not like, though there could not be any hurt in it.
 
-1661-01-09 22:50   Home to my lute till late, and then to bed, there being strict guards in the City, though most of the enemies are killed or taken.
+1661-01-10 13:40   Will comes to tell me that he had presented my piece of plate to Mr. Coventry, who takes it very kindly, and sends me a very kind letter, and the plate back again; of which my heart is very glad.
 
-1661-01-09 14:30   I found my uncle Wight at home and his wife, and I can see they have taken my absence ill, but all things are past and we good friends.
+1661-01-10 10:50 r So we both went forth (calling first to see how Sir W. Pen do, whom I found very ill), and at the Hoop by the bridge we drank two pints of wormwood and sack. Talking of his wooing afresh of Mrs. Lane, and of his going to serve the Bishop of London.
 
-1661-01-09 12:00   Seeing the city in this condition, the shops shut, and all things in trouble, I went home and sat, it being office day, till noon.
+1661-01-10 09:40   There comes Mr. Hawley to me and brings me my money for the quarter of a year’s salary of my place under Downing that I was at sea. So I did give him half, whereof he did in his nobleness give the odd 5s. to my Jane.
 
-1661-01-09 08:05   The streets full of Train-band, and great stories, what mischief these rogues have done; I think near a dozen have been killed this morning.
 
-1661-01-09 07:50   I found Sir R. Ford, and with him I walked up and down as far as the Exchange, and there I left him.
+1661-01-09 22:50 r Home to my lute till late, and then to bed, there being strict guards all night in the City, though most of the enemies, they say, are killed or taken.
 
-1661-01-09 06:35   I returned (that I might not seem to be afeared), and got my sword and pistol, which, however, I had no powder to charge.
+1661-01-09 20:00 r I found him at home and his wife, and I can see they have taken my absence ill, but all things are past and we good friends, and here I sat with my aunt, my uncle going forth about business. My aunt being very fearful to be alone.
 
-1661-01-09 06:20   In the street I found every body in arms at the doors.
+1661-01-09 13:20 r Home, and dined at home, my father with me, and after dinner he would needs have me go to my uncle Wight’s (where I have been so long absent that I am ashamed to go).
 
-1661-01-09 06:00   Waked by people running up and down in Mr. Davis’s house, talking that the Fanatiques were up in arms in the City.
+1661-01-09 12:00 r Seeing the city in this condition, the shops shut, and all things in trouble, I went home and sat, it being office day.
 
-1661-01-08 21:40   Some talk to-day of a head of Fanatiques that do appear about Barnett, but I do not believe it.
+1661-01-09 08:05 r In our way, the streets full of Train-band, and great stories, what mischief these rogues have done; and I think near a dozen have been killed this morning on both sides.
 
-1661-01-08 18:10   My Lord’s coach waited for us, and so back to my Lady’s. She made me drink of some Florence wine, and did give me two bottles for my wife.
+1661-01-09 07:50 r I went to the door, where I found Sir R. Ford, and with him I walked up and down as far as the Exchange, and there I left him.
 
-1661-01-08 16:30   I shewed my Lord Hinchinbroke and Mr. Sidney “The Widdow,” an indifferent good play, but wronged by the women being to seek in their parts.
+1661-01-09 06:35 r So I returned (though with no good courage at all, but that I might not seem to be afeared), and got my sword and pistol, which, however, I had no powder to charge.
 
-1661-01-08 09:40   My wife and I lay very long in bed to-day talking and pleasing one another in discourse.
+1661-01-09 06:00   Waked by people running up and down in Mr. Davis’s house, talking that the Fanatiques were up in arms in the City. And so I rose and went forth; where in the street I found every body in arms at the doors.
 
-1661-01-08 00:10   We found that my people had got young Davis and some other neighbours with them to be merry, but no harm.
 
-1661-01-07 23:20   In our way home we were in places strictly examined, more than in the worst of times, there being fears of these Fanatiques rising again.
+1661-01-08 21:40   Some talk today of a head of Fanatiques that do appear about Barnett, but I do not believe it. However, my Lord Mayor, Sir Richd. Browne, hath carried himself very honourably, and hath caused one of their meeting-houses in London to be pulled down.
 
-1661-01-07 17:12   Kinaston, the boy; had the good turn to appear in three shapes: as a poor woman, then in fine clothes as a gallant, and lastly, as a man.
+1661-01-08 18:10 r My Lord’s coach waited for us, and so back to my Lady’s, where she made me drink of some Florence wine, and did give me two bottles for my wife.
 
-1661-01-07 17:00   Tom and I and my wife to the Theatre, and there saw “The Silent Woman.” The first time that ever I did see it, and it is an excellent play.
+1661-01-08 16:30   I took my Lord Hinchinbroke and Mr. Sidney to the Theatre, and showed them “The Widdow,” an indifferent good play, but wronged by the women being to seek in their parts.
 
-1661-01-07 07:00   My Lord Mayor and the whole City had been in arms, above 40,000.
+1661-01-08 09:40   My wife and I lay very long in bed talking and pleasing one another in discourse.
 
-1661-01-07 06:45   News was brought to me that there had been a stir in the City this night by the Fanatiques, who had been up and killed six or seven men.
+1661-01-08 00:10 r Being come home we found that my people had been very merry, and my wife tells me afterwards that she had heard that they had got young Davis and some other neighbours with them to be merry, but no harm.
 
-1661-01-06 17:30   After sermon home, and there I went to my chamber and wrote a letter to send to Mr. Coventry, with a piece of plate along with it.
 
-1661-01-06 15:10   To church again, where, before sermon, a long Psalm was set that lasted an hour, while the sexton gathered his year’s contribucion.
+1661-01-07 23:20 r In our way home we were in many places strictly examined, more than in the worst of times, there being great fears of these Fanatiques rising again: for the present I do not hear that any of them are taken.
+
+1661-01-07 21:50 r After a good supper, we had an excellent cake, where the mark for the Queen was cut, and so there was two queens, my wife and Mrs. Ward; and the King being lost, they chose the Doctor to be King, so we made him send for some wine.
+
+1661-01-07 18:00   By link to my cozen Stradwick’s, where my father and we and Dr. Pepys, Scott, and his wife, and one Mr. Ward and his.
+
+1661-01-07 17:12 r Kinaston had the good turn to appear in three shapes: first, as a poor woman in ordinary clothes; then in fine clothes as a gallant, and in them was clearly the prettiest woman in the whole house, and lastly as a man; and then likewise did appear the handsomest man in the house.
+
+1661-01-07 17:00   After dinner (leaving 12d. with the servants to buy a cake with at night, this day being kept as Twelfth day) Tom and I and my wife to the Theatre, and there saw “The Silent Woman.” The first time that ever I did see it, and it is an excellent play.
+
+1661-01-07 06:45   News was brought to me to my bedside, that there had been a great stir in the City this night by the Fanatiques, who had been up and killed six or seven men, but all are fled. My Lord Mayor and the whole City had been in arms, above 40,000.
+
+
+1661-01-06 17:30   After sermon home, and there I went to my chamber and wrote a letter to send to Mr. Coventry, with a piece of plate along with it, which I do preserve among my other letters.
+
+1661-01-06 15:10   To church again, where, before sermon, a long Psalm was set that lasted an hour, while the sexton gathered his year’s contribucion through the whole church.
 
 1661-01-06 13:50   My wife and I to church this morning, and so home to dinner to a boiled leg of mutton all alone.
 
-1661-01-05 20:30   By coach home, staying a little in Paul’s Churchyard, to bespeak Ogilby’s Æsop’s Fables and Tully’s Officys to be bound for me.
 
-1661-01-05 10:40   Several people came to me about business, among others the great Tom Fuller, who came to desire a kindness for a friend of his.
+1661-01-05 20:30   To Will’s, and drank with Spicer, and thence by coach home, staying a little in Paul’s Churchyard, to bespeak Ogilby’s Æsop’s Fables and Tully’s Officys to be bound for me.
 
-1661-01-04 20:40   My father told me how Will and Mary Joyce live a strange life, nothing but fighting, so that her father has a mind to have them divorced.
+1661-01-05 10:40   Several people came to me about business, among others the great Tom Fuller, who came to desire a kindness for a friend of his, who hath a mind to go to Jamaica with these two ships that are going, which I promised to do.
 
-1661-01-04 17:20   After dinner Mr. Moore and I to the Theatre, where was “The Scornful Lady,” acted very well, it being the first play that ever he saw.
 
-1661-01-04 08:25   I chose a gilt tankard, weighing 31 ounces and a half, and my Lord is allowed 30; so I paid 12s. for the ounce and half over.
+1661-01-04 20:40   I called to see my father, who told me by the way how Will and Mary Joyce do live a strange life together, nothing but fighting, &c., so that sometimes her father has a mind to have them divorced.
 
-1661-01-04 08:10   At the Jewell Office, to choose a piece of gilt plate for my Lord, in return of his offering to the King.
+1661-01-04 17:20   Mr. Moore and I to the Theatre, where was “The Scornful Lady,” acted very well, it being the first play that ever he saw.
 
-1661-01-03 19:20   To my father’s, where I found my mother gone by Bird, the carrier, to Brampton, upon my uncle’s desire, my aunt being in despair of life.
+1661-01-04 08:25 r I chose a gilt tankard, weighing 31 ounces and a half, and he is allowed 30; so I paid 12s.; but strange it was for me to see what a company of small fees I was called upon by a great many to pay there, which, I perceive, is the manner that courtiers do get their estates.
+
+1661-01-04 08:10   To the Jewell Office, to choose a piece of gilt plate for my Lord, in return of his offering to the King (which it seems is usual at this time of year, and an Earl gives twenty pieces in gold in a purse to the King).
+
+
+1661-01-03 19:20   To my father’s, where I found my mother gone by Bird, the carrier, to Brampton, upon my uncle’s great desire, my aunt being now in despair of life. So home.
 
 1661-01-03 17:10   To the Theatre, where was acted “Beggars’ Bush,” it being very well done; and here the first time that ever I saw women come upon the stage.
 
 1661-01-03 08:00   To the Exchequer, where I told over what money I had of my Lord’s and my own there, which I found to be 970l.
 
-1661-01-02 20:50   There stood a man at our door, when I carried the money in, and saw me, which made me a little afeard.
 
-1661-01-02 20:20   To my Lord’s, and took my money I brought ‘thither last night and the silver candlesticks, and left the latter at Alderman Backwell’s.
+1661-01-02 22:00 r This day I lent Sir W. Batten and Captn. Rider my chine of beef for to serve at dinner tomorrow at Trinity House, the Duke of Albemarle being to be there and all the rest of the Brethren, it being a great day for the reading over of their new Charter.
+
+1661-01-02 20:25 r There stood a man at our door, when I carried it in, and saw me, which made me a little afeard.
+
+1661-01-02 20:20   To my Lord’s, and took my money I brought ‘thither last night and the silver candlesticks, and by coach left the latter at Alderman Backwell’s, I having no use for them, and the former home.
 
 1661-01-02 18:10   I took a turn in the Hall, and bought the King and Chancellor’s speeches at the dissolving the Parliament last Saturday.
 
-1661-01-02 13:00   I found Pall (my sister) was come; but I do not let her sit down at table with me, which I do at first that she may not expect it hereafter.
+1661-01-02 13:00   Home to dinner, where I found Pall (my sister) was come; but I do not let her sit down at table with me, which I do at first that she may not expect it hereafter from me.
+
+1661-01-02 09:10   The Queen’s things were all in White Hall Court ready to be sent away, and her Majesty ready to be gone an hour after to Hampton Court tonight, and so to be at Portsmouth on Saturday next.
 
 1661-01-02 08:50   My Lord to White Hall stairs with much company, and I with him; where we took water for Lambeth, and there he by coach to Portsmouth.
 
 1661-01-02 08:20   Up early, and being called up to my Lord he did give me many commands in his business.
 
-1661-01-01 21:15   Mrs. Pierce is such a slut that I do not love her victualls.
 
-1661-01-01 21:00   To Mr. Pierces, and there supped with them, where we had a calf’s head carboned, but it was raw, we could not eat it, and a good hen.
+1661-01-01 21:00   I returned to Mr. Pierces, and there supped with them, and Mr. Pierce, the purser, and his wife and mine, where we had a calf’s head carboned, but it was raw, we could not eat it, and a good hen. But she is such a slut that I do not love her victualls.
 
-1661-01-01 16:50   Mr. Moore cast up the fees. One 100l. bag, after I had told it, fell all about the room, and I fear I have lost some of it.
+1661-01-01 16:50 r Mr. Moore cast up the fees, and I told the money, by the same token one 100l. bag, after I had told it, fell all about the room, and I fear I have lost some of it.
 
-1661-01-01 13:40   Thomas Pepys dinner a sorry, poor dinner for a man of his estate, there being nothing but ordinary meat in it.
+1661-01-01 15:30   I to the Privy Seal, where Mr. Moore took out all his money, and he and I went to Mr. Pierces; in our way seeing the Duke of York bring his Lady this day to wait upon the Queen, the first time that ever she did since that great business.
+
+1661-01-01 13:40 r I saw first his second wife, which is a very respectfull woman, but his dinner a sorry, poor dinner for a man of his estate, there being nothing but ordinary meat in it.
 
 1661-01-01 12:30   I carried my wife by coach to my cozen, Thomas Pepys, where we, with my father, Dr. Thomas, cozen Stradwick, Scott, and their wives, dined.
 
-1661-01-01 11:00   I had for them a barrel of oysters, a dish of neat’s tongues, a dish of anchovies, wine of all sorts, and Northdown ale. We were very merry.
+1661-01-01 11:00 r I had for them a barrel of oysters, a dish of neat’s tongues, and a dish of anchovies, wine of all sorts, and Northdown ale.
 
-1661-01-01 10:45   Comes in my brother Thomas, my father, Dr. Thomas Pepys, my uncle Fenner and his two sons, to breakfast.
+1661-01-01 10:45   Comes in my brother Thomas, and after him my father, Dr. Thomas Pepys, my uncle Fenner and his two sons (Anthony’s only child dying this morning, yet he was so civil to come, and was pretty merry) to breakfast.
 
-1661-01-01 10:30   I take myself now to be worth 300l. clear in money, and all my goods and all manner of debts paid, which are none at all.
+1661-01-01 10:30 r I take myself now to be worth 300l. clear in money, and all my goods and all manner of debts paid, which are none at all.
 
-1661-01-01 10:18   The Parliament beginning to grow factious, the King did dissolve it December 29th last, and another likely to be chosen speedily.
+1661-01-01 10:18 r The Parliament, which had done all this great good to the King, beginning to grow factious, the King did dissolve it December 29th last, and another likely to be chosen speedily.
 
-1661-01-01 10:05   The King settled, and loved of all. The Duke of York matched to my Lord Chancellor’s daughter, which do not please many.
+1661-01-01 10:05 r As to things of State. – The King settled, and loved of all. The Duke of York matched to my Lord Chancellor’s daughter, which do not please many. The Queen upon her return to France with the Princess Henrietta. The Princess of Orange lately dead, and we into new mourning for her.
 
-1661-01-01 09:52   Myself in constant good health, and in a most handsome and thriving condition. Blessed be Almighty God for it.
+1661-01-01 09:52 r Myself in constant good health, and in a most handsome and thriving condition. Blessed be Almighty God for it. I am now taking of my sister to come and live with me.
 
-1661-01-01 09:40   After much trouble with workmen I am almost settled; my family being, myself, my wife, Jane, Will. Hewer, and Wayneman, my girle’s brother.
+1661-01-01 09:40 r After much trouble with workmen I am now almost settled; my family being, myself, my wife, Jane, Will. Hewer, and Wayneman, my girle’s brother.
 
-1661-01-01 09:28   At the beginning of this year I do live in one of the houses belonging to the Navy Office, as one of the principal officers.
+1661-01-01 09:28   At the end of the last and the beginning of this year, I do live in one of the houses belonging to the Navy Office, as one of the principal officers, and have done now about half a year.
 
-1661-01-01 08:00   Mr. Moore brought me my last things for me to sign for the last month, and to my great comfort tells me that my fees will come to 80l.
-
+1661-01-01 07:30   Called up by Mr. Moore, who brought me my last things for me to sign for the last month, and to my comfort tells me that my fees will come to 80l. clear to myself, and about 25l. for him, which he hath got out of the pardons, though there be no fee due to me at all out of them.
