@@ -153,12 +153,6 @@ file (see above). Then run the script:
 
 That will send a post if there is one with an appropriate date and time.
 
-There's a tester script that ensures all posts are within 280 characters in length,
-end in a punctuation character, and that dates/times are all in the correct
-order. Run it like:
-
-    $ ./tester.py
-
 Or you can use Docker, which includes a Redis database, and which will run the
 `clock.py` process to check for tweets/posts every minute. Install Docker,
 set up a `.env` file (see above), and then:
