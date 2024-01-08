@@ -1,8 +1,8 @@
 # Samuel Pepys Twitter
 
 A Python 3 script for posting Twitter tweets and/or Mastodon posts at specific
-times. Used for the [@samuelpepys](http://twitter.com/samuelpepys) Twitter
-account and [@samuelpepys@mastodon.social](https://mastodon.social/@samuelpepys)
+times. Used for the ~~[@samuelpepys](http://twitter.com/samuelpepys) Twitter
+account and~~ [@samuelpepys@mastodon.social](https://mastodon.social/@samuelpepys)
 Mastodon account.
 
 You could replace the included tweets/posts with your own, for your own
@@ -153,6 +153,12 @@ file (see above). Then run the script:
 
 That will send a post if there is one with an appropriate date and time.
 
+There's a tester script that ensures all posts are within 280 characters in length,
+end in a punctuation character, and that dates/times are all in the correct
+order. Run it like:
+
+    $ ./tester.py
+
 Or you can use Docker, which includes a Redis database, and which will run the
 `clock.py` process to check for tweets/posts every minute. Install Docker,
 set up a `.env` file (see above), and then:
@@ -167,27 +173,27 @@ If you need to access Redis CLI in its Docker container:
 
 ## Heroku setup
 
-To run this on Heroku...
+To run this on Heroku (these instructions haven't been tried for years):
 
 1. Set up a new Heroku app.
 
 2. Set Heroku environment variables for all the environment variables, eg:
 
-      $ heroku config:set MAX_TIME_WINDOW=20
+        $ heroku config:set MAX_TIME_WINDOW=20
 
 3. Add a Redis database, eg:
 
-	  $ heroku addons:add rediscloud
+        $ heroku addons:add rediscloud
 
 4. Copy the Redis add-on's URL to the `REDIS_URL` environment variable:
 
-	  $ heroku config:get REDIS_CLOUD_URL
-	  [ copy that value ]
-	  $ heroku config:set REDIS_URL=redis://rediscloud:...
+        $ heroku config:get REDIS_CLOUD_URL
+        [ copy that value ]
+        $ heroku config:set REDIS_URL=redis://rediscloud:...
 
 5. Push all the code and posts to your Heroku app:
 
-      $ git push heroku master
+        $ git push heroku master
 
 There you go. I think that's it... The `Procfile` specifies a `clock` process
 that runs `clock.py`. This sets up a scheduler to run the code in `poster.py`
@@ -216,4 +222,3 @@ By Phil Gyford
 * phil@gyford.com
 * https://www.gyford.com
 * https://mastodon.social/@philgyford
-* https://twitter.com/philgyford
