@@ -1,35 +1,31 @@
 YYYY-MM-DD HH:MM r 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
-1661-04-30 22:20   I am sorry that I am not at London, to be at Hide-parke to-morrow, among the great gallants and ladies, which will be very fine.
+1661-04-30 22:20   I am sorry that I am not at London, to be at Hide-parke tomorrow, among the great gallants and ladies, which will be very fine.
 
-1661-04-30 19:10   No other extraordinary rencontre, but my hat falling off my head at Newington into the water, by which it was spoiled, and I ashamed of it.
+1661-04-30 19:10 r We were very merry, having this day no other extraordinary rencontre, but my hat falling off my head at Newington into the water, by which it was spoiled, and I ashamed of it.
 
 1661-04-30 10:00   We got a small bait at Leatherhead, and so to Godlyman.
 
-1661-04-30 08:50   Through her mask Mr. Hater’s wife seemed at first to be an old woman, but afterwards I found her to be a very pretty modest black woman.
+1661-04-30 08:40   After order given to my workmen, my wife and I and Mr. Creed took coach, and in Fishstreet took up Mr. Hater and his wife, who through her mask seemed at first to be an old woman, but afterwards I found her to be a very pretty modest black woman.
 
-1661-04-30 08:30   My wife and I and Mr. Creed took coach, and in Fishstreet took up Mr. Hater and his wife.
-
-1661-04-30 00:00   Home and to bed, where my wife had not lain a great while.
+1661-04-30 00:30 r So home and to bed, where my wife had not lain a great while.
 
 
-1661-04-29 21:50   By Sir W. Batten’s and Sir W. Pen’s persuasion I sent for my wife from my father’s, who came to us, where we were all at a collacion.
+1661-04-29 23:50   To Sir W. Batten’s, and by his and Sir W. Pen’s persuasion I sent for my wife from my father’s, who came to us to Mrs. Turner’s, where we were all at a collacion, there being a gentlewoman there that did play well and sang well to the Harpsicon, and very merry we were.
 
 1661-04-29 15:00   Home again, and gave order to my workmen what to do in my absence.
 
-1661-04-29 10:10   To the office, where it is determined that I should go to-morrow to Portsmouth.
+1661-04-29 10:10   To the office, where it is determined that I should go tomorrow to Portsmouth.
 
-1661-04-29 09:20   Lieut. Lambert is troubled about being offered a fourth rate ship to be Lieutenant of now he has been two years Lieutenant in a first rate.
-
-
-1661-04-28 20:40   My father bid me to take notice of it to my mother, and to make peace between him and her. All which do trouble me very much.
-
-1661-04-28 20:35   The wench was the most ill-favoured slut that I saw in my life, which I was ashamed to hear that my mother should be become such a fool.
-
-1661-04-28 20:30   My father told me my mother would not let him come to bed to her out of jealousy of him and an ugly wench that lived there lately.
+1661-04-29 09:20   Met with Lieut. Lambert, and with him to the Dolphin in Tower Street and drank our morning draught, he being much troubled about his being offered a fourth rate ship to be Lieutenant of her now he has been two years Lieutenant in a first rate.
 
 
-1661-04-27 21:30   Home by coach to Sir W. Batten’s, who seems so inquisitive when my, house will be made an end of that I am troubled to go thither.
+1661-04-28 20:35 r Which I was ashamed to hear that my mother should be become such a fool, and my father bid me to take notice of it to my mother, and to make peace between him and her. All which do trouble me very much.
+
+1661-04-28 20:30   My father told me of an odd passage the other night in bed between my mother and him, and she would not let him come to bed to her out of jealousy of him and an ugly wench that lived there lately, the most ill-favoured slut that ever I saw in my life.
+
+
+1661-04-27 21:30 r To the Cock alehouse, where we had a harp and viallin played to us, and so home by coach to Sir W. Batten’s, who seems so inquisitive when my, house will be made an end of that I am troubled to go thither.
 
 1661-04-27 17:10   Dined with my Lady, and after dinner with Mr. Creed and Captain Ferrers to the Theatre to see “The Chances.”
 
@@ -44,217 +40,187 @@ YYYY-MM-DD HH:MM r 1234567890123456789012345678901234567890123456789012345678901
 1661-04-25 11:50   All the morning with my workmen with great pleasure to see them near coming to an end.
 
 
-1661-04-24 22:10   So to bed.
+1661-04-24 22:10 r So to bed.
 
-1661-04-24 21:20   I hear the noise of the chambers, and other things of the fire-works, which are now playing upon the Thames before the King.
+1661-04-24 21:20 r Set myself to write down these three days’ diary, and while I am about it, I hear the noise of the chambers, and other things of the fire-works, which are now playing upon the Thames before the King; and I wish myself with them, being sorry not to see them.
 
-1661-04-24 14:40   After dinner home, and advised with my wife about ordering things in my house, and then she went away to my father’s to lie.
+1661-04-24 14:40 r After dinner home, and advised with my wife about ordering things in my house, and then she went away to my father’s to lie, and I staid with my workmen, who do please me very well with their work.
 
-1661-04-24 13:10   My wife and I went to dinner to Sir W. Batten, and all our talk about the happy conclusion of these last solemnities.
+1661-04-24 13:10 r My wife and I went to dinner to Sir W. Batten, and all our talk about the happy conclusion of these last solemnities.
 
-1661-04-24 08:40   I rose and went out with Mr. Creed to drink our morning draft, which he did give me in chocolate to settle my stomach.
+1661-04-24 08:40 r So rose and went out with Mr. Creed to drink our morning draft, which he did give me in chocolate to settle my stomach. And after that I to my wife, who lay with Mrs. Frankelyn at the next door to Mrs. Hunt’s.
 
-1661-04-24 07:25   Waked with my head in a sad taking through the last night’s drink, which I am very sorry for.
+1661-04-24 07:10 r When I waked I found myself wet with my spewing. Waked with my head in a sad taking through the last night’s drink, which I am very sorry for.
 
-1661-04-24 07:10   When I waked I found myself wet with my spewing.
 
-1661-04-24 00:20   No sooner a-bed with Mr. Shepley but my head began to hum, and I to vomit, and if ever I was foxed it was now.
+1661-04-23 23:55 r Now, after all this, I can say that, besides the pleasure of the sight of these glorious things, I may now shut my eyes against any other objects, nor for the future trouble myself to see things of state and show, as being sure never to see the like again in this world.
 
+1661-04-23 23:50 r Thus did the day end with joy every where; I have not heard of any mischance to any body through it all, but only to Serjt. Glynne, whose horse fell upon him yesterday, and is like to kill him, which people do please themselves to see how just God is to punish the rogue.
 
-1661-04-23 23:55   Only Glynne’s horse fell upon him, and is like to kill him, which people do please themselves to see how just God is to punish the rogue.
+1661-04-23 23:40 r But no sooner a-bed with Mr. Shepley but my head began to hum, and I to vomit, and if ever I was foxed it was now.
 
-1661-04-23 23:40   Thus did the day end with joy every where; and blessed be God, I have not heard of any mischance to any body through it all.
+1661-04-23 23:20 r Mr. Hunt and I went in with Mr. Thornbury to his house; and there, with his wife and two of his sisters, and some gallant sparks that were there, we drank the King’s health, and nothing else, till one of the gentlemen fell down stark drunk, and there lay spewing.
 
-1661-04-23 23:20   We drank the King’s health, and nothing else, till one of the gentlemen fell down stark drunk, and there lay spewing.
+1661-04-23 22:15 r They laid hold of us, and would have us drink the King’s health upon our knees, kneeling upon a faggot, which we all did, they drinking to us. Which we thought a strange frolique; but these gallants continued thus a great while, and I wondered to see how the ladies did tipple.
 
-1661-04-23 22:55   Mr. Hunt and I went in with Mr. Thornbury (who did give the company all their wine, he being yeoman of the wine-cellar to the King).
+1661-04-23 22:00 r I took my wife and Mrs. Frankleyn (who I proffered the civility of lying with my wife at Mrs. Hunt’s tonight) to Axe-yard, in which at the further end there were three great bonfires, and a great many great gallants, men and women.
 
-1661-04-23 22:30   We thought a strange frolique; but these gallants continued thus a great while, and I wondered to see how the ladies did tipple.
+1661-04-23 21:55 r I went to Kingstreet, and there sent Crockford to my father’s and my house, to tell them I could not come home tonight, because of the dirt, and a coach could not be had.
 
-1661-04-23 22:15   Many great gallants laid hold of us, and would have us drink the King’s health upon our knees, which we all did, they drinking to us.
+1661-04-23 21:40 r At Mr. Bowyer’s, a great deal of company, some I knew, others I did not. Here we staid upon the leads and below till it was late, expecting to see the fire-works, but they were not performed tonight: only the City had a light like a glory round about it with bonfires.
 
-1661-04-23 22:00   I took my wife and Mrs. Frankleyn to Axe-yard, in which at the further end there were three great bonfires.
+1661-04-23 18:55 r Which people did take great notice of; God’s blessing of the work of these two days, which is a foolery to take too much notice of such things.
 
-1661-04-23 21:45   I sent Crockford to my father’s and my house, to tell them I could not come home tonight, because of the dirt, and a coach could not be had.
+1661-04-23 18:50 r Strange it is to think that these two days have held up fair till now that all is done, and the King gone out of the Hall; and then it fell a-raining and thundering and lightening as I have not seen it do for some years.
 
-1661-04-23 21:30   But the fire-works were not performed to-night: only the City had a light like a glory round about it with bonfires.
+1661-04-23 17:55 r I went up to my wife, and there met with a pretty lady (Mrs. Frankleyn, a Doctor’s wife, a friend of Mr. Bowyer’s), and kissed them both, and by and by took them down to Mr. Bowyer’s.
 
-1661-04-23 21:10   At Mr. Bowyer’s we staid upon the leads and below, expecting to see the fire-works.
+1661-04-23 17:40 r I took a great deal of pleasure to go up and down, and look upon the ladies, and to hear the musique of all sorts, but above all, the 24 violins.
 
-1661-04-23 19:05   Then it fell a-raining and thundering and lightening: which people did take great notice of; God’s blessing of the work of these two days.
+1661-04-23 17:25 r And at the Lords’ table, I met with William Howe, and he spoke to my Lord for me, and he did give me four rabbits and a pullet, and so I got it and Mr. Creed and I got Mr. Michell to give us some bread, and so we at a stall eat it, as every body else did what they could get.
 
-1661-04-23 18:50   Strange it is to think, that these two days have held up fair till now that all is done, and the King gone out of the Hall.
+1661-04-23 17:10 r At last when he is come, the King drinks to him, and then sends him the cup which is of gold, and he drinks it off, and then rides back again with the cup in his hand.
 
-1661-04-23 17:55   I went up to my wife, and there met with a pretty lady (Mrs. Frankleyn), and kissed them both, and by and by took them down to Mr. Bowyer’s.
+1661-04-23 16:40 r And a Herald proclaims “That if any dare deny Charles Stewart to be lawful King of England, here was a Champion that would fight with him;” and with these words, the Champion flings down his gauntlet, and all this he do three times in his going up towards the King’s table.
 
-1661-04-23 17:40   I took a great deal of pleasure to go up and down, and look upon the ladies, and to hear the musique, but above all, the 24 violins.
+1661-04-23 16:10 r Above all, was these three Lords, Northumberland, and Suffolk, and the Duke of Ormond, coming before the courses on horseback, and staying so all dinner-time, and at last to bring up the King’s Champion, all in armour on horseback, with his spear and targett carried before him.
 
-1661-04-23 17:25   At the Lords’ table, I met with William Howe, and he spoke to my Lord for me, and he did give me four rabbits and a pullet.
+1661-04-23 15:40 r And many fine ceremonies there was of the Heralds leading up people before him, and bowing; and my Lord of Albemarle’s going to the kitchin and eat a bit of the first dish that was to go to the King’s table.
 
-1661-04-23 17:10   The King drinks to the Champion, and sends him the cup which is of gold, and he drinks it off, and then rides back with the cup in his hand.
+1661-04-23 15:25 r And after a long time, he got up to the farther end, and all set themselves down at their several tables; and that was also a brave sight: and the King’s first course carried up by the Knights of the Bath.
 
-1661-04-23 16:55   With these words, the Champion flings down his gauntlet, and all this he do three times in his going up towards the King’s table.
+1661-04-23 15:10 r And the King came in with his crown on, and his sceptre in his hand, under a canopy borne up by six silver staves, carried by Barons of the Cinque Ports, and little bells at every end.
 
-1661-04-23 16:40   A Herald proclaims “That if any dare deny Charles Stewart to be lawful King of England, here was a Champion that would fight with him.”
+1661-04-23 14:55 r Here I staid walking up and down, and at last upon one of the side stalls I stood and saw the King come in with all the persons (but the soldiers) that were yesterday in the cavalcade; and a most pleasant sight it was to see them in their several robes.
 
-1661-04-23 16:25   At last to bring up the King’s Champion, all in armour on horseback, with his spear and targett carried before him.
+1661-04-23 14:40 r Into the Hall I got, where it was very fine with hangings and scaffolds one upon another full of brave ladies; and my wife in one little one, on the right hand.
 
-1661-04-23 16:10   Above all was Lords Northumberland and Suffolk, and the Duke of Ormond, coming before the courses on horseback, and staying all dinner-time.
+1661-04-23 14:10 r But I had so great a lust to pisse that I went out a little while before the King had done all his ceremonies, and went round the Abbey to Westminster Hall, all the way within rayles, and 10,000 people, with the ground covered with blue cloth; and scaffolds all the way.
 
-1661-04-23 15:55   My Lord of Albemarle’s going to the kitchin and eat a bit of the first dish that was to go to the King’s table.
+1661-04-23 13:55 r But so great a noise that I could make but little of the musique; and indeed, it was lost to every body.
 
-1661-04-23 15:40   Many fine ceremonies there was of the Heralds leading up people before him, and bowing.
+1661-04-23 13:40 r And a Generall Pardon also was read by the Lord Chancellor, and meddalls flung up and down by my Lord Cornwallis, of silver, but I could not come by any.
 
-1661-04-23 15:25   The King’s first course carried up by the Knights of the Bath.
+1661-04-23 13:25 r And three times the King at Arms went to the three open places on the scaffold, and proclaimed, that if any one could show any reason why Charles Stewart should not be King of England, that now he should come and speak.
 
-1661-04-23 15:10   The King came in with his crown on, and his sceptre in his hand, under a canopy borne up by six silver staves, carried by Barons.
+1661-04-23 12:55 r The crown being put upon his head, a great shout begun, and he came forth to the throne, and there passed more ceremonies: as taking the oath, and having things read to him by the Bishop; and his lords and bishops come, and kneeled before him.
 
-1661-04-23 14:55   At last upon one of the side stalls I stood and saw the King come in with all the persons that were yesterday in the cavalcade.
+1661-04-23 12:40 r And after all had placed themselves, there was a sermon and the service; and then in the Quire at the high altar, the King passed through all the ceremonies of the Coronacon, which to my great grief I and most in the Abbey could not see.
 
-1661-04-23 14:40   Into the Hall I got, where it was very fine with scaffolds one upon another full of brave ladies; and my wife in one, on the right hand.
+1661-04-23 12:25 r The King in his robes, bare-headed, which was very fine.
 
-1661-04-23 14:25   I went round the Abbey to Westminster Hall, all the way within rayles, and 10,000 people, with the ground covered with blue cloth.
+1661-04-23 12:10 r Then the Duke, and the King with a scepter (carried by my Lord Sandwich) and sword and mond before him, and the crown too.
 
-1661-04-23 14:10   But I had so great a lust to pisse that I went out a little while before the King had done all his ceremonies.
+1661-04-23 11:55 r At last comes in the Dean and Prebends of Westminster, with the Bishops (many of them in cloth of gold copes), and after them the Nobility, all in their Parliament robes, which was a most magnificent sight.
 
-1661-04-23 13:55   So great a noise that I could make but little of the musique; and indeed, it was lost to every body.
+1661-04-23 11:25 r And a great pleasure it was to see the Abbey raised in the middle, all covered with red, and a throne (that is a chair) and footstool on the top of it; and all the officers of all kinds, so much as the very fidlers, in red vests.
 
-1661-04-23 13:40   A Generall Pardon was read by the Lord Chancellor. Meddalls flung up and down by my Lord Cornwallis, of silver, but I could not come by any.
+1661-04-23 11:10 r With much ado, by the favour of Mr. Cooper, his man, did get up into a great scaffold across the North end of the Abbey, where with a great deal of patience I sat from past 4 till 11 before the King came in.
 
-1661-04-23 13:25   The King at Arms proclaimed, that if any one could show any reason why Charles Stewart should not be King of England, that he should speak.
+1661-04-23 04:40 r I rose and got to the Abbey, where I followed Sir J. Denham, the Surveyor, with some company that he was leading in.
 
-1661-04-23 13:10   Taking the oath, and having things read to him by the Bishop; and his lords and bishops come, and kneeled before him.
 
-1661-04-23 12:55   The crown being put upon the King’s head, a great shout begun, and he came forth to the throne, and there passed more ceremonies.
+1661-04-22 19:20 r By water to White Hall to my Lord’s, and there I spoke with my Lord. He talked with me about his suit, which was made in France, and cost him 200l., and very rich it is with embroidery.
 
-1661-04-23 12:40   To my great grief I and most in the Abbey could not see the ceremonies.
+1661-04-22 18:00 r So home, where Will and the boy staid and saw the show upon Towre Hill, and Jane at T. Pepys’s, the Turner, and my wife at Charles Glassecocke’s, in Fleet Street.
 
-1661-04-23 12:25   There was a sermon and the service; and then in the Quire at the high altar, the King passed through all the ceremonies of the Coronacon.
+1661-04-22 15:30 r Sir W. Batten going home, he and I called and drunk some mum and laid our wager about my Lady Faulconbridge’s name, which he says not to be Mary, and so I won above 20s.
 
-1661-04-23 12:10   Then the Duke, and the King with a scepter (carried by my Lord Sandwich) and sword and mond before him, and the crown too.
+1661-04-22 13:20 r The show being ended, Mr. Young did give us a dinner, at which we were very merry, and pleased above imagination at what we have seen.
 
-1661-04-23 11:55   At last comes in the Dean and Prebends of Westminster, with the Bishops, and after them the Nobility, which was a most magnificent sight.
+1661-04-22 11:45 r Both the King and the Duke of York took notice of us, as he saw us at the window.
 
-1661-04-23 11:40   All the officers of all kinds, so much as the very fidlers, in red vests.
+1661-04-22 11:30 r So glorious was the show with gold and silver, that we were not able to look at it, our eyes at last being so much overcome with it.
 
-1661-04-23 11:25   A great pleasure it was to see the Abbey raised in the middle, all covered with red, and a throne and footstool on the top of it.
+1661-04-22 11:00 r The streets all gravelled, and the houses hung with carpets before them, made brave show, and the ladies out of the windows, one of which over against us I took much notice of, and spoke of her, which made good sport among us.
 
-1661-04-23 11:10   I did get up into a scaffold across the North end of the Abbey, where with patience I sat from past 4 till 11 before the King came in.
+1661-04-22 10:30 r There followed the Vice-Chamberlain, Sir G. Carteret, a company of men all like Turks; but I know not yet what they are for.
 
-1661-04-23 04:00   I rose and got to the Abbey, where I followed Sir J. Denham, the Surveyor, with some company that he was leading in.
+1661-04-22 10:15 r The King, in a most rich embroidered suit and cloak, looked most noble. Wadlow, the vintner, at the Devil; in Fleetstreet, did lead a fine company of soldiers, all young comely men, in white doublets.
 
+1661-04-22 10:00 r My Lord Monk rode bare after the King, and led in his hand a spare horse, as being Master of the Horse.
 
-1661-04-22 19:20   My Lord talked with me about his suit, which was made in France, and cost him 200l, and very rich it is with embroidery.
+1661-04-22 09:45 r The Bishops come next after Barons, which is the higher place; which makes me think that the next Parliament they will be called to the House of Lords.
 
-1661-04-22 18:00   Will and the boy staid and saw the show upon Towre Hill, and Jane at T. Pepys’s, and my wife at Charles Glassecocke’s, in Fleet Street.
+1661-04-22 09:30 r Embroidery and diamonds were ordinary among them. The Knights of the Bath was a brave sight of itself; and their Esquires, among which Mr. Armiger was an Esquire to one of the Knights. Remarquable were the two men that represent the two Dukes of Normandy and Aquitane.
 
-1661-04-22 15:30   Sir W. Batten and I drunk some mum and laid our wager about my Lady Faulconbridge’s name, which he says not to be Mary. I won above 20s.
+1661-04-22 09:25 r In which it is impossible to relate the glory of this day, expressed in the clothes of them that rid, and their horses and horses clothes, among others, my Lord Sandwich’s.
 
-1661-04-22 13:10   The show being ended, Mr. Young did give us a dinner, at which we were very merry, and pleased above imagination at what we have seen.
+1661-04-22 09:20 r Being ready, Sir W. Batten, my Lady, and his two daughters and his son and wife, and Sir W. Pen and his son and I, went to Mr. Young’s, the flag-maker, in Corne-hill;2 and there we had a good room to ourselves, with wine and good cake, and saw the show very well.
 
-1661-04-22 12:00   It is impossible to relate the glory of this day, expressed in the clothes of them that rid, and their horses and horses clothes.
+1661-04-22 06:30   Up early and made myself as fine as I could, and put on my velvet coat, the first day that I put it on, though made half a year ago.
 
-1661-04-22 11:45   Both the King and the Duke of York took notice of us, as he saw us at the window.
 
-1661-04-22 11:30   So glorious was the show with gold and silver, that we were not able to look at it, our eyes at last being so much overcome with it.
+1661-04-21 21:10   My mind a little troubled about my workmen, which, being foreigners, are like to be troubled by a couple of lazy rogues that worked with me the other day, that are citizens, and so my work will be hindered, but I must prevent it if I can.
 
-1661-04-22 11:15   The ladies out of the windows, one of which over against us I took much notice of, and spoke of her, which made good sport among us.
+1661-04-21 17:50 r So home, people being at church, and I got home unseen, and so up to my chamber and saw done these last five or six days’ diarys.
 
-1661-04-22 11:00   The streets all gravelled, and the houses hung with carpets before them, made brave show.
+1661-04-21 15:40 r I went home, and all the way is so thronged with people to see the triumphal arches, that I could hardly pass for them.
 
-1661-04-22 10:45   There followed the Vice-Chamberlain, Sir G. Carteret, a company of men all like Turks; but I know not yet what they are for.
+1661-04-21 13:30 r Here dined Doctor Thos. Pepys and Dr. Fayrebrother; and all our talk about tomorrow’s show, and our trouble that it is like to be a wet day.
 
-1661-04-22 10:30   Wadlow, the vintner, at the Devil; in Fleetstreet, did lead a fine company of soldiers, all young comely men, in white doublets.
-
-1661-04-22 10:15   The King, in a most rich embroidered suit and cloak, looked most noble.
-
-1661-04-22 10:00   My Lord Monk rode bare after the King, and led in his hand a spare horse, as being Master of the Horse.
-
-1661-04-22 09:45   The Bishops come next after Barons, which is the higher place.
-
-1661-04-22 09:30   The Knights of the Bath was a brave sight of itself; and their Esquires, among which Mr. Armiger was an Esquire to one of the Knights.
-
-1661-04-22 07:15   There we had a good room to ourselves, with wine and good cake.
-
-1661-04-22 07:00   Sir W. Batten, my Lady, and his two daughters and his son and wife, and Sir W. Pen and his son and I, went to Mr. Young’s, in Corne-hill.
-
-1661-04-22 06:30   Up early and made myself as fine as I could, and put on my velvet coat, the first day that I put it on.
-
-
-1661-04-21 21:10   My mind troubled about my workmen, which, being foreigners, are like to be troubled by lazy rogues that worked with me, that are citizens.
-
-1661-04-21 17:50   So home, people being at church, and I got home unseen, and so up to my chamber and saw done these last five or six days’ diarys.
-
-1661-04-21 15:40   I went home, and all the way is so thronged with people to see the triumphal arches, that I could hardly pass for them.
-
-1661-04-21 13:30   Here dined Dr Thos. Pepys and Dr. Fayrebrother; and all our talk about to-morrow’s show, and our trouble that it is like to be a wet day.
-
-1661-04-21 11:20   To my father’s and there found the late maid to be gone and another come by my mother’s choice, which my father do not like.
+1661-04-21 11:20   I walked to my father’s and there found the late maid to be gone and another come by my mother’s choice, which my father do not like, and so great difference there will be between my father and mother about it.
 
 1661-04-21 09:50   We were troubled to hear it rain as it did, because of the great show tomorrow.
 
 
-1661-04-20 23:50   The ways being now so dirty, and stopped up with the rayles which are this day set up in the streets, I would not go home.
+1661-04-20 23:50 r The ways being now so dirty, and stopped up with the rayles which are this day set up in the streets, I would not go home, but went with him to Mr. Creed’s lodging at Mr. Ware’s.
 
-1661-04-20 22:35   And so many great beauties, but above all Mrs. Palmer, with whom the King do discover a great deal of familiarity.
+1661-04-20 22:20 r And so saw “The Humersome Lieutenant” acted before the King, but not very well done. But my pleasure was great to see the manner of it, and so many great beauties, but above all Mrs. Palmer, with whom the King do discover a great deal of familiarity.
 
-1661-04-20 22:20   Saw “The Humersome Lieutenant” acted before the King, but not very well done. But my pleasure was great to see the manner of it.
+1661-04-20 19:20   With Mr. Creed to the Exchange and bought some things, as gloves and bandstrings, &c. So back to the Cockpitt, and there, by the favour of one Mr. Bowman, he and I got in, and there saw the King and Duke of York and his Duchess (which is a plain woman, and like her mother).
 
-1661-04-20 18:20   With Mr. Creed to the Exchange and bought some things, as gloves and bandstrings, &c.
+1661-04-20 17:40 r That being done (which was very pleasant to see their habits), I carried my Lady back, and I found my Lord angry, for that his page had let my Lord’s new beaver be changed for an old hat.
 
-1661-04-20 17:40   I carried my Lady back, and I found my Lord angry, for that his page had let my Lord’s new beaver be changed for an old hat.
+1661-04-20 16:12 r The first being led up by Heralds and five old Earls to the King, and there the patent is read, and the King puts on his vest, and sword, and coronet, and gives him the patent. And then he kisseth the King’s hand, and rises and stands covered before the king.
 
-1661-04-20 15:10   To White Hall; in the Banqueting-house saw the King create my Lord Chancellor and several others, Earls, and Mr. Crew and others, Barons.
+1661-04-20 16:10 r With my Lady and my Lady Wright to White Hall; and in the Banqueting-house saw the King create my Lord Chancellor and several others, Earls, and Mr. Crew and several others, Barons.
 
-1661-04-20 13:40   My Lord looked upon his pages’ and footmen’s liverys, which are come home to-day, and will be handsome, though not gaudy.
+1661-04-20 14:10   To my Lord’s, where Sir W. Pen came to me, and dined with my Lord. After dinner he and others that dined there went away, and then my Lord looked upon his pages’ and footmen’s liverys, which are come home today, and will be handsome, though not gaudy.
 
-1661-04-20 10:30   After the Duke had told us that the fleet was designed for Algier, we did advise about many things as to the fitting of the fleet.
+1661-04-20 10:30 r The Duke comes; and after he had told us that the fleet was designed for Algier (which was kept from us till now), we did advise about many things as to the fitting of the fleet, and so went away.
 
-1661-04-20 10:15   The Duke sent us to his closett where we saw two chests covered with gold and Indian varnish, given him by the East Indy Company of Holland.
+1661-04-20 10:15 r Then he sent us to his closett, where we saw among other things two very fine chests, covered with gold and Indian varnish, given him by the East Indy Company of Holland.
 
-1661-04-20 10:00   We went up and saw the Duke dress himself, and in his night habitt he is a very plain man.
+1661-04-20 09:40 r So I went by water to Mr. Coventry’s, and there staid and talked a good while with him till all the rest come. We went up and saw the Duke dress himself, and in his night habitt he is a very plain man.
 
-1661-04-20 09:10   I went by water to Mr. Coventry’s, and there staid and talked a good while with him till all the rest of the principal officers come.
-
-1661-04-20 08:20   Here comes my boy to tell me that the Duke of York had sent for all the principal officers, &c., to come to him to-day.
+1661-04-20 08:20   Here comes my boy to tell me that the Duke of York had sent for all the principal officers, &c., to come to him today.
 
 
-1661-04-19 20:30   Home, and having staid awhile till Will came in (with whom I was vexed for staying abroad) he comes and then I went by water to my father’s.
+1661-04-19 22:10   So home, and having staid awhile till Will came in (with whom I was vexed for staying abroad), he comes and then I went by water to my father’s, and then after supper to bed with my wife.
 
-1661-04-19 17:00   It being so foul that I could not go to Whitehall to see the Knights of the Bath made to-day, which do trouble me mightily.
+1661-04-19 17:00   It being so foul that I could not go to Whitehall to see the Knights of the Bath made today, which do trouble me mightily.
 
-
-1661-04-18 18:25   They giving him some high words, Sir W. Pen went back again and struck them off their horse, in a simple fury, and without much honour.
-
-1661-04-18 18:10   We met two country fellows upon one horse but Sir W. Pen would not give way, but struck them and they him, and so passed away.
-
-1661-04-18 14:40   After dinner we all went to the Church stile, and there eat and drank, and I was as merry as I could counterfeit myself to be.
-
-1661-04-18 10:30   My Lady was in a bad mood, which we were troubled at. Had she been noble she would not have been so with her servants, when we came thither.
-
-1661-04-18 09:00   Up with my workmen and then took horse with both the Sir Williams for Walthamstow, and there we found my Lady and her daughters all.
+1661-04-19 14:50   Home, where Sir W. Warren came, and I took him and Mr. Shepley and Moore with me to the Mitre, and there I cleared with Warren for the deals I bought lately for my Lord of him.
 
 
-1661-04-17 21:10   Here we had great talk of Mr. Warren’s being knighted by the King, and Sir W. B. seemed to be very much incensed against him.
+1661-04-18 17:40 r Met with two country fellows upon one horse, which I did give the way to, but Sir W. Pen would not, but struck them and they him, and so passed away, but they giving him some high words, he went back again and struck them off their horse, without much honour, in my mind.
 
-1661-04-17 20:50   To the Dolphin by appointment and I met Sir Wms. both and Mr. Castle, and did eat a barrel of oysters and two lobsters, and were very merry.
+1661-04-18 16:10 r It raining hard, we left Sir W. Batten, and we two returned and called at Mr. —— and drank some brave wine there, and then homewards again.
 
-1661-04-17 16:10   I did get of Mr. Allen of Chatham the song that pleased me so well the other day, “Of Shitten come Shites the beginning of love.”
+1661-04-18 14:40 r After dinner we all went to the Church stile, and there eat and drank, and I was as merry as I could counterfeit myself to be.
 
-1661-04-17 14:30   I went to dinner with Sir W. Batten, and then home to my workmen, and saw them go on with great content to me.
+1661-04-18 11:30 r My Lady was in a bad mood, which we were troubled at, and had she been noble she would not have been so with her servants, when we came thither, and this Sir W. Pen took notice of, as well as I.
 
-1661-04-17 09:50   I saw the picture of the ships and other things this morning, set up before the East Indy House, which are well done.
-
-1661-04-17 09:20   By land and saw the arches, which are now almost done and are very fine.
+1661-04-18 11:05   Up with my workmen and then about 9 o’clock took horse with both the Sir Williams for Walthamstow, and there we found my Lady and her daughters all.
 
 
-1661-04-16 11:10   In came the two Sir Wms, and so we sat down and did a great deal of public business about the fitting of the fleet that is now going out.
+1661-04-17 21:10 r Here we had great talk of Mr. Warren’s being knighted by the King, and Sir W. B. seemed to be very much incensed against him.
 
-1661-04-16 09:00   We put off for Deptford, where we went on board the King’s pleasure boat that Commr. Pett is making, and indeed it will be a pretty thing.
+1661-04-17 20:50   I went to the Dolphin by appointment and there I met Sir Wms. both and Mr. Castle, and did eat a barrel of oysters and two lobsters, which I did give them, and were very merry.
 
-1661-04-16 07:55   I had good sport about the long marks that are made there for sentences in divinity, which Mr. Coventry is never like to make use of.
+1661-04-17 16:10   Comes Mr. Allen of Chatham, and I took him to the Mitre and there did drink with him, and did get of him the song that pleased me so well there the other day, “Of Shitten come Shites the beginning of love.”
 
-1661-04-16 07:40   Word was brought me that Mr. Coventry was come with the barge to the Tower. I went to him and found him reading of the Psalms in short hand.
+1661-04-17 14:30   So to the office, and that being done I went to dinner with Sir W. Batten, and then home to my workmen, and saw them go on with great content to me.
+
+1661-04-17 09:20   By land and saw the arches, which are now almost done and are very fine, and I saw the picture of the ships and other things this morning, set up before the East Indy House, which are well done.
+
+
+1661-04-16 11:10 r To Commr. Pett’s lodging, and there had a good breakfast, and in came the two Sir Wms. from Walthamstow, and so we sat down and did a great deal of public business about the fitting of the fleet that is now going out.
+
+1661-04-16 09:00 r Here he and I sat till the Comptroller came and then we put off for Deptford, where we went on board the King’s pleasure boat that Commissioner Pett is making, and indeed it will be a most pretty thing.
+
+1661-04-16 07:40   So soon as word was brought me that Mr. Coventry was come with the barge to the Tower, I went to him, and found him reading of the Psalms in short hand, and had good sport about the long marks that are made there for sentences in divinity, which he is never like to make use of.
 
 
 1661-04-15 22:30   So home and sent for the Barber, and after that to bed.
