@@ -1,10 +1,10 @@
 YYYY-MM-DD HH:MM r 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
-1661-04-30 22:20   I am sorry that I am not at London, to be at Hide-parke tomorrow, among the great gallants and ladies, which will be very fine.
+1661-04-30 22:20 r I am sorry that I am not at London, to be at Hide-parke tomorrow, among the great gallants and ladies, which will be very fine.
 
 1661-04-30 19:10 r We were very merry, having this day no other extraordinary rencontre, but my hat falling off my head at Newington into the water, by which it was spoiled, and I ashamed of it.
 
-1661-04-30 10:00   We got a small bait at Leatherhead, and so to Godlyman.
+1661-04-30 10:00 r We got a small bait at Leatherhead, and so to Godlyman.
 
 1661-04-30 08:40   After order given to my workmen, my wife and I and Mr. Creed took coach, and in Fishstreet took up Mr. Hater and his wife, who through her mask seemed at first to be an old woman, but afterwards I found her to be a very pretty modest black woman.
 
