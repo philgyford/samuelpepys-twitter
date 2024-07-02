@@ -1,255 +1,300 @@
-YYYY-MM-DD HH:MM   12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+YYYY-MM-DD HH:MM r 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
-1661-08-31 21:46   The season very sickly every where of strange and fatal fevers.
 
-1661-08-31 21:44   At Court things are in very ill condition, there being so much emulacion, poverty, and the vices of drinking, swearing, and loose amours.
+1661-08-31 22:35 r We are at our Office quiet, only for lack of money all things go to rack. The season very sickly every where of strange and fatal fevers.
 
-1661-08-31 21:41   I have trouble about my brother Tom, who is left to keep my father’s trade. I have fears that he will miscarry for want of brains and care.
+1661-08-31 22:30 r And the Clergy so high, that all people that I meet with do protest against their practice. In short, I see no content or satisfaction any where, in any one sort of people.
 
-1661-08-31 21:38   I find myself too much given to seeing of plays, and expense, and pleasure, which makes me forget my business, which I must labour to amend.
+1661-08-31 22:24 r At Court things are in very ill condition, there being so much emulacion, poverty, and the vices of drinking, swearing, and loose amours, that I know not what will be the end of it, but confusion.
 
-1661-08-31 15:52   Into Christ’s Hospitall, and there I did give every one of them a bauble, which was the little globes of glass with things hanging in them.
+1661-08-31 22:17 r No money comes in, so that I have been forced to borrow a great deal. I have some trouble about my brother Tom, who is now left to keep my father’s trade, in which I have great fears that he will miscarry for want of brains and care.
 
-1661-08-31 15:10   I met with my Ladies Jemimah and Paulina at seeing the monkeys dance, which was much to see. It troubled me to sit among such nasty company.
+1661-08-31 22:10 r But what is worst, I find myself lately too much given to seeing of plays, and expense, and pleasure, which makes me forget my business, which I must labour to amend.
 
-1661-08-31 13:59   A dirty slut or two come up that were whores. I took no pleasure but a great deal of trouble in getting from thence for fear of being seen.
+1661-08-31 22:05 r My Lord Sandwich in the Straits and newly recovered of a great sickness at Alicante. My father gone to settle at Brampton, and myself under much business and trouble for to settle things in the estate to our content.
 
-1661-08-31 13:21   Luellin and I to the tavern and after that to Bartholomew fair, and there upon his motion to a pitiful alehouse.
+1661-08-31 22:01   Thus ends the month. My maid Jane newly gone, and Pall left now to do all the work till another maid comes, which shall not be till she goes away into the country with my mother. Myself and wife in good health.
 
-1661-08-30 17:33   My wife met a son of Lord Somersett whom she knew in France, a pretty man; I showed him no great countenance, to avoyd further acquaintance.
+1661-08-31 15:52 r With them into Christ’s Hospitall, and there Mr. Pickering bought them some fairings, and I did give every one of them a bauble, which was the little globes of glass with things hanging in them, which pleased the ladies very well.
 
-1661-08-30 17:04   To the French comedy, which was so ill done, every thing so nasty and out of order, that I was sick all the while in my mind to be there.
+1661-08-31 15:10   I to Bartholomew fair all alone, and there met with my Ladies Jemimah and Paulina, with Mr. Pickering and Madamoiselle, at seeing the monkeys dance, which was much to see, when they could be brought to do so, but it troubled me to sit among such nasty company.
 
-1661-08-29 17:32   Mr. Evans told us that the estate God hath blessed him with is too great to give where there is nothing in possession but a trade and house.
+1661-08-31 13:21   Luellin and I to a pitiful alehouse, where we had a dirty slut or two come up that were whores, but my very heart went against them, so that I took no pleasure but a great deal of trouble in being there and getting from thence for fear of being seen.
 
-1661-08-29 16:46   I with my father to an alehouse, and there came Mr. Evans, the taylor, whose daughter we have had a mind to get for a wife for Tom.
 
-1661-08-28 18:05   This day I counterfeited a letter to Sir W. Pen, as from the thief that stole his tankard lately, only to abuse and laugh at him.
+1661-08-30 17:33 r Here my wife met with a son of my Lord Somersett, whom she knew in France, a pretty man; I showed him no great countenance, to avoyd further acquaintance.
 
-1661-08-27 21:32   My wife would have me to do something for her brother Balty but I am afeard to meddle for fear I shall not be able to wipe my hands of him.
+1661-08-30 17:04   My wife and I to Drury Lane to the French comedy, which was so ill done, and the scenes and company and every thing else so nasty and out of order and poor, that I was sick all the while in my mind to be there.
 
-1661-08-27 17:21   To the Theatre and saw “The Joviall Crew,” where the King, Duke, Duchess, and Madame Palmer were; my wife had a sight of them all the while.
 
-1661-08-27 13:54   My wife and I to Thos. Pepys where some ladies and my father and mother, where merry but methinks he makes but poor dinners for such guests.
+1661-08-29 17:32 r In fine he told us that he hath not to except against us or our motion, but that the estate that God hath blessed him with is too great to give where there is nothing in present possession but a trade and house; and so we friendly ended.
 
-1661-08-26 22:31   A letter from my Lord Sandwich, who is now well of his feaver, but not yet gone from Alicante, where he lay sick, and was twice let blood.
+1661-08-29 16:46   With my father to an alehouse, and there came Mr. Evans, the taylor, whose daughter we have had a mind to get for a wife for Tom, and then my father, and there we sat a good while and talked about the business.
 
-1661-08-26 21:55   I took leave of Mr Fanshaw who goes to-morrow to Portugal. We drank a great deal of wine, I too much and Mr Fanshaw till he could hardly go.
+
+1661-08-28 15:05   I counterfeited a letter to Sir W. Pen, as from the thief that stole his tankard lately, only to abuse and laugh at him.
+
+
+1661-08-27 22:15 r I went to bed, my wife all the while telling me his case with tears, which troubled me.
+
+1661-08-27 21:32   In my way and at home, my wife making a sad story to me of her brother Balty’s condition, and would have me to do something for him, which I shall endeavour to do, but am afeard to meddle therein for fear I shall not be able to wipe my hands of him again.
+
+1661-08-27 17:21   Hence my wife and I to the Theatre, and there saw “The Joviall Crew,” where the King, Duke and Duchess, and Madame Palmer, were; and my wife, to her great content, had a full sight of them all the while. The play full of mirth.
+
+1661-08-27 13:54   My wife and I by coach to my cozen, Thos. Pepys, the Executor, to dinner, where some ladies and my father and mother, where very merry, but methinks he makes but poor dinners for such guests, though there was a poor venison pasty.
+
+1661-08-27 08:04   To the Wardrobe, and there took leave of my Lord Hinchingbroke and his brother, and saw them go out by coach toward Rye in their way to France, whom God bless.
+
+
+1661-08-26 22:31   At home I found a letter from my Lord Sandwich, who is now very well again of his feaver, but not yet gone from Alicante, where he lay sick, and was twice let blood. This letter dated the 22nd July last, which puts me out of doubt of his being ill.
+
+1661-08-26 21:55   I called in at the Crane tavern at the Stocks by appointment, and there met and took leave of Mr. Fanshaw, who goes tomorrow and Captain Isham toward their voyage to Portugal. Here we drank a great deal of wine, I too much and Mr. Fanshaw till he could hardly go.
 
 1661-08-26 17:15   To the Theatre, and saw the “Antipodes,” wherein there is much mirth, but no great matter else.
 
-1661-08-26 07:53   I shall never have one to please us better in all things. I gave Jane 2s. 6d. over and bade her adieu, my mind full of trouble at her going.
+1661-08-26 08:01 r So I paid her her wages and gave her 2s. 6d. over, and bade her adieu, with my mind full of trouble at her going.
+
+1661-08-26 07:53 r The poor girl cried, and I could hardly forbear weeping to think of her going, for though she be grown lazy and spoilt by Pall’s coming, yet I shall never have one to please us better in all things, and so harmless, while I live.
 
 1661-08-26 07:49   I made even with my maid Jane, who has this day been my maid three years, and is this day to go into the country to her mother.
 
-1661-08-25 18:38   I got my father to yield that Pall should go into the country with my mother and him, and stay there to see how she will demean herself.
 
-1661-08-25 18:30   In great anger told Pall before my father that I would keep her no longer, and my father he said he would have nothing to do with her.
+1661-08-25 18:38 r At last, after we had brought down her high spirit, I got my father to yield that she should go into the country with my mother and him, and stay there awhile to see how she will demean herself.
 
-1661-08-25 16:10   I found my Lady Batten and her daughter to look something askew upon my wife, because my wife do not buckle to them.
+1661-08-25 18:30   My father and I among other discourse at last called Pall up to us, and there in great anger told her before my father that I would keep her no longer, and my father he said he would have nothing to do with her.
 
-1661-08-25 15:04   To church with my wife, and had a very good and pungent sermon of Mr. Mills, discoursing the necessity of restitution.
+1661-08-25 16:10 r I found my Lady Batten and her daughter to look something askew upon my wife, because my wife do not buckle to them, and is not solicitous for their acquaintance, which I am not troubled at at all.
 
-1661-08-24 21:55   Met with Mr Spong and took him to the Sampson in Paul’s churchyard, and staid till late, and it rained hard so we were fain to get home wet.
+1661-08-25 15:04   Dined at home alone with my wife very comfortably, and so to church with her, and had a very good and pungent sermon of Mr. Mills, discoursing the necessity of restitution.
 
-1661-08-24 17:21   To the Opera and saw “Hamlet, Prince of Denmark,” done with scenes very well. Above all, Betterton did the prince’s part beyond imagination.
 
-1661-08-24 12:43   The Comptroller and I to Sir Rd. Ford’s and viewed the house again and are come to a complete end with him to give him 200l. per an. for it.
+1661-08-24 22:20   Hence homeward, and met with Mr. Spong and took him to the Sampson in Paul’s churchyard, and there staid till late, and it rained hard, so we were fain to get home wet, and so to bed.
 
-1661-08-24 11:26   I do believe that the baboon already understands much English, and I am of the mind it might be taught to speak or make signs.
+1661-08-24 17:21   To the Opera, and there saw “Hamlet, Prince of Denmark,” done with scenes very well, but above all, Betterton1 did the prince’s part beyond imagination.
 
-1661-08-24 11:20   It is a great baboon, but so much like a man in most things, I cannot believe but that it is a monster got of a man and she-baboon.
+1661-08-24 12:43   Hence the Comptroller and I to Sir Rd. Ford’s and viewed the house again, and are come to a complete end with him to give him 200l. per an. for it.
 
-1661-08-24 11:04   We are called to Sir W. Batten’s to see the strange creature that Captain Holmes hath brought with him from Guiny.
+1661-08-24 11:26 r I do believe that it already understands much English, and I am of the mind it might be taught to speak or make signs.
 
-1661-08-23 17:49   I took my wife to the Opera, and shewed her “The Witts,” which I had seen already twice, and was most highly pleased with it.
+1661-08-24 11:20 r It is a great baboon, but so much like a man in most things, that though they say there is a species of them, yet I cannot believe but that it is a monster got of a man and she-baboon.
 
-1661-08-23 11:29   T. Trice took my father and me to one of the judges, and there we were sworn, and so back again to the alehouse and drank and parted.
+1661-08-24 11:04   By and by we are called to Sir W. Batten’s to see the strange creature that Captain Holmes hath brought with him from Guiny.
 
-1661-08-23 10:38   To Tom Trice’s to an alehouse near, and there sat and talked, and finding him fair we examined my uncle’s will before him and Dr. Williams.
 
-1661-08-23 09:27   I found my father and my mother in a discontent, which troubles me much, and indeed she is become very simple and unquiet.
+1661-08-23 17:49   I to W. Joyce’s, where by appointment my wife was, and I took her to the Opera, and shewed her “The Witts,” which I had seen already twice, and was most highly pleased with it.
 
-1661-08-22 19:08   With my aunt Wight, my wife, and Pall and I to her house by coach, and there staid and supped upon a Westphalia ham.
+1661-08-23 11:29 r So he took my father and me to one of the judges of the Court, and there we were sworn, and so back again to the alehouse and drank and parted.
 
-1661-08-22 13:12   My uncle Fenner’s house so hot, that my uncle Wight, my father and I were fain to go out, and stay at an alehouse awhile to cool ourselves.
+1661-08-23 10:38 r To Tom Trice’s to an alehouse near, and there sat and talked, and finding him fair we examined my uncle’s will before him and Dr. Williams, and had them sign the copy and so did give T. Trice the original to prove.
 
-1661-08-22 12:43   Took my wife by coach to my uncle Fenner’s, where there was great deal of company, but poor entertainment, which I wonder at.
+1661-08-23 09:27   I went to my father’s, and there found him and my mother in a discontent, which troubles me much, and indeed she is become very simple and unquiet.
 
-1661-08-21 15:48   The girl is very well favoured, and a very child, but modest, and one I think will do very well for my brother.
 
-1661-08-21 15:35   Mrs. Whately only is afeard that her daughter is too young and portion not big enough, but offers 200l. down with her.
+1661-08-22 19:08 r To church, and staid out the sermon, and then with my aunt Wight, my wife, and Pall and I to her house by coach, and there staid and supped upon a Westphalia ham.
 
-1661-08-21 15:32   To Mrs. Whately’s again, and there were well received, and she desirous to have the thing go forward.
+1661-08-22 13:12 r The house so hot, that my uncle Wight, my father and I were fain to go out, and stay at an alehouse awhile to cool ourselves.
+
+1661-08-22 12:43   Took my wife by coach to my uncle Fenner’s, where there was both at his house and the Sessions, great deal of company, but poor entertainment, which I wonder at.
+
+
+1661-08-21 15:48 r The girl is very well favoured, and a very child, but modest, and one I think will do very well for my brother: so parted till she hears from Hatfield from her husband, who is there; but I find them very desirous of it, and so am I.
+
+1661-08-21 15:32   To Mrs. Whately’s, and there were well received, and she desirous to have the thing go forward, only is afeard that her daughter is too young and portion not big enough, but offers 200l. down with her.
 
 1661-08-21 14:14   I understand by Mr. Moore that my Lady Sandwich is brought to bed yesterday of a young Lady, and is very well.
 
-1661-08-21 10:32   With Mrs. Terry we discoursed about and agreed to go to her mother this afternoon to speak with her.
+1661-08-21 10:28   To Will Joyce’s and to an alehouse, and drank a good while together, he being very angry that his father Fenner will give him and his brother no more for mourning than their father did give him and my aunt at their mother’s death, and a troublesome fellow I still find him to be.
 
-1661-08-21 10:06   To Mrs. Terry, a daughter of Mr. Whately’s, who lately offered a proposal of her sister for a wife for my brother Tom.
+1661-08-21 09:06   To Mrs. Terry, a daughter of Mr. Whately’s, who lately offered a proposal of her sister for a wife for my brother Tom, and with her we discoursed about and agreed to go to her mother this afternoon to speak with her.
+
 
 1661-08-20 17:04   At the office in the morning and all the afternoon at home to put my papers in order.
 
 1661-08-20 11:41   We come to some agreement with Sir R. Ford for his house to be added to the office to enlarge our quarters.
 
+
 1661-08-19 21:30   This day my aunt Fenner dyed.
 
-1661-08-19 19:52   My Lady do keep the children at home, and lets them not come any more hither at present, which a little troubles me to lose their company.
+1661-08-19 19:52 r So walked home, and there I found that my Lady do keep the children at home, and lets them not come any more hither at present, which a little troubles me to lose their company.
 
-1661-08-19 19:39   So homewards, but when we came to look for our coach we found it gone, so we were fain to walk home afoot and saved our money.
+1661-08-19 19:39 r So we to him and examined and sealed the thing, and so homewards, but when we came to look for our coach we found it gone, so we were fain to walk home afoot and saved our money.
 
-1661-08-19 17:55   I hired a coach and went to Chelsy, and there at an alehouse sat and drank and past the time till my Lord Privy Seal came to his house.
+1661-08-19 17:55 r Here I staid till at last, hearing that my Lord Privy Seal had not the seal here, Mr. Moore and I hired a coach and went to Chelsy, and there at an alehouse sat and drank and past the time till my Lord Privy Seal came to his house.
 
-1661-08-19 14:58   In comes the King in a plain common riding-suit and velvet cap, in which he seemed a very ordinary man to one that had not known him.
+1661-08-19 14:58 r And while I am waiting there, in comes the King in a plain common riding-suit and velvet cap, in which he seemed a very ordinary man to one that had not known him.
 
-1661-08-19 14:30   I found a thing of my Lord Chancellor’s to be sealed, and so I am forced to go to Worcester House, where severall Lords are met in Council.
+1661-08-19 14:30   I am sent for to the Privy Seal, and there I found a thing of my Lord Chancellor’s to be sealed this afternoon, and so I am forced to go to Worcester House, where severall Lords are met in Council this afternoon.
 
-1661-08-19 12:04   The children are sent for by their mother my Lady Sandwich to dinner, and my wife goes along with them by coach.
+1661-08-19 12:04   The children are sent for by their mother my Lady Sandwich to dinner, and my wife goes along with them by coach, and she to my father’s and dines there.
 
-1661-08-18 21:37   Fell to read in “Hooker’s Ecclesiastical Polity,” which Mr. Moore did give me; which I shall read with great pains and love for his sake.
+
+1661-08-18 21:37   Fell to read in “Hooker’s Ecclesiastical Polity,” which Mr. Moore did give me last Wednesday very handsomely bound; and which I shall read with great pains and love for his sake.
 
 1661-08-18 18:48   To walk in St. James’s Park, and saw great variety of fowl which I never saw before and so home.
 
-1661-08-18 15:05   I took my wife and Mr. Sidney to my Lady to see my Lord Hinchingbroke, who is now well again, and sits up and walks about his chamber.
+1661-08-18 15:05   I took my wife and Mr. Sidney to my Lady to see my Lord Hinchingbroke, who is now pretty well again, and sits up and walks about his chamber.
 
-1661-08-17 19:29   Troubled in mind that I cannot bring myself to mind my business, but to be so much in love of plays.
 
-1661-08-17 16:54   Captain Ferrers and I to the Opera, and saw “The Witts”, which I like exceedingly. The Queen of Bohemia was here, brought by my Lord Craven.
+1661-08-17 21:40   We have been at a great loss a great while for a vessel that I sent about a month ago with, things of my Lord’s to Lynn, and cannot till now hear of them, but now we are told that they are put into Soale Bay, but to what purpose I know not.
 
-1661-08-17 11:05   I walked with Ned Pickering into St. James’s Park (where I had not been a great while), and there found great and very noble alterations.
+1661-08-17 19:29 r Troubled in mind that I cannot bring myself to mind my business, but to be so much in love of plays.
+
+1661-08-17 17:08   Captain Ferrers and I to the Opera, and saw “The Witts” again, which I like exceedingly. The Queen of Bohemia was here, brought by my Lord Craven.
+
+1661-08-17 11:20 r In our discourse, he was very forward to complain and to speak loud of the lewdness and beggary of the Court, which I am sorry to hear, and which I am afeard will bring all to ruin again.
+
+1661-08-17 11:05   Met with Ned Pickering, and walked with him into St. James’s Park (where I had not been a great while), and there found great and very noble alterations.
+
 
 1661-08-16 22:52   I understand my Aunt Fenner is upon the point of death.
 
-1661-08-16 11:46   Among others, the famous Tom Fuller is dead of it; and Dr. Nichols, Dean of Paul’s; and my Lord General Monk is very dangerously ill.
+1661-08-16 11:48 r It is such a sickly time both in City and country every where (of a sort of fever), that never was heard of almost, unless it was in a plague-time. The famous Tom Fuller is dead of it; and Dr. Nichols, Dean of Paul’s; and my Lord General Monk is very dangerously ill.
 
-1661-08-16 11:44   It is such a sickly time both in City and country (of a sort of fever), that never was heard of almost, unless it was in a plague-time.
+1661-08-16 11:42   At the office all the morning, though little to be done; because all our clerks are gone to the buriall of Tom Whitton, one of the Controller’s clerks, a very ingenious, and a likely young man to live, as any in the Office.
 
-1661-08-16 10:32   All our clerks are gone to the buriall of Tom Whitton, a very ingenious, and a likely young man to live, as any in the Office.
 
-1661-08-15 21:55   I followed Sir W. Pen to the Dolphin, and there we sat awhile, and so home after we had made shift to fuddle Mr. Falconer of Woolwich.
+1661-08-15 21:55 r I followed Sir W. Penn to the Dolphin, where Sir W. Batten was, and there we sat awhile, and so home after we had made shift to fuddle Mr. Falconer of Woolwich.
 
-1661-08-15 17:01   “The Witts” is a most excellent play, and admirable scenes.
+1661-08-15 17:01   To the Opera, which begins again to-day with “The Witts,” never acted yet with scenes; and the King and Duke and Duchess were there (who dined today with Sir H. Finch, reader at the Temple, in great state); and indeed it is a most excellent play, and admirable scenes.
 
-1661-08-15 14:50   To the Opera, which begins again to-day with “The Witts,” never acted yet with scenes; and the King and Duke and Duchess were there.
+1661-08-15 13:00   I walked to the Wardrobe and dined with my Lady, and there told her, of my Lord’s sickness (of which though it hath been the town-talk this fortnight, she had heard nothing) and recovery, of which she was glad, though hardly persuaded of the latter.
 
-1661-08-15 13:00   I told my Lady of my Lord’s sickness (of which though it hath been the town-talk, she had heard nothing) and recovery of which she was glad.
 
-1661-08-14 21:10   A letter from Mr Creed that tells me that my Lord is rid of his pain (which was wind got into the muscles of his right side) and his feaver.
+1661-08-14 21:10   At home I found a letter from Mr. Creed of the 15th of July last, that tells me that my Lord is rid of his pain (which was wind got into the muscles of his right side) and his feaver, and is now in hopes to go aboard in a day or two, which do give me mighty great comfort.
 
 1661-08-14 13:45   I went to my Lady’s and dined with her, and found my Lord Hinchingbroke somewhat better.
 
-1661-08-14 10:30   Sir W. Batten and Sir W. Pen and I waited upon the Duke of York, to give him an account of the condition of the Navy for lack of money.
+1661-08-14 09:30   Sir W. Batten and Sir W. Pen and I waited upon the Duke of York in his chamber, to give him an account of the condition of the Navy for lack of money. He is much troubled at it, and will speak to the King and Council of it this morning.
 
-1661-08-13 21:22   I home, and there found my Lady’s three sons come, of which I am glad that I am in condition to do her and my Lord any service in this kind.
 
-1661-08-13 15:15   We had like to have come to some high words between my mother and me, who is become a very simple woman.
+1661-08-13 21:22   I home, and there found my Lady’s three sons come, of which I am glad that I am in condition to do her and my Lord any service in this kind, but my mind is yet very much troubled about my Lord of Sandwich’s health, which I am afeard of.
 
-1661-08-13 15:09   Pall being there I spoke to my father about my intention not to keep her longer for such and such reasons, which troubled him and me also.
+1661-08-13 15:09 r After that Pall being there I spoke to my father about my intention not to keep her longer for such and such reasons, which troubled him and me also, and had like to have come to some high words between my mother and me, who is become a very simple woman.
 
-1661-08-13 14:49   I went to my father’s, where I found him within, and went up to him, and there found him settling his papers against his removal.
+1661-08-13 14:49   I went to my father’s, where I found him within, and went up to him, and there found him settling his papers against his removal, and I took some old papers of difference between me and my wife and took them away.
 
-1661-08-13 13:27   My Lady intends to send her other three sons, Sidney, Oliver, and John, to my house, for fear of the small-pox.
+1661-08-13 13:27 r So my Lady intends to send her other three sons, Sidney, Oliver, and John, to my house, for fear of the small-pox.
 
 1661-08-13 13:04   To the Wardrobe to dinner, where I met my wife, and found my young Lord very ill.
 
-1661-08-12 18:25   My heart full of trouble for my Lord Sandwich’s sickness, whom we are now confirmed is sick ashore at Alicante.
 
-1661-08-12 16:40   I went to my Lord Hinchingbroke and there found him very ill, and in great fear of the smallpox.
+1661-08-12 19:55 r I supped with my Lady, and did consult about him, but we find it best to let him lie where he do; and so I went home with my heart full of trouble for my Lord Hinchinabroke’s sickness, and more for my Lord Sandwich’s himself, whom we are now confirmed is sick ashore at Alicante.
+
+1661-08-12 18:40 r So I went thither and there found him very ill, and in great fear of the smallpox.
 
 1661-08-12 15:21   I had notice that my Lord Hinchingbroke is fallen ill, which I fear is with the fruit that I did give them at my house.
 
-1661-08-11 18:33   I met with Ned Pickering, who told me what a great match of hunting of a stagg the King had yesterday.
 
-1661-08-11 15:05   To Clerkenwell Church, only to see the two fayre Botelers. I had my full view of them both, but I am out of conceit now with them.
+1661-08-11 18:33   To Graye’s-Inn walks, and there staid a good while; where I met with Ned Pickering, who told me what a great match of hunting of a stagg the King had yesterday; and how the King tired all their horses, and come home with not above two or three able to keep pace with him.
 
-1661-08-10 17:36   To the Theatre, and saw “The merry Devill of Edmunton,” which is a very merry play, the first time I ever saw it, which pleased me well.
+1661-08-11 15:08 r But I am out of conceit now with them, Colonel Dillon being come back from Ireland again, and do still court them, and comes to church with them, which makes me think they are not honest.
 
-1661-08-10 10:52   My father and I did agree with my uncle Wight to meet with my uncle Thomas and read over the Captain’s will for their satisfaction.
+1661-08-11 15:05   To Clerkenwell Church, only to see the two fayre Botelers; and I happened to be placed in the pew where they afterwards came to sit, but the pew by their coming being too full, I went out into the next, and there sat, and had my full view of them both.
 
-1661-08-10 09:42   Came the maid that my wife hath hired for a chamber maid. She is very ugly, so that I cannot care for her, but otherwise seems very good.
 
-1661-08-09 22:20   So to bed.
+1661-08-10 17:36 r I showed them “The merry Devill of Edmunton,” which is a very merry play, the first time I ever saw it, which pleased me well.
 
-1661-08-09 21:39   I hear by my wife that Mrs. Hater is not yet delivered, but continues in her pains.
+1661-08-10 14:20   I went to my Lady’s and dined with her, and after dinner took the two young gentlemen and the two ladies and carried them and Captain Ferrers to the Theatre.
 
-1661-08-09 20:45   I took coach to my father’s, where I found him come home this day from Brampton (as I expected) very well.
+1661-08-10 10:52   Came my father to my house, and so he and I went and found out my uncle Wight at the Coffee House, and there did agree with him to meet the next week with my uncle Thomas and read over the Captain’s will before them both for their satisfaction.
 
-1661-08-09 18:19   Mons. Eschar and I took some wine and went to la belle Pierce, who we find big with child, and a pretty lady, one Mrs. Clifford, with her.
+1661-08-10 09:42   Came the maid that my wife hath lately hired for a chamber maid. She is very ugly, so that I cannot care for her, but otherwise she seems very good.
 
-1661-08-09 17:03   My Lord Privy Seal caused Mr. Moore to read over the bills, and all ended well. So that I see the Lyon is not so fierce as he is painted.
 
-1661-08-09 16:16   I to White Hall, where comes my Lord Privy Seal, and so we went up to his chamber over the gate at White Hall.
+1661-08-09 22:30   So to bed.
 
-1661-08-09 13:47   News is brought by Mr. Hater that his wife is now falling into labour, so he is come for my wife, who presently went with him.
+1661-08-09 22:15 r After some discourse about business and it being very late I took coach again home, where I hear by my wife that Mrs. Hater is not yet delivered, but continues in her pains.
 
-1661-08-09 09:58   I did promise to be a friend to the son-in-law’s family if he should die, which was all he desired of me, but I do believe he will recover.
+1661-08-09 20:45 r I took coach to my father’s, where I found him come home this day from Brampton (as I expected) very well.
 
-1661-08-09 09:21   Word is brought me by a son-in-law of Mr. Pierces that his father is a dying and that he desires that I would come to him before he dies.
+1661-08-09 18:19   Mons. Eschar and I took some wine with us and went to visit la belle Pierce, who we find very big with child, and a pretty lady, one Mrs. Clifford, with her, where we staid and were extraordinary merry.
 
-1661-08-08 21:38   Discoursing of musique Mons. Eschar spoke so much against the English and in praise of the French that made Mr Mage mad and so he went away.
+1661-08-09 17:03 r I told him none; but that I am sworn my Lord’s deputy by both of the Secretarys, which did satisfy him. So he caused Mr. Moore to read over all the bills as is the manner, and all ended very well. So that I see the Lyon is not so fierce as he is painted.
+
+1661-08-09 16:16   I to White Hall, where comes my Lord Privy Seal, and so we went up to his chamber over the gate at White Hall, where he asked me what deputacon I had from My Lord.
+
+1661-08-09 13:47   I dined at home, and having dined news is brought by Mr. Hater that his wife is now falling into labour, so he is come for my wife, who presently went with him.
+
+1661-08-09 09:58 r So I rose from the table and went, where I found him not so ill as I thought that he had been ill. So I did promise to be a friend to his wife and family if he should die, which was all he desired of me, but I do believe he will recover.
+
+1661-08-09 09:21   To the office, where word is brought me by a son-in-law of Mr. Pierces; the purser, that his father is a dying and that he desires that I would come to him before he dies.
+
+
+1661-08-08 21:38 r Here I met with Mr. Mage, and discoursing of musique Mons. Eschar spoke so much against the English and in praise of the French that made him mad, and so he went away.
 
 1661-08-08 20:05   I took Mons. Eschar and Mr. Moore and Dr. Pierce’s brother (the souldier) to the tavern next the Savoy, and there staid and drank with them.
 
-1661-08-08 17:10   To the Privy Seal; but my Lord comes not, which made me mad and gives all the world reason to talk of his delaying of business.
+1661-08-08 17:30 r Back again to the Privy Seal; but my Lord comes not all the afternoon, which made me mad and gives all the world reason to talk of his delaying of business, as well as of his severity and ill using of the Clerks of the Privy Seal.
 
-1661-08-07 21:04   To-morrow is a Seal day at the Privy Seal, and it being my month, I am to wait upon my Lord Roberts, Lord Privy Seal, at the Seal.
+1661-08-08 14:02 r Mr. Moore and I to the Wardrobe to dinner, where my Lady and all merry and well.
 
-1661-08-07 17:52   With much ado got to London, where I found all well at home and at my father’s and my Lady’s, but no news yet from my Lord where he is.
+1661-08-08 11:58   Early in the morning to Whitehall, but my Lord Privy Seal came not all the morning.
 
-1661-08-07 09:30   At Hatfield we walked into the great house; and I would fain have stolen a pretty dog that followed me, but I could not, which troubled me.
+
+1661-08-07 21:04   I met with Mr. Moore, who told me at what a loss he was for me, for tomorrow is a Seal day at the Privy Seal, and it being my month, I am to wait upon my Lord Roberts, Lord Privy Seal, at the Seal.
+
+1661-08-07 17:52 r To horse again, and by degrees with much ado got to London, where I found all well at home and at my father’s and my Lady’s, but no news yet from my Lord where he is.
+
+1661-08-07 09:30 r At Hatfield we bayted and walked into the great house through all the courts; and I would fain have stolen a pretty dog that followed me, but I could not, which troubled me.
+
+1661-08-07 09:05 r As I was eating my breakfast I saw a man riding by that rode a little way upon the road with me last night; and he being going with venison in his pan-yards to London, I called him in and did give him his breakfast with me, and so we went together all the way.
 
 1661-08-07 04:02   Called up at three o’clock, and was a-horseback by four.
 
-1661-08-06 21:04   I went to see the church, but I find that both here, and every where else, the Quakers do still continue, and rather grow than lessen.
 
-1661-08-06 20:30   The landlady being a pretty woman, but I durst not take notice of her, her husband being there.
+1661-08-06 21:04 r I went to see the church, which is a very handsome church, but I find that both here, and every where else that I come, the Quakers do still continue, and rather grow than lessen.
 
-1661-08-06 20:25   Took horse for London, and with much ado, the ways being very bad, got to Baldwick, and there lay and had a good supper by myself.
+1661-08-06 20:30 r The landlady being a pretty woman, but I durst not take notice of her, her husband being there.
 
-1661-08-06 13:40   Tom Trice and I to Brampton, where I home to my father who could discern that I had been drinking, which he did never see or hear of before.
+1661-08-06 20:25 r Went with him to Gorum’s, and there talked with Tom Trice, and then went and took horse for London, and with much ado, the ways being very bad, got to Baldwick, and there lay and had a good supper by myself.
 
-1661-08-06 12:03   Took horse and rode to Huntingdon, where I staid with Thos. Trice and Mr. Philips drinking.
+1661-08-06 13:40 r Tom Trice and I to Brampton, where he to Goody Gorum’s and I home to my father, who could discern that I had been drinking, which he did never see or hear of before, so I eat a bit of dinner.
 
-1661-08-05 22:53   Back again to Brampton and after supper to bed, being now very quiet in the house, which is a content to us.
+1661-08-06 12:03   Up early and went to Mr. Phillips, but lost my labour, he lying at Huntingdon last night, so I went back again and took horse and rode thither, where I staid with Thos. Trice and Mr. Philips drinking.
 
-1661-08-05 18:53   To Graveley, and there at an alehouse met with Chandler and Jackson with whom I had a great deal of discourse, much to my satisfaction.
 
-1661-08-05 14:24   Rode to Yelling, to my cozen Nightingale’s, who hath a pretty house here, and did learn of her all she could tell me concerning my business.
+1661-08-05 22:53 r Hence back again to Brampton and after supper to bed, being now very quiet in the house, which is a content to us.
 
-1661-08-05 11:42   To Brampton, and there found my father well, and my aunt gone from the house, which I am glad of, though it costs us a great deal of money.
+1661-08-05 18:53 r Hence to Graveley, and there at an alehouse met with Chandler and Jackson (one of my tenants for Cotton closes) and another with whom I had a great deal of discourse, much to my satisfaction.
 
-1661-08-05 08:06   At Stanton borrowed a coat of a man for 6d, and so he rode all the way, poor man, without any.
+1661-08-05 14:24 r After dinner took horse and rode to Yelling, to my cozen Nightingale’s, who hath a pretty house here, and did learn of her all she could tell me concerning my business, and has given me some light by her discourse how I may get a surrender made for Graveley lands.
 
-1661-08-05 08:04   Early to Huntingdon, but was fain to stay a great while at Stanton because of the rain.
+1661-08-05 11:42 r Staid at Huntingdon for a little, but the judges are not come hither: so I went to Brampton, and there found my father very well, and my aunt gone from the house, which I am glad of, though it costs us a great deal of money, viz. 10l.
 
-1661-08-04 19:32   The young men in Parliament are the most prophane swearing fellows that ever Roger Pepys heard in his life.
+1661-08-05 08:06   Early to Huntingdon, but was fain to stay a great while at Stanton because of the rain, and there borrowed a coat of a man for 6d., and so he rode all the way, poor man, without any.
 
-1661-08-04 19:27   Roger Pepys told me how basely things have been carried in Parliament by the young men, that did oppose all things moved by serious men.
 
-1661-08-04 11:38   To church, and had a good sermon, and my uncle Talbot went with us and at our coming in the country-people all rose with so much reverence.
+1661-08-04 19:32 r That they are the most prophane swearing fellows that ever he heard in his life, which makes him think that they will spoil all, and bring things into a warr again if they can.
 
-1661-08-04 08:42   Discoursed about my uncle’s will. Roger Pepys tells me I shall meet with a great deal of trouble in it. However, he told me what to do.
+1661-08-04 19:27 r Roger Pepys (who I find a very sober man, and one whom I do now honour more than ever before for this discourse sake only) told me how basely things have been carried in Parliament by the young men, that did labour to oppose all things that were moved by serious men.
+
+1661-08-04 11:38 r To church, and had a good plain sermon, and my uncle Talbot went with us and at our coming in the country-people all rose with so much reverence; and when the parson begins, he begins “Right worshipfull and dearly beloved” to us.
+
+1661-08-04 08:42 r Discoursed at large about the business I came for, that is, about my uncle’s will, in which he did give me good satisfaction, but tells me I shall meet with a great deal of trouble in it. However, in all things he told me what I am to expect and what to do.
 
 1661-08-04 07:50   Got up, and by and by walked into the orchard with my cozen Roger, and there plucked some fruit.
 
-1661-08-03 22:57   I rode with Roger Pepys and his two brothers to Impington, and there with great respect was led up by them to the best chamber in the house.
 
-1661-08-03 21:25   They tell me how high the old doctors are in the University over those they found there; for which I am very sorry.
+1661-08-03 22:57 r I took horse, and rode with Roger Pepys and his two brothers to Impington, and there with great respect was led up by them to the best chamber in the house.
 
-1661-08-03 21:15   I went to the Rose, and there with Mr. Pechell, Sanchy, and others, sat and drank till night and were very merry.
+1661-08-03 21:25 r Only they tell me how high the old doctors are in the University over those they found there, though a great deal better scholars than themselves; for which I am very sorry, and, above all, Dr. Gunning.
 
-1661-08-03 12:40   I went to the Castle Hill, where the judges were at the Assizes; and I staid till Roger Pepys rose and went with him.
+1661-08-03 21:15 r I went to the Rose, and there with Mr. Pechell, Sanchy, and others, sat and drank till night and were very merry.
 
-1661-08-03 12:02   I met with a letter-carrier of Cambridge, with whom I rode all the way to Cambridge, my horse being tired, and myself very wet with rain.
+1661-08-03 13:40 r I went to the Castle Hill, where the judges were at the Assizes; and I staid till Roger Pepys rose and went with him, and dined with his brother, the Doctor, and Claxton at Trinity Hall.
 
-1661-08-03 09:10   I got up early and got to Barkway, where I staid and drank.
+1661-08-03 12:02 r There met with a letter-carrier of Cambridge, with whom I rode all the way to Cambridge, my horse being tired, and myself very wet with rain.
 
-1661-08-02 20:04   I rode to Ware, having much discourse with a fellmonger, a Quaker, who told me what a wicked man he had been till within this two years.
+1661-08-03 09:10 r Got up early and got to Barkway, where I staid and drank.
 
-1661-08-02 14:57   After dinner my brother Tom came to me and then I made myself ready to get a-horseback for Cambridge.
 
-1661-08-01 14:42   I hear how nurse’s husband has spoken of my Lady Batten how she was such a man’s whore and indeed I do believe that the story is true.
+1661-08-02 20:04 r I set out and rode to Ware, this night, in the way having much discourse with a fellmonger, a Quaker, who told me what a wicked man he had been all his life-time till within this two years.
 
-1661-08-01 13:53   We had a venison pasty, brought hot from London, and were very merry.
+1661-08-02 14:57   Dr. Thos. Pepys dined with me, and after dinner my brother Tom came to me and then I made myself ready to get a-horseback for Cambridge.
 
-1661-08-01 10:32   Sir Williams both, and my wife and I and Mrs. Margarett Pen went by coach to Walthamstow, a-gossiping to Mrs. Browne.
+
+1661-08-01 14:42 r Only I hear how nurse’s husband has spoken strangely of my Lady Batten how she was such a man’s whore, who indeed is known to leave her her estate, which we would fain have reconciled today, but could not and indeed I do believe that the story is true.
+
+1661-08-01 13:53 r Here we had a venison pasty, brought hot from London, and were very merry.
+
+1661-08-01 10:32   Sir Williams both, and my wife and I and Mrs. Margarett Pen (this first time that I have seen her since she came from Ireland) went by coach to Walthamstow, a-gossiping to Mrs. Browne, where I did give her six silver spoons for her boy.
