@@ -1,4 +1,5 @@
-YYYY-MM-DD HH:MM   12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+YYYY-MM-DD HH:MM r 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+
 
 1661-09-30 21:32   We are busy about the business of sending forces to Tangier, and the fleet to my Lord of Sandwich, who is at Lisbon to bring over the Queen.
 
@@ -24,23 +25,29 @@ YYYY-MM-DD HH:MM   1234567890123456789012345678901234567890123456789012345678901
 
 1661-09-30 06:55   Up by moon-shine, to White Hall, to meet Mr. Moore, but he not being come as appointed, I went to the Red Lyon to drink my morning draft.
 
+
 1661-09-29 22:12   To bed, without prayers: I durst not read prayers, for fear of being perceived by my servants in what case I was.
 
 1661-09-29 20:42   At dinner and supper I drink I know not how, of my own accord, so much wine, that I was even almost foxed.
 
+
 1661-09-28 17:58   Sir W. Pen and his daughter and I and my wife to the Theatre, and saw “Father’s own Son,” a very good play and the first time I ever saw it.
+
 
 1661-09-27 20:32   After my wife had put up some grapes for to be sent to the King, we took coach home, where we found a hampire of millons sent to me also.
 
 1661-09-27 16:16   We found Captain Country come with some grapes and millons from my Lord at Lisbon, the first that ever I saw any.
 
+
 1661-09-26 17:27   Abroad with my wife by coach to the Theatre to shew her “King and no King,” it being very well done.
+
 
 1661-09-25 17:38   Much against my will, yet such is the power of the Devil over me I could not refuse it, to the Theatre and saw “The Merry Wives of Windsor.”
 
 1661-09-25 13:35   The Queen of England (as she is now owned and called) I hear doth keep open Court, and distinct at Lisbon.
 
 1661-09-25 10:55   Sir R. Slingsby and I in his coach through the Mewes, which is the way that all coaches are forced to go because of a stop at Charing Cross.
+
 
 1661-09-24 16:28   We got home very timely and well, and finding there all well, and letters from sea, that speak of my Lord’s being well.
 
@@ -50,6 +57,7 @@ YYYY-MM-DD HH:MM   1234567890123456789012345678901234567890123456789012345678901
 
 1661-09-24 06:07   We had two beds and so lay single, and of all the nights that ever I slept in my life I never did pass a night with more epicurism of sleep.
 
+
 1661-09-23 20:49   Away to Stevenage, and staid till a showre was over, and so rode easily to Welling, where we supped well.
 
 1661-09-23 13:58   To Baldwick; where there was a fair, and we put in and eat a mouthfull of pork, which they made us pay 14d. for, which vexed us much.
@@ -58,11 +66,14 @@ YYYY-MM-DD HH:MM   1234567890123456789012345678901234567890123456789012345678901
 
 1661-09-23 09:45   Sad to hear my father and mother wrangle as they used to do in London, of which I took notice to both.
 
+
 1661-09-22 11:00   Before church time walking with my father in the garden contriving.
+
 
 1661-09-21 16:05   To Hinchingbroke where Mr Barnwell shewed me the condition of the house, which is yet very backward and I fear will be dark in the cloyster.
 
 1661-09-21 12:04   All the morning with my father, going up and down the house and garden with my father and my wife, contriving some alterations.
+
 
 1661-09-20 14:34   The father paid a year and a half for his fine, and the son half a year, in all 48l., besides about 3l. fees.
 
@@ -70,11 +81,13 @@ YYYY-MM-DD HH:MM   1234567890123456789012345678901234567890123456789012345678901
 
 1661-09-20 09:18   Will Stankes and I set out in the morning betimes for Gravely, where to an ale-house and drank.
 
+
 1661-09-19 15:15   We went back to Cambridge, and there at the Beare we had some herrings, we and my brother, and after dinner set out for Brampton.
 
 1661-09-19 11:42   With my wife went and rode through Sturbridge but the fair was almost done.
 
 1661-09-19 09:26   We all horsed away to Cambridge, where my father and I, having left my wife at the Beare with my brother, went to Mr. Sedgewicke.
+
 
 1661-09-18 21:49   By and by in comes my father, and we supped and talked and were merry, but being weary and sleepy my wife and I to bed.
 
@@ -86,11 +99,13 @@ YYYY-MM-DD HH:MM   1234567890123456789012345678901234567890123456789012345678901
 
 1661-09-18 10:28   The way about Puckridge very bad, and my wife, in the very last dirty place of all, got a fall, but no hurt, though some dirt.
 
+
 1661-09-17 22:05   The mare at one time falling my wife got a fall, but no harm; so we got to Ware, and there supped, and to bed very merry and pleasant.
 
 1661-09-17 15:33   We took coach to the end of the town towards Kingsland, and there got upon my horse and my wife upon her pretty mare that I hired for her.
 
 1661-09-17 07:03   Telling my wife of my journey, and she with a few words got me to hire her a horse to go along with me.
+
 
 1661-09-16 21:55   Found letters from my father informing me of the Court and that I must come down and meet him at Impington which I presently resolved to do.
 
@@ -100,41 +115,54 @@ YYYY-MM-DD HH:MM   1234567890123456789012345678901234567890123456789012345678901
 
 1661-09-16 10:15   Busy at home to take in my part of our freight of Coles, which Sir G. Carteret, Sir R. Slingsby, and myself sent for, which is 10 Chaldron.
 
-1661-09-15 16:33   To church with the corps and had service read at the grave, and back again with Pegg Kite who will be a troublesome carrion to us executors.
 
-1661-09-15 15:48   To the buriall of my aunt Kite, where besides us and my uncle Fenner’s family, there was none of any quality, but poor rascally people.
+1661-09-15 16:43 r So we went to church with the corps, and there had service read at the grave, and back again with Pegg Kite who will be, I doubt, a troublesome carrion to us executors; but if she will not be ruled, I shall fling up my executorship.
+
+1661-09-15 15:48 r To the buriall of my aunt Kite, where besides us and my uncle Fenner’s family, there was none of any quality, but poor rascally people.
 
 1661-09-15 10:33   To my aunt Kite’s to help my uncle Fenner to put things in order against anon for the buriall.
 
-1661-09-14 13:04   Comes Sir R. Slingsby and his lady and a great deal of company to take my wife and I out by barge to shew them the King’s and Duke’s yachts.
 
-1661-09-13 20:07   My wife and I went to old George’s, and there eat as much as we would of a hot shoulder of mutton, and so to boat and home.
+1661-09-14 15:13 r So I was forced to leave my uncle and brother Tom at dinner and go forth with them, and we had great pleasure, seeing all four yachts, viz., these two and the two Dutch ones.
+
+1661-09-14 12:40   Before we had dined comes Sir R. Slingsby and his lady, and a great deal of company, to take my wife and I out by barge to shew them the King’s and Duke’s yachts.
+
+
+1661-09-13 22:15   So to bed, my mind very full of business and trouble.
+
+1661-09-13 20:07 r We went to old George’s, and there eat as much as we would of a hot shoulder of mutton, and so to boat again and home.
+
+1661-09-13 13:40   To the Wardrobe, where I found my wife, and thence she and I to the water to spend the afternoon in pleasure.
 
 1661-09-13 09:43   I was sent for by my uncle Fenner to come and advise about the buriall of my aunt, the butcher, who died yesterday.
 
+
 1661-09-12 22:00   By link home and called at Sir W. Batten’s, and there hear that Sir W. Pen do take our jest of the tankard very ill, which I am sorry for.
 
-1661-09-12 12:03   I saw the King’s new pleasure-boat that is come now for the King to take pleasure in; and also two Gundaloes which are very rich and fine.
+1661-09-12 12:03   To my Lady’s to dinner at the Wardrobe; and in my way upon the Thames, I saw the King’s new pleasure-boat that is come now for the King to take pleasure in above bridge; and also two Gundaloes that are lately brought, which are very rich and fine.
+
 
 1661-09-11 21:27   My wife was with her brother to see his mistress today, and says she is young, rich, and handsome, but not likely for him to get.
 
-1661-09-11 18:30   I went home with my mind troubled for my going thither, after my swearing to my wife that I would never go to a play without her.
+1661-09-11 18:30 r And so after it was done went home with my mind troubled for my going thither, after my swearing to my wife that I would never go to a play without her. What with this and things going so cross to me as to matters of my uncle’s estate, makes me very much troubled in my mind.
 
-1661-09-11 17:55   I, against my own mind and resolution, could not forbear to go in which did make the play seem a burthen to me and I took no pleasure in it.
+1661-09-11 17:55 r So I, against my own mind and resolution, could not forbear to go in, which did make the play seem a burthen to me, and I took no pleasure at all in it.
 
 1661-09-11 15:09   Dr. Williams and I walking through Lincoln’s Fields observed at the Opera a new play, “Twelfth Night” was acted there, and the King there.
 
-1661-09-11 08:24   The cats shall be quite covered; that if but the tip of the tail hangs out the dog will take up the cat again, and dig the hole deeper.
+1661-09-11 13:03   Home to my house to dinner, where I found my wife’s brother, Balty, as fine as hands could make him, and his servant, a Frenchman, to wait on him, and come to have my wife to visit a young lady which he is a servant to, and have hope to trepan and get for his wife.
 
-1661-09-11 08:22   Dr. Williams did show me how a dog that he hath do kill all the cats that come thither to kill his pigeons, and do afterwards bury them.
+1661-09-11 08:09 r And do it with so much care that they shall be quite covered; that if but the tip of the tail hangs out he will take up the cat again, and dig the hole deeper. Which is very strange; and he tells me that he do believe that he hath killed above 100 cats.
 
-1661-09-11 08:07   To Dr. Williams, who did carry me into his garden, where he hath abundance of grapes.
+1661-09-11 08:07   To Dr. Williams, who did carry me into his garden, where he hath abundance of grapes; and did show me how a dog that he hath do kill all the cats that come thither to kill his pigeons, and do afterwards bury them.
+
 
 1661-09-10 21:55   I found Mary, my cozen W. Joyce’s maid, come to me to be my cook maid, and so my house is full again.
 
-1661-09-10 21:42   Bought a link and carried it till I met one that would light me home for the link. So he light me home with his, and I did give him mine.
+1661-09-10 21:42   To the Wardrobe to see my Lady, and after supper with the young ladies, bought a link and carried it myself till I met one that would light me home for the link. So he light me home with his own, and then I did give him mine.
 
-1661-09-10 14:32   My wife into Wood Street to buy a chest, and thence to buy other things at my uncle Fenner’s (though by reason of rain we had ill walking).
+1661-09-10 14:32   At the office all the morn, dined at home; then my wife into Wood Street to buy a chest, and thence to buy other things at my uncle Fenner’s (though by reason of rain we had ill walking).
+
 
 1661-09-09 22:14   I believe when Sir W. Pen do come to understand it he will be angry, he has so talked of the business himself and the letter up and down.
 
@@ -150,66 +178,84 @@ YYYY-MM-DD HH:MM   1234567890123456789012345678901234567890123456789012345678901
 
 1661-09-09 11:34   To the King’s Privy Kitchen, and Mr. Sayres, the Master Cook, took us into the wine cellar where we were merry, and I drank too much wine.
 
-1661-09-08 21:33   Upon the whole I do find myself, by what I can yet see, worth near 600l., for which God be blessed, which put me into great comfort.
 
-1661-09-08 18:22   It always was, and I fear will ever be, my foible that after I am got behind-hand with business, I am hard to set to it again to recover it.
+1661-09-08 21:33   I begun to look over my accounts and upon the whole I do find myself, by what I can yet see, worth near 600l., for which God be blessed, which put me into great comfort.
 
-1661-09-08 18:10   Up to my chamber all alone, and troubled in mind to think how much of late I have addicted myself to expense and pleasure.
+1661-09-08 18:22 r I pray God give me grace to begin now to look after my business, but it always was, and I fear will ever be, my foible that after I am once got behind-hand with business, I am hard to set to it again to recover it.
 
-1661-09-08 16:24   Found our new maid Doll asleep, that she could not hear to let us in. We were fain to send the boy in at a window to open the door to us.
+1661-09-08 18:10   So up to my chamber all alone, and troubled in mind to think how much of late I have addicted myself to expense and pleasure, that now I can hardly reclaim myself to look after my great business of settling Gravely business, until now almost too late.
 
-1661-09-07 20:54   “Bartholomew Fayre” had not been acted these forty years, it being so satyricall against Puritanism, they durst not till now.
+1661-09-08 16:24   Coming home found our new maid Doll asleep, that she could not hear to let us in, so that we were fain to send the boy in at a window to open the door to us.
 
-1661-09-07 20:45   Here was “Bartholomew Fayre,” with the puppet-show, acted, but I do never a whit like it the better for the puppets, but rather the worse.
 
-1661-09-07 16:45   To the Theatre, where we seated ourselves close by the King, and Duke of York, and Madame Palmer; I can never enough admire her beauty.
+1661-09-07 21:40 r Thence home, it being by reason of our staying a great while for the King’s coming, and the length of the play, near nine o’clock before it was done, and so home, and still in discontent with my wife, to bed.
 
-1661-09-06 22:14   I home, where my wife had been long come home, but I seemed very angry, and did not show her any countenance, neither before nor in bed.
+1661-09-07 20:47 r But I do never a whit like it the better for the puppets, but rather the worse.
 
-1661-09-06 17:38   My mind being for my wife’s going abroad much troubled and unfit for business, I went to the Theatre, and saw “Elder Brother” ill acted.
+1661-09-07 20:45 r And here was “Bartholomew Fayre,” with the puppet-show, acted today, which had not been these forty years (it being so satyricall against Puritanism, they durst not till now, which is strange they should already dare to do it, and the King do countenance it).
 
-1661-09-06 10:22   We found my aunt Kite not like to live as we think, and she told us that if she should die she should give all she had to her daughter.
+1661-09-07 16:45   To the Theatre, where we seated ourselves close by the King, and Duke of York, and Madame Palmer, which was great content; and, indeed, I can never enough admire her beauty.
 
-1661-09-06 09:32   My wife holding her resolution to go, and though there could not be much hurt in it, yet my own jealousy put a hundred things into my mind.
 
-1661-09-05 20:33   My wife and I to the fair, and I showed her the Italians dancing the ropes, and the women that do strange tumbling tricks.
+1661-09-06 22:14   I home, where my wife had been long come home, but I seemed very angry, as indeed I am, and did not show her any countenance, neither before nor in bed, and so slept and rose discontented.
 
-1661-09-05 14:20   My aunt Kite is sick ready to die and sends for my uncle and me to come to take charge of things, and to be entrusted with her daughter.
+1661-09-06 17:38   I home to dinner all alone, and thence my mind being for my wife’s going abroad much troubled and unfit for business, I went to the Theatre, and saw “Elder Brother” ill acted.
 
-1661-09-05 12:18   My wife promised to go to some place to-morrow morning, which do trouble my mind how to know whither it was.
+1661-09-06 10:22   My uncle Fenner and I go to see my aunt Kite, whom we found in bed and not like to live as we think, and she told us her mind was that if she should die she should give all she had to her daughter, only 5l. apiece to her second husband’s children.
 
-1661-09-05 12:15   Meeting a French footman with feathers, who was in quest of my wife, he spoke with her privately, but I could not tell what it was.
+1661-09-06 09:32   My wife holding her resolution to go this morning as she resolved yesterday, and though there could not be much hurt in it, yet my own jealousy put a hundred things into my mind, which did much trouble me.
 
-1661-09-04 13:54   To Wilkinson’s, where we sent for Mrs. Sarah and there dined and had oysters, the first I have eat this year, and were pretty good.
 
-1661-09-04 11:04   My wife and I walked a good while in St. James’s Park to see the brave alterations.
+1661-09-05 20:33 r My wife and I to the fair, and I showed her the Italians dancing the ropes, and the women that do strange tumbling tricks and so by foot home vexed in my mind about Antony Joyce.
 
-1661-09-03 20:20   I advised my mother about her getting things ready to go into the country, and she took it ill, and we had a great deal of noise about it.
+1661-09-05 14:20 r I was taken up by Antony Joyce, which came at last to very high words, which made me very angry, and I did not think that he would ever have been such a fool to meddle with other people’s business, but all the company was offended with him, so we parted angry he and I.
 
-1661-09-03 17:05   We had a very fine banquet, the best I ever was at.
+1661-09-05 14:20 r News was brought that my aunt Kite, the butcher’s widow in London, is sick ready to die and sends for my uncle and me to come to take charge of things, and to be entrusted with the care of her daughter.
 
-1661-09-03 15:45   To the Wardrobe, where my Lady’s child was christened, and named Katherine (the Queen elect’s name).
+1661-09-05 12:15 r To my uncle Fenner’s to dinner (meeting a French footman with feathers, who was in quest of my wife, and spoke with her privately, but I could not tell what it was, only my wife promised to go to some place tomorrow, which do trouble my mind how to know whither it was).
 
-1661-09-03 12:10   Mr. Howell, our turner, sent me two things to file papers on, very handsome.
+1661-09-05 10:14 r To my uncle Fenner’s, and there I found my mother and my wife and Pall, and so I took them, it being late, to Beard’s, where they were staid for, and so I put them into the waggon, and saw them going presently, Pall crying exceedingly.
 
-1661-09-03 11:55   Some of us Commissioners went down to Deptford to pay off some ships, but I could not go, but staid at home setting papers to rights.
+1661-09-05 08:10   To the Privy Seal about business, in my way taking leave of my mother, who goes to Brampton today.
 
-1661-09-02 21:49   I sent another letter to Sir W. Pen to offer him the return of his tankard upon his leaving of 30s. at a place where it should be brought.
 
-1661-09-02 19:44   My wife met with Mr Somerset, who did give her a bracelet of rings, which did a little trouble me, though I know there is no hurt yet in it.
+1661-09-04 17:30   To my mother’s and there staid and drank, and she resolves to be going tomorrow without fail. Many friends come in to take their leave of her, but a great deal of stir I had about getting her to go to see my Lady Sandwich before she goes, which she says she will do tomorrow.
 
-1661-09-02 17:04   Mr. Pickering tells me of the vices of the Court, and how the pox is so common there, and that it is as common as eating and swearing.
+1661-09-04 13:54 r And so to Wilkinson’s, the Cook’s, to dinner, where we sent for Mrs. Sarah and there dined and had oysters, the first I have eat this year, and were pretty good.
 
-1661-09-02 16:38   Mr. Pickering be a fool, yet he keeps much company, and will tell all he hears, so a man may understand what the common talk of the town is.
+1661-09-04 11:04   My wife came to me to Whitehall, and we went and walked a good while in St. James’s Park to see the brave alterations.
 
-1661-09-02 13:08   To the Rhenish wine house where the master of the house is making a cellar with an arch in his yard, which is very convenient for him.
 
-1661-09-01 17:48   Good God! what an age is this, and what a world is this! that a man cannot live without playing the knave and dissimulation.
+1661-09-03 20:20   My wife and I to my mother, who I took a liberty to advise about her getting things ready to go this week into the country to my father, and she (being become now-a-days very simple) took it very ill, and we had a great deal of noise and wrangling about it.
 
-1661-09-01 17:44   Captain Holmes is one that can put on two several faces, and look his enemies in the face with as much love as his friends.
+1661-09-03 17:05 r After that was done, we had a very fine banquet, the best I ever was at.
 
-1661-09-01 14:24   The tankard was stole by Sir W. Batten, and the letter, as from the thief, wrote by me, which makes very good sport.
+1661-09-03 15:50 r But to my and all our trouble, the Parson of the parish christened her, and did not sign the child with the sign of the cross.
 
-1661-09-01 14:22   We were very merry with Sir W. Pen about the loss of his tankard, though all be but a cheat, and he do not yet understand it.
+1661-09-03 15:45   With my wife to the Wardrobe, where my Lady’s child was christened (my Lord Crew and his Lady, and my Lady Montagu, my Lord’s mother-in-law, were the witnesses), and named Katherine (the Queen elect’s name).
+
+1661-09-03 11:55   Some of us Commissioners went down to Deptford to pay off some ships, but I could not go, but staid at home all the morning setting papers to rights, and Mr. Howell, our turner, sent me two things to file papers on, very handsome.
+
+
+1661-09-02 21:49   This night I sent another letter to Sir W. Pen to offer him the return of his tankard upon his leaving of 30s. at a place where it should be brought. The issue of which I am to expect.
+
+1661-09-02 19:52 r She tells that she met at the Change with my young ladies of the Wardrobe, and also with Mr. Somerset, who did give her a bracelet of rings, which did a little trouble me, though I know there is no hurt yet in it, but only for fear of further acquaintance.
+
+1661-09-02 19:44   Home, where my wife has been busy all the day making of pies, and had been abroad and bought things for herself.
+
+1661-09-02 17:04 r He tells me plainly of the vices of the Court, and how the pox is so common there, and so I hear on all hands that it is as common as eating and swearing.
+
+1661-09-02 16:58 r Mr. Pickering and I walked an hour or two, and though he be a fool, yet he keeps much company, and will tell all he sees or hears, and so a man may understand what the common talk of the town is, and I find by him that there are endeavours to get my Lord out of play at sea.
+
+1661-09-02 13:08   To Westminster Hall, where we met with Mr. Pickering, and so all of us to the Rhenish wine house (Prior’s), where the master of the house is laying out some money in making a cellar with an arch in his yard, which is very convenient for him.
+
+
+1661-09-01 17:48 r But, good God! what an age is this, and what a world is this! that a man cannot live without playing the knave and dissimulation.
+
+1661-09-01 17:48 r He spoke with so much frankness that I do take him to be my Lord’s good friend and one able to do him great service, being a cunning fellow, and one (by his own confession to me) that can put on two several faces and look his enemies in the face with as much love as his friends.
+
+1661-09-01 17:44   I found Captain Holmes by discourse to be a great friend of my Lord’s and he told me there was many did seek to remove him; but they were old seamen, such as Sir J. Minnes, but he says he knows that the King do so love him, and the Duke of York too, that there is no fear of him.
+
+1661-09-01 14:22   We were very merry with Sir W. Pen about the loss of his tankard, though all be but a cheat, and he do not yet understand it; but the tankard was stole by Sir W. Batten, and the letter, as from the thief, wrote by me, which makes very good sport.
 
 1661-09-01 06:30   Last night being very rainy the rain broke into my house, the gutter being stopped, and spoiled all my ceilings almost.
