@@ -1,0 +1,16 @@
+[project]
+name = "samuelpepys-twitter"
+dependencies = [
+  "APScheduler",
+  "configparser",
+  "Mastodon.py",
+  "pytz",
+  "redis",
+  "tweepy",
+]
+requires_python = "~=3.10"
+version = "1.0"
+
+[tool.uv.pip]
+generate-hashes = true
+python-version = "3.10"

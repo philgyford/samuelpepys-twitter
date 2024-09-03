@@ -145,9 +145,16 @@ requires, using `.env_example` as a guide for what to set (see below).
 
 ## Local development
 
-You could run it in a local virtual environment, installing python requirements
-from the `requirements.txt` file. Then set up either a `config.cfg` or `.env`
-file (see above). Then run the script:
+You could run it in a local virtual environment.
+
+Either instal python requirements using pip from the `requirements.txt` file,
+or using uv with `uv sync`.
+
+If changing any requirements in `pyproject.toml`, then regenerate
+`requirements.txt` using `uv pip compile pyproject.toml -o requirements.txt`.
+
+Then set up either a `config.cfg` or `.env` file (see above). Then run the
+script:
 
     $ ./poster.py
 
