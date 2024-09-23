@@ -164,9 +164,7 @@ class Tester:
                         self.add_error(
                             filepath,
                             post_time,
-                            'Post ends with a space ("...{}")'.format(
-                                post_text[-20:]
-                            ),
+                            'Post ends with a space ("...{}")'.format(post_text[-20:]),
                         )
 
                     # Tests for errors that I had to correct.

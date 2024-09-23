@@ -12,6 +12,8 @@ import pytz
 import configparser
 import redis
 import tweepy
+from atproto import Client
+from atproto.exceptions import AtProtocolError, InvokeTimeoutError, UnauthorizedError
 from mastodon import Mastodon, MastodonError
 
 
@@ -29,6 +31,9 @@ class Poster:
     mastodon_client_secret = ""
     mastodon_access_token = ""
     mastodon_api_base_url = "https://mastodon.social"
+
+    atproto_handle = ""
+    atproto_password = ""
 
     # 1 will output INFO logging and above.
     # 2 will output DEBUG logging and above.
@@ -49,7 +54,7 @@ class Poster:
 
     # Only used if we're using Redis.
     redis_hostname = "localhost"
-    redis_port = 6379
+    redis_port = 6666
     redis_password = None
     # Will be the redis.Redis() object:
     redis = None
@@ -125,6 +130,9 @@ class Poster:
         self.mastodon_access_token = settings["MastodonAccessToken"]
         self.mastodon_api_base_url = settings["MastodonApiBaseUrl"]
 
+        self.atproto_handle = settings["ATProtoHandle"]
+        self.atproto_password = settings["ATProtoPassword"]
+
         self.verbose = int(settings.get("Verbose", self.verbose))
         self.years_ahead = int(settings.get("YearsAhead", self.years_ahead))
         self.timezone = settings.get("Timezone", self.timezone)
@@ -145,6 +153,9 @@ class Poster:
         self.mastodon_client_secret = os.environ.get("MASTODON_CLIENT_SECRET")
         self.mastodon_access_token = os.environ.get("MASTODON_ACCESS_TOKEN")
         self.mastodon_api_base_url = os.environ.get("MASTODON_API_BASE_URL")
+
+        self.atproto_handle = os.environ.get("ATPROTO_HANDLE")
+        self.atproto_password = os.environ.get("ATPROTO_PASSWORD")
 
         self.verbose = int(os.environ.get("VERBOSE", self.verbose))
         self.years_ahead = int(os.environ.get("YEARS_AHEAD", self.years_ahead))
@@ -190,9 +201,7 @@ class Poster:
 
         all_posts = self.get_all_posts(lines)
 
-        posts_to_send = self.get_posts_to_send(
-            all_posts, last_run_time, local_time_now
-        )
+        posts_to_send = self.get_posts_to_send(all_posts, last_run_time, local_time_now)
 
         self.set_last_run_time()
 
@@ -201,6 +210,9 @@ class Poster:
 
         # And the same with Mastodon toots:
         self.send_toots(posts_to_send[::-1])
+
+        # Adn the same with Bluesky skeets:
+        self.send_skeets(posts_to_send[::-1])
 
     def get_all_posts(self, lines):
         """
@@ -439,7 +451,7 @@ class Poster:
                 self.logger.error(e)
             else:
                 # Set these so that we can see if the next tweet is a reply
-                # to this one, and then one ID this one was.
+                # to this one, and then which ID this one was.
                 self.redis.set("previous_tweet_time", post["time"])
                 self.redis.set("previous_tweet_id", response.data["id"])
 
@@ -485,9 +497,84 @@ class Poster:
                 self.logger.error(e)
             else:
                 # Set these so that we can see if the next toot is a reply
-                # to this one, and then one ID this one was.
+                # to this one, and then which ID this one was.
                 self.redis.set("previous_toot_time", post["time"])
                 self.redis.set("previous_toot_id", status.id)
+
+            time.sleep(2)
+
+    def send_skeets(self, posts):
+        """
+        `posts` is a list of skeet texts to post now.
+
+        Each element is a dict of:
+            'time' (e.g. '1666-02-09 12:35')
+            'text' (e.g. "This is my toot")
+            'is_reply' boolean; is this a reply to the previous toot.
+            'in_reply_to_time' (e.g. '1666-02-09 12:33', or None)
+
+        Should be in the order in which they need to be posted.
+        """
+        if self.atproto_handle == "":
+            self.logger.debug("No ATProto Handle set; not skeeting")
+            return
+
+        if len(posts) > 0:
+            client = Client()
+            try:
+                client.login(self.atproto_handle, self.atproto_password)
+            except UnauthorizedError as e:
+                self.logger.error(e)
+            else:
+                for post in posts:
+                    reply_to = {}
+
+                    if post["in_reply_to_time"] is not None:
+                        # This skeet is a reply, so check that it's a reply to the
+                        # immediately previous skeet.
+                        # It *should* be, but if something went wrong, maybe not.
+                        previous_status_time = self.redis.get("previous_skeet_time")
+
+                        if post["in_reply_to_time"] == previous_status_time:
+                            # The root and parent should be the same if this is the
+                            # first reply. Subsequent replies should have different
+                            # root and parent.
+                            root_uri = self.redis.get("root_skeet_uri")
+                            root_cid = self.redis.get("root_skeet_cid")
+                            parent_uri = self.redis.get("previous_skeet_uri")
+                            parent_cid = self.redis.get("previous_skeet_cid")
+                            reply_to = {
+                                "root": {"uri": root_uri, "cid": root_cid},
+                                "parent": {"uri": parent_uri, "cid": parent_cid},
+                            }
+
+                    self.logger.info(
+                        "Skeeting: {} [{} characters]".format(
+                            post["text"], len(post["text"])
+                        )
+                    )
+
+                    try:
+                        if len(reply_to.keys()) > 0:
+                            status = client.send_post(
+                                text=post["text"], reply_to=reply_to
+                            )
+                        else:
+                            status = client.send_post(text=post["text"])
+                    except (AtProtocolError, InvokeTimeoutError) as e:
+                        self.logger.error(e)
+                    else:
+                        # Set these so that we can see if the next skeet is a reply
+                        # to this one, and then which ID and URL this one was.
+                        self.redis.set("previous_skeet_time", post["time"])
+                        self.redis.set("previous_skeet_uri", status["uri"])
+                        self.redis.set("previous_skeet_cid", status["cid"])
+
+                        if post["in_reply_to_time"] is None:
+                            # It wasn't a reply, so save its details as 'root' in case
+                            # the next skeet(s) reply to it or its descendants.
+                            self.redis.set("root_skeet_uri", status["uri"])
+                            self.redis.set("root_skeet_cid", status["cid"])
 
             time.sleep(2)
 

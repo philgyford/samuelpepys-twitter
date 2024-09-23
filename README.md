@@ -1,24 +1,28 @@
 # Samuel Pepys Twitter
 
-A Python 3 script for posting Twitter tweets and/or Mastodon posts at specific
-times. Used for the ~~[@samuelpepys](http://twitter.com/samuelpepys) Twitter
-account and~~ [@samuelpepys@mastodon.social](https://mastodon.social/@samuelpepys)
-Mastodon account.
+A Python 3 script for automatically posting prepared texts at pre-set dates and
+times to any or all of:
 
-You could replace the included tweets/posts with your own, for your own
-schedule.
+- Twitter/X
+- Mastodon
+- Bluesky
+
+Used for the [@samuelpepys@mastodon.social](https://mastodon.social/@samuelpepys)
+Mastodon account, [@samuelpepys.bsky.social] Bluesky account and, previously,
+[@samuelpepys](http://twitter.com/samuelpepys) Twitter account.
+
+You could (and probably should) replace the included tweets/posts with your own,
+for your own schedule.
 
 Uses Redis to store the time the script last ran.
 
-It can send only Twitter tweets, or only Mastodon posts, or send identical
-updates to both simultaneously.
-
-It needs to be run automatically, ideally once per minute, e.g. via `cron`.
-Every minute, this should be run:
+It needs to be run automatically, ideally once per minute, for example using
+`cron` or some other scheduler. Every minute this should be run:
 
     python poster.py
 
-See below for installation instructions, including for Heroku.
+Or you could run the `python clock.py` process which will check for what to
+post every minute.
 
 
 ## Post files
@@ -35,7 +39,7 @@ You could set `YEARS_AHEAD` to `0` and then posts will be sent on the day
 they're dated for. Possibly a more useful and common requirement!
 
 Posts should be in time order, with most recent first. Each post should be on
-a single line, preceded by its date and time,  and an optional 'r' (to indicate
+a single line, preceded by its date and time, and an optional 'r' (to indicate
 the post's "kind". `r`, a reply, is currently the only option, see below). Valid
 formats:
 
@@ -49,8 +53,8 @@ Any lines that aren't of that format will be ignored. So feel free to comment
 out any posts to be ignored by prepending them with a different character, and
 leave blank lines to make reading easier.
 
-The script doesn't check for length of post, so any posts longer than 280
-characters will be submitted and (depending on the service) possibly rejected.
+The script doesn't check for length of post, so any posts longer than the
+service supports will probably be rejected. 
 
 
 ## What gets posted
@@ -59,7 +63,7 @@ The script looks through all the posts and grabs any whose time (adjusted with
 `YEARS_AHEAD`) fulfills all three conditions:
 
 1. It is earlier than *now* (ie, not in the future).
-2. It is since the script last ran.
+2. It is since the time when the script last ran.
 3. It is also since `MAX_TIME_WINDOW` minutes ago.
 
 The last condition is to catch the following scenario: Something goes wrong with
@@ -110,13 +114,16 @@ long, or that aren't of the correct format. eg:
 
 ## Configuration
 
-Configuration can either be set in a config file or in environment variables.
-If `config.cfg` is present, that is used, otherwise environment variables.
+Configuration can either be done using a config file or with environment
+variables. If `config.cfg` is present, that is used, otherwise environment
+variables.
 
-Whichever you use you should include the API settings for one or both of a
-Twitter app (API v2) and Mastodon app. If you don't set the Twitter Consumer Key (or
-leave it empty), no tweets will be sent. If you don't set the Mastodon Client
-ID (or leave it empty), no posts will be sent.
+Whichever you use you should include the API settings for at least one of the
+services, or else nothing will happen.
+
+- If the Twitter Consumer Key is left empty, no tweets are sent.
+- If the Mastodon Client ID is left empty, no toots are sent.
+- If the ATProtoHandle is left empty, no skeets are sent to Bluesky.
 
 All other settings are optional.
 
@@ -135,9 +142,7 @@ values appropriately for your project.
 
 To use environment variables, *don't* create a `config.cfg` file.
 
-You can copy `.env_example` to `.env`, and change its values appropriately. This
-will set environment variables during local development with Docker, and might
-work with however you choose to deploy to production.
+You can copy `.env_example` to `.env`, and change its values appropriately.
 
 Or, if using a service like Heroku, set the environment variables as the service
 requires, using `.env_example` as a guide for what to set (see below).
@@ -147,30 +152,48 @@ requires, using `.env_example` as a guide for what to set (see below).
 
 You could run it in a local virtual environment.
 
-Either instal python requirements using pip from the `requirements.txt` file,
+### Redis
+
+If you don't have Redis set up on your computer, you can run the Docker
+container using:
+
+    $ docker compose build
+    $ docker compose up
+
+If so, set the Redis URL config/.env variable to `redis://localhost:6666/0`.
+
+If you need to access Redis CLI in the Docker container:
+
+    $ docker exec -it poster_redis bash
+    # redis-cli
+
+Then you can see all the keys, and get a key's value like:
+
+    > keys *
+    > get [keyname]
+
+### Running the scripts
+
+Either install Python requirements using pip from the `requirements.txt` file,
 or using uv with `uv sync`.
 
-If changing any requirements in `pyproject.toml`, then regenerate
-`requirements.txt` using `uv pip compile pyproject.toml -o requirements.txt`.
+Then set up either a `config.cfg` or `.env` file (see above).
 
-Then set up either a `config.cfg` or `.env` file (see above). Then run the
-script:
+Then run the script:
 
     $ ./poster.py
 
 That will send a post if there is one with an appropriate date and time.
 
-Or you can use Docker, which includes a Redis database, and which will run the
-`clock.py` process to check for tweets/posts every minute. Install Docker,
-set up a `.env` file (see above), and then:
+Or you could run the clock process which will check for new posts once per
+minute:
 
-    $ docker-compose build
-    $ docker-compose up
+    $ ./clock.py
 
-If you need to access Redis CLI in its Docker container:
+### Development
 
-    $ docker exec -it poster_redis bash
-    # redis-cli
+If changing any requirements in `pyproject.toml`, then regenerate
+`requirements.txt` using `uv pip compile pyproject.toml -o requirements.txt`.
 
 ## Heroku setup
 
@@ -200,8 +223,7 @@ There you go. I think that's it... The `Procfile` specifies a `clock` process
 that runs `clock.py`. This sets up a scheduler to run the code in `poster.py`
 every minute.
 
-
-## Running on Heroku with Scheduler
+### Running on Heroku with Scheduler
 
 Previously we didn't use the clock process but ran this using the Scheduler.
 The downside is that it can only run up to once every 10 minutes.

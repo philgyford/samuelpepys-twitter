@@ -13,26 +13,12 @@ services:
           cpus: "0"
           memory: "0"
     image: "redis:7-bullseye"
+    ports:
+      - "6666:6379"
     restart: unless-stopped
     stop_grace_period: "3s"
     volumes:
       - "redis:/data"
-
-  clock:
-    build: .
-    command: >
-      sh -c "
-      python clock.py
-      "
-    container_name: poster_clock
-    depends_on:
-      - redis
-    env_file: .env
-    ports:
-      - "8000:8000"
-    restart: unless-stopped
-    volumes:
-      - .:/code
 
 volumes:
   redis:
