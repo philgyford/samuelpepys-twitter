@@ -167,6 +167,20 @@ class Tester:
                             'Post ends with a space ("...{}")'.format(post_text[-20:]),
                         )
 
+                    # Catch any footnote numbers left in, like "at a limner1 that he"
+                    post_match = re.search(r"([^\s^\d^,^\(+]\d+)", post_text)
+                    if post_match:
+                        span = post_match.span()
+                        start = span[0] - 10
+                        end = span[1] + 10
+                        self.add_error(
+                            filepath,
+                            post_time,
+                            'Post contains footnote ("{}")'.format(
+                                post_text[start:end]
+                            ),
+                        )
+
                     # Tests for errors that I had to correct.
 
                     # 'jj' or 'kk' from making a mistake in vim:
