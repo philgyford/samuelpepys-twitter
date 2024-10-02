@@ -1,188 +1,218 @@
-YYYY-MM-DD HH:MM   12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+YYYY-MM-DD HH:MM r 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
-1661-11-30 23:10   Sir W. Batten and I and Captain Cock got a bottle of sack into the office, and there we sat and drank and talked, and so home and to bed.
+1661-11-30 23:20   The Parliament has sat a pretty while. The old condemned judges of the late King have been brought before the Parliament, and like to be hanged. I myself under great trouble for my late great expending of money vainly, which God stop for the future.
 
-1661-11-30 14:38   I myself under great trouble for my late great expending of money vainly, which God stop for the future.
+1661-11-30 23:10   To the office all the afternoon, and that being done Sir W. Batten and I and Captain Cock got a bottle of sack into the office, and there we sat late and drank and talked, and so home and to bed.
 
-1661-11-29 18:48   Calling for a “Mare Clausum,” having it in my mind to write about the business of striking sayle, and present it to the Duke of York.
 
-1661-11-29 17:10   Saw “Love at first sight,” a play of Mr. Killigrew’s, but I found the play to be a poor thing, and so I perceive every body else do.
+1661-11-29 18:48   So home, calling at Paul’s Churchyard for a “Mare Clausum,” having it in my mind to write a little matter, what I can gather, about the business of striking sayle, and present it to the Duke, which I now think will be a good way to make myself known.
 
-1661-11-29 15:40   The Duke of York did desire of us to know what hath been the common practice about making of forrayne ships to strike sail to us.
+1661-11-29 17:50 r There saw “Love at first sight,” a play of Mr. Killigrew’s, and the first time that it hath been acted since before the troubles, and great expectation there was, but I found the play to be a poor thing, and so I perceive every body else do.
 
-1661-11-29 00:53   I found our new maid Sarah come, who is a tall and a very well favoured wench, and one that I think will please us.
+1661-11-29 15:40   Sir W. Pen and I to the Theatre, but it was so full that we could hardly get any room, so he went up to one of the boxes, and I into the 18d. places.
 
-1661-11-29 00:24   Mr. Gawdon and I footed it all the way home, but though he was drunk he went such a pace as I did admire how he was able to go.
+1661-11-29 15:00   To White Hall to the Duke, who met us in his closet; and there he did desire of us to know what hath been the common practice about making of forrayne ships to strike sail to us, which they did all do as much as they could; but I could say nothing to it, which I was sorry for.
 
-1661-11-28 23:54   At the Fountain tavern staid drinking and singing, Mr. Simons and one Mr. Agar singing very well.
+1661-11-29 00:53   When I came home I found our new maid Sarah come, who is a tall and a very well favoured wench, and one that I think will please us.
 
-1661-11-28 19:21   With Mr. Dugdale, and with him and one Mr. Simons, I think that belongs to my Lord Hatton, and Mr. Kipps and others, to the Fountain tavern.
 
-1661-11-28 12:08   Some letters from my Lord Sandwich, from Tangier; where he hath done some execution upon the Turks, and retaken an Englishman from them.
+1661-11-28 23:54   Staid drinking and singing. Then Mr. Gawdon being almost drunk had the wit to be gone, and so I took leave too, and it being a fine moonshine night he and I footed it all the way home, but though he was drunk he went such a pace as I did admire how he was able to go.
 
-1661-11-27 18:48   I found that my wife had been to wait on my Lady to-day, and there danced and were very merry, and my Lady fond as she is always of my wife.
+1661-11-28 19:21   To the Chancellor’s, and there met with Mr. Dugdale, and with him and one Mr. Simons, I think that belongs to my Lord Hatton, and Mr. Kipps and others, to the Fountain tavern.
 
-1661-11-27 17:20   After a talk in divinity with my Lady, Captain Ferrers and Mr. Moore and I to the Theatre, and there saw “Hamlett” very well done.
+1661-11-28 12:08   Some letters from my Lord Sandwich, from Tangier; where he continues still, and hath done some execution upon the Turks, and retaken an Englishman from them, of one Mr. Parker’s, a merchant in Marke-lane.
+
+
+1661-11-27 18:48   I home, and found that my wife had been with my aunt Wight and Ferrers to wait on my Lady today this afternoon, and there danced and were very merry, and my Lady very fond as she is always of my wife.
+
+1661-11-27 17:20   After an hour or two’s talk in divinity with my Lady, Captain Ferrers and Mr. Moore and I to the Theatre, and there saw “Hamlett” very well done.
 
 1661-11-27 11:30   I went out to Savill’s, the painter, and there sat the first time for my face with him.
 
-1661-11-27 08:22   Our maid Dorothy and my wife parted, which though she be a wench for her tongue not to be borne with, yet I was loth to part with her.
+1661-11-27 08:22 r Our maid Dorothy and my wife parted, which though she be a wench for her tongue not to be borne with, yet I was loth to part with her, but I took my leave kindly of her.
+
 
 1661-11-26 21:59   My wife and her mayde Dorothé falling out, I was troubled at it.
 
-1661-11-26 21:15   Mr. Bence, being drunk, showed himself by his talk a bold foole, and so we were fain to put him off and get him away.
+1661-11-26 21:09   After the office done, Sir Wms both and I and Captain Cock and Mr. Bence (who being drunk, showed himself by his talk a bold foole, and so we were fain to put him off and get him away) we sat by ourselfs in the office, talking and drinking three or four bottles of wine.
 
-1661-11-26 21:09   After the office done, Sir Wms both and I and Captain Cock and Mr. Bence sat by ourselfs in the office, talking and drinking wine.
+1661-11-26 13:12   With my wife to my Uncle Wights, where we met Mr. Cole, Mr. Rawlinson, Norbury and his wife and her daughter, and other friends to the Chine of beef that I sent them the other day, and eat and were merry.
 
-1661-11-26 12:32   To my Uncle Wights, where we met Mr. Cole, Mr. Rawlinson, Norbury and his wife and her daughter, to the Chine of beef that I sent them.
+1661-11-26 10:45 r Not well and lay long in bed.
 
-1661-11-26 10:45   Not well and lay long in bed.
+1661-11-26 00:21   Mr. Sanchy and I drank till I had drank something too much. He all the while telling me his intention to get a girl who is worth 1000l, and many times we had her sister Betty’s health, whose memory I love.
 
-1661-11-26 00:21   Mr. Sanchy and I drank till I had drank something too much. He all the while telling me his intention to get a girl who is worth 1000l.
 
-1661-11-25 17:00   Sir W. Pen and I to the Theatre, and there saw “The Country Captain,” a dull play. I left him with his Torys and went to the Opera.
+1661-11-25 17:40   Sir W. Pen and I to the Theatre, and there saw “The Country Captain,” a dull play, and that being done, I left him with his Torys and went to the Opera, and saw the last act of “The Bondman.”
 
-1661-11-25 12:10   I find by discourse Major General Massy to be a very ingenious man, and among other things a master in the secresys of powder and fireworks.
+1661-11-25 12:10   At the rising of the House, I met with Sir W. Pen and Major General Massy, who I find by discourse to be a very ingenious man, and among other things a great master in the secresys of powder and fireworks.
 
-1661-11-25 10:04   Captain Lambert did at the Dog give me and some other friends of his, his foy, he being to set sail to-day towards the Streights.
+1661-11-25 10:04   To Westminster Hall with Captain Lambert, and there he did at the Dog give me and some other friends of his, his foy, he being to set sail today towards the Streights. Here we had oysters and good wine.
+
 
 1661-11-24 17:28   To see Madame Turner, who, poor lady, continues very ill, and I begin to be afraid of her.
 
+1661-11-24 09:20   To St. Clement lanes to church, and there to meet Captain Cocke, who had often commended Mr. Alsopp, their minister, to me, who is indeed an able man, but as all things else did not come up to my expectations. His text was that all good and perfect gifts are from above.
+
+
 1661-11-23 11:39   By coach with Commissioner Pett to Cheapside to one Savill, a painter, who I intend shall do my picture and my wife’s.
+
 
 1661-11-22 21:49   This day a good pretty maid was sent my wife by Mary Bowyer, whom my wife has hired.
 
-1661-11-22 20:02   After all our mirth comes a reckoning of 4l, besides 40s. to the musicians, which did trouble us, but it must be paid.
+1661-11-22 20:02 r But after all our mirth comes a reckoning of 4l., besides 40s. to the musicians, which did trouble us, but it must be paid, and so I took leave and left them there.
 
-1661-11-22 18:28   We had the best musique and very good songs, and were very merry and danced.
+1661-11-22 18:28 r And there we had the best musique and very good songs, and were very merry and danced, but I was most of all taken with Madam Cocke and her little boy, which in mirth his father had given to me.
 
-1661-11-22 13:12   To dinner at the Dolphin, where Sir W. Batten, and his lady, and Capt. Cocke and his lady, a German lady, but a very great beauty.
+1661-11-22 13:12   With my wife, by appointment to dinner at the Dolphin, where Sir W. Batten, and his lady and daughter Matt, and Captain Cocke and his lady, a German lady, but a very great beauty, and we dined together, at the spending of some wagers won and lost between him and I.
 
-1661-11-21 15:49   With Mr. Moore to his chamber and there he shewed me his old Camden’s “Britannica” which I intend to buy of him and so took it away with me.
+
+1661-11-21 16:50   To the office all the afternoon; it being the first afternoon that we have sat, which we are now to do always, so long as the Parliament sits, who this day have voted the King 120,000l. to be raised to pay his debts.
+
+1661-11-21 14:39 r With Mr. Moore to Gray’s Inn to his chamber, and there he showed me his old Camden’s “Britannica”, which I intend to buy of him, and so took it away with me, and left it at St. Paul’s Churchyard to be bound.
 
 1661-11-21 13:30   Mr. Moore dined with me, and we had a good surloyne of rost beefe, the first that ever I had of my own buying since I kept house.
 
+
 1661-11-20 22:48   So to bed with my mind cheery, and lay long reading Hobbs his “Liberty and Necessity,” and a little but very shrewd piece, and so to sleep.
 
-1661-11-20 13:49   To the Wardrobe, and dined with my Lady, my Lady Wright being there too, whom I find to be a witty but very conceited woman and proud.
+1661-11-20 13:49   By water to the Wardrobe, and dined with my Lady, my Lady Wright being there too, whom I find to be a witty but very conceited woman and proud.
 
-1661-11-20 10:38   To Westminster Hall by water, where I saw the King going in his barge to the Parliament House; this being the first day of their meeting.
+1661-11-20 10:38   To Westminster Hall by water, where I saw the King going in his barge to the Parliament House; this being the first day of their meeting again. And the Bishops, I hear, do take their places in the Lords House this day.
 
-1661-11-19 15:49   We at the christening of my cozens boy, where my cozen Samuel Pepys, of Ireland, and I were godfathers, and I did name the child Samuel.
 
-1661-11-19 12:22   Remembering that there was no place else with a fire for Mr. Hunt to be in, it being also cold weather, I was at ease again.
+1661-11-19 15:49 r After dinner took coach and carried him with us as far as my cozen Scott’s, where we set him down and parted, and my wife and I staid there at the christening of my cozens boy, where my cozen Samuel Pepys, of Ireland, and I were godfathers, and I did name the child Samuel.
 
-1661-11-19 12:16   Coming home found Mr. Hunt with my wife in the chamber alone, which God forgive me did trouble my head.
+1661-11-19 12:16   Coming home found Mr. Hunt with my wife in the chamber alone, which God forgive me did trouble my head, but remembering that it was washing and that there was no place else with a fire for him to be in, it being also cold weather, I was at ease again.
 
-1661-11-18 11:10   I putting in at St. Paul’s where I saw the quiristers in their surplices going to prayers, and a few idle poor people and boys to hear them.
 
-1661-11-17 15:05   Heard a fellow upon the praise of Church musique and exclaiming against men’s wearing hats on in church but I slept part of the sermon.
+1661-11-18 11:10   To Mr. Battersby’s the minister, in my way I putting in at St. Paul’s, where I saw the quiristers in their surplices going to prayers, and a few idle poor people and boys to hear them, which is the first time I have seen them, and am sorry to see things done so out of order.
 
-1661-11-15 18:47   Captain Ferrers’ horses were so tired they could not be got to go up Fish Street Hill, though all the street boys and men did beat them.
 
-1661-11-15 14:05   My wife did shew herself to my Lady in the handkercher that she bought the lace for the other day, and indeed it is very handsome.
+1661-11-17 15:35 r So to church again, and heard a simple fellow upon the praise of Church musique, and exclaiming against men’s wearing their hats on in the church, but I slept part of the sermon, till latter prayer and blessing and all was done without waking which I never did in my life.
 
-1661-11-14 12:59   To the Sun where we had a most excellent dinner, but a pie of such pleasant variety of good things, as in all my life I never tasted.
+1661-11-17 13:25   To our own church, and at noon, by invitation, Sir W. Pen dined with me, and I took Mrs. Hester, my Lady Batten’s kinswoman, to dinner from church with me, and we were very merry.
 
-1661-11-13 22:32   This night began to lie in the green chamber, where the maids lie, but we could not get Nell to lie there, because I lie there and my wife.
 
-1661-11-13 17:54   Now I am coming to lay out a great deal of money in clothes for my wife, I must forbear other expenses.
+1661-11-16 12:10   At the office all the morning.
 
-1661-11-13 17:52   It raining hard I went home by coach, with my mind very heavy for this my expensefull life, which will undo me, I fear, after all my hopes.
 
-1661-11-13 12:22   Sir Thomas tells me in good earnest that he do believe the Parliament, will be troublesome to the Court and Clergy, which God forbid!
+1661-11-15 20:10 r At last I was fain to send my boy for a link, and so light out of the coach till we got to another at the corner of Fenchurch Street, and so home.
 
-1661-11-13 10:38   The Duke of York is in mourning for his wife’s grandmother, which is thought a great piece of fondness.
+1661-11-15 19:17 r The coach driving down the hill through Thames Street, which I think never any coach did before to the bridge-foot, but going up Fish Street Hill his horses were so tired, that they could not be got to go up the hill, though all the street boys and men did beat and whip them.
 
-1661-11-13 10:03   To wait upon the Duke of York, which we did in his chamber, as he was dressing himself in his riding suit to go by sea to the Downs.
+1661-11-15 17:45   To the Opera, where I met my wife and Captain Ferrers and Madamoiselle Le Blanc, and there did see the second part of “The Siege of Rhodes” very well done.
 
-1661-11-12 19:33   To the Greyhound in Fleet Street, and there drank some raspberry sack and eat some sasages, and so home very merry.
+1661-11-15 14:05   With my wife to the Wardrobe to dinner, and there, did show herself to my Lady in the handkercher that she bought the lace for the other day, and indeed it is very handsome.
 
-1661-11-12 16:32   Though I love “Bartholomew Fayre” as much as ever I did, yet I do not like the puppets at all, but think it to be a lessening to it.
 
-1661-11-12 14:20   My wife and I to “Bartholomew Fayre,” with puppets which I had seen once before, and the play without puppets often.
+1661-11-14 13:44 r Hither came to me Captain Lambert to take his leave of me, he being this day to set sail for the Straights. We drank his farewell and a health to all our friends, and were very merry, and drank wine enough.
 
-1661-11-11 17:39   God keep me so to order myself and my wife’s expenses that no inconvenience in purse or honour follow this my prodigality.
+1661-11-14 12:59   I went by appointment to the Sun in Fish Street to a dinner of young Mr. Bernard’s for myself, Mr. Phillips, Davenport, Weaver, &c., where we had a most excellent dinner, but a pie of such pleasant variety of good things, as in all my life I never tasted.
 
-1661-11-11 17:32   I found my Lady had agreed upon a lace for my wife of 6l, which I seemed glad of that it was no more, though in my mind I think it too much.
 
-1661-11-11 16:09   I do not in myself like to have young girls exposed to so much vanity.
+1661-11-13 22:32   This night began to lie in the little green chamber, where the maids lie, but we could not a great while get Nell to lie there, because I lie there and my wife, but at last, when she saw she must lie there or sit up, she, with much ado, came to bed.
 
-1661-11-11 16:05   Captain Ferrers took me to a dancing school in Fleet Street, where we saw a company of pretty girls dance.
+1661-11-13 17:52   It raining very hard I went home by coach, with my mind very heavy for this my expensefull life, which will undo me, I fear, after all my hopes, if I do not take up, for now I am coming to lay out a great deal of money in clothes for my wife, I must forbear other expenses.
 
-1661-11-11 15:14   Strange the folly of men to lose so much money, and glad I was to see a gamester’s life, which I see is miserable, and poor, and unmanly.
+1661-11-13 12:22   Sir Thomas tells me in good earnest that he do believe the Parliament (which comes to sit again the next week), will be troublesome to the Court and Clergy, which God forbid!
 
-1661-11-11 14:58   Captain Ferrers carried me the first time that ever I saw any gaming house, to one, entering into Lincoln’s-Inn-Fields.
+1661-11-13 10:03   By appointment, we all went this morning to wait upon the Duke of York, which we did in his chamber, as he was dressing himself in his riding suit to go this day by sea to the Downs. He is in mourning for his wife’s grandmother, which is thought a great piece of fondness.
 
-1661-11-11 12:32   To the Wardrobe to dinner, and by appointment met my wife, who had by my direction brought some laces for my Lady to choose one for her.
 
-1661-11-10 22:49   We sent for two bottles of Canary, which did do me a great deal of hurt, and I came home so out of order that I was loth to say prayers.
+1661-11-12 22:00   This day Holmes come to town; and we do expect hourly to hear what usage he hath from the Duke and the King about this late business of letting the Swedish Embassador go by him without striking his flag.
 
-1661-11-10 15:09   Sat with Mr. Turner in his pew at St. Gregory’s, where I hear our Queen Katherine, the first time by name as such, publickly prayed for.
+1661-11-12 19:33 r Thence to the Greyhound in Fleet Street, and there drank some raspberry sack and eat some sasages, and so home very merry.
 
-1661-11-10 14:32   Last night died Archibald, my Lady’s butler and Mrs. Sarah’s brother, of a dropsy, which I am troubled at.
+1661-11-12 14:20   My wife and I to “Bartholomew Fayre,” with puppets which I had seen once before, and the play without puppets often, but though I love the play as much as ever I did, yet I do not like the puppets at all, but think it to be a lessening to it.
 
-1661-11-10 14:00   My Lady continues upon yesterday’s discourse for me to lay out money upon my wife, which I think is best, for her honour and my own.
 
-1661-11-09 20:04   My Lady did mightily urge me to lay out money upon my wife, which I perceived was a little more earnest than ordinary.
+1661-11-11 17:39 r I pray God keep me so to order myself and my wife’s expenses that no inconvenience in purse or honour follow this my prodigality.
+
+1661-11-11 17:32   So to the Wardrobe, where I found my Lady had agreed upon a lace for my wife of 6l, which I seemed much glad of that it was no more, though in my mind I think it too much.
+
+1661-11-11 16:05 r And thence he took me to a dancing school in Fleet Street, where we saw a company of pretty girls dance, but I do not in myself like to have young girls exposed to so much vanity.
+
+1661-11-11 15:14 r Strange the folly of men to lay and lose so much money, and very glad I was to see the manner of a gamester’s life, which I see is very miserable, and poor, and unmanly.
+
+1661-11-11 14:58   Captain Ferrers and I went together, and he carried me the first time that ever I saw any gaming house, to one, entering into Lincoln’s-Inn-Fields, at the end of Bell Yard.
+
+1661-11-11 14:03   To the Wardrobe to dinner, and there by appointment met my wife, who had by my direction brought some laces for my Lady to choose one for her. And after dinner I went away, and left my wife and ladies together, and all their work was about this lace of hers.
+
+
+1661-11-10 23:05 r And, indeed, came home so out of order that I was loth to say prayers tonight as I am used ever to do on Sundays, which my wife took notice of and people of the house, which I was sorry for.
+
+1661-11-10 22:49   I to Sir W. Batten’s, where Captain Cock was, and we sent for two bottles of Canary to the Rose, which did do me a great deal of hurt.
+
+1661-11-10 15:09   Sat with Mr. Turner in his pew at St. Gregory’s, where I hear our Queen Katherine, the first time by name as such, publickly prayed for, and heard Dr. Buck upon “Woe unto thee, Corazin,” &c.
+
+1661-11-10 14:32 r Last night died Archibald, my Lady’s butler and Mrs. Sarah’s brother, of a dropsy, which I am troubled at.
+
+1661-11-10 14:00 r Alone to the Wardrobe to dinner with my Lady, where my Lady continues upon yesterday’s discourse still for me to lay out money upon my wife, which I think it is best for me to do for her honour and my own.
+
+
+1661-11-09 20:04   My Lady did mightily urge me to lay out money upon my wife, which I perceived was a little more earnest than ordinary, and so I seemed to be pleased with it, and do resolve to bestow a lace upon her, and what with this and other talk, we were exceeding merry.
+
 
 1661-11-08 13:52   To the Sun, where we all were to dine, and were merry, and by discourse I found Sir J. Minnes a fine gentleman and a very good scholler.
 
 1661-11-08 09:05   To my Lord Chancellor’s with a letter to him from my Lord, and did speak with him, and he spoke to me with great respect.
 
-1661-11-07 20:10   Letters from my Lord from Lisbone. He tells me he had seen at the court there the day before he wrote this letter, the Juego de Toro.
 
-1661-11-07 19:32   My uncle Fenner tells that Peg Kite hath declared she will have the beggarly rogue the weaver, and so we are resolved not to meddle.
+1661-11-07 20:10   I met with letters at home from my Lord from Lisbone, which speak of his being well; and he tells me he had seen at the court there the day before he wrote this letter, the Juego de Toro.
 
-1661-11-07 09:03   Came one Mr. Hill, to teach me to play on the Theorbo, but I do not like his play nor singing, and so I found a way to put him off.
+1661-11-07 19:32   I called at my uncle Fenner’s, who tells that Peg Kite now hath declared she will have the beggarly rogue the weaver, and so we are resolved neither to meddle nor make with her.
 
-1661-11-06 19:40   I endeavoured to speak with Tom Trice (who I fear is hatching some mischief), but could not, which vexed me.
+1661-11-07 09:03   Came one Mr. Hill (sent by Mr. Hunt, the Instrument maker), to teach me to play on the Theorbo, but I do not like his play nor singing, and so I found a way to put him off.
 
-1661-11-06 12:20   To Nick Osborne’s at the Victualling Office, and saw his wife, who he has lately married, a good sober woman, and new come to their home.
 
-1661-11-06 09:05   I met Mr. Davenport and a friend of his, to drink their morning draft with me, and I did give it them in wine, and anchovies, and oysters.
+1661-11-06 19:40 r So back again, and endeavoured to speak with Tom Trice (who I fear is hatching some mischief), but could not, which vexed me.
 
-1661-11-05 23:05   Called at my Lady Batten’s again and would have gone to cards, but Sir W. Pen was so fuddled that we could not try him to play.
+1661-11-06 15:30 r I bade them adieu and hastened to Whitehall (calling Mr. Moore by the way) to my Lord Privy Seal, who will at last force the clerks to bring in a table of their fees, which they have so long denied, but I do not join with them, and so he is very respectful to me.
 
-1661-11-05 22:40   To the Dolphin, where we drank much, seeing the boys in the streets flying their crackers, this day being kept very strictly in the City.
+1661-11-06 12:20   Being invited by a note from Luellin, that came to my hands this morning in bed, I went to Nick Osborne’s at the Victualling Office, and there saw his wife, who he has lately married, a good sober woman, and new come to their home.
 
-1661-11-05 15:27   After dinner, I having drunk a great deal of wine, I went away, seeming to go about business, to my Lady Batten’s, and there sat a while.
+1661-11-06 12:02 r I sent for Mr. W. Bernard (Sir Robert’s son), a grocer thereabouts, and were very merry, and cost me a good deal of money, and left them, and with my head full of wine.
 
-1661-11-05 12:05   I find Mr. Armiger inviting my wife to go to a play, and like a fool would be courting her, but he is an ass.
+1661-11-06 09:05   Going forth this morning I met Mr. Davenport and a friend of his, one Mr. Furbisher, to drink their morning draft with me, and I did give it them in good wine, and anchovies, and pickled oysters.
 
-1661-11-04 17:42   To our thinking not so well acted here (having great expectations). But for Betterton he is called by us both the best actor in the world.
 
-1661-11-04 17:39   To the Opera, where we saw “The Bondman,” which of old we both did so doat on, and do still.
+1661-11-05 23:15 r Called at my Lady Batten’s again and would have gone to cards, but Sir W. Pen was so fuddled that we could not try him to play, and therefore we parted, and I home and to bed.
 
-1661-11-04 13:20   I to the Mitre (Mr. Rawlinson’s), where Mr. Pierce, the Purser, had got us a most brave chine of beef, and a dish of marrowbones.
+1661-11-05 22:40 r To the Dolphin, where he and I and Captain Cocke sat late and drank much, seeing the boys in the streets flying their crackers, this day being kept all the day very strictly in the City.
 
-1661-11-03 20:50   My wife and I had a good supper of a pullet hashed, which pleased me much to see my condition come to allow ourselves a dish like that.
+1661-11-05 15:27   After dinner, I having drunk a great deal of wine, I went away, seeming to go about business with Sir W. Pen, to my Lady Batten’s (Sir William being at Chatham), and there sat a good while.
 
-1661-11-03 18:32   I did try to make a song in the praise of a liberall genius (as I take my own to be) to all studies and pleasures.
+1661-11-05 12:05   I called at home, and found Armiger inviting my wife to go to a play, and like a fool would be courting her, but he is an ass, and lays out money with my brother Tom, otherwise I should not think him worth half this respect I shew him.
 
-1661-11-03 17:49   All the day as I was at leisure I did read in Fuller’s Holy Warr, which I have of late bought.
+
+1661-11-04 17:42 r Though to both our thinking not so well acted here (having too great expectations), as formerly at Salisbury-court. But for Betterton he is called by us both the best actor in the world.
+
+1661-11-04 17:39   I took coach, and called my wife at my brother’s, where I left her, and to the Opera, where we saw “The Bondman,” which of old we both did so doat on, and do still.
+
+1661-11-04 13:20   I to the Mitre (Mr. Rawlinson’s), where Mr. Pierce, the Purser, had got us a most brave chine of beef, and a dish of marrowbones. Our company my uncle Wight, Captain Lambert, one Captain Davies, and purser Barter, Mr. Rawlinson, and ourselves; and very merry.
+
+
+1661-11-03 20:50   My wife and I had a good supper by ourselves of a pullet hashed, which pleased me much to see my condition come to allow ourselves a dish like that.
+
+1661-11-03 17:49 r All the day as I was at leisure I did read in Fuller’s Holy Warr, and did try to make a song in the praise of a liberall genius (as I take my own to be) to all studies and pleasures, but it not proving to my mind I did reject it and so proceeded not in it.
 
 1661-11-03 17:33   This day I stirred not out, but took physique, and it did work very well.
 
-1661-11-02 21:32   Though it did trouble me to beat my boy Wayneman, yet I thought it necessary to do it. So to write by the post, and to bed.
 
-1661-11-02 21:18   Upon examination, and finding Wayneman in a lie about the time and place that he bought the gunpowder, I did extremely beat him.
+1661-11-02 21:32 r But upon examination, and finding him in a lie about the time and place that he bought it, I did extremely beat him, and though it did trouble me to do it, yet I thought it necessary to do it.
 
-1661-11-02 21:14   The match did give fire to the powder, and had burnt his side and his hand that he put into his pocket to put out the fire.
+1661-11-02 21:15 r I find that it was powder that he had put in his pocket, and a match carelessly with it, thinking that it was out, and so the match did give fire to the powder, and had burnt his side and his hand that he put into his pocket to put out the fire.
 
-1661-11-02 21:12   Hearing a noise made, I call Wayneman up, and find that it was powder that he had put in his pocket, and a match carelessly with it.
-
-1661-11-02 21:10   My boy Wayneman, as I was in my chamber, I overheard him let off some gunpowder.
+1661-11-02 21:10   My boy Wayneman, as I was in my chamber, I overheard him let off some gunpowder; and hearing my wife chide him below for it, and a noise made, I call him up.
 
 1661-11-02 15:20   I to the Wardrobe, and there dined, and had an hour or two’s talk with my Lady with great pleasure.
 
-1661-11-02 10:30   The first time that Sir John Minnes had come hither, and he seems a good fair condition man, and one that I am glad hath the office.
+1661-11-02 10:05   Sir John Minnes, our new comptroller, was fetched by Sir Wm. Pen and myself from Sir Wm. Batten’s, and led to his place in the office. The first time that he had come hither, and he seems a good fair condition man, and one that I am glad hath the office.
 
-1661-11-02 10:05   Sir John Minnes, our new comptroller, was fetched by Sir Wm. Pen and myself from Sir Wm. Batten’s, and led to his place in the office.
 
 1661-11-01 22:20   At my house we were very merry till late, having sent for Sir W. Pen’s son, Mr. William Pen, lately come from Oxford.
 
-1661-11-01 13:40   Had the maister and his fayre sister (who is very great with Sir W. Batten and Sir W. Pen in mirth) up to us, and looked over some medals.
+1661-11-01 13:40 r Had him and his fayre sister (who is very great with Sir W. Batten and Sir W. Pen in mirth) up to us, and looked over some medals that they showed us of theirs.
 
-1661-11-01 12:55   To the 3 Tun Tavern, at Charing Cross, and there sent for up the maister of the house’s dinner, and dined very well upon it.
-
+1661-11-01 12:55   With Sir W. Pen to the 3 Tun Tavern, at Charing Cross, and there sent for up the maister of the house’s dinner, and dined very well upon it.
