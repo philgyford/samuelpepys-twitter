@@ -1,173 +1,210 @@
-YYYY-MM-DD HH:MM   12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+YYYY-MM-DD HH:MM r 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
-1661-12-31 21:47   I have newly taken a solemn oath about abstaining from plays and wine, which I am resolved to keep according to the letter of the oath.
+1661-12-31 21:50 r The fleet hath been ready to sail for Portugall, but hath lacked wind this fortnight, and by that means my Lord is forced to keep at sea all this winter, till he brings home the Queen, which is the expectation of all now, and the greatest matter of publique talk.
 
-1661-12-31 21:43   My greatest trouble is, that I have for this last half year been a very great spendthrift in all manner of respects.
+1661-12-31 21:47 r I have newly taken a solemn oath about abstaining from plays and wine, which I am resolved to keep according to the letter of the oath which I keep by me.
 
-1661-12-31 21:41   My chiefest thought is now to get a good wife for Tom, there being one offered by the Joyces, a cozen of theirs, worth 200l. in ready money.
+1661-12-31 21:44 r My greatest trouble is, that I have for this last half year been a very great spendthrift in all manner of respects, that I am afeard to cast up my accounts, though I hope I am worth what I say above. But I will cast them up very shortly.
 
-1661-12-31 21:38   I suppose myself to be worth about 500l. clear in the world, and my goods of my house my own.
+1661-12-31 21:41 r My chiefest thought is now to get a good wife for Tom, there being one offered by the Joyces, a cozen of theirs, worth 200l. in ready money.
 
-1661-12-31 21:34   My servants, W. Hewer, Sarah, Nell, and Wayneman: my house at the Navy Office.
+1661-12-31 21:35 r My servants, W. Hewer, Sarah, Nell, and Wayneman: my house at the Navy Office. I suppose myself to be worth about 500l. clear in the world, and my goods of my house my own, and what is coming to me from Brampton, when my father dies, which God defer.
 
-1661-12-31 21:32   My health is very good, and so my wife’s in all respects.
+1661-12-31 21:32 r My health (only upon catching cold, which brings great pain in my back and making of water as it used to be when I had the stone) is very good, and so my wife’s in all respects.
 
-1661-12-31 21:30   After my barber had trimmed me, I sat down to end my journell for this year, and my condition at this time, by God’s blessing, is thus:
+1661-12-31 21:30   After supper, and my barber had trimmed me, I sat down to end my journell for this year, and my condition at this time, by God’s blessing, is thus:
 
-1661-12-31 19:18   To the office; and there finishing our estimate of the debts of the Navy to this day; and it come to near 374,000l.
+1661-12-31 19:18   To the office; and there late finishing our estimate of the debts of the Navy to this day; and it come to near 374,000l.
 
-1661-12-31 11:28   To the Paynter’s, and my wife sat the last time, and I did tell him some little things to do, that now her picture will please me very well.
+1661-12-31 11:28   My wife and I to the Paynter’s, and there she sat the last time, and I stood by and did tell him some little things to do, that now her picture I think will please me very well. And after her, her little black dogg sat in her lap; and was drawn, which made us very merry.
 
-1661-12-30 14:10   Here I made them a foolish promise to give them a dinner this day twelvemonth, and so for ever while I live, but I do not intend it.
 
-1661-12-30 13:48   There was about twelve, among others Mr. Bowyer, the old man, and Mr. Faulconberge, Shadwell, Taylor, Spicer, Woodruffe, Servington, &c.
 
-1661-12-30 13:42   A good chine of beef, which with three barrels of oysters and three pullets, and plenty of wine and mirth, was our dinner.
+1661-12-30 14:10 r There was about twelve of us, among others Mr. Bowyer, the old man, and Mr. Faulconberge, Shadwell, Taylor, Spicer, Woodruffe, Servington, &c, and here I made them a foolish promise to give them one this day twelvemonth, and so for ever while I live, but I do not intend it.
 
-1661-12-30 12:31   To the Mitre, whither I had invited all my old acquaintance of the Exchequer.
+1661-12-30 13:31   I staid at the Mitre, whither I had invited all my old acquaintance of the Exchequer to a good chine of beef, which with three barrels of oysters and three pullets, and plenty of wine and mirth, was our dinner.
+
 
 1661-12-29 22:02   To the Wardrobe and supped, and staid very long talking with my Lady, who seems to doat every day more and more upon us.
 
-1661-12-29 15:31   I to the Abbey, and there meeting with Mr. Hooper, he took me in among the quire, and there I sang with them their service.
+1661-12-29 15:31   A coach came and I carried my wife to Westminster, and she went to see Mrs. Hunt, and I to the Abbey, and there meeting with Mr. Hooper, he took me in among the quire, and there I sang with them their service.
 
-1661-12-28 15:39   Upon a letter from the Duke for the making up of a speedy estimate of all the debts of the Navy, which is put into good forwardness.
+
+1661-12-28 15:39   All of us at the office, upon a letter from the Duke for the making up of a speedy estimate of all the debts of the Navy, which is put into good forwardness.
+
 
 1661-12-27 09:37   To my Bookseller’s to bespeak a Stephens’s Thesaurus, for which I offer 4l., to give to Paul’s School.
 
-1661-12-26 22:32   Sir W. Pen and his son and daughter to supper to me to a good turkey, and were merry at cards, and so to bed.
 
-1661-12-26 16:30   The woman of the house told us my boy had called for cakes and ale for himself, at which I was angry, and am resolved to correct him for it.
+1661-12-26 22:32 r So home and Sir W. Pen and his son and daughter to supper to me to a good turkey, and were merry at cards, and so to bed.
 
-1661-12-26 15:02   In the alehouse, we eat some cakes and ale, and a washeallbowle woman and girl came to us and sung to us.
+1661-12-26 16:30 r And after all was done I called my boy (Wayneman) to us to eat some cake that was left, and the woman of the house told us that he had called for two cakes and a pot of ale for himself, at which I was angry, and am resolved to correct him for it.
 
-1661-12-26 14:09   Sir William and his son and daughter, and I and my wife, to Moorfields to walk; but it was foul weather, and so we went into an alehouse.
+1661-12-26 14:09   Sir William came to me, and he and his son and daughter, and I and my wife, by coach to Moorfields to walk; but it was most foul weather, and so we went into an alehouse and there eat some cakes and ale, and a washeallbowle woman and girl came to us and sung to us.
 
-1661-12-25 13:22   After dinner my wife comes up to me and all friends again, and she and I to walk upon the leads.
 
-1661-12-25 12:48   Taking occasion from some fault in the meat to complain of my maid’s sluttery, my wife and I fell out, and I to my chamber in a discontent.
+1661-12-25 18:35 r But before supper Captain Cock came to us half drunk, but Sir W. Pen knowing his humour and that there was no end of his talking, drinks four great glasses of wine to him, one after another, healths to the king, and by that means made him drunk, and so he went away.
+
+1661-12-25 18:22   My wife comes up to me and all friends again, and she and I to walk upon the leads, and there Sir W. Pen called us, and we went to his house and supped with him.
+
+1661-12-25 12:48   Dined at home all alone, and taking occasion from some fault in the meat to complain of my maid’s sluttery, my wife and I fell out, and I up to my chamber in a discontent.
 
 1661-12-25 11:02   To church, where at the door of our pew I was fain to stay, because that the sexton had not opened the door.
 
-1661-12-23 19:22   I met with Mr. Crumlum and the second master of Paul’s School, and I took them to the Starr, and I had great pleasure in their company.
 
-1661-12-23 08:14   Took up Mr. Moore, and he and I to Chelsy to my Lord Privy Seal, and there sealed some things, he being to go out of town for all Christmas.
+1661-12-24 17:30   Home all the morning and dined at home, and in the afternoon to the office. So home.
 
-1661-12-22 20:28   Dr. T. Pepys, Will. Joyce, and my brother Tom supped with me. Merry they were, and I seemed to be, but I was not pleased with their company.
 
-1661-12-22 15:08   To church, and there was Capt. Holmes, in his gold-laced suit. I was troubled because of the old business which he attempted upon my wife.
+1661-12-23 19:22   Lighting at my bookseller’s, I met with Mr. Crumlum and the second master of Paul’s School, and I took them to the Starr, and there we sat and talked, and I had pleasure in their company, and glad I was of meeting him so accidentally, I having omitted too long to go to see him.
 
-1661-12-22 12:38   To dinner. I took occasion, from the blacknesse of the meat as it came out of the pot, to fall out with my wife and maid for their sluttery.
+1661-12-23 08:14   To the Wardrobe, and took up Mr. Moore, and he and I to Chelsy to my Lord Privy Seal, and there sealed some things, he being to go out of town for all Christmas tomorrow.
 
-1661-12-21 14:03   I spoke to Mr. Falconberge to look whether he could out of Domesday Book, give me any thing concerning the sea, and the dominion thereof.
 
-1661-12-21 09:01   I was glad, but only afeard lest any thing of the King’s should force us to go after him to get a seal in the country.
+1661-12-22 20:28 r Home and there came by appointment Dr. T. Pepys, Will. Joyce, and my brother Tom, and supped with me, and very merry they were, and I seemed to be, but I was not pleased at all with their company.
 
-1661-12-21 08:58   To the Privy Seal, where my Lord Privy Seal did tell us he could seal no more, for he goes thirty miles out of town to keep his Christmas.
+1661-12-22 15:35 r With my mind troubled I sat still, but by and by I took occasion from the rain now holding up to put my wife in mind of going to the christening (which she was invited to) of N. Osborne’s child, which she did, and so went out of the pew, and my mind was eased.
 
-1661-12-20 20:07   Mr. Moore and I, in the street and on the Exchange, discoursed about Dominion of the Sea, wherein I am lately so much concerned.
+1661-12-22 15:08   My wife and I to church, and there in the pew, with the rest of the company, was Captain Holmes, in his gold-laced suit, at which I was troubled because of the old business which he attempted upon my wife.
 
-1661-12-20 15:46   With Mr. Swan to a tavern, where we had enough of his old simple religious talk, and he is still a coxcomb in these things as he ever was.
+1661-12-22 12:38   Home to dinner, and there I took occasion, from the blacknesse of the meat as it came out of the pot, to fall out with my wife and my maid for their sluttery, and so left the table.
 
-1661-12-19 12:41   To very high words, so that, like a passionate fool, I did call my wife whore, for which I was afterwards sorry.
 
-1661-12-19 12:39   My wife and I went by coach home, but I took occasion to fall out with her highly about her ribbands being ill matched and of two colours.
+1661-12-21 16:33   To the office, where I was vexed to see Sir Williams both think so much that I should be a little out of the way, saying that without their Register they were not a Committee, which I took in some dudgeon, and see clearly that I must keep myself at a little distance with them.
 
-1661-12-19 12:04   My wife and I to the Paynter’s, and there she sat, and I all the while looking over great variety of good prints which he had.
+1661-12-21 14:03   I spoke to Mr. Falconberge to look whether he could out of Domesday Book, give me any thing concerning the sea, and the dominion thereof; which he says he will look after.
+
+1661-12-21 08:58   To the Privy Seal where my Lord Privy Seal did tell us he could seal no more this month for that he goes thirty miles out of town to keep his Christmas. At which I was glad but only afeard lest any thing of the King’s should force us to go after him to get a seal in the country.
+
+
+1661-12-20 20:07   Mr. Moore and I into Cornhill, it being dark night, and in the street and on the Exchange discoursed about Dominion of the Sea, wherein I am lately so much concerned.
+
+1661-12-20 15:46   With Mr. Swan to a tavern, where we had enough of his old simple religious talk, and he is still a coxcomb in these things as he ever was, and tells me he is setting out a book called “The unlawfull use of lawfull things;” but a very simple fellow he is, and so I leave him.
+
+
+1661-12-19 12:39 r My wife and I went by coach home, but in the way I took occasion to fall out with my wife very highly about her ribbands being ill matched and of two colours, and to very high words, so that, like a passionate fool, I did call her whore, for which I was afterwards sorry.
+
+1661-12-19 12:10 r By and by comes my boy to tell us that Mrs. Hunt has been at our house to tell us that the christening is not till Saturday next.
+
+1661-12-19 12:04   My wife dressed herself fine to go to the christening of Mrs. Hunt’s child, and so she and I went to the Paynter’s, and there she sat till noon, and I all the while looking over great variety of good prints which he had.
+
 
 1661-12-18 12:09   At the office upon business extraordinary all the morning.
+
 
 1661-12-17 22:34   Home to supper and to Selden, “Mare Clausum,” and so to bed.
 
 1661-12-17 16:22   I was sent for to the Privy Seal, whither I was forced to go and stay so long and late that I was much vexed.
 
-1661-12-16 16:49   It being the first time, the pay was doubled, and so to save money, my wife and I went up into the gallery, and there sat and saw very well.
+
+1661-12-16 16:49 r It being the first time, the pay was doubled, and so to save money, my wife and I went up into the gallery, and there sat and saw very well; and a very good play it is. It seems of Cowly’s making.
 
 1661-12-16 14:14   To the Opera, where there was a new play (“Cutter of Coleman Street”), made in the year 1658, with reflections much upon the late times.
 
-1661-12-16 04:58   Up by candlelight (which I have not done for many a day), being called upon by one Mr. Bollen by appointment.
+1661-12-16 04:58   Up by candlelight (which I have not done for many a day), being called upon by one Mr. Bollen by appointment, who has business to be done with my Lord Privy Seal this morning.
 
-1661-12-15 21:24   I am now full of study about writing something about our making of strangers strike to us at sea; and so am reading Selden and Grotius.
 
-1661-12-15 19:00   I am troubled about a difference between my wife and her maid Nell, a simple slut, and I am afeard we shall find her a cross-grained wench.
+1661-12-15 21:24   I am now full of study about writing something about our making of strangers strike to us at sea; and so am altogether reading Selden and Grotius, and such other authors to that purpose.
+
+1661-12-15 19:00   I have been troubled this day about a difference between my wife and her maid Nell, who is a simple slut, and I am afeard we shall find her a cross-grained wench.
+
 
 1661-12-14 11:05   All the morning at home lying in bed with my wife. Such a habit we have got this winter of lying long abed.
 
-1661-12-13 23:18   To the Steelyard, where my Lady Batten and others came to us, and there we drank and had musique and Captain Cox’s company, and he paid all.
 
-1661-12-13 16:04   The Paynter having done, I found that the dead colour of my wife is good, above what I expected, which pleased me exceedingly.
+1661-12-13 23:18   With Sir Williams both to the Steelyard, where my Lady Batten and others came to us, and there we drank and had musique and Captain Cox’s company, and he paid all, and so late back again home by coach, and so to bed.
 
-1661-12-13 15:48   To the Paynter’s, and there my wife sat to be drawn, while I stood looking on a pretty lady’s picture, whose face did please me extremely.
+1661-12-13 16:04 r At last, he having done, I found that the dead colour of my wife is good, above what I expected, which pleased me exceedingly.
+
+1661-12-13 15:48   With my wife to the Paynter’s, and there she sat the first time to be drawn, while I all the while stood looking on a pretty lady’s picture, whose face did please me extremely.
 
 1661-12-13 12:05   At home all the morning, being by the cold weather, which for these two days has been frost, in some pain in my bladder.
 
-1661-12-11 22:02   Comes in Captain Cox who promised to be here, but he had been drinking and was very drunk, and so capricious, which I was troubled to see.
 
-1661-12-11 15:35   I went to see Sir W. Pen, who has not been well, and he and I after some talk went to Moorfields, and there walked, though it was very cold.
+1661-12-12 10:10   We lay long in bed, then up and made me ready, and by and by come Will Bowyer and Mr. Gregory, my old Exchequer friend, to see me, and I took them to the Dolphin and there did give them a good morning draft.
 
-1661-12-11 10:28   Pegg Kite has married herself to a weaver, an ugly fellow, to her undoing, of which I am glad that I have nothing to do in it.
 
-1661-12-10 13:40   To my Lord Crew’s by coach, and had a stop of an hour and a half, which is a great trouble this Parliament time, but it cannot be helped.
+1661-12-11 22:32   I by promise to Sir W. Batten’s and by and by comes in Captain Cox who promised to be here with me, but he staid very late, and had been drinking somewhere and was very drunk, and so very capricious, which I was troubled to see in a man that I took for a very wise and wary man.
 
-1661-12-09 23:57   Writing letters to my Lord Sandwich and my friends with him at sea, to send by Mons. Eschar, who goes to the Downs to go along to Portugall.
+1661-12-11 16:35   I went to see Sir W. Pen, who has not been well, and he and I took a coach and went to Moorfields, and there walked, though it was very cold, an hour or two, and went into an alehouse, and there I drank some ale and eat some bread and cheese, but he would not eat a bit.
 
-1661-12-09 12:50   I endeavoured to oppose; and was troubled to hear my Lady Wright talk so, though she be a very wise and discreet lady in other things.
+1661-12-11 12:50 r Though I met Mr. Yong the upholster yet I would not be persuaded to stay, but went away and walked to the Exchequer, and up and down, and was very hungry, and from thence home, when I understand Mr. Howell was come for me to go thither, but I am glad I was not at home.
 
-1661-12-09 12:49   Lady Wright did talk upon the worth of gallantry and that there was none fit to be courtiers but such as have been abroad and know fashions.
+1661-12-11 12:04 r Home and put on my velvet coat, and so to the Mitre to dinner according to my promise this morning, but going up into the room I found at least 12 or more persons, and knew not the face of any of them, so I went down again.
 
-1661-12-08 15:03   A great deal of discourse with my Lady, of the great christening at Mr. Rumbell’s, and courtiers and pomp that was there, which I wonder at.
+1661-12-11 10:28 r He told me the whole story how Pegg Kite has married herself to a weaver, an ugly fellow, to her undoing, of which I am glad that I have nothing to do in it.
+
+1661-12-11 09:03   I met with Mr. Howell the Turner, who invited me to dine this day at Mr. Rawlinson’s with some friends of his, officers of the Towre, at a venison pasty, which I promised him.
+
+
+1661-12-10 13:40   To dinner to my Lord Crew’s by coach, and in my way had a stop of above an hour and a half, which is a great trouble this Parliament time, but it cannot be helped.
+
+
+1661-12-09 23:57   Writing letters to my Lord Sandwich and all my friends with him at sea, to send tomorrow by Mons. Eschar, who goes tomorrow post to the Downs to go along with the fleet to Portugall.
+
+1661-12-09 12:49   Lady Wright did talk much upon the worth and the desert of gallantry; and that there was none fit to be courtiers, but such as have been abroad and know fashions. Which I endeavoured to oppose; and was troubled to hear her talk so, though she be a very wise lady in other things.
+
+
+1661-12-08 15:03   After a great deal of good discourse with my Lady after dinner, and among other things of the great christening yesterday at Mr. Rumbell’s, and courtiers and pomp that was there, which I wonder at, I went away up and down into all the churches between that place and my house.
 
 1661-12-08 11:49   In bed all the morning thinking to take physique, but it being a frost my wife would not have me.
 
-1661-12-07 19:22   Captain Holmes do cry out against Sir John Minnes, as the veriest knave and rogue and coward in the world, which I was glad to hear.
 
-1661-12-07 09:13   I went home, and there found my wife dressing of the German’s head, and so did give him a cravett for his neck, and a crown in his purse.
+1661-12-07 19:22   Captain Holmes do cry out against Sir John Minnes, as the veriest knave and rogue and coward in the world, which I was glad to hear, because he has given out bad words concerning my Lord, though I am sorry it is so.
 
-1661-12-07 08:54   I went into the alehouse at the Stayres and got them to deliver the Captain’s feathers, which one from the Captain was come to demand.
+1661-12-07 16:05 r There was a patent for Roger Palmer (Madam Palmer’s husband) to be Earl of Castlemaine and Baron of Limbricke in Ireland; but the honour is tied up to the males got of the body of this wife, the Lady Barbary: the reason whereof every body knows.
 
-1661-12-07 08:47   The waterman would not take this, but struck him again, and the German drew his sword and ran at one of them, but they were both beaten.
+1661-12-07 15:02   To Whitehall, and eat a bit of meat at Wilkinson’s, and then to the Privy Seal, and sealed there the first time this month.
 
-1661-12-07 08:45   I went thither, and found that upon some rude pressing of the watermen to ply the Captain, he struck one of them with his cane.
+1661-12-07 09:13 r I went home again, and there found my wife dressing of the German’s head, and so did give him a cravett for his neck, and a crown in his purse, and sent him away again.
 
-1661-12-07 08:34   In comes the German again, in a goare of blood, and tells me that he is afeard that the Captain is killed by the watermen at Towre Stayres.
+1661-12-07 08:54 r The Captain is, however, got to the hoy that carries him and the pages to the Downs, and I went into the alehouse at the Stayres and got them to deliver the Captain’s feathers, which one from the Captain was come to demand.
 
-1661-12-07 08:04   I did give Captain Ferrers and the German a mince pie and a collar of brawn and some wine for their breakfast, and were very merry.
+1661-12-07 08:45 r I went thither, and found that upon some rude pressing of the watermen to ply the Captain, he struck one of them with his cane, which they would not take, but struck him again, and then the German drew his sword and ran at one of them, but they were both soundly beaten.
 
-1661-12-07 07:22   The German plays bravely. I find by him that my lute is a most excellent lute.
+1661-12-07 08:34 r Within a quarter of an hour after they were gone, in comes the German back again, all in a goare of blood, which I wondered at, and tells me that he is afeard that the Captain is killed by the watermen at Towre Stayres.
 
-1661-12-07 07:08   I got the German, Emanuel Luffe, to play upon my theorbo, which he did both below and in my wife’s chamber, who was in bed.
+1661-12-07 07:40 r  He plays bravely. I find by him that my lute is a most excellent lute. I did give them a mince pie and a collar of brawn and some wine for their breakfast, and were very merry.
 
-1661-12-06 14:42   By appointment came the Governors of the East India Company, to sign and seal the contract between us (in the King’s name) and them.
+1661-12-07 07:08   Comes Captain Ferrers and the German, Emanuel Luffe, who goes as one of my Lord’s footmen, though he deserves a much better preferment, to take their leave of me. I got the German to play upon my theorbo, which he did both below and in my wife’s chamber, who was in bed.
 
-1661-12-05 17:59   Rode out in Sir W. Pen’s coach, he to Whitehall, and my wife and I to the Opera, and saw “Hamlett” well performed.
 
-1661-12-05 13:49   Sir W. Pen and I dined at my house, and had two mince pies sent thither by our order from the messenger Slater, and so we were very merry.
+1661-12-06 15:55 r And that done, we all went to the King’s closet, and there spoke with the King and the Duke of York, who promise to be very careful of the India trade to the utmost.
+
+1661-12-06 14:42   After dinner, by appointment, came the Governors of the East India Company, to sign and seal the contract between us (in the King’s name) and them.
+
+
+1661-12-05 17:59 r Rode out in Sir W. Pen’s coach, he to Whitehall, and my wife and I to the Opera, and saw “Hamlett” well performed.
+
+1661-12-05 13:49   Sir W. Pen and I went and dined at my house, and had two mince pies sent thither by our order from the messenger Slater, that had dressed some victuals for us, and so we were very merry.
 
 1661-12-05 10:58   I went early to the Paynter’s and there sat for my picture the fourth time, but it do not yet please me, which do much trouble me.
 
-1661-12-04 18:04   By coach to the Opera and Theatre, but coming too late to both, and myself being a little out of tune we returned.
+
+1661-12-04 18:04   By water to Cheapside to the painter’s, and there found my wife, and having sat a little she and I by coach to the Opera and Theatre, but coming too late to both, and myself being a little out of tune we returned.
 
 1661-12-04 10:05   To Whitehall with both Sir Williams, thence by water, where I saw a man lie dead upon Westminster Stairs that had been drowned yesterday.
 
-1661-12-04 09:28   I did complain to Mr. Creed of my dream. He said he had the same pain in his left that I had in my right stone which pleased me to remember.
+1661-12-04 09:28 r I found myself very well at ease, and remembered that I did dream so, and that Mr. Creed was with me, and that I did complain to him of it, and he said he had the same pain in his left that I had in my right stone which pleased me much to remember.
 
-1661-12-04 07:04   Such apprehension I had of it that when I rose and trussed up myself thinking that it had been no dream.
-
-1661-12-04 07:02   Then I dreamed that I had one of my testicles swelled, and in such pain that I waked with it, and had a great deal of pain there a while.
+1661-12-04 07:02 r Then I dreamed that I had one of my testicles swelled, and in such pain that I waked with it, and had a great deal of pain there a great while till I fell asleep again, and such apprehension I had of it that when I rose and trussed up myself thinking that it had been no dream.
 
 1661-12-04 06:50   Had a very bad night by dreams of my wife’s riding with me and her horse throwing her and breaking her leg.
 
-1661-12-03 15:04   By water to the office through bridge, being carried by him in oars that the other day rowed in a scull faster than my oars to the Towre.
 
-1661-12-03 13:52   My Lady Wright says there is great happiness in being in the fashion and in variety of fashions, in scorn of others that are not so.
+1661-12-03 15:04   By water to the office through bridge, being carried by him in oars that the other day rowed in a scull faster than my oars to the Towre, and I did give him 6d.
+
+1661-12-03 13:52   My Lady Wright says there is in being in the fashion and in variety of fashions, in scorn of others that are not so, as citizens’ wives and country gentlewomen, which though it did displease me enough, yet I said nothing to it.
 
 1661-12-03 11:43   To the Paynter’s and sat and had more of my picture done; but it do not please me, for I fear it will not be like me.
+
 
 1661-12-02 17:34   Called on by Mr. Sanchy and his mistress, and with them by coach to the Opera, to see “The Mad Lover,” but not much pleased with the play.
 
 1661-12-02 09:21   To Savill the painter’s, but he not being well I could do nothing there, and so I returned home.
 
-1661-12-01 21:07   There hath been great clapping up of old statesmen, Ireton, Moyer, and others, and they say, upon a great plot, but I believe no such thing.
 
-1661-12-01 18:31   My brother Tom was with me, and I did talk again to him about Mr. Townsend’s daughter, and I do intend to put the business in hand.
+1661-12-01 21:07   There hath lately been great clapping up of some old statesmen, such as Ireton, Moyer, and others, and they say, upon a great plot, but I believe no such thing; but it is but justice that they should be served as they served the poor Cavaliers.
 
-1661-12-01 13:05   We cut a brave collar of brawn which proves good, and opened the glass of girkins which Capt. Cocke did give my wife, which are rare things.
+1661-12-01 18:31   Ny brother Tom was with me, and I did talk again to him about Mr. Townsend’s daughter, and I do intend to put the business in hand. I pray God give a good end to it.
+
+1661-12-01 13:05   We this day cut a brave collar of brawn from Winchcombe which proves very good, and also opened the glass of girkins which Captain Cocke did give my wife the other day, which are rare things.
