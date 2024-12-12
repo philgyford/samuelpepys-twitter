@@ -1,162 +1,230 @@
-YYYY-MM-DD HH:MM   12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+YYYY-MM-DD HH:MM r 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
-1662-01-31 12:05   All the morning, after musique practice, in my cellar, ordering alteracons therein, being much pleased with my new door into the back yard.
+1662-01-31 21:30   I did by night set many things in order, which pleased me well, and puts me upon a resolution of keeping within doors and minding my business and the business of the office, which I pray God I may put in practice.
 
-1662-01-30 21:52   I think I shall begin to take pleasure in being at home and minding my business. I pray God I may, for I find a great need thereof.
+1662-01-31 12:05   All the morning, after musique practice, in my cellar, ordering some alteracons therein, being much pleased with my new door into the back yard.
 
-1662-01-30 11:32   To church, and Mr. Mills made a good sermon upon David’s words, “Who can lay his hands upon the Lord’s Anoynted and be guiltless?”
 
-1662-01-29 20:42   When the pullet was ready to come to table, the foolish girl had not the manners to stay and sup, but went away, which did vex me cruelly.
+1662-01-30 21:52 r I think I shall begin to take pleasure in being at home and minding my business. I pray God I may, for I find a great need thereof.
 
-1662-01-29 20:08   Home, where I found Mrs. Pen and Mrs. Rooth and Smith at cards with my wife. I did give them a barrel of oysters and had a pullet to supper.
+1662-01-30 17:32 r So home and to dinner, and employed all the afternoon in my chamber, setting things and papers to rights, which pleased me very well.
 
-1662-01-28 13:22   The Paynter I found to be silly as to matter of skill in shadows, for we were long in discourse till I was angry to hear him talk so simply.
+1662-01-30 11:32   I went to church, and Mr. Mills made a good sermon upon David’s words, “Who can lay his hands upon the Lord’s Anoynted and be guiltless?”
 
-1662-01-28 13:09   To the Paynter’s, where we staid very late to have my wife’s picture mended, which at last is come to be like her, and I think well done.
 
-1662-01-27 08:58   We met with sleddes to carry my Lord Monson and Sir H. Mildmay and another, to the gallows and back again, with ropes about their necks.
+1662-01-29 20:42 r When it was ready to come to table, the foolish girl had not the manners to stay and sup with me, but went away, which did vex me cruelly.
 
-1662-01-26 22:30   Thanks be to God, since my leaving drinking of wine, I mind my business better, and do spend less money, and less time lost in idle company.
+1662-01-29 20:08   Home, where I found Mrs. Pen and Mrs. Rooth and Smith, who played at cards with my wife, and I did give them a barrel of oysters, and had a pullet to supper for them.
 
-1662-01-26 16:28   It having been a very fine clear frosty day — God send us more of them, for the warm weather all this winter makes us fear a sick summer.
 
-1662-01-25 17:10   To dinner, but I eat too much beef, which made me sick, and so after dinner we went to the office, and there in a garden I went and vomited.
+1662-01-28 13:22 r But the Paynter, though a very honest man, I found to be very silly as to matter of skill in shadows, for we were long in discourse, till I was almost angry to hear him talk so simply.
 
-1662-01-25 10:52   Sir W. Pen did break a business to me about removing his son from Oxford to Cambridge to some private college. I proposed Magdalene.
+1662-01-28 13:09   With my wife to the Paynter’s, where we staid very late to have her picture mended, which at last is come to be very like her, and I think well done.
+
+
+1662-01-27 08:58   Going to take water upon Tower-hill, we met with three sleddes standing there to carry my Lord Monson and Sir H. Mildmay and another, to the gallows and back again, with ropes about their necks; which is to be repeated every year, this being the day of their sentencing the King.
+
+
+1662-01-26 22:30   Thanks be to God, since my leaving drinking of wine, I do find myself much better and do mind my business better, and do spend less money, and less time lost in idle company.
+
+1662-01-26 16:28   It having been a very fine clear frosty day – God send us more of them, for the warm weather all this winter makes us fear a sick summer.
+
+
+1662-01-25 17:10 r And so to dinner, where good cheer and discourse, but I eat a little too much beef, which made me sick, and so after dinner we went to the office, and there in a garden I went in the dark and vomited, whereby I did much ease my stomach.
+
+1662-01-25 13:35 r Thence with him to the Trinity-house to dinner; and after the Trinity-house men had done their business, the master, Sir William Rider, came to bid us welcome.
+
+1662-01-25 10:52 r Sir W. Pen came to me, and did break a business to me about removing his son from Oxford to Cambridge to some private college. I proposed Magdalene, but cannot name a tutor at present; but I shall think and write about it.
 
 1662-01-25 10:03   Walking in the garden to give the gardener directions what to do this year (for I intend to have the garden handsome).
 
+
 1662-01-24 19:28   So home, in my way calling at Pope’s Head alley, and there bought me a pair of scissars and a brass square.
 
-1662-01-24 15:08   I sent for the pictures, and mine is well liked; but my Lady is offended with my wife’s, and I am of her opinion, that it do much wrong her.
+1662-01-24 15:08 r To the Wardrobe, where very merry with my Lady, and after dinner I sent for the pictures thither, and mine is well liked; but she is much offended with my wife’s, and I am of her opinion, that it do much wrong her; but I will have it altered.
 
 1662-01-24 09:43   To my painter’s, and there I saw our pictures in the frames, which please me well.
 
-1662-01-23 14:58   I took aside the two Joyces, to thank them for their kind thoughts for a wife for Tom, but I think he may expect a wife with more money.
 
-1662-01-23 14:09   To the Three Crane Tavern, and though the best room, in such a narrow dogg-hole we were crammed it made me loathe my company and victuals.
+1662-01-23 14:58 r I took aside the two Joyce’s, and took occasion to thank them for their kind thoughts for a wife for Tom: but that considering the possibility there is of my having no child, and what then I shall be able to leave him, I do think he may expect a wife with more money.
 
-1662-01-23 12:58   By coach by invitacon to my uncle Fenner’s, where I found his new wife, a pitiful, old, ugly, illbred woman in a hatt, a midwife.
+1662-01-23 14:09 r After choosing our gloves, we all went over to the Three Crane Tavern, and though the best room in the house, in such a narrow dogg-hole we were crammed, and I believe we were near forty, that it made me loathe my company and victuals; and a sorry poor dinner it was too.
 
-1662-01-22 15:50   I to have a meeting with T. Trice in order to a treating about the difference between us. I find there is no hopes of ending it but by law.
+1662-01-23 12:58   By coach by invitacon to my uncle Fenner’s, where I found his new wife, a pitiful, old, ugly, illbred woman in a hatt, a midwife. Here were many of his, and as many of her relations, sorry, mean people.
+
+
+1662-01-22 15:50   I to have a meeting by appointment with Tho. Trice and Dr. Williams in order to a treating about the difference between us, but I find there is no hopes of ending it but by law, and so after a pint or two of wine we parted.
 
 1662-01-22 11:48   To the Hall, where I heard the House had ordered all the King’s murderers, that remain, to be executed, but Fleetwood and Downes.
 
-1662-01-22 10:14   There are factions about Madam Palmer; what it is about I know not. Something about the King’s favour to her now that the Queen is coming.
+1662-01-22 10:14 r There are factions (private ones at Court) about Madam Palmer; but what it is about I know not. But it is something about the King’s favour to her now that the Queen is coming.
 
-1662-01-22 09:43   The House said they had found how that man that hath the command of an army is not beholden to any body to make him King.
+1662-01-22 09:48 r But the House did, in very open terms, say, they were grown too wise to be fooled again into another army; and said they had found how that man that hath the command of an army is not beholden to any body to make him King.
 
-1662-01-22 09:04   To Westminster, in my way calling at Mr. George Montagu’s, to condole him the loss of his son, who was a fine gentleman.
+1662-01-22 09:43   The Lord Chancellor, it seems, taking occasion from this late plot to raise fears in the people, did project the raising of an army forthwith, besides the constant militia, thinking to make the Duke of York General thereof.
 
-1662-01-21 21:58   We have heard nothing yet how far the fleet hath got toward Portugall, but the wind being changed again, we fear they are stopped.
+1662-01-22 09:04   To Westminster, in my way calling at Mr. George Montagu’s, to condole him the loss of his son, who was a fine gentleman, and it is no doubt a great discomfort to our two young gentlemen, his companions in France.
+
+
+1662-01-21 21:58   We have heard nothing yet how far the fleet hath got toward Portugall, but the wind being changed again, we fear they are stopped, and may be beat back again to the coast of Ireland.
 
 1662-01-21 13:50   To the finishing of the Treasurer’s accounts this morning, and then to dinner again, and were merry as yesterday.
 
+
 1662-01-20 23:52   This day the workmen began to make me a sellar door out of the back yard, which will much please me.
 
-1662-01-20 21:32   My aunt and uncle Wight and Mrs. Anne Wight came to play at cards (at gleek which she taught me and my wife last week) and so to supper.
+1662-01-20 22:30   Home, where my aunt and uncle Wight and Mrs. Anne Wight came to play at cards (at gleek which she taught me and my wife last week) and so to supper, and then to cards and so good night.
 
-1662-01-20 15:20   The vessel was filled up with four gallons of Malaga wine. It is the first great quantity of wine that I ever bought.
+1662-01-20 15:20 r Mine was put into a hogshead, and the vessel filled up with four gallons of Malaga wine, but what it will stand us in I know not: but it is the first great quantity of wine that I ever bought.
 
-1662-01-20 15:12   Mr. Morrice, the wine cooper, did divide the two butts, which we four did send for, of sherry from Cales, and mine was put into a hogshead.
+1662-01-20 15:12   Sir Wm. Batten and Pen and I to dinner at Sir W. Batten’s, where we were merry, there being at table the Treasurer and we three, Mr. Wayth, Ferrer, Smith, Turner, and Mr. Morrice, the wine cooper, who did divide the two butts, which we four did send for, of sherry from Cales.
 
-1662-01-19 20:09   I am troubled to hear that the Turks do take more of our ships in the Straights, and that our merchants here in London do daily break.
 
-1662-01-19 19:44   To my uncle Wight’s, and there we supped and were merry, though my uncle hath lately lost 200 or 300 at sea.
+1662-01-19 19:44   To my uncle Wight’s, and there we supped and were merry, though my uncle hath lately lost 200 or 300 at sea, and I am troubled to hear that the Turks do take more and more of our ships in the Straights, and that our merchants here in London do daily break.
 
-1662-01-19 14:54   My uncle Fenner has lately married a midwife that is old and ugly, and that hath already brought home to him a daughter and three children.
+1662-01-19 11:45 r Speaking again, the Father is now so satisfied by our security for our debt, that we might say at the last day as many of us as have interest in Christ’s death: Lord, we owe thee nothing, our debt is paid. We are not beholden to thee for anything; which methinks were bold words.
 
-1662-01-19 11:31   Mr. Mills preached upon Christ’s being offered up for our sins, and he did make such a sermon that I could have wished he had let it alone.
+1662-01-19 11:31   To church, where Mr. Mills preached upon Christ’s being offered up for our sins, and there proving the equity with what justice God would lay our sins upon his Son, he did make such a sermon, that I could have wished he had let it alone.
 
-1662-01-18 13:15   To the Wardrobe, and hearing it would be late before they went to dinner, I went and spent some time in Paul’s Churchyard among some books.
 
-1662-01-18 09:20   Dr. Williams told me how T. Trice had spoke to him about getting me to meet that our difference might be made up between us by ourselves.
+1662-01-18 13:15   To the Wardrobe, and there hearing it would be late before they went to dinner, I went and spent some time in Paul’s Churchyard among some books.
 
-1662-01-17 15:20   In the Piazza seeing a house on fire, and all the streets full of people to quench it.
+1662-01-18 09:20   I went to Dr. Williams, and there he told me how T. Trice had spoke to him about getting me to meet that our difference might be made up between us by ourselves, which I am glad of.
 
-1662-01-17 14:58   Mr. George Montagu's house hear nothing at all of our young Lord; so believing that thence comes the mistake, I returned to my Lord Crew.
 
-1662-01-17 14:54   I found Mr. George Montagu’s house in great heaviness for the death of his son, who did go with our young gentlemen into France.
+1662-01-17 22:00 r And so I went to my Lady Sandwich, and told her all, and after much talk I parted thence with my wife, who had been there all the day, and so home to my musique, and then to bed.
 
-1662-01-17 10:14   Lany told me that he had a letter from France last night, that tells him my Lord Hinchingbroke is dead, which do surprise me exceedingly.
+1662-01-17 17:07 r So believing that thence comes the mistake, I returned to my Lord Crew (in my way in the Piazza seeing a house on fire, and all the streets full of people to quench it), and told them of it, which they are much glad of, and conclude, and so I hope, that my Lord is well.
 
-1662-01-16 20:28   Stokes also told us that the kings in Gambo have above 100 wives a-piece, and offered him the choice of any of his wives to lie with.
+1662-01-17 15:33 r We thought of my going to Mr. George Montagu’s to hear whether he had news of it, and there found all his house in great heaviness for the death of his son, Mr. George Montagu, who did go with our young gentlemen into France, and that they hear nothing at all of our young Lord.
 
-1662-01-16 20:23   Stokes told us that the people of the country of Gambo live very long. The present king there is 150 years old, which they count by rains.
+1662-01-17 13:40 r Being fearfull that my Lady should come to hear it too suddenly, he and I went up to my Lord Crew’s, and there I dined with him, and after dinner we told him, and the whole family is much disturbed by it: so we consulted what to do to tell my Lady of it.
+
+1662-01-17 11:14   Lany, the Frenchman, told me that he had a letter from France last night, that tells him that my Lord Hinchingbroke is dead, and that he did die yesterday was se’nnight, which do surprise me exceedingly.
+
+
+1662-01-16 20:28 r He also told us, that the kings there have above 100 wives a-piece, and offered him the choice of any of his wives to lie with, and so he did Captain Holmes.
+
+1662-01-16 20:23   Stokes told us, that notwithstanding the country of Gambo is so unhealthy, yet the people of the place live very long, so as the present king there is 150 years old, which they count by rains: because every year it rains continually four months together.
 
 1662-01-16 12:22   I to the Paynter’s, and there paid him 6l. for the two pictures, and 36s. for the two frames.
 
 1662-01-16 11:03   In Paul’s Churchyard saw the funeral of my Lord Cornwallis, late Steward of the King’s House, a bold profane talking man, go by.
 
-1662-01-15 10:24   It is, both as to warmth and every other thing, just as if it were the middle of May or June, which do threaten a plague to follow.
 
-1662-01-15 10:20   Mr Berkenshaw tells me that it is a fast day ordered by the Parliament, to pray for more seasonable weather; it having been summer weather.
+1662-01-15 10:24 r It having hitherto been summer weather, both as to warmth and every other thing, just as if it were the middle of May or June, which do threaten a plague to follow, for so it was almost the last winter; and the whole year after hath been a very sickly time to this day.
 
-1662-01-15 09:42   Mr Berkenshaw came again, and after he had examined me and taught me something in my work he and I went to breakfast upon a collar of brawn.
+1662-01-15 10:20 r After we had eaten, asked me whether we had not committed a fault in eating today; telling me that it is a fast day ordered by the Parliament, to pray for more seasonable weather.
+
+1662-01-15 09:42   Mr. Berkenshaw came again, and after he had examined me and taught me something in my work, he and I went to breakfast in my chamber upon a collar of brawn.
+
 
 1662-01-14 19:12   This day my brave vellum covers to keep pictures in, come in, which pleases me very much.
 
-1662-01-13 18:14   My aunt Wight teaching of us how to play at gleeke, which is a pretty game; but I have not my head so free as to be troubled with it.
 
-1662-01-13 15:03   Mr. Peter did show us the experiment of the chymicall glasses, which break all to dust by breaking off a little small end.
+1662-01-13 18:14   My aunt Wight and my wife and I to cards, she teaching of us how to play at gleeke, which is a pretty game; but I have not my head so free as to be troubled with it.
 
-1662-01-13 10:37   Mr Berkenshaw staid with me a great while talking of musique, and I am resolved to begin to learn of him to compose, and to begin to-morrow.
+1662-01-13 15:03 r Mr. Peter above them both, who after dinner did show us the experiment (which I had heard talk of) of the chymicall glasses, which break all to dust by breaking off a little small end; which is a great mystery to me.
 
-1662-01-12 21:07   Home and to read, I being troubled to hear my wife rate though not without cause at her mayd Nell, who is a lazy slut.
+1662-01-13 14:15 r And so we dined very merry, at least I seemed so, but the dinner does not please me, and less the Dean and Collonel, whom I found to be pitiful sorry gentlemen, though good-natured.
 
-1662-01-12 16:08   My wife and I to visit Mrs. Turner, who continues very ill still, and The. is also fallen sick, which do trouble me for the poor mother.
+1662-01-13 13:03   By appointment, Mr. Peter and the Dean, and Collonel Honiwood, brothers, to dine with me; but so soon that I was troubled at it. But, however, I entertained them with talk and oysters till one o’clock, and then we sat down to dinner.
+
+1662-01-13 10:37   Mr. Berkenshaw (whom I have not seen a great while, came to see me), who staid with me a great while talking of musique, and I am resolved to begin to learn of him to compose, and to begin tomorrow, he giving of me so great hopes that I shall soon do it.
+
+
+1662-01-12 21:07   So home and to read, I being troubled to hear my wife rate though not without cause at her mayd Nell, who is a lazy slut.
+
+1662-01-12 16:08   My wife and I to visit Mrs. Pierce and thence Mrs. Turner, who continues very ill still, and The. is also fallen sick, which do trouble me for the poor mother.
+
+1662-01-12 13:20   Sir W. Pen and my good friend Dean Fuller, by appointment, and my wife’s brother by chance, dined with me very merry and handsomely.
+
+
+1662-01-11 18:26 r And the old Duke (having by custom sent his goods home before), walks away, it may be but with one man at his heels; and the new one brought immediately in his room, in the greatest state in the world.
+
+1662-01-11 18:23 r And when another is chose, a messenger is sent to him, who stands at the bottom of the stairs, and he at the top, and says, “Va. Illustrissima Serenita sta finita, et puede andar en casa.” – “Your serenity is now ended; and now you may be going home,” and so claps on his hat.
+
+1662-01-11 18:20   To Sir W. Batten’s, where in discourse I heard the custom of the election of the Dukes of Genoa, who for two years are every day attended in the greatest state; and four or five hundred men always waiting upon him as a king.
 
 1662-01-11 10:03   To the Exchange, and there all the news is of the French and Dutch joyning against us; but I do not think it yet true.
 
-1662-01-10 23:26   I late reading in my chamber and then to bed, my wife being angry that I keep the house so late up.
 
-1662-01-10 16:31   To meet my wife at Mrs. Hunt’s to gossip with her, which we did, and were merry, and did give her a cup and spoon for my wife’s god-child.
+1662-01-10 23:55   I late reading in my chamber and then to bed, my wife being angry that I keep the house so late up.
 
-1662-01-10 09:04   To Sir Paul Neale about a mathematical request of my Lord’s, something about observation of the moon and stars, but what I did not mind.
+1662-01-10 16:31   I returned to Westminster, by appointment, to meet my wife at Mrs. Hunt’s to gossip with her, which we did alone, and were very merry, and did give her a cup and spoon for my wife’s god-child.
 
-1662-01-09 20:41   I found Mr. Armiger talking with my wife, but being offended with him for his leaving of my brother Tom I shewed him no countenance.
+1662-01-10 09:55 r Here I met with Mr. Moore, who tells me that an injuncon is granted in Chancery against T. Trice, at which I was very glad, being before in some trouble for it.
+
+1662-01-10 09:04   To White Hall, and there spoke with Sir Paul Neale about a mathematical request of my Lord’s to him, which I did deliver to him, and he promised to employ somebody to answer it, something about observation of the moon and stars, but what I did not mind.
+
+
+1662-01-09 20:41   Home, where I found Mr. Armiger below talking with my wife, but being offended with him for his leaving of my brother Tom I showed him no countenance, but did take notice of it to him plainly, and I perceive he was troubled at it, but I am glad I told him of it.
+
 
 1662-01-08 21:52   This night come about 100l. from Brampton by carrier to me, in holsters from my father, which made me laugh.
 
-1662-01-08 09:14   Sir G Carteret is angry against my man Will that he is every other day with the Commissioners of Parliament, and that his uncle was a rogue.
+1662-01-08 09:16 r And that he did tell his uncle every thing that passes at the office, and Sir William, though he loves the lad, did advise me to part with him, which did with this surprise mightily trouble me, though I was already angry with him.
 
-1662-01-07 22:38   To Sir W. Pen’s, there supped and played at cards with them and were merry, the children being to go all away to school again to-morrow.
+1662-01-08 09:14   I met with Sir W. Pen, who told me that he had this morning heard Sir G. Carteret extremely angry against my man Will that he is every other day with the Commissioners of Parliament at Westminster, and that his uncle was a rogue.
 
-1662-01-06 23:17   Though he was asleep I sent for my man out of his bed and he rose and came up to me. I appeared very angry and did tax him with being drunk.
 
-1662-01-06 22:58   I hear that my man Gull was gone to bed, and upon enquiry I hear that he did vomit before he went to bed, and complained his head ached.
 
-1662-01-06 14:22   I perceive Major Holmes would fain get to be free with my wife, but I shall prevent it, and she herself hath also a defyance against him.
+1662-01-07 22:38   To Sir W. Pen’s, there supped and played at cards with them and were merry, the children being to go all away to school again tomorrow.
 
-1662-01-06 13:58   To Sir W. Pen’s, it being a solemn feast day with him. We had eighteen mince pies in a dish, the number of years that he hath been married.
 
-1662-01-06 11:48   I sent my lute to the Paynter’s, and there I staid to see him paint the neck of my lute in my picture, which I was not pleased with.
+1662-01-06 23:15 r But I do believe he has drunk too much, and so I did threaten him to bid his uncle dispose of him some other way, and sent him down to bed and do resolve to continue to be angry with him.
 
-1662-01-05 15:43   The Clerk begins the 25th psalm, which hath a proper tune, and then the 116th, which cannot be sung with that tune, which seemed ridiculous.
+1662-01-06 23:10 r He rose and came up to me, and I appeared very angry and did tax him with being drunk, and he told me that he had been with Mr. Southerne and Homewood at the Dolphin, and drank a quart of sack, but that his head did ache before he went out.
 
-1662-01-04 14:07   My wife and I and East to Wilkinson’s to dinner, where we had some rost beef and a mutton pie, and a mince-pie, but none of them pleased me.
+1662-01-06 22:58   Home, and there I hear that my man Gull was gone to bed, and upon enquiry I hear that he did vomit before he went to bed, and complained his head ached, and thereupon though he was asleep I sent for him out of his bed.
 
-1662-01-04 12:20   Mr. Chetwin had a dog challenged of him by another man that said it was his, but Mr. Chetwin called the dog, and the dog would follow him.
+1662-01-06 14:02 r Where Sir W. Batten and his Lady, and daughter was, and Colonel Treswell and Major Holmes, who I perceive would fain get to be free and friends with my wife, but I shall prevent it, and she herself hath also a defyance against him.
+
+1662-01-06 13:58   To dinner to Sir W. Pen’s, it being a solemn feast day with him, his wedding day, and we had, besides a good chine of beef and other good cheer, eighteen mince pies in a dish, the number of the years that he hath been married.
+
+1662-01-06 11:48   I sent my lute to the Paynter’s, and there I staid with him all the morning to see him paint the neck of my lute in my picture, which I was not pleased with after it was done.
+
+
+1662-01-05 17:30   After church to Sir W. Batten’s, where on purpose I have not been this fortnight, and I am resolved to keep myself more reserved to avoyd the contempt which otherwise I must fall into.
+
+1662-01-05 16:43   To church, and before sermon there was a long psalm. The jest was, the Clerk begins the 25th psalm, which hath a proper tune to it, and then the 116th, which cannot be sung with that tune, which seemed very ridiculous.
+
+1662-01-05 15:43   Comes in my brother Tom, and he tells me how he hath seen the father and mother of the girl which my cozen Joyces would have him to have for a wife, and they are much for it, but we are in a great quandary what to do therein, 200l. being but a little money.
+
+
+1662-01-04 14:07   To my wife, who met me at my Lord’s lodgings, and she and I and old East to Wilkinson’s to dinner, where we had some rost beef and a mutton pie, and a mince-pie, but none of them pleased me.
+
+1662-01-04 12:20   I to Westminster Hall, and there walked a turn or two with Mr. Chetwin (who had a dog challenged of him by another man that said it was his, but Mr. Chetwin called the dog, and the dog at last would follow him, and not his old master, and so Chetwin got the dog).
 
 1662-01-04 11:39   At home most of the morning hanging up pictures, and seeing how my pewter sconces that I have bought will become my stayres and entry.
 
-1662-01-03 14:42   The King is gone to Lincoln’s Inn to see the Revells; there being a prince and all his nobles, and other matters of sport and charge.
 
-1662-01-03 11:49   To Tom’s, who I find great hopes of that he will do well, which I am glad of, and am not now so hasty to get a wife for him as I was before.
+1662-01-03 19:56 r And that I am loth to do for fear I have spent too much, and delay it the rather that I may pay for my pictures and my wife’s, and the book that I am buying for Paul’s School before I do cast up my accompts.
+
+1662-01-03 19:50   To look over my papers and other things, my mind being much troubled for these four or five days because of my present great expense, and will be so till I cast up and see how my estate stands.
+
+1662-01-03 14:42   To Faithorne’s, and there bought some pictures of him; and comes by the King’s life-guard, he being gone to Lincoln’s Inn this afternoon to see the Revells there; there being, according to an old custom, a prince and all his nobles, and other matters of sport and charge.
+
+1662-01-03 11:49 r Among others to Tom’s, who I find great hopes of that he will do well, which I am glad of, and am not now so hasty to get a wife for him as I was before.
 
 1662-01-03 10:52   Lay long in bed, and so up and abroad to several places about petty businesses.
 
-1662-01-02 18:59   Mr. Grant promised to meet me at the Coffee-house to bring me acquainted with Cooper the great limner in little, but they deceived me.
 
-1662-01-02 13:42   Mr. W. Montagu’s Lady is so far from the beauty that I expected her to be that it put me into an ill humour, to find my expectation so lost.
+1662-01-02 23:50 r And so I went home, and there sat at my lute and singing till almost twelve at night, and so to bed.
 
-1662-01-01 18:42   Mr. W. Pen left his sword in the coach, and so he run out, and by chance did at the Exchange meet with the coach and got his sword again.
+1662-01-02 19:27   I went forth, by appointment, to meet with Mr. Grant, who promised to meet me at the Coffee-house to bring me acquainted with Cooper the great limner in little, but they deceived me.
 
-1662-01-01 17:21   After we had eat a barrel of oysters we went to the play, and a good play it is, only Diego the Sexton did overdo his part too much.
+1662-01-02 13:30 r And the company, Mr. William Montagu and his Lady (but she seemed so far from the beauty that I expected her from my Lady’s talk to be, that it put me into an ill humour, to find my expectation so lost), Mr. Rumball and Townsend and their wives.
 
-1662-01-01 10:10   Mr. W. Pen came to me and he and I walked out, and to the Stacioner’s, and looked over some pictures and maps for my house.
+1662-01-02 13:22   An invitation sent us before we were up from my Lady Sandwich’s, to come and dine with her: so at the office all the morning, and at noon thither to dinner, where there was a good and great dinner.
 
-1662-01-01 09:20   Seeing that the “Spanish Curate” was acted today, I sent to young Mr. Pen and his sister to go anon with my wife and I to the Theatre.
 
-1662-01-01 06:59   Waking on a sudden, I did with my elbow hit my wife a great blow over her face and nose, which waked her with pain, at which I was sorry.
+1662-01-01 19:42 r Home, and they sat with us at cards very merry, but the jest was Mr. W. Pen had left his sword in the coach, and so my boy and he run out after the coach, and by very great chance did at the Exchange meet with the coach and got his sword again.
 
+1662-01-01 16:55 r Saw it well acted, and a good play it is, only Diego the Sexton did overdo his part too much.
+
+1662-01-01 13:50 r Mr. W. Pen came to me and he and I walked out, and to the Stacioner’s, and looked over some pictures and maps for my house, and so home again to dinner, and by and by came the two young Pens, and after we had eat a barrel of oysters we went by coach to the play.
+
+1662-01-01 11:40   Went forth with Sir W. Pen by coach towards Westminster, and in my way seeing that the “Spanish Curate” was acted today, I light and let him go alone, and I home again and sent to young Mr. Pen and his sister to go anon with my wife and I to the Theatre.
+
+1662-01-01 05:09   Waking out of my sleep on a sudden, I did with my elbow hit my wife a great blow over her face and nose, which waked her with pain, at which I was sorry, and to sleep again.
