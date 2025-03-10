@@ -212,7 +212,6 @@ YYYY-MM-DD HH:MM   1234567890123456789012345678901234567890123456789012345678901
 
 1662-05-01 13:30   Set out from Portsmouth very early, and got to Petersfield; several officers of the Yard accompanying us. Here we dined and were merry.
 
-1662-05-01 01:00   Our discourse being much about the quality of the lady with Mrs. Pierce, she being somewhat old and handsome, and painted and fine.
+1662-05-01 00:50 r And so past the guards, and went to the Doctor’s lodgings, our discourse being much about the quality of the lady with Mrs. Pierce, she being somewhat old and handsome, and painted and fine, and had a very handsome maid with her, which we take to be the marks of a bawd.
 
-1662-05-01 00:10   The Doctor and I bade the ladies good night, and so past the guards, and went to his lodgings, and there lay with him.
-
+1662-05-01 00:10 r We very merry, playing at cards and laughing very merry till 12 o’clock at night, and so having staid so long (which we had resolved to stay till they bade us be gone), which yet they did not do but by consent, we bade them good night.
