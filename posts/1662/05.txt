@@ -1,216 +1,266 @@
-YYYY-MM-DD HH:MM   12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+YYYY-MM-DD HH:MM r 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
-1662-05-31 22:22   The King is pleased enough with the Queen which, I fear, will put Madam Castlemaine’s nose out of joynt.
+1662-05-31 22:18 r The Queen is brought a few days since to Hampton Court; and all people say of her to be a very fine and handsome lady, and very discreet; and that the King is pleased enough with her which, I fear, will put Madam Castlemaine’s nose out of joynt.
 
-1662-05-31 22:18   The Queen is brought a few days since to Hampton Court; and all people say of her to be a very fine and handsome lady, and very discreet.
+1662-05-31 21:58   This month ends with very fair weather for a great while together. My health pretty well, but only wind do now and then torment me about the fundament extremely.
 
-1662-05-31 21:58   My health pretty well, but only wind do now and then torment me about the fundament extremely.
+1662-05-31 20:22 r And I did also in a suddaine fit cut off all my beard, which I had been a great while bringing up, only that I may with my pumice-stone do my whole face, as I now do my chin, and to save time, which I find a very easy way and gentile.
 
-1662-05-31 20:22   I did in a suddaine fit cut off all my beard, which I had been a great while bringing up, that I may with my pumice-stone do my whole face.
+1662-05-31 20:07   Had Sarah to comb my head clean, which I found so foul with powdering and other troubles, that I am resolved to try how I can keep my head dry without powder.
 
-1662-05-31 20:07   Had Sarah comb my head clean, which I found so foul with powdering and other troubles that I am resolved to keep my head dry without powder.
+1662-05-31 09:20   Came Anthony Joyce, who duns me for money for the tallow which he served in lately by my desire, which vexes me, but I must get it him the next by my promise.
 
-1662-05-30 22:59   Mr. Shepley came to sup with me. So we had a dish of mackerell and pease, and so he bid us good night, going to lie on board the hoy.
 
-1662-05-30 13:59   Many birds and other pretty noveltys there was, but I was afeard of being louzy, and so took boat again.
+1662-05-30 22:59   Mr. Shepley came to sup with me. So we had a dish of mackerell and pease, and so he bid us good night, going to lie on board the hoy, and I to bed.
 
-1662-05-30 13:46   We saw a little Turk and a negroe, which are intended for pages to the two young ladies.
+1662-05-30 16:59 r Many birds and other pretty noveltys there was, but I was afeard of being louzy, and so took boat again, and got to London before them, all the way, coming and going, reading in the “Wallflower” with great pleasure.
 
-1662-05-30 12:09   Meeting Mr. Shepley in a hoy, bringing up my Lord’s things, my wife and I went on board, and sailed up with them as far as half-way tree.
+1662-05-30 13:46 r Here we saw a little Turk and a negroe, which are intended for pages to the two young ladies.
 
-1662-05-30 11:22   I took my wife, Sarah and Will by water, with some victuals, as low as Gravesend, intending to have gone into the Hope to the Royal James.
+1662-05-30 12:09 r But meeting Mr. Shepley in a hoy, bringing up my Lord’s things, she and I went on board, and sailed up with them as far as half-way tree, very glad to see Mr. Shepley.
 
-1662-05-30 09:21   I find myself ‘de claro’ worth 530l, so little have I increased it since my last reckoning; I confess I have laid out much money in clothes.
+1662-05-30 11:22   Upon a suddaine motion I took my wife, and Sarah and Will by water, with some victuals with us, as low as Gravesend, intending to have gone into the Hope to the Royal James, to have seen the ship and Mr. Shepley.
+
+1662-05-30 09:21   I made up my accounts, and find myself ‘de claro’ worth about 530l., and no more, so little have I increased it since my last reckoning; but I confess I have laid out much money in clothes.
+
 
 1662-05-29 22:09   This day, being the King’s birth-day, was very solemnly observed; and the more, for that the Queen this day comes to Hampton Court.
 
-1662-05-29 20:03   After a long walk, passed out of doors as we did in the other place, here we had cakes and powdered beef and ale.
+1662-05-29 20:03 r After a long walk, passed out of doors as we did in the other place, and here we had cakes and powdered beef and ale, and so home again by water with much pleasure.
 
-1662-05-29 19:22   To the New Spring Garden, where I never was before, which much exceeds the other; and here we also walked.
+1662-05-29 19:22 r Thence to the New one, where I never was before, which much exceeds the other; and here we also walked, and the boy crept through the hedge and gathered abundance of roses.
 
-1662-05-29 17:57   To the Old Spring Garden, and walked long. Seeing that we could not have anything to eat, but very dear, and with long stay, we went forth.
+1662-05-29 17:57 r To the Old Spring Garden, and there walked long, and the wenches gathered pinks. Here we staid, and seeing that we could not have anything to eat, but very dear, and with long stay, we went forth without any notice taken of us, and so we might have done if we had had anything.
 
-1662-05-29 16:48   With my wife and the two maids, and the boy, took boat and to Foxhall, where I had not been a great while.
+1662-05-29 16:48   Thence home, and with my wife and the two maids, and the boy, took boat and to Foxhall, where I had not been a great while.
 
-1662-05-29 13:59   They have been under some disorder in fear of a fire at the next door, and had been removing their goods, but the fire was over.
+1662-05-29 13:59 r Here was Mr. Creed, and it seems they have been under some disorder in fear of a fire at the next door, and had been removing their goods, but the fire was over before I came.
 
-1662-05-29 13:43   In Lumbard Street I was called out of a window by Alderman Backwell, where I went, and saluted his lady, a very pretty woman.
+1662-05-29 13:43   In Lumbard Street was called out of a window by Alderman Backwell, where I went, and saluted his lady, a very pretty woman.
 
-1662-05-28 13:56   Comes my father to dine with me, which we did very merrily, I desiring to make him as merry as I can, while the poor man is in town.
 
-1662-05-27 14:18   My father tells me his alterations of the house and garden at Brampton, which please me well.
+1662-05-28 13:56   Comes my father by appointment to dine with me, which we did very merrily, I desiring to make him as merry as I can, while the poor man is in town.
 
-1662-05-26 19:54   Homewards by coach, through Moorefields, where we stood awhile, and saw the wrestling.
 
-1662-05-26 18:09   To the Redd Bull, where we saw “Doctor Faustus,” but so wretchedly and poorly done, that we were sick of it.
+1662-05-27 14:18   To my brother’s, where I found my father, poor man, come, which I was glad to see. He tells me his alterations of the house and garden at Brampton, which please me well.
 
-1662-05-26 15:44   Mr. Prin, in discourse with me, fell upon what records he hath of the lust and wicked lives of the nuns heretofore in England.
 
-1662-05-26 07:08   We found that my Lord is above 7,000l. in debt, and that he hath money coming into him that will clear all, and so we think him clear.
+1662-05-26 19:54 r Thence homewards by coach, through Moorefields, where we stood awhile, and saw the wrestling.
+
+1662-05-26 18:09   To take my wife to the Redd Bull, where we saw “Doctor Faustus,” but so wretchedly and poorly done, that we were sick of it, and the worse because by a former resolution it is to be the last play we are to see till Michaelmas.
+
+1662-05-26 15:44   Mr. Prin, in discourse with me, fell upon what records he hath of the lust and wicked lives of the nuns heretofore in England, and showed me out of his pocket one wherein thirty nuns for their lust were ejected of their house, being not fit to live there.
+
+1662-05-26 07:08 r By appointment comes Mr. Moore, and, by what appears to us at present, we found that my Lord is above 7,000l. in debt, and that he hath money coming into him that will clear all, and so we think him clear, but very little money in his purse.
 
 1662-05-26 04:07   Up by four o’clock in the morning, and fell to the preparing of some accounts for my Lord of Sandwich.
 
-1662-05-25 22:08   The King’s guards and some City companies do walk up and down the town; and they do say there are some plots in laying. God keep us.
 
-1662-05-25 17:26   Captn. Ferrers showed me some Portugall ladys, come to town before the Queen. They are not handsome, and their farthingales a strange dress.
+1662-05-25 22:08   The King’s guards and some City companies do walk up and down the town these five or six days; which makes me think, and they do say, there are some plots in laying. God keep us.
 
-1662-05-25 13:29   This day I had the first dish of pease I have had this year.
+1662-05-25 17:40 r I find nothing in them that is pleasing; and I see they have learnt to kiss and look freely up and down already, and I do believe will soon forget the recluse practice of their own country. They complain much for lack of good water to drink.
 
-1662-05-25 11:04   Mr. Woodcocke prayed that God would deliver a woman in childbed from the hereditary curse of child-bearing, a pretty strange expression.
+1662-05-25 17:26   With Captn. Ferrers to Charing Cross; and there at the Triumph tavern he showed me some Portugall ladys, which are come to town before the Queen. They are not handsome, and their farthingales a strange dress. Many ladies and persons of quality come to see them.
 
-1662-05-25 06:10   To trimming myself with a pumice stone, which I learnt of Mr. Marsh, when I was at Portsmouth; and I find it very easy, speedy, and cleanly.
+1662-05-25 13:29   Dined at home, and Mr. Creed with me. This day I had the first dish of pease I have had this year.
 
-1662-05-24 13:57   I took Mr. Creed to Fish Street, and there we had a couple of lobsters, and dined upon them, and much discourse.
+1662-05-25 11:04   Heard a good sermon of Mr. Woodcocke’s at our church; only in his latter prayer for a woman in childbed, he prayed that God would deliver her from the hereditary curse of child-bearing, which seemed a pretty strange expression.
 
-1662-05-24 11:32   Abroad with Mr. Creed, of whom I informed myself of all I had a mind to know.
+1662-05-25 06:10   To trimming myself with a pumice stone, which I learnt of Mr. Marsh, when I was at Portsmouth; and I find it very easy, speedy, and cleanly, and shall continue the practice of it.
 
-1662-05-23 18:49   Here among the fidlers I first saw a dulcimere played on with sticks knocking of the strings, and is very pretty.
 
-1662-05-23 18:43   My wife and I to the puppet play in Covent Garden, which I saw the other day, and indeed it is very pleasant.
+1662-05-24 13:57 r After a morning draft at the Star in Cheapside, I took him to the Exchange, thence home, but my wife having dined, I took him to Fish Street, and there we had a couple of lobsters, and dined upon them, and much discourse.
 
-1662-05-23 17:28   To the Opera, where we saw “Witt in a Constable,” the first time that it is acted; but so silly a play I never saw I think in my life.
+1662-05-24 10:32   Abroad with Mr. Creed, of whom I informed myself of all I had a mind to know.
 
-1662-05-23 13:39   So to dinner. My Lord mighty merry; among other things, saying that the Queen is a very agreeable lady, and paints still.
 
-1662-05-23 13:08   I went up waiting my Lord’s coming out of my Lady’s chamber, which by and by he did, and looks very well, and my soul is glad to see him.
+1662-05-23 18:43 r After it was done, my wife and I to the puppet play in Covent Garden, which I saw the other day, and indeed it is very pleasant. Here among the fidlers I first saw a dulcimere played on with sticks knocking of the strings, and is very pretty.
 
-1662-05-23 12:32   News was brought me that my Lord Sandwich is come and gone up to my Lady, which put me into great suspense of joy.
+1662-05-23 17:28   My wife and I slunk away to the Opera, where we saw “Witt in a Constable,” the first time that it is acted; but so silly a play I never saw I think in my life.
 
-1662-05-22 21:17   Captain Teddiman hath also sent each of us some anchovies, olives, and muscatt; but I know not yet what that is, and am ashamed to ask.
+1662-05-23 13:39 r So to dinner, Mr. Browne, Clerk of the House of Lords, and his wife and brother there also; and my Lord mighty merry; among other things, saying that the Queen is a very agreeable lady, and paints still.
 
-1662-05-22 21:06   We had a letter from Captain Teddiman, of a peace made upon good terms, by Sir J. Lawson, with the Argier men, which is most excellent news.
+1662-05-23 13:08 r So I went up waiting my Lord’s coming out of my Lady’s chamber, which by and by he did, and looks very well, and my soul is glad to see him. He very merry, and hath left the King and Queen at Portsmouth.
 
-1662-05-22 17:36   To the Theatre and saw “Love in a Maze.” The play hath little in it but Lacy’s part of a country fellow, which he did to admiration.
+1662-05-23 12:32   While I was reading, news was brought me that my Lord Sandwich is come and gone up to my Lady, which put me into great suspense of joy.
 
-1662-05-21 19:42   Mrs. Turner’s two boys come out of the country, grown very plain boys after three years being under their father’s care in Yorkshire.
 
-1662-05-21 17:15   “The French Dancing Master” pleased us very well; but Lacy’s part, the Dancing Master, the best in the world.
+1662-05-22 21:17 r He hath also sent each of us some anchovies, olives, and muscatt; but I know not yet what that is, and am ashamed to ask.
 
-1662-05-21 16:54   To the Theatre and there with much pleasure gazed upon my Lady Castlemaine; but it troubles us to see her slighted by people already.
+1662-05-22 21:06   Supped with Sir W. Pen, where Sir W. Batten and Captn. Cocke came to us. This night we had each of us a letter from Captain Teddiman from the Streights, of a peace made upon good terms, by Sir J. Lawson, with the Argier men, which is most excellent news.
 
-1662-05-21 13:10   My Lady Castlemaine is now a most disconsolate creature, and comes not out of doors, since the King’s going.
+1662-05-22 17:36   By coach to the Theatre and saw “Love in a Maze.” The play hath little in it but Lacy’s part of a country fellow, which he did to admiration.
 
-1662-05-21 09:04   In the Privy-garden saw the finest smocks and linen petticoats of my Lady Castlemaine’s, that ever I saw; and did me good to look upon them.
 
-1662-05-20 21:37   I do think it best to enjoy pleasure now that we have health, money, and opportunity, rather than to leave pleasures to old age or poverty.
+1662-05-21 19:42   My wife and I went and saw Mrs. Turner, whom we found not well, and her two boys Charles and Will come out of the country, grown very plain boys after three years being under their father’s care in Yorkshire.
 
-1662-05-20 21:23   Home again, and so good night, this being a pleasant life that we now lead, and have long done; the Lord be blessed, and make us thankful.
+1662-05-21 17:15 r To the Theatre to “The French Dancing Master,” and there with much pleasure gazed upon her (Lady Castlemaine); but it troubles us to see her look dejectedly and slighted by people already. The play pleased us very well; but Lacy’s part, the Dancing Master, the best in the world.
 
-1662-05-20 20:03   To Tower-wharf, and there took boat, and we all walked to Halfeway House, and there eat and drank, and were pleasant.
+1662-05-21 13:13 r And that the King and she did send for a pair of scales and weighed one another; and she, being with child, was said to be heaviest. But she is now a most disconsolate creature, and comes not out of doors, since the King’s going.
 
-1662-05-20 17:48   Saw the 2nd part of “The Siege of Rhodes,” but it is not so well done as when Roxalana was there, who is now owned by my Lord of Oxford.
+1662-05-21 13:10   Sarah told me how the King dined at my Lady Castlemaine’s, and supped, every day and night the last week; and that the night that the bonfires were made for joy of the Queen’s arrivall, the King was there.
 
-1662-05-19 22:04   The King was forced to stay till almost nine o’clock at night before he could have done, and then he prorogued the House; and so to Gilford.
+1662-05-21 09:04   In the Privy-garden saw the finest smocks and linnen petticoats of my Lady Castlemaine’s, laced with rich lace at the bottom, that ever I saw; and did me good to look upon them.
+
+
+1662-05-20 21:37 r But, though I am much against too much spending, yet I do think it best to enjoy some degree of pleasure now that we have health, money, and opportunity, rather than to leave pleasures to old age or poverty, when we cannot have them so properly.
+
+1662-05-20 21:23 r And so finally home again in the evening, and so good night, this being a very pleasant life that we now lead, and have long done; the Lord be blessed, and make us thankful.
+
+1662-05-20 20:03 r Thence to Tower-wharf, and there took boat, and we all walked to Halfeway House, and there eat and drank, and were pleasant.
+
+1662-05-20 17:48   My wife and I by coach to the Opera, and there saw the 2nd part of “The Siege of Rhodes,” but it is not so well done as when Roxalana was there, who, it is said, is now owned by my Lord of Oxford.
+
+
+1662-05-19 22:04   The King, I hear, was forced to stay till almost nine o’clock at night before he could have done, and then he prorogued them; and so to Gilford, and lay there.
 
 1662-05-19 19:12   To Moorefields, and walked and eat some cheesecake and gammon of bacon, but when I was come home I was sick, forced to vomit it up again.
 
-1662-05-19 09:52   The House do think they should be forced to huddle over business this morning, for the King to pass their Acts, that he may go out of town.
+1662-05-19 09:52   I hear that the House of Commons do think much that they should be forced to huddle over business this morning against the afternoon, for the King to pass their Acts, that he may go out of town.
 
-1662-05-19 08:55   Long in bed, and at last up, and put on my riding cloth suit, and a camelott coat new, which pleases me well enough.
+1662-05-19 08:55   Long in bed, sometimes scolding with my wife, and then pleased again, and at last up, and put on my riding cloth suit, and a camelott coat new, which pleases me well enough.
 
-1662-05-18 23:30   I found my wife discontented at my being abroad, but I pleased her. She was in her new suit of sarcenet and yellow petticoat very pretty.
 
-1662-05-18 22:55   They were reading all the bills over that are to pass to-morrow at the House, before the King’s going out of town and proroguing the House.
+1662-05-18 23:30 r I got a coach and so home, sending the boat away without me. At home I found my wife discontented at my being abroad, but I pleased her. She was in her new suit of black sarcenet and yellow petticoat very pretty. So to bed.
 
-1662-05-18 22:52   The King and Councell sat till almost eleven o’clock at night, and I forced to walk up and down the gallerys till that time of night.
+1662-05-18 22:55 r They were reading all the bills over that are to pass tomorrow at the House, before the King’s going out of town and proroguing the House.
 
-1662-05-18 11:21   The King came down and offered, and took the sacrament upon his knees; a sight very well worth seeing.
+1662-05-18 22:52 r To the Councell-chamber; where the King and Councell sat till almost eleven o’clock at night, and I forced to walk up and down the gallerys till that time of night.
 
-1662-05-18 11:00   A most excellent sermon of Dr. Hacket, Bishop of Lichfield and Coventry, upon these words: “He that drinketh this water shall never thirst.”
+1662-05-18 11:21 r We had an excellent anthem, sung by Captain Cooke and another, and brave musique. And then the King came down and offered, and took the sacrament upon his knees; a sight very well worth seeing.
 
-1662-05-17 20:32   To see a velvet cloak, which I buy of Mr. Moore. It will cost me 8l. 10s.; he bought it for 6l. 10s., but it is worth my money.
+1662-05-18 11:00   By water to White Hall, and there to chappell in my pew belonging to me as Clerk of the Privy Seal; and there I heard a most excellent sermon of Dr. Hacket, Bishop of Lichfield and Coventry, upon these words: “He that drinketh this water shall never thirst.”
 
-1662-05-17 14:28   My Lady and Mrs. Sanderson and I on foot to Pater Noster Row to buy a petticoat against the Queen’s coming for my Lady, of plain satin.
+
+1662-05-17 20:32   I walked to my brother Tom’s to see a velvet cloak, which I buy of Mr. Moore. It will cost me 8l. 10s.; he bought it for 6l. 10s., but it is worth my money.
+
+1662-05-17 16:04 r We met Mr. Nathaniel Crew with a young gentleman, a fellow student of his, and of a good family, Mr. Knightly, and known to the Crews, of whom my Lady told me she hath some thoughts of a match for my Lady Jemimah. I like the person very well, and he hath 2000l. per annum.
+
+1662-05-17 15:28   To the Wardrobe to dinner, where dined Mrs. Sanderson, the mother of the maids, and after dinner my Lady and she and I on foot to Pater Noster Row to buy a petticoat against the Queen’s coming for my Lady, of plain satin, and other things.
+
 
 1662-05-16 11:40   Up early, Mr. Hater and I to the office, and there I made an end of my book of contracts which I have been making an abstract of.
 
-1662-05-15 21:04   I do not see thorough joy, but only an indifferent one, in the hearts of people who are discontented at the pride and luxury of the Court.
+
+1662-05-15 21:04 r But I do not see much thorough joy, but only an indifferent one, in the hearts of people, who are much discontented at the pride and luxury of the Court, and running in debt.
 
 1662-05-15 20:53   All the bells of the town rung, and bonfires made for the joy of the Queen’s arrival, who came and landed at Portsmouth last night.
 
-1662-05-14 20:31   There came Mr. Morelock of Chatham, and brought me a stately cake, and I perceive he has done the same to the rest, of which I was glad.
 
-1662-05-14 17:05   Finding my brother in a lie about the lining of my new morning gown, saying that it was the same with the outside, I was very very angry.
+1662-05-14 20:31   Home, and there came Mr. Morelock of Chatham, and brought me a stately cake, and I perceive he has done the same to the rest, of which I was glad.
 
-1662-05-14 15:22   My Lady is afeard that my Lady Castlemaine will keep still with the King, and I am afeard she will not, for I love her well.
+1662-05-14 17:05   To my brother’s, and finding him in a lie about the lining of my new morning gown, saying that it was the same with the outside, I was very angry with him and parted so.
+
+1662-05-14 15:22   Sat talking an hour or two alone with my Lady. She is afeard that my Lady Castlemaine will keep still with the King, and I am afeard she will not, for I love her well.
+
 
 1662-05-13 22:47   Will Joyce came with a friend, a Cosen of his, to see me and I made them drink a bottle of wine; and so to sing and read and to bed.
 
-1662-05-12 12:30   We were showed the house by Mr. Marriott; which is indeed nobly furnished, particularly the Queen’s bed, given her by the States of Holland.
+1662-05-13 14:57   To walk to Pauls churchyard, and there evened all reckonings to this day.
 
-1662-05-12 10:52   We walked from Mortlake to Richmond, and so to boat again. And from Teddington to Hampton Court Mr. Townsend and I walked again.
 
-1662-05-12 05:04   Mr Townsend called us up; by five the three ladies, my wife and I, and Mr Townsend, his son and daughter, were got to the barge and set out.
+1662-05-12 20:04 r And so to barge again, and there we had good victuals and wine, and were very merry; and got home very well.
 
-1662-05-11 16:08   Walked in the Park, where I saw the King now out of mourning, in a suit laced with gold and silver, which it was said was out of fashion.
+1662-05-12 13:30 r We met the ladies, and were showed the whole house by Mr. Marriott; which is indeed nobly furnished, particularly the Queen’s bed, given her by the States of Holland; a looking-glass sent by the Queen-mother from France, hanging in the Queen’s chamber, and many brave pictures.
 
-1662-05-11 14:30   Dined at home, and my wife’s brother with us, we having a good dish of stewed beef of Jane’s own dressing, which was well done.
+1662-05-12 10:52 r We walked from Mortlake to Richmond, and so to boat again. And from Teddington to Hampton Court Mr. Townsend and I walked again.
+
+1662-05-12 05:04 r The three ladies, my wife and I, and Mr. Townsend, his son and daughter, were got to the barge and set out.
+
+1662-05-12 03:58 r We lay all night in Captain Ferrers’ chambers, but the bed so soft that I could not sleep that hot night. Mr. Townsend called us up by four o’clock.
+
+
+1662-05-11 21:02   To the Wardrobe; and there consulted with the ladies about our going to Hampton Court tomorrow, and thence home, and after settled business there my wife and I to the Wardrobe.
+
+1662-05-11 16:08   To White Hall; and there walked an hour or two in the Park, where I saw the King now out of mourning, in a suit laced with gold and silver, which it was said was out of fashion.
+
+1662-05-11 14:30   Dined at home, and my wife’s brother with us, we having a good dish of stewed beef of Jane’s own dressing, which was well done, and a piece of sturgeon of a barrel sent me by Captain Cocke.
 
 1662-05-11 11:22   To our church, where, our Minister being out of town, a dull, flat Presbiter preached.
 
-1662-05-10 19:41   I find that Sir G. Carteret do single me out to join with me apart from the rest, which I am much glad of.
 
-1662-05-10 11:33   Drawing up instructions for Portsmouth yard in those things wherein we at our late being there did think fit to reform.
+1662-05-10 19:41   Sir G. Carteret, and he and I did hire a ship for Tangier, and other things together; and I find that he do single me out to join with me apart from the rest, which I am much glad of.
 
-1662-05-09 21:14   By water home, and so walk upon the leads, and in the dark there played upon my flageolette, it being a fine still evening.
+1662-05-10 12:53   My Lady told me how my Lady Castlemaine do speak of going to lie in at Hampton Court; which she and all our ladies are much troubled at, because of the King’s being forced to show her countenance in the sight of the Queen when she comes.
 
-1662-05-09 18:45   To see an Italian puppet play that is within the rayles, which is very pretty, the best that ever I saw, and great resort of gallants.
+1662-05-10 11:33   Drawing up instructions for Portsmouth yard in those things wherein we at our late being there did think fit to reform, and got them signed this morning to send away tonight, the Duke being now there.
 
-1662-05-09 17:59   I offered fourteen for the picture — but it is worth much more money — but did not buy it, I having no mind to break my oath.
 
-1662-05-09 17:52   With Mr. Salisbury into Covent Garden to an alehouse, to see a picture that hangs there, which is offered for 20s.
+1662-05-09 21:14   By water home, and so walk upon the leads, and in the dark there played upon my flageolette, it being a fine still evening, and so to supper and to bed.
 
-1662-05-09 16:30   To Mr. de Cretz, and there saw some good pieces that he hath copyed of the King’s pieces, some of Raphael and Michael Angelo.
+1662-05-09 18:45   To see an Italian puppet play that is within the rayles there, which is very pretty, the best that ever I saw, and great resort of gallants.
+
+1662-05-09 17:52   With Mr. Salisbury, who I met there, into Covent Garden to an alehouse, to see a picture that hangs there, which is offered for 20s., and I offered fourteen – but it is worth much more money – but did not buy it, I having no mind to break my oath.
+
+1662-05-09 16:30   To Mr. de Cretz, and there saw some good pieces that he hath copyed of the King’s pieces, some of Raphael and Michael Angelo; and I have borrowed an Elizabeth of his copying to hang up in my house, and sent it home by Will.
 
 1662-05-09 15:40   Up and to my office, and so to dinner at home, and then to several places to pay my debts.
 
+
 1662-05-08 22:48   To the office, and was there late doing business, and so with my head full of business I to bed.
+
+1662-05-08 16:45 r And looking upon his lodgings, which are now enlarging, he in passion cried, “Guarda mi spada; for, by God, I may chance to keep him in Ireland, when he is there:” for Sir W. Pen is going thither with my Lord Lieutenant. But it is my design to keep much in with Sir George.
+
+1662-05-08 16:30   Sir G. Carteret comes, and he and I walked in the garden, and, among other discourse, tells me that it is Mr. Coventry that is to come to us as a Commissioner of the Navy; at which he is much vexed, and cries out upon Sir W. Pen, and threatens him highly.
+
+1662-05-08 13:59 r He also told me how Sir John Lawson hath done some execution upon the Turks in the Straight, of which I am glad, and told the news the first on the Exchange, and was much followed by merchants to tell it.
 
 1662-05-08 13:50   Sir G Carteret told me that the Queen and the fleet were in Mount’s Bay on Monday last, and that the Queen endures her sickness pretty well.
 
-1662-05-07 17:57   I found Mrs. Turner out at the Theatre, where I saw the last act of the “Knight of the Burning Pestle,” which pleased me not at all.
 
-1662-05-07 15:03   In the business of Chymny money, when all occupiers were to pay, somebody rose and said that women were not occupiers, but occupied.
+1662-05-07 18:50 r And so after the play done, she and The. Turner and Mrs. Lucin and I, in her coach to the Park; and there found them out, and spoke to them; and observed many fine ladies, and staid till all were gone almost.
 
-1662-05-07 09:20   Mr. Montagu is this last night come to the King with news, that he left the Queen and fleet in the Bay of Biscay, coming this wayward.
+1662-05-07 17:37   Went to Mrs. Turner’s: and thence found her out at the Theatre, where I saw the last act of the “Knight of the Burning Pestle,” which pleased me not at all.
+
+1662-05-07 15:03   Sir Thos. Crew told me how in the late business of Chymny money, when all occupiers were to pay, it was questioned whether women were under that name to pay, and somebody rose and said that they were not occupiers, but occupied.
+
+1662-05-07 09:20   Mr. Montagu is this last night come to the King with news, that he left the Queen and fleet in the Bay of Biscay, coming this wayward; and that he believes she is now at the Isle of Scilly.
+
 
 1662-05-06 21:07   I find it a hard matter to settle to business after so much leisure and pleasure.
 
 1662-05-06 11:44   This morning I got my seat set up on the leads, which pleases me well.
 
-1662-05-05 13:47   My arme not being well, I dined alone at home, my wife being gone out to buy some things for herself, and a gown for me to dress myself in.
+
+1662-05-05 13:47   My arme not being well, I staid within all the morning, and dined alone at home, my wife being gone out to buy some things for herself, and a gown for me to dress myself in.
+
 
 1662-05-04 17:27   Homewards, and called in at Antony Joyce’s, where we found his wife brought home sick from church, and was in a convulsion fit.
 
 1662-05-04 16:10   My wife and I walked to Grays Inn, to observe fashions of the ladies, because of my wife’s making some clothes.
 
-1662-05-04 14:55   Our boy begins to wear his sword, to outdo Sir W. Pen’s boy, who this day begins to wear new livery; but I do take mine to be the neatest.
+1662-05-04 14:55   My arm tied up with a black ribbon, I walked with my wife to my brother Tom’s; our boy waiting on us with his sword, which he begins to wear, to outdo Sir W. Pen’s boy, who this day, and Sir W. Batten’s too, begin to wear new livery; but I do take mine to be the neatest.
 
 1662-05-04 10:30   I to my chamber to write down my journall from the beginning of my late journey to this house.
 
-1662-05-04 09:44   I begun to be sick; but lying upon my back I was presently well again, and did give Mr. Holliard 5s. for his pains.
+1662-05-04 09:44 r I begun to be sick; but lying upon my back I was presently well again, and did give him 5s. for his pains, and so we parted.
 
-1662-05-04 09:20   Mr. Holliard came to me and let me blood, about sixteen ounces, I being exceedingly full of blood and very good.
+1662-05-04 09:20   Lay long talking with my wife, then Mr. Holliard came to me and let me blood, about sixteen ounces, I being exceedingly full of blood and very good.
 
-1662-05-03 19:39   At the goldsmith’s, took my picture in little, which is now done, home with me, and pleases me exceedingly and my wife.
 
-1662-05-03 16:42   Sir Thomas Crew’s children being as pretty and the best behaved that ever I saw of their age.
+1662-05-03 19:39   At the goldsmith’s, took my picture in little,2 which is now done, home with me, and pleases me exceedingly and my wife.
 
-1662-05-03 15:50   To my Lady Sandwich, and Sir Thomas Crew’s children coming thither, I took them and all my Ladys to the Tower and showed them the lions.
+1662-05-03 17:38 r And so took them to my house, and there made much of them, and so saw them back to my Lady’s. Sir Thomas Crew’s children being as pretty and the best behaved that ever I saw of their age.
+
+1662-05-03 15:50   To dinner to my Lady Sandwich, and Sir Thomas Crew’s children coming thither, I took them and all my Ladys to the Tower and showed them the lions and all that was to be shown.
 
 1662-05-03 10:40   To Westminster, where I met Mr. Moore, and hear that Mr. Watkins is suddenly dead since my going.
 
-1662-05-02 20:45   However, I staid till my courage was up, and talked to them, and viewed her house, which is most pleasant, and so drank and good-night.
 
-1662-05-02 20:42   Dr. Clerke’s lady is a fine woman. What with her person and the number of fine ladies, I could hardly carry myself like a man among them.
+1662-05-02 18:10 r She is a very fine woman, and what with her person and the number of fine ladies that were with her, I was much out of countenance, and could hardly carry myself like a man among them; but however, I staid till my courage was up again, and talked to them.
 
-1662-05-02 14:20   I found all well at home, and Mr. Hunt and his wife had dined with my wife to-day, and been very kind to my wife in my absence.
+1662-05-02 16:30 r After I had washed myself, it having been the hottest day that has been this year, I took them all by coach to Mrs. Hunt’s, and I to Dr. Clerke’s lady, and gave her her letter and token.
 
-1662-05-01 22:05   To Gilford, where after supper I to bed, having this day been offended by Sir W. Pen’s foolish talk, and I offending him with my answers.
+1662-05-02 14:20   Early to coach again and to Kingston, where we baited a little, and presently to coach again and got early to London, and I found all well at home, and Mr. Hunt and his wife had dined with my wife today, and been very kind to my wife in my absence.
 
-1662-05-01 13:45   Comes my Lord Carlingford from London: tells us that the Duchess of York is brought to bed of a girl, at which I find nobody pleased.
 
-1662-05-01 13:30   Set out from Portsmouth very early, and got to Petersfield; several officers of the Yard accompanying us. Here we dined and were merry.
+1662-05-01 22:05 r To horse again after dinner, and got to Gilford, where after supper I to bed, having this day been offended by Sir W. Pen’s foolish talk, and I offending him with my answers.
+
+1662-05-01 14:05 r He himself made a dish with eggs of the butter of the Sparagus, which is very fine meat, which I will practise hereafter.
+
+1662-05-01 13:45 r At dinner comes my Lord Carlingford from London, going to Portsmouth: tells us that the Duchess of York is brought to bed of a girl, at which I find nobody pleased; and that Prince Rupert and the Duke of Buckingham are sworn of the Privy Councell.
+
+1662-05-01 13:30   Sir G. Carteret, Sir W. Pen, and myself, with our clerks, set out this morning from Portsmouth very early, and got by noon to Petersfield; several officers of the Yard accompanying us so far. Here we dined and were merry.
 
 1662-05-01 00:50 r And so past the guards, and went to the Doctor’s lodgings, our discourse being much about the quality of the lady with Mrs. Pierce, she being somewhat old and handsome, and painted and fine, and had a very handsome maid with her, which we take to be the marks of a bawd.
 
