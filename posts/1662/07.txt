@@ -1,4 +1,4 @@
-YYYY-MM-DD HH:MM   12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+YYYY-MM-DD HH:MM r 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
 1662-07-31 21:04   I am in town only with my man Will and Jane, and because my house is in building, I do lie at Sir W. Pen’s house, he being gone to Ireland.
 
@@ -8,6 +8,7 @@ YYYY-MM-DD HH:MM   1234567890123456789012345678901234567890123456789012345678901
 
 1662-07-31 11:47   To my office, and there we sat all the morning, where I begin more and more to grow considerable there.
 
+
 1662-07-30 20:31   To the Rope-yard, repeating trialls of the strength, wayte, and waste of hemp by which I have furnished myself enough to finish my business.
 
 1662-07-30 10:49   My Lord’s people tell me how bravely he did carry himself, while my Lord Crofts did cry; all the town talk how poorly he carried himself.
@@ -15,6 +16,7 @@ YYYY-MM-DD HH:MM   1234567890123456789012345678901234567890123456789012345678901
 1662-07-30 10:16   By water to White Hall and there waited upon my Lord Sandwich; and joyed him, at his lodgings, of his safe coming home after all his danger.
 
 1662-07-30 06:08   Cooper came to me and begun his lecture upon the body of a ship, which my having of a modell in the office is of great use to me.
+
 
 1662-07-29 20:20   To see the difference between the flags sent in now-a-days, and I find the old ones, which were much cheaper, to be wholly as good.
 
@@ -26,15 +28,18 @@ YYYY-MM-DD HH:MM   1234567890123456789012345678901234567890123456789012345678901
 
 1662-07-29 12:07   To the office, and there we sat all the morning, Sir George Carteret and Mr. Coventry being come from sea.
 
+
 1662-07-28 21:47   To my chamber a little troubled and melancholy, to my lute, and so to bed, Will lying at my feet, and the wench in my house in Will’s bed.
 
 1662-07-28 07:48   I to the Tower; hearing that the Queen-Mother is come this morning already as high as Woolwich: and that my Lord Sandwich was with her.
 
 1662-07-28 06:31   I walked with my wife to the George, at Holborn Conduit, where the coach stood ready to carry her and her maid to Bugden.
 
+
 1662-07-27 15:32   Meeting with Laud Crispe we sat under a tree in a corner and sung some songs, he singing well, but no skill, and so would sing false.
 
 1662-07-27 15:03   I carried my wife to Westminster, and I to walk in the Park, which is now every day more and more pleasant, by the new works upon it.
+
 
 1662-07-26 16:53   I went to Westminster; and there hear that the King and Queen intend to come to White Hall from Hampton Court next week, for all winter.
 
@@ -42,11 +47,14 @@ YYYY-MM-DD HH:MM   1234567890123456789012345678901234567890123456789012345678901
 
 1662-07-26 14:21   Causing the model hanging in my chamber to be taken down and hung up in my office, for fear of being spoilt by the workmen.
 
+
 1662-07-25 11:44   Reading Mr Holland’s discourse of the Navy, and am pleased with them, they hitting the diseases of the Navy we are troubled with now-a-days.
+
 
 1662-07-24 21:07   To my office, where all the afternoon busy, among other things improving my late experiment at Woolwich about hemp.
 
 1662-07-24 11:10   I hear, to my great content, that my Lord Sandwich is safe landed in France.
+
 
 1662-07-23 22:10   Much disturbed by reason of the talk up and down the town, that my Lord Sandwich is lost; but I trust in God the contrary.
 
@@ -56,11 +64,13 @@ YYYY-MM-DD HH:MM   1234567890123456789012345678901234567890123456789012345678901
 
 1662-07-23 08:49   This morning angry a little, and my house being so much out of order makes me a little pettish.
 
+
 1662-07-22 13:58   At dinner I was highly angry with my wife for her keys being out of the way, but they were found at last, and so friends again.
 
 1662-07-22 07:48   All safe, only my Lord Sandwich; they know not what is become of him, which do trouble me; but I hope he got ashore before the storm begun.
 
 1662-07-22 07:37   Letters from Mr. Coventry; who tells me of the foul weather that drove them back from near Boulogne, whither they were going for the Queen.
+
 
 1662-07-21 20:42   We found that my Lady was angry for our neglecting to see her as we used to do, but after a little she was pleased as she was used to be.
 
@@ -71,6 +81,7 @@ YYYY-MM-DD HH:MM   1234567890123456789012345678901234567890123456789012345678901
 1662-07-21 07:29   Capt. Cocke showed silver dishes, which he bought of an embassador that did lack money, in the rim of which was placed gold medalls.
 
 1662-07-21 05:07   Though I found myself out of order and cold, yet upon my desire to do what I intended, I down to Greenwich, to Captain Cocke’s.
+
 
 1662-07-20 20:55   By carrying the key to Sir W. Pen’s last night, it could not in the midst of all my hurry, be found, and at last they found it in the fire.
 
@@ -86,11 +97,13 @@ YYYY-MM-DD HH:MM   1234567890123456789012345678901234567890123456789012345678901
 
 1662-07-20 07:04   My wife and I lay talking long in bed, and at last she is come to be willing to stay two months in the country.
 
+
 1662-07-19 16:33   Methought it lessened my esteem of a king, that he should not be able to command the rain.
 
 1662-07-19 16:29   It raining hard upon the water, I put ashore and sheltered, while the King came by in his barge, going towards the Downs to meet the Queen.
 
 1662-07-19 06:41   With my wife discoursing about her going into the country, and as she is not very forward so am I at a loss whether to have her go or no.
+
 
 1662-07-18 22:07   To bed, being much troubled at the rain coming into my house, the top being open.
 
@@ -100,11 +113,13 @@ YYYY-MM-DD HH:MM   1234567890123456789012345678901234567890123456789012345678901
 
 1662-07-18 05:01   I got a-top of my house, seeing the design of my work, and like it very well, and it comes into my head to have my dining-room wainscoated.
 
+
 1662-07-17 22:26   Very late I was forced to send for Mr. Turner, Smith, Young, about things to be sent down early to-morrow on board the King’s pleasure boat.
 
 1662-07-17 22:21   I found much business to be upon my hands and was late at the office writing letters by candle light which is rare at this time of the year.
 
 1662-07-17 15:32   I presented my Lord with a state of his accounts to the 14th of July, which did please him, and to my joy I continue in his great esteem.
+
 
 1662-07-16 17:08   We went to Mr. Creed’s lodging, and I seeing a neat leaden standish to carry papers, pen, and ink in when one travels I got that of him.
 
@@ -116,9 +131,11 @@ YYYY-MM-DD HH:MM   1234567890123456789012345678901234567890123456789012345678901
 
 1662-07-16 05:52   I found all my ceilings, spoiled with rain last night, so that I fear they must be all new whited when the work is done.
 
+
 1662-07-15 21:07   It fell a-raining, and the house being all open at top, it vexed me; but there was no help for it.
 
 1662-07-15 18:10   Comes Mr. Cooper, and I took him by water on purpose to tell me things belonging to ships, which was time well spent.
+
 
 1662-07-14 20:08   My house being this day almost quite untiled in order to its rising higher.
 
@@ -126,13 +143,16 @@ YYYY-MM-DD HH:MM   1234567890123456789012345678901234567890123456789012345678901
 
 1662-07-14 09:33   To Thames Street along with old Mr. Green, among the tarr-men, and did instruct myself in the nature and prices of tarr.
 
+
 1662-07-13 18:18   I did discourse with Mr. Turner about the faults of our management of the business of our office, but I believe is a very knave.
 
 1662-07-13 14:59   I set about making my chamber fit against to-morrow to have the people come to work in pulling down the top of my house.
 
 1662-07-13 11:49   Having by some mischance hurt my cods, I had my old pain all yesterday and this morning, and so kept my bed all this morning.
 
+
 1662-07-12 07:28   I put things in my house in order to be laid up, against my workmen come to take down the top of my house, which troubles me to think of it.
+
 
 1662-07-11 13:38   To the Ropeyard, and viewed the hemp, wherein we found great corruption, and then saw a trial between Sir R. Ford’s yarn and our own.
 
@@ -144,9 +164,11 @@ YYYY-MM-DD HH:MM   1234567890123456789012345678901234567890123456789012345678901
 
 1662-07-11 05:13   Up by four o’clock, and hard at my multiplicacion-table, which I am now almost master of, and so made me ready and to my office.
 
+
 1662-07-10 11:09   To the office, but it vexes me to see so much disorder at our table, that, every man minding a several business, we dispatch nothing.
 
 1662-07-10 05:57   I did call my wife and Sarah, and did make up a difference between them, for she is so good a servant as I am loth to part with her.
+
 
 1662-07-09 15:49   I would have my wife go to Brampton but for the cost. To stay here will be inconvenient because of the dirt when my house is pulled down.
 
@@ -154,69 +176,76 @@ YYYY-MM-DD HH:MM   1234567890123456789012345678901234567890123456789012345678901
 
 1662-07-09 04:27   Up by four o’clock, and at my multiplicacion-table hard, which is all the trouble I meet withal in my arithmetique.
 
-1662-07-08 17:02   My Lord do seem to have his old confidence in me; and tells me to boot, that Mr. Coventry hath spoke of me to him to great advantage.
 
-1662-07-08 15:28   To make up my accounts with my Lord, which I did with trouble, because I had hopes to have made a profit to myself above what was due to me.
+1662-07-08 17:02 r My Lord do seem still to have his old confidence in me; and tells me to boot, that Mr. Coventry hath spoke of me to him to great advantage; wherein I am much pleased.
 
-1662-07-07 12:10   My morning’s work was to put the new books of my office into order, and writing on the backsides what books they be.
+1662-07-08 15:28   In all haste to make up my accounts with my Lord, which I did with some trouble, because I had some hopes to have made a profit to myself in this account and above what was due to me (which God forgive me in), but I could not.
 
-1662-07-06 17:48   My Lady Castlemaine is still great with the King, and the King comes as often to her as ever he did, at which, God forgive me, I am pleased.
 
-1662-07-06 09:08   I do see that my kitchen, besides wine, fire, candle, sope, and many other things, comes to about 30s. a week, or a little over.
+1662-07-07 12:10   My morning’s work at the office was to put the new books of my office into order, and writing on the backsides what books they be, and transcribing out of some old books some things into them.
 
-1662-07-06 09:05   Lay long in bed to-day with my wife merry and pleasant, and then rose and settled my accounts with my wife for housekeeping.
 
-1662-07-05 21:20   At my office all the afternoon, and then my mathematiques at night with Mr. Cooper, and so to supper and to bed.
+1662-07-06 17:48   To supper with my Lady, who tells me, with much trouble, that my Lady Castlemaine is still as great with the King, and that the King comes as often to her as ever he did, at which, God forgive me, I am well pleased.
 
-1662-07-05 14:38   It is considerable that my mind was never in my life in so good a condition of quiet as it has been since I have followed my business.
+1662-07-06 09:05   Lay long in bed today with my wife merry and pleasant, and then rose and settled my accounts with my wife for housekeeping, and do see that my kitchen, besides wine, fire, candle, sope, and many other things, comes to about 30s. a week, or a little over.
 
-1662-07-05 14:32   Mr. Creed would, with all his rhetoric, have persuaded me to have gone to a play; but I did refuse it, and I hope shall ever do so.
 
-1662-07-05 13:44   I having some venison given me, and so I had a shoulder roasted, another baked, and the umbles baked in a pie, and all very well done.
+1662-07-05 21:20   So at my office all the afternoon, and then my mathematiques at night with Mr. Cooper, and so to supper and to bed.
 
-1662-07-05 12:23   We had Sir W. Pen, who I hate with all my heart for his base treacherous tricks, but yet I think it not policy to declare it yet, to dinner.
+1662-07-05 14:38 r Above all things it is considerable that my mind was never in my life in so good a condition of quiet as it has been since I have followed my business and seen myself to get greater and greater fitness in my employment, and honour every day more than other.
 
-1662-07-04 17:10   I sent my brother Tom, at his request, my father’s old Bass Viall which he and I have kept so long but I fear Tom will do little good at it.
+1662-07-05 14:32   Mr. Creed would, with all his rhetoric, have persuaded me to have gone to a play; and I find my nature desirous to have gone, notwithstanding my promise and my business, to which I have lately kept myself so close, but I did refuse it, and I hope shall ever do so.
 
-1662-07-04 14:22   Sir W. Warren and I fell to discourse of Sir W. Batten’s corruption and the people that he employs, and from one discourse to another.
+1662-07-05 13:44 r I having some venison given me a day or two ago, and so I had a shoulder roasted, another baked, and the umbles baked in a pie, and all very well done. We were merry as I could be in that company.
 
-1662-07-04 12:05   Sir W. Warren did come to me, and did begin to instruct me in the nature of fine timber and deals, telling me the nature of every sort.
+1662-07-05 12:23   We had Sir W. Pen, who I hate with all my heart for his base treacherous tricks, but yet I think it not policy to declare it yet, and his son William, to my house to dinner, where was also Mr. Creed and my cozen Harry Alcocke.
 
-1662-07-04 07:50   After an hour’s being with Mr. Cooper at arithmetique (my first attempt being to learn the multiplication-table); we parted till to-morrow.
 
-1662-07-04 06:42   Comes Mr Cooper, mate of the Royall Charles, of whom I intend to learn mathematiques and do begin with him to-day, he being a very able man.
+1662-07-04 17:10   I sent my brother Tom, at his request, my father’s old Bass Viall which he and I have kept so long, but I fear Tom will do little good at it.
 
-1662-07-03 21:00   After a turn upon the leads with my wife, who has lately had but little of my company, since I begun to follow my business, and so to bed.
+1662-07-04 14:22 r From that we fell to discourse of Sir W. Batten’s corruption and the people that he employs, and from one discourse to another of the kind. I was much pleased with his company.
 
-1662-07-03 19:17   Mr. Lewis did tell me how the Chest hath ever been abused and what a meritorious act it would be to look after it which I am resolved to do.
+1662-07-04 12:05   Sir W. Warren did come to me about business, and did begin to instruct me in the nature of fine timber and deals, telling me the nature of every sort.
 
-1662-07-03 19:14   Mr. Lewis did produce a paper, wherein he stated the government of the Chest at Chatham to me.
+1662-07-04 07:50 r After an hour’s being with him at arithmetique (my first attempt being to learn the multiplication-table); then we parted till tomorrow.
 
-1662-07-03 15:13   After dinner was brought to Sir W. Compton a gun to discharge seven times, the best of all devices that ever I saw, and not a bawble.
+1662-07-04 06:42   Comes Mr. Cooper, mate of the Royall Charles, of whom I intend to learn mathematiques, and do begin with him today, he being a very able man, and no great matter, I suppose, will content him.
 
-1662-07-03 14:21   Dined at the Dolphin where Sir W. Compton, and other great persons, were, and a very great dinner, but I drank but my allowance of wine.
 
-1662-07-03 09:10   To the office, where another fray between Sir R. Ford and myself about his yarn, wherein I find the board to yield on my side.
+1662-07-03 21:00   After a turn or two upon the leads with my wife, who has lately had but little of my company, since I begun to follow my business, but is contented therewith since she sees how I spend my time, and so to bed.
 
-1662-07-03 06:55   Writing over our contract with Sir W. Rider, for 500 ton of hempe, which, because it is a secret, I have the trouble of writing over.
+1662-07-03 19:17 r Wherein he stated the government of the Chest to me; and upon the whole did tell me how it hath ever been abused, and to this day is; and what a meritorious act it would be to look after it; which I am resolved to do, if God bless me; and do thank him very much for it.
 
-1662-07-02 13:40   I was sorry to see my Lord Sandwich’s people so peremptory, and at every word would complain, as if they shall have such a command over him.
+1662-07-03 19:14   Came Mr. Lewis to me, and very ingeniously did enquire whether I ever did look into the business of the Chest at Chatham; and after my readiness to be informed did appear to him, he did produce a paper.
 
-1662-07-02 12:15   Pett and I to the Pay, where Sir Williams both were paying off the Royal James still, and so to dinner, and to the Pay again.
+1662-07-03 15:13   Was brought to Sir W. Compton a gun to discharge seven times, the best of all devices that ever I saw, and very serviceable, and not a bawble; for it is much approved of, and many thereof made.
 
-1662-07-02 09:40   Mr Davis having a kinswoman in the house dead for which he do trouble himself ridiculously as if there was never another woman in the world.
+1662-07-03 14:21 r We all by invitation dined at the Dolphin with the Officers of the Ordnance; where Sir W. Compton, Mr. O’Neale, and other great persons, were, and a very great dinner, but I drank as I still do but my allowance of wine.
 
-1662-07-02 07:02   Mr. Coventry taking notice how much difference there is between the old Captains for obedience and order, and the King’s new Captains.
+1662-07-03 09:10 r Home to dress myself, and so to the office, where another fray between Sir R. Ford and myself about his yarn, wherein I find the board to yield on my side, and was glad thereof, though troubled that the office should fall upon me of disobliging Sir Richard.
 
-1662-07-02 06:25   A messenger from Mr. Coventry, who sits in his boat expecting us, and so we down to him at the Tower, and there took water, and to Deptford.
+1662-07-03 06:55   Writing over two copies of our contract with Sir W. Rider, &c., for 500 ton of hempe, which, because it is a secret, I have the trouble of writing over as well as drawing.
 
-1662-07-02 05:20   Up while the chimes went four, and to put down my journal, and so to read over such instructions as concern the officers of the Yard.
 
-1662-07-01 20:59   After talking with my wife, who was afeard I did intend to go to fetch the Queen mother, in which I did clear her doubts, I went to bed.
+1662-07-02 13:50 r And to the Pay again, where I did relieve several of my Lord Sandwich’s people, but was sorry to see them so peremptory, and at every word would, complain to my Lord, as if they shall have such a command over my Lord.
 
-1662-07-01 18:10   To Redriffe by land, Mr. Cowly, the Clerk of the Cheque, discoursing concerning the abuses of the yard, in which he did give me much light.
+1662-07-02 12:15 r Pett and I to the Pay, where Sir Williams both were paying off the Royal James still, and so to dinner.
 
-1662-07-01 15:21   I spoke to Cooper about teaching the mathematiques. I please myself in thoughts of learning of him, and bade him come to me in a day or two.
+1662-07-02 09:40 r Into the Store-house, and viewed the provisions there and then his books, but Mr. Davis himself was not there, he having a kinswoman in the house dead, for which, when by and by I saw him, he do trouble himself most ridiculously, as if there was never another woman in the world.
 
-1662-07-01 13:02   Captain Cuttance and I by water to Deptford, where the Royal James was paying off by Sir W. Batten and Sir W. Pen.
+1662-07-02 07:02 r He in our passage taking notice how much difference there is between the old Captains for obedience and order, and the King’s new Captains, which I am very glad to hear him confess.
 
+1662-07-02 06:25   By appointment, comes Commissioner Pett; and then a messenger from Mr. Coventry, who sits in his boat expecting us, and so we down to him at the Tower, and there took water all, and to Deptford.
+
+1662-07-02 04:50   Up while the chimes went four, and to put down my journal, and so to my office, to read over such instructions as concern the officers of the Yard; for I am much upon seeing into the miscarriages there.
+
+
+1662-07-01 20:59   After half an hour sitting talking with my wife, who was afeard I did intend to go with my Lord to fetch the Queen mother over, in which I did clear her doubts, I went to bed by daylight, in order to my rising early tomorrow.
+
+1662-07-01 18:10 r To Redriffe by land, Mr. Cowly, the Clerk of the Cheque, with me, discoursing concerning the abuses of the yard, in which he did give me much light.
+
+1662-07-01 15:21 r Seeing of Cooper, the mate of the ship, whom I knew in the Charles, I spoke to him about teaching the mathematiques, and do please myself in my thoughts of learning of him, and bade him come to me in a day or two.
+
+1662-07-01 13:50 r I sent to my Lord to know whether she should be a first rate, as the men would have her, or a second. He answered that we should forbear paying the officers and such whose pay differed upon the rate of the ship, till he could speak with his Royal Highness.
+
+1662-07-01 13:02   Captain Cuttance and I by water to Deptford, where the Royal James (in which my Lord went out the last voyage, though came back in the Charles) was paying off by Sir W. Batten and Sir W. Pen.
