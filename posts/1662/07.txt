@@ -1,135 +1,145 @@
 YYYY-MM-DD HH:MM r 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
-1662-07-31 21:04   I am in town only with my man Will and Jane, and because my house is in building, I do lie at Sir W. Pen’s house, he being gone to Ireland.
+1662-07-31 21:04 r I am now in town only with my man Will and Jane, and because my house is in building, I do lie at Sir W. Pen’s house, he being gone to Ireland. My wife, her maid and boy gone to Brampton.
 
-1662-07-31 20:56   It being the last day of the month, I did make up my accounts, and found myself worth about 650l, for which the Lord God be praised.
+1662-07-31 20:56   So home late, and it being the last day of the month, I did make up my accounts before I went to bed, and found myself worth about 650l., for which the Lord God be praised.
 
-1662-07-31 15:08   We found Sir W Batten going about his survey, but so poorly and unlike a survey of the Navy, that I am ashamed of it, and so is Mr Coventry.
+1662-07-31 15:08   We found Sir W. Batten going about his survey, but so poorly and unlike a survey of the Navy, that I am ashamed of it, and so is Mr. Coventry.
 
 1662-07-31 11:47   To my office, and there we sat all the morning, where I begin more and more to grow considerable there.
 
-
-1662-07-30 20:31   To the Rope-yard, repeating trialls of the strength, wayte, and waste of hemp by which I have furnished myself enough to finish my business.
-
-1662-07-30 10:49   My Lord’s people tell me how bravely he did carry himself, while my Lord Crofts did cry; all the town talk how poorly he carried himself.
-
-1662-07-30 10:16   By water to White Hall and there waited upon my Lord Sandwich; and joyed him, at his lodgings, of his safe coming home after all his danger.
-
-1662-07-30 06:08   Cooper came to me and begun his lecture upon the body of a ship, which my having of a modell in the office is of great use to me.
+1662-07-31 06:07   Up early and among my workmen, I ordering my rooms above, which will please me very well.
 
 
-1662-07-29 20:20   To see the difference between the flags sent in now-a-days, and I find the old ones, which were much cheaper, to be wholly as good.
+1662-07-30 20:31   About my business to the Rope-yard, repeating several trialls of the strength, wayte, waste, and other things of hemp, by which I have furnished myself enough to finish my intended business of stating the goodness of all sorts of hemp.
 
-1662-07-29 19:02   Walked to Deptford (Cooper with me talking of mathematiques), to send a fellow to prison for cutting of buoy ropes.
+1662-07-30 10:59 r But the best was of one Mr. Rawlins, a courtier, that was with my Lord; and in the greatest danger cried, “God damn me, my Lord, I won’t give you three-pence for your place now.”
 
-1662-07-29 14:22   To Sir W. Batten’s to dinner, and there merry, and very friendly to Sir Wm. and he to me, but I know he envies me, and I do not value him.
+1662-07-30 10:49 r And his people do tell me how bravely my Lord did carry himself, while my Lord Crofts did cry; and I perceive it is all the town talk how poorly he carried himself.
 
-1662-07-29 12:15   I broached the business of our being abused about flags, which I know doth trouble Sir W. Batten, but I care not.
+1662-07-30 10:16   By water to White Hall, and there waited upon my Lord Sandwich; and joyed him, at his lodgings, of his safe coming home after all his danger, which he confesses to be very great.
 
-1662-07-29 12:07   To the office, and there we sat all the morning, Sir George Carteret and Mr. Coventry being come from sea.
-
-
-1662-07-28 21:47   To my chamber a little troubled and melancholy, to my lute, and so to bed, Will lying at my feet, and the wench in my house in Will’s bed.
-
-1662-07-28 07:48   I to the Tower; hearing that the Queen-Mother is come this morning already as high as Woolwich: and that my Lord Sandwich was with her.
-
-1662-07-28 06:31   I walked with my wife to the George, at Holborn Conduit, where the coach stood ready to carry her and her maid to Bugden.
+1662-07-30 06:08   Cooper came to me and begun his lecture upon the body of a ship, which my having of a modell in the office is of great use to me, and very pleasant and useful it is.
 
 
-1662-07-27 15:32   Meeting with Laud Crispe we sat under a tree in a corner and sung some songs, he singing well, but no skill, and so would sing false.
+1662-07-29 19:02   Walked to Deptford (Cooper with me talking of mathematiques), to send a fellow to prison for cutting of buoy ropes, and to see the difference between the flags sent in now-a-days, and I find the old ones, which were much cheaper, to be wholly as good.
 
-1662-07-27 15:03   I carried my wife to Westminster, and I to walk in the Park, which is now every day more and more pleasant, by the new works upon it.
+1662-07-29 14:22 r Being invited I went with Sir George and Mr. Coventry to Sir W. Batten’s to dinner, and there merry, and very friendly to Sir Wm. and he to me, and complies much with me, but I know he envies me, and I do not value him.
 
+1662-07-29 12:15 r Among other things I broached the business of our being abused about flags, which I know doth trouble Sir W. Batten, but I care not.
+
+1662-07-29 12:07   Early up, and brought all my money, which is near 300l., out of my house into this chamber; and so to the office, and there we sat all the morning, Sir George Carteret and Mr. Coventry being come from sea.
+
+
+1662-07-28 21:47   To my chamber a little troubled and melancholy, to my lute late, and so to bed, Will lying there at my feet, and the wench in my house in Will’s bed.
+
+1662-07-28 07:48 r I walked to the waterside, and there took boat for the Tower; hearing that the Queen-Mother is come this morning already as high as Woolwich: and that my Lord Sandwich was with her; at which my heart was glad.
+
+1662-07-28 06:41   With my wife to the George, at Holborn Conduit, where the coach stood ready to carry her and her maid to Bugden, but that not being ready, my brother Tom staid with them to see them gone, and so I took a troubled though willing goodbye, because of the bad condition of my house.
+
+
+1662-07-27 15:52 r Meeting with Laud Crispe, I took him to the farther end, and sat under a tree in a corner, and there sung some songs, he singing well, but no skill, and so would sing false sometimes.
+
+1662-07-27 15:03   By water I carried my wife to Westminster, where she went to take leave of her father, and I to walk in the Park, which is now every day more and more pleasant, by the new works upon it.
+
+
+1662-07-26 17:40 r Thence to Mrs. Sarah, and there looked over my Lord’s lodgings, which are very pretty; and White Hall garden and the Bowling-ally (where lords and ladies are now at bowles), in brave condition.
 
 1662-07-26 16:53   I went to Westminster; and there hear that the King and Queen intend to come to White Hall from Hampton Court next week, for all winter.
 
-1662-07-26 15:30   A letter from Mr. Creed, who got safe to the Downs; and that there the King do tell him that he is sure my Lord is landed at Callis safe.
+1662-07-26 15:30   I had a letter from Mr. Creed, who hath escaped narrowly in the King’s yacht, and got safe to the Downs after the late storm; and that there the King do tell him, that he is sure that my Lord is landed at Callis safe, of which being glad.
 
-1662-07-26 14:21   Causing the model hanging in my chamber to be taken down and hung up in my office, for fear of being spoilt by the workmen.
-
-
-1662-07-25 11:44   Reading Mr Holland’s discourse of the Navy, and am pleased with them, they hitting the diseases of the Navy we are troubled with now-a-days.
+1662-07-26 14:21   To my office, causing the model hanging in my chamber to be taken down and hung up in my office, for fear of being spoilt by the workmen, and for my own convenience of studying it.
 
 
-1662-07-24 21:07   To my office, where all the afternoon busy, among other things improving my late experiment at Woolwich about hemp.
+1662-07-25 11:44   At the office all the morning, reading Mr. Holland’s discourse of the Navy, lent me by Mr. Turner, and am much pleased with them, they hitting the very diseases of the Navy, which we are troubled with now-a-days. I shall bestow writing of them over and much reading thereof.
 
-1662-07-24 11:10   I hear, to my great content, that my Lord Sandwich is safe landed in France.
+
+1662-07-24 21:07   To my office, where all the afternoon busy till 9 at night, among other things improving my late experiment at Woolwich about hemp.
+
+1662-07-24 11:10 r I hear, to my great content, that my Lord Sandwich is safe landed in France.
 
 
 1662-07-23 22:10   Much disturbed by reason of the talk up and down the town, that my Lord Sandwich is lost; but I trust in God the contrary.
 
-1662-07-23 21:36   Quite out of sorts in my mind by reason that the weather is so bad, and my house all full of wet.
+1662-07-23 21:36   Late packing up things in order to their going to Brampton tomorrow, and so to bed, quite out of sorts in my mind by reason that the weather is so bad, and my house all full of wet, and the trouble of going from one house to another to Sir W. Pen’s upon every occasion.
 
-1662-07-23 11:41   Vexed that my brother Tom do fail to get a coach for my wife and maid this week, by which she will not be at Brampton Feast to meet my Lady.
+1662-07-23 11:41   Being a little vexed that my brother Tom, by his neglect, do fail to get a coach for my wife and maid this week, by which she will not be at Brampton Feast, to meet my Lady at my father’s.
 
-1662-07-23 08:49   This morning angry a little, and my house being so much out of order makes me a little pettish.
-
-
-1662-07-22 13:58   At dinner I was highly angry with my wife for her keys being out of the way, but they were found at last, and so friends again.
-
-1662-07-22 07:48   All safe, only my Lord Sandwich; they know not what is become of him, which do trouble me; but I hope he got ashore before the storm begun.
-
-1662-07-22 07:37   Letters from Mr. Coventry; who tells me of the foul weather that drove them back from near Boulogne, whither they were going for the Queen.
+1662-07-23 08:49   This morning angry a little in the morning, and my house being so much out of order makes me a little pettish.
 
 
-1662-07-21 20:42   We found that my Lady was angry for our neglecting to see her as we used to do, but after a little she was pleased as she was used to be.
+1662-07-22 13:58   At home at dinner, where I was highly angry with my wife for her keys being out of the way, but they were found at last, and so friends again.
 
-1662-07-21 15:22   Capt. Cocke’s lady was angry to him for disappointing a gentleman he had invited to dinner, which he took like a wise man and said little.
+1662-07-22 07:48 r But are all safe, only my Lord Sandwich, who went before with the yachts; they know not what is become of him, which do trouble me much; but I hope he got ashore before the storm begun; which God grant!
 
-1662-07-21 09:38   To the Rope-yard; and did fall upon my survey of seeing the experiments of the strength and the charge in the dressing of every sort.
-
-1662-07-21 07:29   Capt. Cocke showed silver dishes, which he bought of an embassador that did lack money, in the rim of which was placed gold medalls.
-
-1662-07-21 05:07   Though I found myself out of order and cold, yet upon my desire to do what I intended, I down to Greenwich, to Captain Cocke’s.
+1662-07-22 07:37   I had letters from the Downs from Mr. Coventry; who tells me of the foul weather they had, that drove them back from near Boulogne, whither they were going for the Queen, back again to the Downs, with the loss of their cables, sayles, and masts.
 
 
-1662-07-20 20:55   By carrying the key to Sir W. Pen’s last night, it could not in the midst of all my hurry, be found, and at last they found it in the fire.
+1662-07-21 20:42   To my Lady’s, where we staid and supped with her, but found that my Lady was truly angry and discontented with us for our neglecting to see her as we used to do, but after a little she was pleased as she was used to be, at which we were glad.
 
-1662-07-20 20:29   To Sir W. Pen’s to my chamber again, being all in dirt and foul, and in fear of having catched cold today with dabbling in the water.
+1662-07-21 14:22 r Landing at the riverside, we walked to Greenwich, where to Cocke’s house again and walked in the garden, and then in to his lady, who was now vexed and did speak very discontented and angry to the Captain for disappointing a gentleman that he had invited to dinner.
 
-1662-07-20 15:11   The house will be freer, for it is impossible to have anybody come into my house while it is in this condition.
+1662-07-21 11:20 r But, good God! what a deal of company was there from both yards to help to do it, when half the company would have done it as well. But I see it is impossible for the King to have things done as cheap as other men.
 
-1662-07-20 15:09   I and my wife concluded to have her go and her two maids and the boy, and so there shall be none but Will and I left at home.
+1662-07-21 10:55 r We walked in Mr. Shelden’s garden, eating figs, which were very good, and talking while the Royal James was bringing towards the dock, and then we went out and saw the manner and trouble of docking such a ship, which yet they could not do but only brought her head into the Dock.
 
-1662-07-20 10:15   I fitted myself for dirt, and removed all my books to the office and restoring things, it raining as hard within doors as without.
+1662-07-21 09:38   To Woolwich to the Rope-yard; and there looked over several sorts of hemp, and did fall upon my great survey of seeing the working and experiments of the strength and the charge in the dressing of every sort.
 
-1662-07-20 07:32   I went into my house and find that it is as wet as the open street, and that there is not one dry-footing above nor below in my house.
+1662-07-21 07:29 r He showed a great rarity, which was two or three of a great number of silver dishes and plates, which he bought of an embassador that did lack money, in the edge or rim of which was placed silver and gold medalls, very ancient, and I will show Mr. Crumlum them.
 
-1662-07-20 07:04   My wife and I lay talking long in bed, and at last she is come to be willing to stay two months in the country.
+1662-07-21 05:37   Up early, and though I found myself out of order and cold, and the weather cold and likely to rain, yet upon my promise and desire to do what I intended, I did take boat and down to Greenwich, to Captain Cocke’s, who hath a most pleasant seat, and neat.
 
 
-1662-07-19 16:33   Methought it lessened my esteem of a king, that he should not be able to command the rain.
+1662-07-20 21:20 r But what has vexed me today was that by carrying the key to Sir W. Pen’s last night, it could not in the midst of all my hurry to carry away my books and things, be found, and at last they found it in the fire that we made last night.
 
-1662-07-19 16:29   It raining hard upon the water, I put ashore and sheltered, while the King came by in his barge, going towards the Downs to meet the Queen.
+1662-07-20 20:29 r And so to Sir W. Pen’s to my chamber again, being all in dirt and foul, and in fear of having catched cold today with dabbling in the water.
 
-1662-07-19 06:41   With my wife discoursing about her going into the country, and as she is not very forward so am I at a loss whether to have her go or no.
+1662-07-20 17:54 r All the afternoon we were putting up things in the further cellar against next week for them to be gone, and my wife and I into the office and there measured a soiled flag that I had found, and hope to get it to myself, for it has not been demanded since I came to the office.
+
+1662-07-20 14:09 r I and my wife concluded to have her go and her two maids and the boy, and so there shall be none but Will and I left at home, and so the house will be freer, for it is impossible to have anybody come into my house while it is in this condition.
+
+1662-07-20 10:15 r So I fitted myself for dirt, and removed all my books to the office and all day putting up and restoring things, it raining as hard within doors as without.
+
+1662-07-20 07:32 r That which troubles me most is that it has rained so furiously that I fear my house is all over water, and with that expectation I rose and went into my house and find that it is as wet as the open street, and that there is not one dry-footing above nor below in my house.
+
+1662-07-20 07:04   My wife and I lay talking long in bed, and at last she is come to be willing to stay two months in the country, for it is her unwillingness to stay till the house is quite done that makes me at a loss how to have her go or stay.
+
+
+1662-07-19 22:04   To bed to a chamber at Sir W. Pen’s, my own house being so foul that I cannot lie there, and there the chamber lies so as that I come into it over my leads without going about, but yet I am not content with it, for there will be trouble to have servants running over the leads.
+
+1662-07-19 16:33 r But methought it lessened my esteem of a king, that he should not be able to command the rain.
+
+1662-07-19 16:29   I went upon the river to look after some tarr I am sending down and some coles, and so home again; it raining hard upon the water, I put ashore and sheltered myself, while the King came by in his barge, going down towards the Downs to meet the Queen.
+
+1662-07-19 06:44 r And yet in some considerations I would be glad she was there, because of the dirtiness of my house and the trouble of having of a family there.
+
+1662-07-19 06:41   Up early and to some business, and my wife coming to me I staid long with her discoursing about her going into the country, and as she is not very forward so am I at a great loss whether to have her go or no because of the charge.
 
 
 1662-07-18 22:07   To bed, being much troubled at the rain coming into my house, the top being open.
 
-1662-07-18 21:17   Comes Cooper for my mathematiques but, in good earnest, my head is so full of business that I cannot understand it as otherwise I should do.
+1662-07-18 21:17   Comes Cooper for my mathematiques, but, in good earnest, my head is so full of business that I cannot understand it as otherwise I should do.
 
-1662-07-18 12:28   By water to Deptford, to put several things in order, being myself now only left in town, and so back again to the office.
+1662-07-18 12:28   By-and-by by water to Deptford, to put several things in order, being myself now only left in town, and so back again to the office, and there doing business all the morning.
 
-1662-07-18 05:01   I got a-top of my house, seeing the design of my work, and like it very well, and it comes into my head to have my dining-room wainscoated.
-
-
-1662-07-17 22:26   Very late I was forced to send for Mr. Turner, Smith, Young, about things to be sent down early to-morrow on board the King’s pleasure boat.
-
-1662-07-17 22:21   I found much business to be upon my hands and was late at the office writing letters by candle light which is rare at this time of the year.
-
-1662-07-17 15:32   I presented my Lord with a state of his accounts to the 14th of July, which did please him, and to my joy I continue in his great esteem.
+1662-07-18 05:01   Up very early, and got a-top of my house, seeing the design of my work, and like it very well, and it comes into my head to have my dining-room wainscoated, which will be very pretty.
 
 
-1662-07-16 17:08   We went to Mr. Creed’s lodging, and I seeing a neat leaden standish to carry papers, pen, and ink in when one travels I got that of him.
+1662-07-17 23:20   Very late I was forced to send for Mr. Turner, Smith, Young, about things to be sent down early tomorrow on board the King’s pleasure boat, and so to bed with my head full of business, but well contented in mind as ever in my life.
 
-1662-07-16 14:50   I seeming to like a ring made of a coco-nutt with a stone done in it, Captain Ferrers did offer and would give it me.
+1662-07-17 22:55   Found much business to be upon my hands, and was late at the office writing letters by candle light, which is rare at this time of the year, but I do it with much content and joy, and then I do please me that I begin to have people direct themselves to me in all businesses.
 
-1662-07-16 14:48   I dined with Mr. Moore and the people below, who fell to talk of Portugall rings, and Captain Ferrers offered five or six to sell.
+1662-07-17 15:32   To my Lord’s, where I presented him with a true state of all his accounts to the 14th of July, which did please him, and to my great joy I continue in his great esteem and opinion.
 
-1662-07-16 10:22   I consulted about drawing up a fair state of all my Lord’s accounts. I fell to writing of it neatly, and it was handsome and concisely done.
 
-1662-07-16 05:52   I found all my ceilings, spoiled with rain last night, so that I fear they must be all new whited when the work is done.
+1662-07-16 17:08 r We went to Mr. Creed’s lodging, and there got a dish or two of sweetmeats, and I seeing a very neat leaden standish to carry papers, pen, and ink in when one travels I also got that of him.
+
+1662-07-16 14:48   I dined with Mr. Moore and the people below, who after dinner fell to talk of Portugall rings, and Captain Ferrers offered five or six to sell, and I seeming to like a ring made of a coco-nutt with a stone done in it, he did offer and would give it me.
+
+1662-07-16 10:22   To my office, and by and by came Mr. Moore to me, and so I went home and consulted about drawing up a fair state of all my Lord’s accounts, which being settled, he went away, and I fell to writing of it very neatly, and it was very handsome and concisely done.
+
+1662-07-16 05:52 r I found all my ceilings, spoiled with rain last night, so that I fear they must be all new whited when the work is done.
 
 
 1662-07-15 21:07   It fell a-raining, and the house being all open at top, it vexed me; but there was no help for it.
@@ -137,42 +147,46 @@ YYYY-MM-DD HH:MM r 1234567890123456789012345678901234567890123456789012345678
 1662-07-15 18:10   Comes Mr. Cooper, and I took him by water on purpose to tell me things belonging to ships, which was time well spent.
 
 
-1662-07-14 20:08   My house being this day almost quite untiled in order to its rising higher.
+1662-07-14 20:08   My house being this day almost quite untiled in order to its rising higher. This night I began to put on my waistcoat also.
 
 1662-07-14 10:48   I found the pageant in Cornhill taken down, which was pretty strange.
 
-1662-07-14 09:33   To Thames Street along with old Mr. Green, among the tarr-men, and did instruct myself in the nature and prices of tarr.
+1662-07-14 09:33   To Thames Street along with old Mr. Green, among the tarr-men, and did instruct myself in the nature and prices of tarr, but could not get Stockholm for the use of the office under 10l. 15s. per last, which is a great price.
 
 
-1662-07-13 18:18   I did discourse with Mr. Turner about the faults of our management of the business of our office, but I believe is a very knave.
+1662-07-13 20:40 r I did discourse with Mr. Turner about the faults of our management of the business of our office, of which he is sensible, but I believe is a very knave.
 
-1662-07-13 14:59   I set about making my chamber fit against to-morrow to have the people come to work in pulling down the top of my house.
+1662-07-13 18:18   I told Mr. Turner my whole mind, and how it was in my power to do him a discourtesy about his place of petty purveyance, and at last did make him see (I think) that it was his concernment to be friendly to me and what belongs to me.
+
+1662-07-13 14:59   I set about taking down my books and papers and making my chamber fit against tomorrow to have the people come to work in pulling down the top of my house.
 
 1662-07-13 11:49   Having by some mischance hurt my cods, I had my old pain all yesterday and this morning, and so kept my bed all this morning.
 
 
-1662-07-12 07:28   I put things in my house in order to be laid up, against my workmen come to take down the top of my house, which troubles me to think of it.
+1662-07-12 07:28   Up by five o’clock, and put things in my house in order to be laid up, against my workmen come on Monday to take down the top of my house, which trouble I must go through now, but it troubles me much to think of it.
 
 
-1662-07-11 13:38   To the Ropeyard, and viewed the hemp, wherein we found great corruption, and then saw a trial between Sir R. Ford’s yarn and our own.
+1662-07-11 15:40 r Fell to discourse of business and regulation, and do think of many things that will put matters into better order, and my heart rejoices to see Mr. Coventry so ingenious, and able, and studious to do good, and with much frankness and respect to Mr. Pett and myself particularly.
 
-1662-07-11 10:59   To Mr. Ackworth’s and Sheldon’s to view their books, which we found not to answer the King’s service and security at all as to the stores.
+1662-07-11 13:38 r Then to the Ropeyard, and there viewed the hemp, wherein we found great corruption, and then saw a trial between Sir R. Ford’s yarn and our own, and found great odds.
 
-1662-07-11 09:24   To Woolwich, and viewed well all the houses and stores there, which lie in very great confusion for want of storehouses.
+1662-07-11 09:54 r To Woolwich, and viewed well all the houses and stores there, which lie in very great confusion for want of storehouses, and then to Mr. Ackworth’s and Sheldon’s to view their books, which we found not to answer the King’s service and security at all as to the stores.
 
-1662-07-11 07:53   We down to Deptford, and viewed some deals served in at a low price, which our officers, like knaves, would untruly value in their worth.
+1662-07-11 07:53   Down to Deptford first, and there viewed some deals lately served in at a low price, which our officers, like knaves, would untruly value in their worth, but we found them good.
 
 1662-07-11 05:13   Up by four o’clock, and hard at my multiplicacion-table, which I am now almost master of, and so made me ready and to my office.
 
 
-1662-07-10 11:09   To the office, but it vexes me to see so much disorder at our table, that, every man minding a several business, we dispatch nothing.
+1662-07-10 11:58   So to the office all the morning, where very much business, but it vexes me to see so much disorder at our table, that, every man minding a several business, we dispatch nothing.
 
-1662-07-10 05:57   I did call my wife and Sarah, and did make up a difference between them, for she is so good a servant as I am loth to part with her.
+1662-07-10 05:57   Up by four o’clock, and before I went to the office I practised my arithmetique, and then, when my wife was up, did call her and Sarah, and did make up a difference between them, for she is so good a servant as I am loth to part with her.
 
 
-1662-07-09 15:49   I would have my wife go to Brampton but for the cost. To stay here will be inconvenient because of the dirt when my house is pulled down.
+1662-07-09 15:49   My wife with me, and she was talking to me about her going to Brampton, which I would willingly have her to do but for the cost of it, and to stay here will be very inconvenient because of the dirt that I must have when my house is pulled down.
 
-1662-07-09 11:38   I did, God forgive me! promise Sir W. Pen all my service and love, though the rogue knows he deserves none, nor do I intend to show him any.
+1662-07-09 11:38 r I did, God forgive me! promise him all my service and love, though the rogue knows he deserves none from me, nor do I intend to show him any; but as he dissembles with me, so must I with him.
+
+1662-07-09 11:29   Sir W. Pen came to my office to take his leave of me, and desiring a turn in the garden, did commit the care of his building to me, and offered all his services to me in all matters of mine.
 
 1662-07-09 04:27   Up by four o’clock, and at my multiplicacion-table hard, which is all the trouble I meet withal in my arithmetique.
 
