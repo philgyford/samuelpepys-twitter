@@ -1,271 +1,309 @@
-YYYY-MM-DD HH:MM   12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+YYYY-MM-DD HH:MM r 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
-1662-09-30 22:12   My brother Tom is gone out of town this day, to make a second journey to his mistress at Banbury, of which I have good expectations.
 
-1662-09-30 21:48   Things are all quiett, but the King poor, and no hopes of his being otherwise, by which things will go to rack, especially in the Navy.
+1662-09-30 22:15 r My brother Tom is gone out of town this day, to make a second journey to his mistress at Banbury, of which I have good expectations, and pray God to bless him therein.
 
-1662-09-30 18:19   Strange to see how easily my mind do revert to its practice of loving plays and wine, having given myself a liberty to them these two days.
+1662-09-30 22:09 r The late outing of the Presbyterian clergy by their not renouncing the Covenant as the Act of Parliament commands, is the greatest piece of state now in discourse.
 
-1662-09-30 17:07   We took coach and to the Duke’s playhouse, where we saw “The Duchess of Malfy” well performed, but Betterton and Ianthe to admiration.
+1662-09-30 22:05 r Things are all quiett, but the King poor, and no hopes almost of his being otherwise, by which things will go to rack, especially in the Navy.
 
-1662-09-30 05:38   Good God! how I do find myself by yesterday’s liberty hard to be brought to follow business again, but however, I must do it.
+1662-09-30 22:00 r As for the office, my late industry hath been such, as I am become as high in reputation as any man there, and good hold I have of Mr. Coventry and Sir G. Carteret, which I am resolved, and it is necessary for me, to maintain by all fair means.
 
-1662-09-29 19:29   Mr Deane hath sent the model he promised; it so far exceeds my expectations I am sorry he should make such a present to no greater a person.
+1662-09-30 21:48 r My Lord Sandwich has lately been in the country, and very civil to my wife, and hath himself spent some pains in drawing a plot of some alterations in our house there, which I shall follow as I get money.
 
-1662-09-29 17:26   I saw, I confess, some good dancing and some handsome women, which was all my pleasure.
+1662-09-30 21:40 r My mind is somewhat troubled about my best chamber, which I question whether I shall be able to keep or no. I am also troubled for the journey which I must needs take suddenly to the Court at Brampton.
 
-1662-09-29 17:24   We saw “Midsummer’s Night’s Dream,” which I had never seen before, nor shall ever again. The most insipid ridiculous play that ever I saw.
+1662-09-30 21:32 r I have also made up this evening my monthly ballance, and find that, notwithstanding the loss of 30l. to be paid to the loyall and necessitous cavaliers by act of Parliament, yet I am worth about 680l., for which the Lord God be praised.
 
-1662-09-29 10:53   To Tom’s, and taking up my wife, maid, dog, and him, did carry them home, where my wife is much pleased with my house, and so am I fully.
+1662-09-30 21:19 r Strange to see how easily my mind do revert to its former practice of loving plays and wine, having given myself a liberty to them but these two days; but this night I have again bound myself to Christmas next, in which I desire God to bless me and preserve me.
 
-1662-09-29 06:41   This day my oaths for drinking of wine and going to plays are out, and so I do resolve to take a liberty, and then to fall to them again.
+1662-09-30 17:07 r To the Duke’s playhouse, where we saw “The Duchess of Malfy” well performed, but Betterton and Ianthe to admiration.
+
+1662-09-30 05:38   Good God! how I do find myself by yesterday’s liberty hard to be brought to follow business again, but however, I must do it, considering the great sweet and pleasure and content of mind that I have had since I did leave drink and plays, and followed my business.
+
+
+1662-09-29 19:29   I find Mr. Deane, of Woolwich, hath sent me the modell he had promised me; but it so far exceeds my expectations, that I am sorry almost he should make such a present to no greater a person; but I am exceeding glad of it, and shall study to do him a courtesy for it.
+
+1662-09-29 17:24   To the King’s Theatre, where we saw “Midsummer’s Night’s Dream,” which I had never seen before, nor shall ever again, for it is the most insipid ridiculous play that ever I saw in my life. I saw, I confess, some good dancing and some handsome women, which was all my pleasure.
+
+1662-09-29 10:53   To Tom’s, and there taking up my wife, maid, dog, and him, did carry them home, where my wife is much pleased with my house, and so am I fully.
+
+1662-09-29 06:41   This day my oaths for drinking of wine and going to plays are out, and so I do resolve to take a liberty today, and then to fall to them again.
+
 
 1662-09-28 14:48   I found my house made a little clean, and pleases me better and better.
 
-1662-09-28 10:47   The French Church do have, which I never saw before, the minister do preach with his hat off, I suppose in conformity with our Church.
+1662-09-28 10:32   With Tom to the French Church at the Savoy, where I never was before – a pretty place it is – and there they have the Common Prayer Book read in French, and, which I never saw before, the minister do preach with his hat off, I suppose in further conformity with our Church.
 
-1662-09-28 10:32   To the French Church at the Savoy, where I never was before — a pretty place — and there they have the Common Prayer Book read in French.
+1662-09-28 05:27 r She tells me what a rogue my boy is, and strange things he has been found guilty of, not fit to name, which vexes, but most of all the unquiett life that my mother makes my father and herself lead through her want of reason.
 
-1662-09-28 05:27   My wife tells me what a rogue my boy is, and strange things he has been found guilty of, not fit to name, which vexes.
+1662-09-28 04:32 r Waked early, and fell talking one with another with great pleasure of my house at Brampton and that here, and other matters.
 
-1662-09-28 04:32   Waked early, and fell talking one with another with great pleasure of my house at Brampton and that here, and other matters.
 
-1662-09-27 22:37   I perceive my Lord and Lady have been very kind to my wife, and Captn. Ferrers so kind that I perceive I have some jealousy of him.
+1662-09-27 22:39 r I perceive my Lord and Lady have been very kind to her, and Captn. Ferrers so kind that I perceive I have some jealousy of him, but I know what is the Captain’s manner of carriage, and therefore it is nothing to me.
 
-1662-09-27 22:28   There has been falling out between my mother and my wife, and a little between my father and she; but I hope all is well again.
+1662-09-27 22:34 r But I hope all is well again, and I perceive she likes Brampton House and seat better than ever I did myself, and tells me how my Lord hath drawn a plot of some alteracions to be made there, and hath brought it up, which I saw and like well.
 
-1662-09-27 21:17   I found my wife and her maid and dogg very well, and herself grown a little fatter than she was. I was very well pleased to see her.
+1662-09-27 22:28 r To bed, and had her company with great content and much mutual love, only I do perceive that there has been falling out between my mother and she, and a little between my father and she.
 
-1662-09-27 20:47   Will did, by my leave to go, meet my wife upon the road, and did bring me word she was come to my brother’s, by my order.
+1662-09-27 21:17 r I found her and her maid and dogg very well, and herself grown a little fatter than she was. I was very well pleased to see her.
 
-1662-09-27 05:12   Now the boy’s room being laid into the entry do make my coming in very handsome, which was the only fault remaining almost in my house.
+1662-09-27 20:47   Will did, by my leave to go, meet my wife upon the road, and did bring me word she was come to my brother’s, by my order. So I made myself ready and put things at home in order, and so went thither to her.
 
-1662-09-27 04:48   Up betimes and among my workmen, and with great pleasure see the posts in the entry taken down beyond expectation.
+1662-09-27 04:48   Up betimes and among my workmen, and with great pleasure see the posts in the entry taken down beyond expectation, so that now the boy’s room being laid into the entry do make my coming in very handsome, which was the only fault remaining almost in my house.
 
-1662-09-26 22:09   Writing to Sir G. Carteret that I cannot wait upon him to-morrow morning to Chatham, because of my workmen and my wife’s coming to town.
 
-1662-09-26 16:19   I did cause the partition between the entry and the boy’s room to be pulled down to lay it all into one, which I hope will please me.
+1662-09-26 22:09   Writing a letter of excuse to Sir G. Carteret that I cannot wait upon him tomorrow morning to Chatham as I promised, which I am loth to do because of my workmen and my wife’s coming to town tomorrow.
 
-1662-09-25 20:39   The woman, formerly nurse to Mrs. Lemon, her child was torn to pieces by two doggs at Walthamstow this week, and is dead, which is strange.
+1662-09-26 16:19   Did cause the partition between the entry and the boy’s room to be pulled down to lay it all into one, which I hope will please me and make my coming in more pleasant.
 
-1662-09-25 19:15   In Portugal they scorn to make a seat for a house of office, but they do shit all in pots and so empty them in the river.
+1662-09-2t 07:50   To Sir W. Batten, who with Sir J. M. are going to Chatham this morning, and I was in great pain till they were gone that I might see whether Sir John do speak any thing of my chamber that I am afraid of losing or no. But he did not, and so my mind is a little at more ease.
 
-1662-09-24 21:59   Late at my office, inditing a letter from Tom to his mistress upon his sending her a watch for a token.
+
+1662-09-25 20:39 r I did also hear how the woman, formerly nurse to Mrs. Lemon (Sir W. Batten’s daughter), her child was torn to pieces by two doggs at Walthamstow this week, and is dead, which is very strange.
+
+1662-09-25 19:15   At Sir W. Batten’s with Sir J. Minnes, &c., where he told us among many other things how in Portugal they scorn to make a seat for a house of office, but they do shit all in pots and so empty them in the river.
+
+
+1662-09-24 21:59   At my office, inditing a letter from Tom to his mistress upon his sending her a watch for a token.
+
+1662-09-24 19:42   It is my content that by several hands today I hear that I have the name of good-natured man among the poor people that come to the office.
 
 1662-09-24 16:38   I discoursed with my brother and Mr Cooke about their journey to Tom’s mistress. I did speak with Mr Croxton about measuring of silk flags.
 
-1662-09-24 14:52   To Mr. Wotton, the shoemaker’s and bought a pair of boots. He told me how Bird hath lately broke his leg, while he was fencing in “Aglaura.”
+1662-09-24 14:52   To Mr. Wotton, the shoemaker’s, and there bought a pair of boots, cost me 30s., and he told me how Bird hath lately broke his leg, while he was fencing in “Aglaura,” upon the stage, and that the new theatre of all will be ready against term.
 
-1662-09-24 11:42   It is my content that by several hands I hear that I have the name of good-natured man among the poor people that come to the office.
+1662-09-24 13:50   To my Lord Crew’s, and there dined alone with him, and among other things he do advise me by all means to keep my Lord Sandwich from proceeding too far in the business of Tangier.
 
-1662-09-23 16:42   In most cabaretts in France they have writ upon the walls in fair letters, “Dieu te regarde,” as a good lesson to be in every man’s mind.
 
-1662-09-23 05:27   Up betimes and with my workmen, taking pleasure to see my work come towards an end, though I am vexed every day enough with their delay.
+1662-09-23 16:42   Sir G. Carteret told me how in most cabaretts in France they have writ upon the walls in fair letters to be read, “Dieu te regarde,” as a good lesson to be in every man’s mind.
 
-1662-09-22 17:03   To see Mr. Young and Mr. Lull, kindred of Tom’s mistress, where I was well used and do find things to go in the business to my good content.
+1662-09-23 05:27   Up betimes and with my workmen, taking some pleasure to see my work come towards an end, though I am vexed every day enough with their delay.
 
-1662-09-22 13:55   To my Lord Crew’s, and sat an hour talking with him of publique, and my Lord’s private businesses, with much content.
 
-1662-09-22 10:22   I walked to Greatorex’s, and there with him did overlook many pretty things, new inventions, and have bespoke a weather glass of him.
+1662-09-22 17:03   To my brother Tom’s, where Mr. Cooke expected me, and did go with me to see Mr. Young and Mr. Lull in Blackfryers, kindred of Tom’s mistress, where I was very well used, and do find things to go in the business to my good content.
 
-1662-09-22 08:03   But I stood in great pain, having a great fit of the colic, having catched cold yesterday by putting off my stockings to wipe my toes.
+1662-09-22 13:55   To my Lord Crew’s, and dined with the servants, he having dined; and so, after dinner, up to him, and sat an hour talking with him of publique, and my Lord’s private businesses, with much content.
 
-1662-09-22 08:02   With Sir J. M., Sir W. B., and Sir W. P., by coatch to St. James’s. I did give the Duke an account of all things past of late.
+1662-09-22 10:22   Walked to Greatorex’s, and there with him did overlook many pretty things, new inventions, and have bespoke a weather glass of him.
+
+1662-09-22 08:02   With Sir J. M., Sir W. B., and Sir W. P., by coach to St. James’s and there with the Duke. I did give him an account of all things past of late; but I stood in great pain, having a great fit of the colic, having catched cold yesterday by putting off my stockings to wipe my toes.
 
 1662-09-22 04:59   Up betimes among my workmen, hastening to get things ready against my wife’s coming.
 
-1662-09-21 19:28   All supper I did vex my aunt talking in commendation of the mass which I had been at to-day, but excused it that it was only to make mirth.
 
-1662-09-21 17:39   I should have been very weary but that pretty Mrs. Margaret Wight came in and I was much pleased with her company.
+1662-09-21 20:28 r All supper did vex my aunt talking in commendation of the mass which I had been at today, but excused it afterwards that it was only to make mirth.
 
-1662-09-21 17:33   I went to my uncle Wight’s, where I found my aunt in mourning and making sad stories for the loss of her dear sister Nicholls.
+1662-09-21 18:33   I went to my uncle Wight’s, where I found my aunt in mourning and making sad stories for the loss of her dear sister Nicholls, of which I should have been very weary but that pretty Mrs. Margaret Wight came in and I was much pleased with her company.
 
-1662-09-21 09:59   After mass was done, a fryer with his cowl did rise up and preach a sermon in Portuguese; which I not understanding, did go away.
+1662-09-21 10:14 r By and by, after mass was done, a fryer with his cowl did rise up and preach a sermon in Portuguese; which I not understanding, did go away, and to the King’s chappell, but that was done.
 
-1662-09-21 09:43   I heard their musique; which may be good, but it did not appear so to me, neither as to their singing, nor was it good concord to my ears.
+1662-09-21 09:50 r The Queene very devout: but what pleased me best was to see my dear Lady Castlemaine, who, tho’ a Protestant, did wait upon the Queen to chappell.
 
-1662-09-21 09:22   I saw the fine altar, ornaments, and the fryers in their habits, and the priests come in with their fine copes and many other fine things.
+1662-09-21 09:43 r I heard their musique too; which may be good, but it did not appear so to me, neither as to their manner of singing, nor was it good concord to my ears, whatever the matter was.
 
-1662-09-21 08:49   The Queen coming by in her coach, going to her chappell at St. James’s (the first time it hath been ready for her), I crowded after her.
+1662-09-21 09:22 r And there stood and saw the fine altar, ornaments, and the fryers in their habits, and the priests come in with their fine copes and many other very fine things.
+
+1662-09-21 08:49 r The Queen coming by in her coach, going to her chappell at St. James’s (the first time it hath been ready for her), I crowded after her, and I got up to the room where her closet is.
 
 1662-09-21 07:03   To the Park, where by appointment I met my brother Tom and Mr. Cooke, and there spoke about Tom’s business, and to good satisfaction.
 
-1662-09-20 20:41   Three or four that I knew in King Street in Westminster, tradesmen, are lately fallen mad, some of them dead, and the others continue mad.
 
-1662-09-20 18:32   Tom brought Mr. Lull to me, a friend of his mistress, with whom I spoke. He gives me a good account of her and of their satisfaction in Tom.
+1662-09-20 20:41   My barber sent me his man to trim me, who did live in King Street in Westminster lately, and tells me that three or four that I knew in that street, tradesmen, are lately fallen mad, and some of them dead, and the others continue mad.
 
-1662-09-20 05:07   My brother Tom tells me that his mistress’s mother has wrote a letter to Mr. Lull of her full satisfaction about Tom, of which I was glad.
+1662-09-20 18:32 r Tom brought Mr. Lull to me, a friend of his mistress, a serious man, with whom I spoke, and he gives me a good account of her and of their satisfaction in Tom, all which pleases me well.
+
+1662-09-20 05:07   To my office, where I found my brother Tom, who tells me that his mistress’s mother has wrote a letter to Mr. Lull of her full satisfaction about Tom, of which I was glad, and do think the business will take.
+
 
 1662-09-19 22:18   It being a joy to my heart to think of the condition that I am now in, that people should of themselves provide this for me, unspoke to.
 
-1662-09-19 22:17   After I had eaten a cold pullet, I walked by brave moonshine, with three or four armed men to guard me, to Redriffe.
+1662-09-19 22:17   After I had eaten a cold pullet, I walked by brave moonshine, with three or four armed men to guard me, to Redriffe, it being a joy to my heart to think of the condition that I am now in, that people should of themselves provide this for me, unspoke to.
 
-1662-09-19 16:42   To Pay, my trouble being that I was forced to begin an ill practice of bringing down the wages of servants, for which people did curse me.
+1662-09-19 16:42   To Pay again, and so till 9 at night, my great trouble being that I was forced to begin an ill practice of bringing down the wages of servants, for which people did curse me, which I do not love.
 
-1662-09-19 13:07   I dined well, being chief at the table, and do not see but every body begins to give me as much respect and honour as any of the rest.
+1662-09-19 13:07   Dined well, being chief at the table, and do not see but every body begins to give me as much respect and honour as any of the rest.
 
 1662-09-19 09:49   None of the rest going, I went alone to Deptford, and there went on where they left last night to pay Woolwich yard.
 
-1662-09-18 15:28   After a great dinner and much discourse, we arose and took leave, and home to the business of my office, where I thank God I take delight.
 
-1662-09-18 13:28   There being want of corn in Paris, a collection made for the poor, there was two pearls brought in, which were sold for 200,000 crownes.
+1662-09-18 15:28 r After a great dinner and much discourse, we arose and took leave, and home to the business of my office, where I thank God I take delight.
 
-1662-09-18 12:49   Much noble and brave company, with the privilege of their rare discourse, which is great content to me above all other things in the world.
+1662-09-18 13:28 r Mr. Ashburnham did tell us, that this last year, there being great want of corn in Paris, and so a collection made for the poor, there was two pearls brought in, nobody knew from whom (till the Queen, seeing them, knew whose they were), which were sold for 200,000 crownes.
+
+1662-09-18 12:49 r He, Alderman Backwell, and much noble and brave company, with the privilege of their rare discourse, which is great content to me above all other things in the world.
 
 1662-09-18 12:09   Sir G. Carteret, Mr. Coventry, and I by invitation to dinner to Sheriff Maynell’s, the great money-man.
 
+
 1662-09-17 21:47   This day my boy is come from Brampton, and my wife I think the next week.
 
-1662-09-17 20:42   Let it be a caution to myself not to love drink, since it has such an effect upon others of greater worth in my own esteem.
+1662-09-17 17:03 r I confess my opinion is much lessened of him, and therefore let it be a caution to myself not to love drink, since it has such an effect upon others of greater worth in my own esteem. I could not avoid drinking of 5 glasses this afternoon with him.
 
-1662-09-17 19:27   Though I honour Mr. Crumlum, and he do declare abundance of learning and worth, yet I confess my opinion is much lessened of him.
+1662-09-17 16:54 r Went up to his chamber with him, where there was an old fellow student of Mr. Crumlum’s, one Mr. Newell, come to see him, of whom he made so much, and of me, that the truth is he with kindness did drink more than I believe he used to do, and did begin to be a little impertinent.
 
-1662-09-17 19:23   At the tavern Mr. Crumlum met with an acquaintance of his that did occasion impertinent discourse.
+1662-09-17 15:09   Mr. Moore and I to Paul’s school, to wait upon Mr. Crumlum (Mr. Moore having a hopeful lad, a kinsman of his, there at school), who we take very luckily.
 
-1662-09-17 16:54   One Mr. Newell, come to see Mr. Crumlum, of whom he made so much, and of me, that he did drink more than I believe he used to do.
 
-1662-09-17 15:09   Mr. Moore and I to Paul’s school, to wait upon Mr. Crumlum, who we take very luckily, and went up to his chamber with him.
+1662-09-16 21:10 r I have 30l. to pay to the cavaliers: then a doubt about my being forced to leave all my business here, when I am called to the court at Brampton; and lastly, my law businesses, which vex me to my heart what I shall be able to do next term, which is near at hand.
 
-1662-09-16 21:07   My wife writes me from the country that she is not pleased with my father nor mother, nor her servants, and that my boy is turned a rogue.
+1662-09-16 21:07   My mind ill at ease for these particulars: my house in dirt, and like to lose my best chamber. My wife writes me from the country that she is not pleased there with my father nor mother, nor any of her servants, and that my boy is turned a very rogue.
 
-1662-09-16 19:48   Sir J. M. and I walked in the garden, very pleasant, and takes no notice that he do design any further trouble to me about my house.
+1662-09-16 19:48   Sir J. M. and I walked together a good while in the garden, very pleasant, and takes no notice that he do design any further trouble to me about my house.
 
-1662-09-16 12:34   The housekeeper of this office did give me so good an account of my chamber about which I am so troubled that I am well at ease in my mind.
+1662-09-16 12:34   To the Exchange, and in my way met with the housekeeper of this office, and he did give me so good an account of my chamber in my house about which I am so much troubled that I am well at ease in my mind.
 
-1662-09-15 08:22   I was fain to walk over the piles through the bridge, while Sir W. Batten and Sir J. Minnes were aground against the bridge.
 
-1662-09-15 06:05   The plasterer and bricklayer that did first divide our lodgings do both tell me that my chamber did ever belong to my lodgings.
+1662-09-15 11:03   Home, and there did resolve to give up my endeavours for access to the leads, and to shut up my doors lest the being open might give them occasion of longing for my chamber, which I am in most fear about.
 
-1662-09-14 19:09   Goodenough the plasterer tells me that my best chamber did ever belong to my lodgings, and so I will strive hard for it before I lose it.
+1662-09-15 08:22   By water with Sir Wm. Pen to White Hall; and, with much ado, was fain to walk over the piles through the bridge, while Sir W. Batten and Sir J. Minnes were aground against the bridge, and could not in a great while get through.
 
-1662-09-14 18:39   Sir W. Pen told me what he had heard about my lodgings and Sir J. Minnes. I see that I shall hardly keep my best chamber, which troubles me.
+1662-09-15 06:05   Up betimes to meet with the plasterer and bricklayer that did first divide our lodgings, and they do both tell me that my chamber now in dispute did ever belong to my lodgings, which do put me into good quiet of mind.
 
-1662-09-14 11:38   This the first day of having vialls and other instruments to play a symphony between every verse of the anthem.
 
-1662-09-14 11:22   At White Hall chapel I heard Captain Cooke’s new musique. I could discern him to overdo his part at singing, which I never did before.
+1662-09-14 19:54 r He told me of my Jane’s cutting off a carpenter’s long mustacho, and how the fellow cried, and his wife would not come near him a great while, believing that he had been among some of his wenches. At which I was merry, though I perceive they discourse of it as a crime of hers.
 
-1662-09-14 10:07   I found Mr. Coventry to admiration good and industrious, and I think my most true friend in all things that are fair.
+1662-09-14 19:40 r Among other things Sir W. Pen did tell me of one of my servants looking into Sir J. Minnes’ window when my Lady Batten lay there, which do much trouble them, and me also, and I fear will wholly occasion my loosing the leads.
 
-1662-09-14 08:42   At the Legg I drank a cup of ale and a toast, which I have not done many a month before, but it served me for my two glasses of wine to-day.
+1662-09-14 19:09 r I did send for Goodenough the plasterer, who tells me that it did ever belong to my lodgings, but lent by Mr. Payles to Mr. Smith, and so I will strive hard for it before I lose it.
 
-1662-09-13 20:13   It is great pleasure to me Mr. Moore’s company and discourse. We did talk about my law business, which I must now fall upon minding again.
+1662-09-14 18:39   Sir W. Pen and I did discourse about my lodgings and Sir J. Minnes, and I did open all my mind to him, and he told me what he had heard, and I do see that I shall hardly keep my best lodging chamber, which troubles me.
 
-1662-09-13 14:26   Studying how to go upon the leads, which I fear at last I must be contented to go without, but, however, my mind is troubled still about it.
+1662-09-14 11:22   To White Hall chapel, where sermon almost done, and I heard Captain Cooke’s new musique. This the first day of having vialls and other instruments to play a symphony between every verse of the anthem; but the musique more full than it was the last Sunday, and very fine it is.
+
+1662-09-14 10:07   To Mr. Coventry, and there staid talking privately with him in his chamber of the business of our office, and found him to admiration good and industrious, and I think my most true friend in all things that are fair. He tells me freely his mind of every man and in every thing.
+
+1662-09-14 08:42   Called in at the Legg and drank a cup of ale and a toast, which I have not done many a month before, but it served me for my two glasses of wine today.
+
+1662-09-14 06:50   The barber came and trimmed me (I having him now to come to me again after I have used a pumice-stone a good while, not but what I like this where I cannot conveniently have a barber, but here I cannot keep my hair dry without one).
+
+
+1662-09-13 20:13   Mr. Moore came to me and did lie with me at my lodgings. It is great pleasure to me his company and discourse, and did talk also about my law business, which I must now fall upon minding again, the term coming on apace.
+
+1662-09-13 14:26   Among my work folks studying how to get my way sure to me to go upon the leads, which I fear at last I must be contented to go without, but, however, my mind is troubled still about it.
+
 
 1662-09-12 22:09   All the afternoon till 9 at night at my office, and then home and eat an egg or two, and so to my lodgings and to bed.
 
-1662-09-12 13:23   Dined at home all in dirt, and my mind weary of being thus out of order. For the present I am very melancholy, as I have been a great while.
+1662-09-12 19:27   I hear that Captain Ferrers, who is with my Lord in the country, was at Brampton to see him; and that a day or two ago, being provoked to strike one of my Lord’s footmen, the footman drew his sword, and hath almost cut the fingers of one of his hands off; which I am sorry for.
 
-1662-09-12 11:32   At my office, Mr. Lewes teaching me to understand the method of making up Purser’s accounts, which is very needful for me and very hard.
+1662-09-12 13:23   Dined at home all in dirt, and my mind weary of being thus out of order, but I hope in God it will away, but for the present I am very melancholy, as I have been a great while.
 
-1662-09-12 08:55   My mind is troubled till I see how Sir John Minnes will carry himself to me about my lodgings. My fear is that he will get my best chamber.
+1662-09-12 11:52   At my office all the morning, Mr. Lewes teaching me to understand the method of making up Purser’s accounts, which is very needful for me and very hard.
+
+1662-09-12 08:55   My mind is troubled till I see how Sir John Minnes will carry himself to me about my lodgings, for all my fear is that he will get my best chamber from me, for as for the leads I care not a farthing for them.
 
 1662-09-12 06:10   Up betimes and to my office, and up to my workmen, which goes on slowly and troubles me much.
 
+
 1662-09-11 20:44   Tom came to show me a civil letter sent him from his mistress. I am pleased well enough with the business.
 
-1662-09-11 06:28   Up, but not so soon as I have of late practised, my trouble of mind and the shortness of the days making me to lie longer than I used to do.
+1662-09-11 06:28   Up, but not so soon as I have of late practised, my little trouble of mind and the shortness of the days making me to lie a little longer than I used to do, but I must make it up by sitting up longer of nights.
 
-1662-09-10 15:30   Mr. Young has made enquiry of my brother Tom, and do hear him so well spoken of that Mr. Townsend doubts not that the business will take.
 
-1662-09-10 07:12   And yet I save part of the closet I hoped for, which, if it will not please Sir John Minnes, I am a madman to be troubled at it.
+1662-09-10 15:30   To speak with Mr. Townsend, who tells me that he has spoke with Mr. Young about my brother Tom’s business, and finds that he has made enquiry of him, and do hear him so well spoken of that he doubts not that the business will take with ordinary endeavours.
 
-1662-09-10 07:10   Up and to my house, and there contrived a way how Sir John Minnes shall come into the leads.
+1662-09-10 07:10 r Up and to my house, and there contrived a way how Sir John Minnes shall come into the leads, and yet I save part of the closet I hoped for, which, if it will not please him, I am a madman to be troubled at it.
 
-1662-09-09 21:40   The more fool am I, and must labour against it for shame, especially I that used to preach Epictetus’s rule: τὰ ἐφ ἡμῖν κἰ τἀ οὐχ ἐφ ἡμῖν.
+1662-09-10 05:18 r The more fool am I, and must labour against it for shame, especially I that used to preach up Epictetus’s rule: τὰ ἐφ ἡμῖν κἰ τἀ οὐχ ἐφ ἡμῖν.
 
-1662-09-09 21:30   It do vex me all this evening, so great a fool I am, and little master of my passion, for the thoughts of losing the privilege of the leads.
+1662-09-10 05:10 r All night in my bed, so great a fool I am, and little master of my passion, that I could not sleep for the thoughts of my losing the privilege of the leads, and other things which in themselves are small and not worth half the trouble.
 
-1662-09-09 21:28   This afternoon Sir John showed us how I have blinded all his lights, and stopped up his garden door, and other things he takes notice of.
 
-1662-09-09 14:36   I do resolve to know that, so when we know the lowest rate, it shall be the Treasurer’s fault, and not ours, that we pay dearer.
+1662-09-09 21:28   Sir John Minnes, Mr. Coventry, and I went into Sir John’s lodgings, where he showed us how I have blinded all his lights, and stopped up his garden door, and other things he takes notice of that he resolves to abridge me of, which do vex me so much.
 
-1662-09-09 14:34   We met several tradesmen to know of them their lowest rates that they will take for their several provisions that they sell to us.
+1662-09-09 14:34 r Met several tradesmen to know of them their lowest rates that they will take for their provisions that they sell to us, for I do resolve to know that, and to buy no dearer, that so when we know the lowest rate, it shall be the Treasurer’s fault, and not ours, that we pay dearer.
 
-1662-09-09 12:40   Mr. Coventry, Sir J. Minnes, Mr. Pett, and myself by water to Deptford, where we met Sir G. C., Sir W. B., and Sir W. P.
+1662-09-09 12:40   At my office betimes, and by and by we sat, and at noon Mr. Coventry, Sir J. Minnes, Mr. Pett, and myself by water to Deptford, where we met Sir G. C., Sir W. B., and Sir W. P. at the pay of a ship.
 
-1662-09-08 16:33   I did give Sir J. Minnes good satisfaction therein, so as that I am well pleased and do hope now to have my closet on the leads.
 
-1662-09-08 16:22   Sir W. Pen did tell me Sir J. Minnes’ dislike of my blinding his lights over his stairs and blocking up the house of office on the leads.
+1662-09-08 16:33 r So I went into the payhouse and took an occasion of speaking with him, and did give him good satisfaction therein, so as that I am well pleased and do hope now to have my closet on the leads without any more trouble, for he do not object against my having a door upon the leads.
+
+1662-09-08 16:22   To Deptford, and there up and down the yard, and so Sir W. Pen did single me out to tell me Sir J. Minnes’ dislike of my blinding his lights over his stairs (which indeed is very bad) and blocking up the house of office on the leads. Which did trouble me.
 
 1662-09-08 13:05   To the Change, and there meeting Sir W. Warren did step to a tavern, and there sat and talked about price of masts and other things.
 
-1662-09-08 10:50   I told Mr Townsend my brother Tom’s intentions for a wife, which he would do me all favour in to Mr Young, whose kinswoman he do look after.
+1662-09-08 10:50 r In walking I told him my brother Tom’s intentions for a wife, which he would do me all favour in to Mr. Young, whose kinswoman he do look after.
 
-1662-09-08 09:44   To the Exchequer to meet Mr. Townsend. I hear he is gone to the Sun tavern, and found him with friends at breakfast, which I eat with him.
+1662-09-08 09:44   I to the Exchequer to meet Mr. Townsend, where I hear he is gone to the Sun tavern, and there found him with some friends at breakfast, which I eat with him, and so we crossed the water together.
 
-1662-09-08 08:55   The Duke do intend to renew the old custom for the Admirals to have their principal officers to meet them once a-week, which I am glad of.
+1662-09-08 08:55   The Duke took us into his closet, and there told us that he do intend to renew the old custom for the Admirals to have their principal officers to meet them once a-week, to give them an account what they have done that week; which I am glad of.
 
 1662-09-08 05:50   Up betimes and to my office preparing an account to give the Duke this morning of what we have of late done at the office.
 
-1662-09-07 21:52   To my office, to fit myself for waiting on the Duke to-morrow morning with the rest of our company, and so to my lodgings and to bed.
 
-1662-09-07 18:52   Here were great store of great ladies, but very few handsome.
+1662-09-07 21:52   To my office, to fit myself for waiting on the Duke tomorrow morning with the rest of our company, and so to my lodgings and to bed.
 
-1662-09-07 18:11   In comes the King, and the Duke and his Duchess; they being all together, was such a sight as I never could have seen with so much leisure.
+1662-09-07 18:52 r They staid till it was dark, and then went away; the King and his Queen, and my Lady Castlemaine and young Crofts, in one coach and the rest in other, coaches. Here were great store of great ladies, but very few handsome.
 
-1662-09-07 17:48   Here I also saw Madam Castlemaine, and, which pleased me most, Mr. Crofts, the King’s bastard, a most pretty spark of about 15 years old.
+1662-09-07 18:11 r By and by in comes the King, and anon the Duke and his Duchess; so that, they being all together, was such a sight as I never could almost have happened to see with so much ease and leisure.
 
-1662-09-07 17:20   I did never see our Queen before; and though she be not very charming, yet she hath a good, modest, and innocent look, which is pleasing.
+1662-09-07 17:48 r Here I also saw Madam Castlemaine, and, which pleased me most, Mr. Crofts, the King’s bastard, a most pretty spark of about 15 years old, who, I perceive, do hang much upon my Lady Castlemaine, and is always with her; and, I hear, the Queens both of them are mighty kind to him.
 
-1662-09-07 17:07   Mr. Pierce the chyrurgeon took me into Somersett House; and into the Queen-Mother’s presence-chamber, where she was with our own Queen.
+1662-09-07 17:20 r And though she be not very charming, yet she hath a good, modest, and innocent look, which is pleasing.
 
-1662-09-07 15:23   I did no more, though I had so much a mind to it that I spent in my breeches.
+1662-09-07 17:07   Meeting Mr. Pierce, the chyrurgeon, he took me into Somersett House; and there carried me into the Queen-Mother’s presence-chamber, where she was with our own Queen sitting on her left hand (whom I did never see before).
 
-1662-09-07 15:22   I went up to Sarah and played and talked with her and, God forgive me, did feel her; which I am much ashamed of.
+1662-09-07 14:53   To my Lord’s where nobody at home but a woman that let me in, and Sarah above, whither I went up to her and played and talked with her and, God forgive me, did feel her; which I am much ashamed of, but I did no more, though I had so much a mind to it that I spent in my breeches.
 
-1662-09-07 14:53   To my Lord’s, where nobody at home but a woman that let me in, and Sarah above.
+1662-09-07 11:07   To the Chapell, where I heard a good sermon of the Dean of Ely’s, upon returning to the old ways, and a most excellent anthem, with symphonys between, sung by Captain Cooke.
 
-1662-09-07 11:07   I heard a good sermon of the Dean of Ely’s, upon returning to the old ways, and a most excellent anthem, sung by Captain Cooke.
 
 1662-09-06 17:22   I had my new key and the lock of my office door altered, having lost my key the other day, which vexed me.
 
-1662-09-06 13:42   To Trinity House. We had a couple of venison pasties, of which I eat little, being almost cloyed, having been at five pasties in three days.
+1662-09-06 13:42   Sir John Minnes, both Sir Williams and I to the Trinity House, where we had at dinner a couple of venison pasties, of which I eat but little, being almost cloyed, having been at five pasties in three days.
 
 1662-09-06 12:03   So up and to my office, and then we met and sat till noon, very full of business.
 
-1662-09-06 06:15   Lay long, that is, till 6 and past before I rose, in order to sweat a little away the cold which I was afraid I might have got yesterday.
+1662-09-06 06:15   Lay long, that is, till 6 and past before I rose, in order to sweat a little away the cold which I was afraid I might have got yesterday, but I bless God I am well.
+
 
 1662-09-05 21:07   I this day heard that Mr. Martin Noell is knighted by the King, which I much wonder at; but yet he is certainly a very useful man.
 
-1662-09-05 16:30   It pleased me to see how jealous Sir Williams both are of my going down to Woolwich, and doing my duty, and my dining with the Commission.
+1662-09-05 17:30 r I came home and found Sir John Minnes, and I went to him to Sir W. Batten’s, where it pleased me to see how jealous Sir Williams both are of my going down to Woolwich, &c., and doing my duty as I nowadays do, and of my dining with the Commission of the Customs.
 
-1662-09-05 10:20   I walked to Greenwich, and thence by water to Deptford, and examined some stores and did some of my own business in hastening my work there.
+1662-09-05 14:03   So to my lodgings and there rubbed myself clean, and so to Mr. Bland’s, the merchant, by invitation, I alone of all our company of this office; where I found all the officers of the Customs, very grave fine gentlemen, and I am very glad to know them.
 
-1662-09-05 06:35   Before the yacht got to Woolwich the Dutch beat them half-a-mile; which all our people are glad of.
+1662-09-05 10:20 r Here I staid and mustered the yard and looked into the storehouses; and so walked all alone to Greenwich, and thence by water to Deptford, and there examined some stores, and did some of my own business in hastening my work there.
 
-1662-09-05 06:10   I saw the yacht lately built by our virtuosoes set out from Greenwich with the little Dutch bezan, to try for mastery.
+1662-09-05 06:45 r Before they got to Woolwich the Dutch beat them half-a-mile; which all our people are glad of.
 
-1662-09-04 14:32   In 88, Queen Elisabeth had but 36 sail in the world; and ten rounds of powder was their allowance at that time against the Spaniard.
+1662-09-05 06:10   Down by water to Woolwich: in my way saw the yacht lately built by our virtuosoes (my Lord Brunkard and others, with the help of Commissioner Pett also) set out from Greenwich with the little Dutch bezan, to try for mastery.
 
-1662-09-04 14:28   Sir Wm. Compton I heard talk with great pleasure of the difference between the fleet now and in Queen Elisabeth’s days.
 
-1662-09-04 13:39   We to the Trinity House, where we treated, very dearly, the officers of the Ordnance; where was Sir W. Compton and the rest.
+1662-09-04 14:28   Sir Wm. Compton I heard talk with great pleasure of the difference between the fleet now and in Queen Elisabeth’s days; where, in 88, she had but 36 sail great and small, in the world; and ten rounds of powder was their allowance at that time against the Spaniard.
 
-1662-09-04 06:44   By water betimes to the Tower and so home, where I shifted myself, being to dine abroad, and so being also trimmed.
+1662-09-04 13:39   We all to the Trinity House, where we treated, very dearly, I believe, the officers of the Ordnance; where was Sir W. Compton and the rest and the Lieutenant of the Tower.
 
-1662-09-03 16:32   To the office. We met and sold the Weymouth, Successe, and Fellowship hulkes, where pleasant to see how backward men are at first to bid.
+1662-09-04 06:44   By water betimes to the Tower and so home, where I shifted myself, being to dine abroad, and so being also trimmed, which is a thing I have very seldom done of late, I set to my office.
 
-1662-09-03 15:02   The Fanatiques and the Presbyters, that did intend to rise, did choose this day as the most auspicious in their endeavours against monarchy.
 
-1662-09-03 09:10   It is the first pay that Mr. Coventry has been at, and I would be thought to be as much with Mr. Coventry as I can.
+1662-09-03 22:20   By water to White Hall to my Lord’s lodgings, where he being to go to Hinchingbroke tomorrow morning, I staid and fiddled with Will. Howe some new tunes very pleasant, and then my Lord came in and had much kind talk with him, and then to bed with Mr. Moore there alone.
 
-1662-09-03 08:42   I went over to Redriffe, and walked to Deptford, where I found Mr. Coventry and Sir W. Pen beginning the pay.
+1662-09-03 16:36 r I observed one man cunninger than the rest that was sure to bid the last man; and inquiring the reason, he told me that just as the flame goes out the smoke descends, which is a thing I never observed, and by that he do know the instant when to bid last, which is very pretty.
 
-1662-09-03 05:22   Whereas I used to rise by four o’clock, it is not broad daylight now till after five o’clock, so that it is after five before I do rise.
+1662-09-03 16:32   By water to the office, and there we met and sold the Weymouth, Successe, and Fellowship hulkes, where pleasant to see how backward men are at first to bid; and yet when the candle is going out, how they bawl and dispute afterwards who bid the most first.
 
-1662-09-02 06:10   Up betimes and got myself ready alone, and so to my office, my mind much troubled for my key that I lost yesterday.
+1662-09-03 15:02   Mr. Coventry told us how the Fanatiques and the Presbyters, that did intend to rise about this time, did choose this day as the most auspicious to them in their endeavours against monarchy: it being fatal twice to the King, and the day of Oliver’s death.
 
-1662-09-01 18:42   My wife writes me from the country that her boy plays the rogue there, and she is weary of him, and complains also of her maid Sarah.
+1662-09-03 08:42   I went over to Redriffe, and walked to Deptford, where I found Mr. Coventry and Sir W. Pen beginning the pay, it being my desire to be there today because it is the first pay that Mr. Coventry has been at, and I would be thought to be as much with Mr. Coventry as I can.
 
-1662-09-01 16:12   It being a thing I hate in others, to be careless of keys, I thinking another not fit to be trusted that leaves a key behind their hole.
+1662-09-03 05:22   Up betimes, but now the days begin to shorten, and so whereas I used to rise by four o’clock, it is not broad daylight now till after five o’clock, so that it is after five before I do rise.
 
-1662-09-01 16:08   To my office, but missing my key, which I had in my hand just now, makes me very angry and out of order.
 
-1662-09-01 14:18   I removed all my goods out of Sir W. Pen’s house into one room at my house, and so I am to be quit of any further obligation to him.
+1662-09-02 19:40   Wrote a letter to Mr. Cooke, in the country, in behalf of my brother Tom, to his mistress, it being the first of my appearing in it, and if she be as Tom sets her out, it may be very well for him.
 
-1662-09-01 11:38   We played over some things of Locke’s that we used to play at sea, that pleased us well, being the first music I have heard a great while.
+1662-09-02 06:10   Up betimes and got myself ready alone, and so to my office, my mind much troubled for my key that I lost yesterday, and so to my workmen and put them in order.
 
-1662-09-01 09:28   We found the Duke going out by coach with his Duchess, and he told us he was to go abroad with the Queen to-day.
 
-1662-09-01 08:30   With Sir W. Batten and Sir W. Pen by coach to St. James’s, this being the first day of our meeting there by the Duke’s order.
+1662-09-01 18:42   One thing more vexes me: my wife writes me from the country that her boy plays the rogue there, and she is weary of him, and complains also of her maid Sarah, of which I am also very sorry.
+
+1662-09-01 16:08   So to my office, but missing my key, which I had in my hand just now, makes me very angry and out of order, it being a thing that I hate in others, and more in myself, to be careless of keys, I thinking another not fit to be trusted that leaves a key behind their hole.
+
+1662-09-01 14:18   With my brother Tom’s two men I removed all my goods out of Sir W. Pen’s house into one room that I have with much ado got ready at my house, and so I am to be quit of any further obligation to him.
+
+1662-09-01 11:38 r So we went and staid a little at Mr. Coventry’s chamber, and I to my Lord Sandwich’s. And so Mr. Paget being there, Will Howe and I and he played over some things of Locke’s that we used to play at sea, that pleased us three well.
+
+1662-09-01 09:28 r But when we come, we found him going out by coach with his Duchess, and he told us he was to go abroad with the Queen today (to Durdans, it seems, to dine with my Lord Barkeley, where I have been very merry when I was a little boy).
+
+1662-09-01 08:30   Up betimes at my lodging and to my office and among my workmen, and then with Sir W. Batten and Sir W. Pen by coach to St. James’s, this being the first day of our meeting there by the Duke’s order.
