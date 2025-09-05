@@ -9,7 +9,7 @@ dependencies = [
   "tweepy",
   "atproto>=0.0.54",
 ]
-requires-python = "~=3.10"
+requires-python = "~=3.10.0"
 version = "1.0"
 
 [tool.uv.pip]
