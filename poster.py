@@ -21,7 +21,6 @@ logging.basicConfig()
 
 
 class Poster:
-
     twitter_consumer_key = ""
     twitter_consumer_secret = ""
     twitter_access_token = ""
@@ -60,7 +59,6 @@ class Poster:
     redis = None
 
     def __init__(self):
-
         self.logger = logging.getLogger(__name__)
 
         self.project_root = os.path.abspath(os.path.dirname(__file__))
@@ -79,7 +77,6 @@ class Poster:
             host=self.redis_hostname,
             port=self.redis_port,
             password=self.redis_password,
-            charset="utf-8",
             decode_responses=True,
         )
 
@@ -224,7 +221,6 @@ class Poster:
         posts = []
 
         for line in lines:
-
             if line != "":
                 post = self.parse_post_line(line)
 
@@ -252,7 +248,6 @@ class Poster:
         local_last_run_time = last_run_time.astimezone(self.local_tz)
 
         for n, post in enumerate(all_posts):
-
             local_modern_post_time = self.modernize_time(post["time"])
             now_minus_post = (local_time_now - local_modern_post_time).total_seconds()
 
@@ -345,7 +340,6 @@ class Poster:
             local_modern_post_time = self.modernize_time(post_time)
 
             if local_modern_post_time:
-
                 if post_kind == "r":
                     is_reply = True
                 else:
