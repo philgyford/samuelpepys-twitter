@@ -1,17 +1,18 @@
-# Samuel Pepys Twitter
+# Samuel Pepys ~~Twitter~~ Mastodon and Bluesky
 
 A Python 3 script for automatically posting prepared texts at pre-set dates and
 times to any or all of:
 
-- Twitter/X
+- ~~Twitter/X~~
 - Mastodon
 - Bluesky
 
 Used for the [@samuelpepys@mastodon.social](https://mastodon.social/@samuelpepys)
-Mastodon account, [@samuelpepys.bsky.social] Bluesky account and, previously,
-[@samuelpepys](http://twitter.com/samuelpepys) Twitter account.
+Mastodon account, [@samuelpepys.bsky.social](@samuelpepys.bsky.social) Bluesky
+account and, previously, [@samuelpepys](http://twitter.com/samuelpepys) Twitter/X
+account. I assume posting to X no longer works.
 
-You could (and probably should) replace the included tweets/posts with your own,
+You could (and probably should) replace the included posts with your own,
 for your own schedule.
 
 Uses Redis to store the time the script last ran.
@@ -36,7 +37,7 @@ For your own project, replace the contents of the `posts/` directory with your
 own dated folders and files.
 
 You could set `YEARS_AHEAD` to `0` and then posts will be sent on the day
-they're dated for. Possibly a more useful and common requirement!
+they're dated for. Possibly a more useful and common requirement.
 
 Posts should be in time order, with most recent first. Each post should be on
 a single line, preceded by its date and time, and an optional 'r' (to indicate
@@ -197,7 +198,8 @@ If changing any requirements in `pyproject.toml`, then regenerate
 
 ## Heroku setup
 
-To run this on Heroku (these instructions haven't been tried for years):
+To run this on Heroku (these setup instructions haven't been tried for years,
+although it is still successfully running on Heroku):
 
 1. Set up a new Heroku app.
 
