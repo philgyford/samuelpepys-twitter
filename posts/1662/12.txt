@@ -1,226 +1,290 @@
-YYYY-MM-DD HH:MM   12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+YYYY-MM-DD HH:MM r 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
-1662-12-31 23:59   For the condition of myself, wife, family, and estate, and for the public state of the nation, so quiett as it is, the Lord God be praised!
 
-1662-12-31 23:56   The Duke of Monmouth is in so great splendour some doubt, if the King should have no child, whether he would not be acknowledged for a son.
+1662-12-31 23:59 r In fine, for the good condition of myself, wife, family, and estate, in the great degree that it is, and for the public state of the nation, so quiett as it is, the Lord God be praised!
 
-1662-12-31 23:53   By my last year’s diligence in my office, I am come to a good degree of knowledge therein; and am acknowledged so by all the world.
+1662-12-31 23:56 r The Duke of Monmouth is in so great splendour at Court, and so dandled by the King, that some doubt, if the King should have no child by the Queen, whether he would not be acknowledged for a lawful son.
 
-1662-12-31 23:50   My family is myself and wife; William, my clerk; Jane, my wife’s upper mayde; Susan, our cook-mayde; and Wayneman, my boy.
+1662-12-31 23:55 r The King is bringing, as is said, his family, and Navy, and all other his charges, to a less expence. His dalliance with my Lady Castlemaine being publique, every day, to his great reproach.
 
-1662-12-31 21:20   Having staid as long as I thought fit, to my infinite content, it being the greatest pleasure I could wish now to see at Court, I went out.
+1662-12-31 23:53 r By my last year’s diligence in my office, blessed be God! I am come to a good degree of knowledge therein; and am acknowledged so by all the world, even the Duke himself.
 
-1662-12-31 20:50   To country dances; the King leading the first, which he called for; which was, says he, “Cuckolds all awry,” the old dance of England.
+1662-12-31 23:50 r My family is myself and wife, William, my clerk; Jane, my wife’s upper mayde, but growing proud and negligent upon it: we must part, which troubles me; Susan, our cook-mayde, a pretty willing wench, but no good cook; and Wayneman, my boy, who I am now turning away.
 
-1662-12-31 20:25   The King led a lady a single Coranto and then the rest of the lords, one after another, other ladies. Very noble it was and pleasure to see.
+1662-12-31 23:40 r Thus ends this year with great mirth to me and my wife: Our condition being thus:— we are at present spending a night or two at my Lord’s lodgings at White Hall. Our home at the Navy-office, which hath a pretty while been in good condition, finished and made very convenient.
 
-1662-12-31 20:08   The King takes out the Duchess; and the Duke, the Duchess of Buckingham; the Duke of Monmouth, my Lady Castlemaine; they danced the Bransle.
+1662-12-31 21:20 r Having staid here as long as I thought fit, to my infinite content, it being the greatest pleasure I could wish now to see at Court, I went out, leaving them dancing.
 
-1662-12-31 19:42   By and by comes the King and Queen, the Duke and Duchess, and all the great ones.
+1662-12-31 20:50 r Then to country dances; the King leading the first, which he called for; which was, says he, “Cuckolds all awry,” the old dance of England. Of the ladies that danced, the Duke of Monmouth’s mistress, and my Lady Castlemaine, and a daughter of Sir Harry de Vicke’s, were the best.
 
-1662-12-31 19:07   Mr. Povy and I to White Hall; he carrying me thither on purpose to carry me into the ball this night before the King.
+1662-12-31 20:25 r After that, the King led a lady a single Coranto and then the rest of the lords, one after another, other ladies very noble it was, and great pleasure to see.
 
-1662-12-31 16:21   Pleased to hear Mrs. Bland talk like a merchant in her husband’s business very well. It seems she do understand it and perform a great deal.
+1662-12-31 19:55 r By and by comes the King and Queen, the Duke and Duchess: and after seating themselves, the King takes out the Duchess of York; and the Duke, the Duchess of Buckingham; the Duke of Monmouth, my Lady Castlemaine; and so other lords other ladies: and they danced the Bransle.
 
-1662-12-31 13:36   Or of Mrs. Clerke’s genius, which I so much admired, I finding her to be so conceited in her dress, though the truth is, witty enough.
+1662-12-31 19:15 r He brought me first to the Duke’s chamber, where I saw him and the Duchess at supper; and thence into the room where the ball was to be, crammed with fine ladies, the greatest of the Court.
 
-1662-12-31 13:35   I confess I am wedded from the opinion either of Mrs Pierce’s beauty upon discovery of her naked neck to-day, being undrest when we came in.
+1662-12-31 19:07   Mr. Povy and, I to White Hall; he carrying me into the hall this night before the King. All the way he talking very ingenuously, and I find him a fine gentleman, and one that loves to live nobly and neatly, as I perceive by his discourse of his house, pictures, and horses.
 
-1662-12-31 12:30   To Mrs. Pierce’s by invitacion to dinner where there came Dr. Clerke and his wife and Mr. Knight, chief chyrurgeon to the King and his wife.
+1662-12-31 16:21   To Mr. Bland’s, the merchant, to eat a dish of anchovies, and drink wine and syder, and very merry, but above all things pleased to hear Mrs. Bland talk like a merchant in her husband’s business very well, and it seems she do understand it and perform a great deal.
 
-1662-12-30 18:09   To White Hall, where I carried my wife to see the Queen in her presence-chamber; and the maydes of honour and the young Duke of Monmouth.
+1662-12-31 13:36 r Or of Mrs. Clerke’s genius, which I so much admired, I finding her to be so conceited and fantastique in her dress this day and carriage, though the truth is, witty enough.
 
-1662-12-30 16:33   A little, proud, ugly, talking lady, that was much crying up the Queen-Mother’s Court at Somerset House above our own Queen’s.
+1662-12-31 13:35 r We were pretty merry, the two men being excellent company, but I confess I am wedded from the opinion either of Mrs. Pierces beauty upon discovery of her naked neck to-day, being undrest when we came in.
 
-1662-12-30 13:12   When the people at the Cape of Good Hope come to age, the men do cut off one of the stones of each other, to get children the better.
+1662-12-31 12:30   To my wife, and at noon took her to Mrs. Pierces by invitacion to dinner, where there came Dr. Clerke and his wife and sister and Mr. Knight, chief chyrurgeon to the King and his wife.
+
+
+1662-12-30 18:09   Thence to White Hall, where I carried my wife to see the Queen in her presence-chamber; and the maydes of honour and the young Duke of Monmouth playing at cards. Some of them, and but a few, were very pretty; though all well dressed in velvet gowns.
+
+1662-12-30 16:33   Visited Mrs. Ferrer, and staid talking with her a good while, there being a little, proud, ugly, talking lady there, that was much crying up the Queen-Mother’s Court at Somerset House above our own Queen’s.
+
+1662-12-30 13:15 r Viz, that when they come to age, the men do cut off one of the stones of each other, which they hold doth help them to get children the better and to grow fat; that they never sleep lying, but always sitting upon the ground.
+
+1662-12-30 13:12   Calling in at Mr. Rawlinson’s, where he stopped me to dine with him and two East India officers of ships. I had good discourse, particularly of the people at the Cape of Good Hope, of whom they of their own knowledge do tell me these one or two things.
 
 1662-12-30 08:04   Up and to the office, whither Sir W. Pen came, the first time that he has come downstairs since his late great sickness of the gout.
 
-1662-12-29 21:02   In pain that my wife hath never a winter gown, being ashamed of it, that she should be seen in a taffeta one when all the world wears moyre.
+
+1662-12-29 21:02   In great pain that my wife hath never a winter gown, being almost ashamed of it, that she should be seen in a taffeta one; when all the world wears moyre.
 
 1662-12-29 19:57   I have almost found out a young gentlewoman for my turn, to wait on my wife, of good family and that can sing.
 
-1662-12-29 12:07   I got through the croude as high as the King. I saw all the presents being rich furs, hawks, carpets, cloths of tissue, and sea-horse teeth.
+1662-12-29 12:35 r The son of one of the Embassadors was in the richest suit for pearl and tissue, that ever I did see, or shall, I believe. After they and all the company had kissed the King’s hand, then the three Embassadors and the son, and no more, did kiss the Queen’s.
 
-1662-12-29 11:14   To White Hall, and got up to the top gallerys in the Banquetting House, to see the audience of the Russia Embassadors.
+1662-12-29 12:07 r I went down and got through the croude almost as high as the King and the Embassadors, where I saw all the presents, being rich furs, hawks, carpets, cloths of tissue, and sea-horse teeth. The King took two or three hawks upon his fist, having a glove on, wrought with gold.
 
-1662-12-29 08:57   Nor any of the neighbours hearing of it till the house was down. How this should come to pass, God knows, but a most strange thing it is!
+1662-12-29 11:14   To White Hall, and got up to the top gallerys in the Banquetting House, to see the audience of the Russia Embassadors; which took place after long waiting and fear of the falling of the gallery (it being so full, and part of it being parted from the rest).
 
-1662-12-29 08:55   Mrs. Mitchell told me of the strange burning of Mr. De Laun, a merchant’s house in Loathbury, and his lady and her whole family.
+1662-12-29 08:57 r Nor any of the neighbours almost hearing of it till the house was quite down and burnt. How this should come to pass, God knows, but a most strange thing it is!
 
-1662-12-28 20:28   I fell to the renewing my last year’s oaths, whereby it has pleased God so much to better myself and practise.
+1662-12-29 08:55   Mrs. Mitchell told me what I heard not of before, the strange burning of Mr. De Laun, a merchant’s house in Loathbury, and his lady (Sir Thomas Allen’s daughter) and her whole family; not one thing, dog nor cat, escaping.
+
+
+1662-12-28 20:28   Home, and there fell to the renewing my last year’s oaths, whereby it has pleased God so much to better myself and practise.
+
+1662-12-28 16:20   I to the French church, where I heard an old man make a tedious, long sermon, till they were fain to light candles to baptize the children by.
 
 1662-12-28 09:30   With my wife to church, and coming out, went out both before my Lady Batten, he not being there, which I believe will vex her.
 
-1662-12-27 17:32   I not so pleased with the company at the house to-day, which was full of citizens, there hardly being a gentleman or woman in the house.
 
-1662-12-27 17:21   We saw the second part of “Rhodes,” done with the new Roxalana; which do it rather better in all respects, then the first Roxalana.
+1662-12-27 21:05   I to my study making up my monthly accounts, which is now fallen again to 630l. or thereabouts, which not long since was 680l., at which I am sorry, but I trust in God I shall get it up again, and in the meantime will live sparingly.
 
-1662-12-27 06:49   I sent for my boy’s brother, William, that lives in town here as a groom, to whom I told my resolution to keep the boy no longer.
+1662-12-27 17:32 r Home with great content with my wife, not so well pleased with the company at the house today, which was full of citizens, there hardly being a gentleman or woman in the house; a couple of pretty ladies by us that made sport in it, being jostled and crowded by prentices.
 
-1662-12-26 22:01   Being vexed at my boy for his staying playing abroad when he is sent of errands. I am resolved to keep him no more.
+1662-12-27 17:21   With my wife to the Duke’s Theatre, and saw the second part of “Rhodes,” done with the new Roxalana; which do it rather better in all respects for person, voice, and judgment, then the first Roxalana.
 
-1662-12-26 18:04   Home, and found my wife busy among her pies, but angry for some saucy words that her mayde Jane has given her, which I will not allow of.
+1662-12-27 06:49 r I sent for my boy’s brother, William, that lives in town here as a groom, to whom and their sister Jane I told my resolution to keep the boy no longer. So upon the whole they desire to have him stay a week longer, and then he shall go.
 
-1662-12-26 17:15   Lord! to consider how my natural desire is to pleasure, which God be praised that he has given me the power to curb so well as I have done.
 
-1662-12-26 17:10   To the Duke’s house and saw “The Villaine” which I ought not to do without my wife, but that my time is now out that I did undertake it for.
+1662-12-26 22:01   Being also vexed at my boy for his staying playing abroad when he is sent of errands, so that I have sent him tonight to see whether their country carrier be in town or no, for I am resolved to keep him no more.
 
-1662-12-26 11:20   When I came to read Hudebras, it is so silly an abuse of the Presbyter Knight going to the warrs, that I am ashamed of it.
+1662-12-26 18:20 r As also we are both displeased for some slight words that Sarah, now at Sir W. Pen’s, hath spoke of us, but it is no matter. We shall endeavour to joyne the lion’s skin to the fox’s tail.
 
-1662-12-26 09:35   Hither come Mr. Battersby; and we falling into a discourse of a new book of drollery in verse called Hudebras, I would needs go find it out.
+1662-12-26 18:04   Home, and found my wife busy among her pies, but angry for some saucy words that her mayde Jane has given her, which I will not allow of, and therefore will give her warning to be gone.
 
-1662-12-26 08:02   Up, my wife to the making of Christmas pies all day, being now pretty well again, and I abroad to several places about some businesses.
+1662-12-26 17:18 r Here I saw Gosnell and her sister at a distance, and could have found it in my heart to have accosted them, but thought not prudent.
+
+1662-12-26 17:15 r But, Lord! to consider how my natural desire is to pleasure, which God be praised that he has given me the power by my late oaths to curb so well as I have done, and will do again after two or three plays more.
+
+1662-12-26 17:10   To the Duke’s house and saw “The Villaine,” which I ought not to do without my wife, but that my time is now out that I did undertake it for.
+
+1662-12-26 11:20 r But when I came to read it, it is so silly an abuse of the Presbyter Knight going to the warrs, that I am ashamed of it; and by and by meeting at Mr. Townsend’s at dinner, I sold it to him for 18d.
+
+1662-12-26 09:35   Hither come Mr. Battersby; and we falling into a discourse of a new book of drollery in verse called Hudebras, I would needs go find it out, and met with it at the Temple: cost me 2s. 6d.
+
+1662-12-26 08:02   Up, my wife to the making of Christmas pies all day, being now pretty well again, and I abroad to several places about some businesses, among others bought a bake-pan in Newgate Market, and sent it home, it cost me 16s.
+
 
 1662-12-25 23:57   To my office, practising arithmetique alone and making an end of last night’s book with great content, and so home to supper and to bed.
 
-1662-12-25 14:42   I sent for a mince-pie abroad, my wife not being well to make any herself yet.
+1662-12-25 14:07 r I walked home again with great pleasure, and there dined by my wife’s bed-side with great content, having a mess of brave plum-porridge and a roasted pullet for dinner, and I sent for a mince-pie abroad, my wife not being well to make any herself yet.
 
-1662-12-25 14:07   I dined by my wife’s bed-side with great content, having a mess of brave plum-porridge and a roasted pullet for dinner.
+1662-12-25 11:36 r The sermon done, a good anthem followed, with vialls, and then the King came down to receive the Sacrament.
 
-1662-12-25 11:36   The sermon done, a good anthem followed, with vialls, and then the King came down to receive the Sacrament.
+1662-12-25 11:05 r He did much press us to joy in these publique days of joy, and to hospitality. But one that stood by whispered in my ear that the Bishopp himself do not spend one groat to the poor himself.
 
-1662-12-25 11:04   But one that stood by whispered in my ear that the Bishopp himself do not spend one groat to the poor himself.
+1662-12-25 11:03 r Bishopp Morley preached upon the song of the Angels, “Glory to God on high, on earth peace, and good will towards men.” Methought he made but a poor sermon, but long, and reprehending the mistaken jollity of the Court for the true joy that shall and ought to be on these days.
 
-1662-12-25 11:03   Bishopp Morley did much press us to joy in these publique days of joy, and to hospitality.
+1662-12-25 09:55 r I walked up into the house and spent my time looking over pictures, particularly the ships in King Henry the VIIIth’s Voyage to Bullen; marking the great difference between their build then and now.
 
-1662-12-25 09:55   I spent my time looking over pictures, particularly the ships in King Henry the VIIIth’s voyage to Bullen.
+1662-12-25 09:03   With my boy walked, it being a most brave cold and dry frosty morning, and had a pleasant walk to White Hall, where I intended to have received the Communion with the family, but I came a little too late.
 
-1662-12-25 09:03   I had a pleasant walk to White Hall, where I intended to have received the Communion with the family, but I came a little too late.
 
-1662-12-24 21:20   This evening Mr. Gauden sent me, against Christmas, a great chine of beef and three dozen of tongues.
+1662-12-24 21:20   This evening Mr. Gauden sent me, against Christmas, a great chine of beef and three dozen of tongues. I did give 5s. to the man that brought it, and half-a-crown to the porters.
 
 1662-12-24 21:07   So home to supper and to bed, my wife not being well, she having her months upon her.
 
-1662-12-24 20:14   I read Mr. Bland’s discourse concerning Trade, which (he being no scholler and so knows not the rules of writing orderly) is very good.
+1662-12-24 20:14   To my office alone to do business, and read over half of Mr. Bland’s discourse concerning Trade, which (he being no scholler and so knows not the rules of writing orderly) is very good.
 
-1662-12-24 17:21   I met Mr. Creed, who takes it ill my letter last night to Mr. Povy, wherein I accuse him of the neglect of the Tangier boats.
+1662-12-24 17:21   Met Mr. Creed, who takes it ill my letter last night to Mr. Povy, wherein I accuse him of the neglect of the Tangier boats, in which I must confess I did not do altogether like a friend; but however it was truth, and I must own it to be so, though I fall wholly out with him.
 
-1662-12-24 14:38   To my brother’s and shoemaker, and so to my Lord Crew’s, and dined alone with him, and after dinner much discourse about matters.
+1662-12-24 13:50 r Upon the whole, I understand there are great factions at Court, and something he said that did imply a difference like to be between the King and the Duke, in case the Queen should not be with child. I understand, about this bastard.
 
-1662-12-23 17:55   Dr. Pierce tells me what the world says of me, that Mr. Coventry and I do all the business of the office almost: at which I am highly proud.
+1662-12-24 13:38   To my brother’s and shoemaker, and so to my Lord Crew’s, and dined alone with him, and after dinner much discourse about matters.
 
-1662-12-23 17:41   Mr. Edward Montagu is quite broke at Court with his repute and purse; and he lately was engaged in a quarrell against my Lord Chesterfield.
+1662-12-24 10:48   Took money in my pocket to pay many reckonings today in the town, as my bookseller’s, and paid at another shop 4l. 10s. for “Stephens’s Thesaurus Graecae Linguae,” given to Paul’s School.
+
+
+1662-12-23 17:55 r He also tells me what the world says of me, “that Mr. Coventry and I do all the business of the office almost:” at which I am highly proud.
+
+1662-12-23 17:41   Dr. Pierce tells me that Mr. Edward Montagu is quite broke at Court with his repute and purse; and that he lately was engaged in a quarrell against my Lord Chesterfield. But that the King did cause it to be taken up.
 
 1662-12-23 15:47   Up to make up my accounts with my wife, and find that my ordinary housekeeping comes to 7l. a month, which is a great deal.
 
-1662-12-22 22:07   My wife and I to read “Ovid’s Metamorphoses,” which I brought her home from Paul’s Churchyard to-night.
 
-1662-12-22 17:38   To Woolwich, where we eat and drank at Mr. Pett’s, and put in practice my new way of the Call-book, which will be of great use.
+1662-12-22 22:07   My wife and I to read “Ovid’s Metamorphoses,” which I brought her home from Paul’s Churchyard to-night, having called for it by the way.
 
-1662-12-22 14:30   Mr. Coventry’s people having a horse ready for me (so fine a one that I was afeard to get upon him) and I got up and followed the Duke.
+1662-12-22 17:30 r Having staid a good while, we got up again and brought night home with us and foul weather. So over to Whitehall to his chamber, whither my boy came, who had staid in St. James’s Park by my mistake all day, looking for me.
 
-1662-12-22 14:10   To Mr. Coventry’s chamber, where I found him gone into the Park with the Duke, so I shifted myself into a riding-habitt, and followed him.
+1662-12-22 14:10 r We eat and drank at Mr. Pett’s, and discoursed of many businesses, and put in practice my new way of the Call-book, which will be of great use.
 
-1662-12-22 08:02   Read a good part of “The Advice to a Daughter,” but in all my life I never did nor can expect to see so much nonsense in print.
+1662-12-22 12:38 r So he and I to the waterside, and our horses coming by the ferry, we by oars over to Lambeth, and from thence, with brave discourse by the way, rode to Woolwich.
 
-1662-12-21 19:22   In comes my simple Lord Chandois, who began to sing psalms, but so dully that I was weary of it.
+1662-12-22 12:25 r And with them to Hide Park. Where Mr. Coventry asking leave of the Duke, he bid us go to Woolwich.
 
-1662-12-21 15:08   My brother told me some hopes he had of bringing his business to pass still of his mistress, but I advised him to give it quite over.
+1662-12-22 11:30 r In the Park Mr. Coventry’s people having a horse ready for me (so fine a one that I was almost afeard to get upon him, but I did, and found myself more feared than hurt) and I got up and followed the Duke, who, with some of his people (among others Mr. Coventry) was riding out.
 
-1662-12-20 16:07   It contents me to see my Lord trust me as his confidant: so I bid him good night, he being to go into the country, to keep his Christmas.
+1662-12-22 11:10   To Mr. Coventry’s chamber, where I found him gone out into the Park with the Duke, so the boy being there ready with my things, I shifted myself into a riding-habitt, and followed him through White Hall.
 
-1662-12-20 14:49   We met upon the Tangier Commission; but little will be done before my Lord Rutherford comes there, as to the fortification or Mole.
+1662-12-22 08:02   By the fireside read a good part of “The Advice to a Daughter,” which a simple coxcomb has wrote against Osborne, but in all my life I never did nor can expect to see so much nonsense in print.
 
-1662-12-19 21:48   Displeased with my wife who is troubled with her lonely life, which I know not how without charge to help, but I will study how to do it.
 
-1662-12-19 15:07   We went to them at work, and having wrought below the bottom of the foundation of the wall I bid them give over, and so all our hopes ended.
+1662-12-21 19:22 r By and by comes in my simple Lord Chandois, who (my Lord Sandwich being gone out to Court) began to sing psalms, but so dully that I was weary of it.
 
-1662-12-19 14:42   It being cold, Mr. Lee and I did sit all the day by the fire in the Governor’s house.
+1662-12-21 19:00   To White Hall, and there to chappell, and so through the garden to my Lord’s lodgings, where there was Mr. Gibbons, Madge, and Mallard, and Pagett; and by and by comes in my Lord Sandwich, and so we had great store of good musique.
 
-1662-12-19 08:30   With Mr. Lee, Wade, Evett, and workmen to the Tower, and set them to work in the garden, against the mayne-guard, a most unlikely place.
+1662-12-21 15:08   My brother told me some hopes he had of bringing his business to pass still of his mistress, but I do find they do stand upon terms that will not be either fit or in his power to grant, and therefore I did dislike his talk and advised him to give it quite over.
 
-1662-12-18 17:58   I to Mr. Cade the stationer, to direct him what to do with my two copies of Mr. Holland’s books which he is to bind.
 
-1662-12-18 15:48   Balty’s wife is a little and yet, pretty old girl, not handsome, nor has anything pleasing, but, they say, she plays well on the Base Violl.
+1662-12-20 16:20 r That the first year was worth about 3000l. to him, and the next about as much; so that at this day it will be worth about 7000l. But it contents me to see him trust me as his confidant. So I bid him good night, he being to go into the country, to keep his Christmas.
 
-1662-12-18 13:31   Mr. Coventry inviting himself to dinner, but my dinner being a legg of mutton and two capons, they were not done enough, which did vex me.
+1662-12-20 16:07   My Lord Sandwich and I walked together a good while in the Matted Gallery, he acquainting me with his late enquiries into the Wardrobe business to his content; and tells me how things stand.
 
-1662-12-17 10:39   Intending to have gone upon our new design to the Tower today; but it raining, and the work being to be done in the garden, we put it off.
+1662-12-20 14:49   We met upon the Tangier Commission, and discoursed many things thereon; but little will be done before my Lord Rutherford comes there, as to the fortification or Mole.
 
-1662-12-16 18:22   I am sorry that I have parted with Sarah, though it was against my will. If she had anything I would commend her for a wife for my brother.
 
-1662-12-16 18:08   Sarah, my late mayde, told me out of good will to me, that I would beware of my wife’s brother, for he is begging or borrowing of her.
+1662-12-19 21:48   And so home and to bed, a little displeased with my wife, who, poor wretch, is troubled with her lonely life, which I know not how without great charge to help as yet, but I will study how to do it.
 
-1662-12-16 17:18   Having sat talking with Mr. Moore bewailing the vanity and disorders of the age, I went by coach to my brother’s.
+1662-12-19 15:07 r Having done we went to them at work, and having wrought below the bottom of the foundation of the wall, I bid them give over, and so all our hopes ended.
 
-1662-12-16 15:49   To White Hall to Secretary Bennet’s, and agreed with Mr. Lee to set upon our new adventure at the Tower to-morrow.
+1662-12-19 15:04 r It being cold, Mr. Lee and I did sit all the day by the fire in the Governor’s house; I reading a play of Fletcher’s, being “A Wife for a Month,” wherein no great wit or language.
+
+1662-12-19 08:30   By appointment with Mr. Lee, Wade, Evett, and workmen to the Tower, and with the Lieutenant’s leave set them to work in the garden, in the corner against the mayne-guard, a most unlikely place.
+
+
+1662-12-18 17:58   I to Mr. Cade the stationer, to direct him what to do with my two copies of Mr. Holland’s books which he is to bind, and after supplying myself with several things of him, I returned to my office.
+
+1662-12-18 15:48   Came my wife’s brother and his wife, and Mrs. Lodum his landlady, Balty’s wife is a most little and yet, I believe, pretty old girl, not handsome, nor has anything in the world pleasing, but, they say, she plays mighty well on the Base Violl.
+
+1662-12-18 13:31   Mr. Coventry inviting himself to my house to dinner, of which I was proud; but my dinner being a legg of mutton and two capons, they were not done enough, which did vex me; but we made shift to please him, I think; but I was, when he was gone, very angry with my wife and people.
+
+
+1662-12-17 10:39   Come Mr. Lee, Wade, and Evett, intending to have gone upon our new design to the Tower today; but it raining, and the work being to be done in the open garden, we put it off.
+
+
+1662-12-16 18:40 r After much discourse and her professions of love to me and all my relations, I bade her good night and did kiss her, and indeed she seemed very well-favoured to me tonight, as she is always.
+
+1662-12-16 18:22 r I do observe so much goodness and seriousness in the mayde, that I am again and again sorry that I have parted with her, though it was full against my will then, and if she had anything in the world I would commend her for a wife for my brother Tom.
+
+1662-12-16 18:08 r Who told me out of good will to me, for she loves me dearly, that I would beware of my wife’s brother, for he is begging or borrowing of her and often, and told me of her Scallop whisk, and her borrowing of 50s. for Will, which she believes was for him and her father.
+
+1662-12-16 17:18   To my Lord’s, and having sat talking with Mr. Moore bewailing the vanity and disorders of the age, I went by coach to my brother’s, where I met Sarah, my late mayde, who had a desire to speak with me.
+
+1662-12-16 15:49   By coach to White Hall to Secretary Bennet’s, and agreed with Mr. Lee to set upon our new adventure at the Tower tomorrow.
 
 1662-12-16 11:07   What a most troublesome fellow that Strutt is, such as I never did meet with his fellow in my life.
 
-1662-12-15 15:52   Going down, I saw that he had done little or no hurt; and so I give them a shilling for it and they were well contented.
 
-1662-12-15 15:50   The butchers stopped the horses, and a great rout of people in the street, crying that he had done him 40s. and 5l. worth of hurt.
+1662-12-15 17:30   To my Lady Batten’s to see her, who tells me she hath just now a letter from Sir William, how that he and Sir J. Minnes did very narrowly escape drowning on the road, the waters are so high; but is well. But, Lord! what a hypocrite-like face she made to tell it me.
 
-1662-12-15 15:48   Driving through the backside of the Shambles in Newgate Market, my coach plucked down two pieces of beef into the dirt.
+1662-12-15 15:55 r A great rout of people in the street, crying that he had done him 40s. and 5l. worth of hurt; but going down, I saw that he had done little or none; and so I give them a shilling for it and they were well contented.
 
-1662-12-15 11:05   The King is very kind to the Queen; who is one of the best women in the world. Strange how the King is bewitched to this pretty Castlemaine.
+1662-12-15 15:48   Called at the Major-General’s, about my being assessed armes to the militia; but he was abroad; and so driving through the backside of the Shambles in Newgate Market, my coach plucked down two pieces of beef into the dirt, upon which the butchers stopped the horses.
 
-1662-12-15 10:58   Dr. Clerke, in discourse tells me, that Sir Charles Barkeley’s greatness is only his being pimp to the King, and to my Lady Castlemaine.
+1662-12-15 10:58   Dr. Clerke tells me that Sir Charles Barkeley’s greatness is only his being pimp to the King, and to my Lady Castlemaine. And that the King is very kind to the Queen; who is one of the best women in the world. Strange how the King is bewitched to this pretty Castlemaine.
 
 1662-12-15 09:10   I find myself more and more obliged to Mr. Coventry, who studies to do me all the right he can in every thing to the Duke.
 
-1662-12-15 07:58   To the Duke, and followed him into the Park, where, though the ice was broken, yet he would go slide upon his scates, which I did not like.
+1662-12-15 07:58   To the Duke, and followed him into the Park, where, though the ice was broken and dangerous, yet he would go slide upon his scates, which I did not like, but he slides very well.
 
-1662-12-14 17:34   To my Lord’s, and there Mr. Howe and Pagett, an old lover of musique. We sang some Psalms of Mr. Lawes, and played some symphonys between.
+
+1662-12-14 17:34   To my Lord’s, and there Mr. Howe and Pagett, the counsellor, an old lover of musique. We sang some Psalms of Mr. Lawes, and played some symphonys between.
+
 
 1662-12-13 12:59   To the office again, and there made an end of last night’s examination, and got my study there made very clean and put in order.
+
+1662-12-13 08:02   Slept long today till Sir J. Minnes and Sir W. Batten were set out towards Portsmouth before I rose, and Sir G. Carteret came to the office to speak with me before I was up. So I started up and down to him.
+
 
 1662-12-12 22:58   To the office, and there examining my copy of Mr. Holland’s book, and so home to supper and bed.
 
 1662-12-12 06:32   From a very hard frost, when I wake, I find a very great thaw, and my house overflown with it, which vexed me.
 
+
 1662-12-11 16:21   Mr. Creed dined with me, and we sat all the afternoon together, discoursing of ways to get money, which I am now giving myself wholly up to.
 
-1662-12-10 15:04   I found our new cook-mayde Susan come, who is recommended to us by my wife’s brother, for which I like her never the better.
+
+1662-12-10 15:04   Home, and there I found our new cook-mayde Susan come, who is recommended to us by my wife’s brother, for which I like her never the better, but being a good well-looked lass, I am willing to try, and Jane begins to take upon her as a chamber-mayde.
 
 1662-12-10 09:22   Back to the office with Sir J. Minnes, in his coach, but so great a snow that we could hardly pass the streets.
 
-1662-12-10 07:43   Receiving a messenger from Sir G. Carteret and a letter from Mr. Coventry, one contrary to another, about our letter to my Lord Treasurer.
+1662-12-10 07:43   Receiving a messenger from Sir G. Carteret and a letter from Mr. Coventry, one contrary to another, about our letter to my Lord Treasurer, at which I am troubled, but I went to Sir George, and being desirous to please both, I think I have found out a way to do it.
+
 
 1662-12-09 17:39   To Sir G. Carteret at the Treasury office about my Lord Treasurer’s letter, wherein he puts me to a new trouble to write it over again.
 
-1662-12-09 15:49   Vexed in my mind about the going away of Sarah this afternoon, who cried mightily, and so was I ready to do, and Jane did also.
+1662-12-09 15:49   Being vexed in my mind about the going away of Sarah this afternoon, who cried mightily, and so was I ready to do, and Jane did also, and then anon went Gosnell away, which did trouble me too; though upon many considerations, it is better that I am rid of the charge.
 
-1662-12-09 00:14   I made Gosnell and we sit up looking over the book of Dances, not observing how the time went, and so to prayers and to bed.
+1662-12-09 00:14   I made Gosnell and we sit up looking over the book of Dances till 12 at night, not observing how the time went, and so to prayers and to bed.
 
-1662-12-08 09:07   Balty did tell Gosnell that my wife did go every day to Court and plays, and that she should have liberty of going abroad as often.
+
+1662-12-08 14:44   Into the Park, to see them slide with their skeates, which is very pretty.
+
+1662-12-08 09:07   Balty did tell Gosnell that my wife did go every day in the week to Court and plays, and that she should have liberty of going abroad as often as she pleased, and many other lies, which I am vexed at, and I doubt the wench did come in some expectation of, which troubles me.
+
 
 1662-12-07 21:18   I do smell that my wife’s brother I doubt is overreached in thinking that he has got a rich wife, and I fear she will prove otherwise.
 
-1662-12-07 17:49   I differing from my aunt in our opinion of the handsomeness of the Queen, which I oppose, saying that if my nose be handsome, then is hers.
+1662-12-07 17:49   To my aunt Wight’s, and here we staid a pretty while talking, I differing from my aunt, as I commonly do, in our opinion of the handsomeness of the Queen, which I oppose mightily, saying that if my nose be handsome, then is her’s, and such like.
 
-1662-12-07 15:07   To the French church; but finding the Dutch congregation, and finding the French congregation’s sermon begun in the Dutch, I returned home.
+1662-12-07 15:07   I thought to go to the French church; but finding the Dutch congregation there, and then finding the French congregation’s sermon begun in the Dutch, I returned home.
 
-1662-12-06 14:59   After dinner sat with my wife and Gosnell a good while, till my wife seemed to take notice of my being at home now more than at other times.
+
+1662-12-06 14:59   Dined at home with my wife and Gosnell, my mind much pleased with her, and after dinner sat with them a good while, till my wife seemed to take notice of my being at home now more than at other times.
+
 
 1662-12-05 22:07   I entertain myself with my wife and Gosnell, who sings exceeding well, and I shall take great delight in her, and so merrily to bed.
 
 1662-12-05 20:00   Home, and there I find Gosnell come, who, my wife tells me, is like to prove a pretty companion, of which I am glad.
 
-1662-12-05 08:03   I think never servant and mistress parted upon such foolish terms in the world, only for an opinion in my wife that Sarah is ill-natured.
+1662-12-05 08:10 r The wench cried, and I was ready to cry too, but to keep peace I am content she should go, and the rather, though I say nothing of that, that Jane may come into her place.
 
-1662-12-04 17:42   At the office all the morning setting about business, and after dinner to it again, and so till night.
+1662-12-05 08:03   I did call up Sarah, who do go away to-day or to-morrow. I paid her her wages, and gave her 10s. myself, and my wife 5s. to give her. For my part I think never servant and mistress parted upon such foolish terms in the world as they do.
 
-1662-12-03 17:14   Seeing one of the Russia Embassador’s coaches go along, with his footmen not in liverys, but their country habits, which was very strange.
 
-1662-12-03 14:33   We did call at Limehouse to view two Busses that are building, that being a thing we are now very hot upon.
+1662-12-04 20:42   At the office all the morning setting about business, and after dinner to it again, and so till night, and then home looking over my Brampton papers.
 
-1662-12-03 12:08   Measuring New England masts, with which I was much pleased for my information, though I perceive great neglect in all the King’s officers.
+
+1662-12-03 17:14   We walked to the Temple, in our way seeing one of the Russia Embassador’s coaches go along, with his footmen not in liverys, but their country habits; one of one colour and another of another, which was very strange.
+
+1662-12-03 14:33   We did call at Limehouse to view two Busses that are building, that being a thing we are now very hot upon. Our call was to see what dimensions they are of, being 50 feet by the keel and about 60 tons.
+
+1662-12-03 12:08   To Deptford, with Mr. Wood and our officers measuring all the morning his New England masts, with which sight I was much pleased for my information, though I perceive great neglect and indifference in all the King’s officers in what they do for the King.
+
 
 1662-12-02 23:10   I to my office till late preparing business, and so home, being cold, and this night first put on a wastecoate. So to bed.
 
-1662-12-02 14:22   I did give Jane a serious lesson, against we take her to be our chamber-maid, which I spoke so to her that the poor girl cried.
+1662-12-02 14:22   After dinner did give Jane a very serious lesson, against we take her to be our chamber-maid, which I spoke so to her that the poor girl cried and did promise to be very dutifull and carefull.
 
-1662-12-02 07:07   Before I went to the office my wife and I had another falling out about Sarah, against whom she has a deadly hate, I know not for what.
+1662-12-02 07:07   Before I went to the office my wife and I had another falling out about Sarah, against whom she has a deadly hate, I know not for what, nor can I see but she is a very good servant.
 
-1662-12-01 17:12   Nor did the King or Queen smile all the whole play, nor any of the company take any pleasure but what was in the greatness of the company.
 
-1662-12-01 17:10   I to the Cockpitt, where I saw “The Valiant Cidd” acted, a play I have read with great delight, but is a most dull thing acted.
+1662-12-01 17:12 r Nor did the King or queen once smile all the whole play, nor any of the company seem to take any pleasure but what was in the greatness and gallantry of the company.
 
-1662-12-01 12:58   We all met to a venison pasty, and were very merry, Major Norwood being with us, whom they did play upon for his surrendering of Dunkirk.
+1662-12-01 17:10   I to the Cockpitt, with much crowding and waiting, where I saw “The Valiant Cidd” acted, a play I have read with great delight, but is a most dull thing acted, which I never understood before, there being no pleasure in it, though done by Betterton and by Ianthe.
 
-1662-12-01 11:07   Over the Parke (where I first in my life, it being a great frost, did see people sliding with their skeates, which is a very pretty art).
+1662-12-01 12:58 r  We all met to a venison pasty, and were very merry, Major Norwood being with us, whom they did play upon for his surrendering of Dunkirk.
 
-1662-12-01 09:14   Mr. Coventry did do me the great kindness to take notice to the Duke of my pains in making a collection of all contracts about masts.
+1662-12-01 11:07   Over the Parke (where I first in my life, it being a great frost, did see people sliding with their skeates, which is a very pretty art), to Mr. Coventry’s chamber to St. James’s.
 
+1662-12-01 09:14   Mr. Coventry did do me the great kindness to take notice to the Duke of my pains in making a collection of all contracts about masts, which have been of great use to us.
