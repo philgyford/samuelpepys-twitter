@@ -19,7 +19,6 @@ class Tester:
     """
 
     def __init__(self):
-
         self.project_root = os.path.abspath(os.path.dirname(__file__))
 
         # Will be a list of dicts:
@@ -28,7 +27,6 @@ class Tester:
         self.post_count = 0
 
     def start(self):
-
         # Cycle through every directory in /posts/ whose name is four digits:
         for d in glob("{}/posts/{}".format(self.project_root, "[0-9]" * 4)):
             for f in os.listdir(d):
@@ -177,6 +175,20 @@ class Tester:
                             filepath,
                             post_time,
                             'Post contains footnote ("{}")'.format(
+                                post_text[start:end]
+                            ),
+                        )
+
+                    # Catch any [bits in square brackets] left in:
+                    post_match = re.search(r"(\[.*?\])", post_text)
+                    if post_match:
+                        span = post_match.span()
+                        start = span[0] - 5
+                        end = span[1] + 5
+                        self.add_error(
+                            filepath,
+                            post_time,
+                            'Post contains square brackets ("{}"))'.format(
                                 post_text[start:end]
                             ),
                         )
