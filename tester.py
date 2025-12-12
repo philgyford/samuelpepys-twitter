@@ -1,9 +1,9 @@
 #!/usr/bin/env python
-# coding=utf-8
+# ruff: noqa: T201
 import datetime
-from glob import glob
 import os
 import re
+from glob import glob
 
 
 class Tester:
@@ -43,13 +43,13 @@ class Tester:
                 if last_file is None or last_file != err["filepath"]:
                     # eg 'FILE: 1660/01.txt'
                     dir_file = "/".join(err["filepath"].split("/")[-2:])
-                    print("\nFILE posts/{}".format(dir_file))
+                    print(f"\nFILE posts/{dir_file}")
 
                 print(" {}: {}".format(err["time"], err["text"]))
 
                 last_file = err["filepath"]
 
-        print("\n{:,} posts checked.".format(self.post_count))
+        print(f"\n{self.post_count:,} posts checked.")
 
         if len(self.errors) == 0:
             print("\nEverything is OK.")
@@ -94,7 +94,9 @@ class Tester:
                     # Check times are in the correct order.
 
                     try:
-                        t = datetime.datetime.strptime(post_time, "%Y-%m-%d %H:%M")
+                        t = datetime.datetime.strptime(
+                            post_time, "%Y-%m-%d %H:%M"
+                        ).astimezone(datetime.UTC)
                     except ValueError as e:
                         self.add_error(filepath, post_time, e)
                         # Have to return as we won't have a valid value for t.
@@ -105,29 +107,24 @@ class Tester:
                             self.add_error(
                                 filepath,
                                 post_time,
-                                "Time is after previous time ({}).".format(prev_time),
+                                f"Time is after previous time ({prev_time}).",
                             )
                         elif t == prev_time:
                             self.add_error(
                                 filepath,
                                 post_time,
-                                "Time is the same as previous time ({}).".format(
-                                    prev_time
-                                ),
+                                f"Time is the same as previous time ({prev_time}).",
                             )
                     prev_time = t
 
                     # Test valid kinds
 
-                    if post_kind is not None:
-                        if post_kind != "r":
-                            self.add_error(
-                                filepath,
-                                post_time,
-                                "Kind should be nothing or 'r'. It was: '{}'.".format(
-                                    post_kind
-                                ),
-                            )
+                    if post_kind is not None and post_kind != "r":
+                        self.add_error(
+                            filepath,
+                            post_time,
+                            f"Kind should be nothing or 'r'. It was: '{post_kind}'.",
+                        )
 
                     # Test post length.
 
@@ -135,7 +132,7 @@ class Tester:
                         self.add_error(
                             filepath,
                             post_time,
-                            "Post is {} characters long.".format(len(post_text)),
+                            f"Post is {len(post_text)} characters long.",
                         )
 
                     # Test first/last characters.
@@ -144,8 +141,9 @@ class Tester:
                         self.add_error(
                             filepath,
                             post_time,
-                            'Post begins with lowercase character ("{}...")'.format(
-                                post_text[:20]
+                            (
+                                "Post begins with lowercase character "
+                                f'("{post_text[:20]}...")'
                             ),
                         )
 
@@ -153,8 +151,9 @@ class Tester:
                         self.add_error(
                             filepath,
                             post_time,
-                            'Post ends with lowercase character, not punctuation ("...{}")'.format(
-                                post_text[-20:]
+                            (
+                                "Post ends with lowercase character, not punctuation "
+                                f'("...{post_text[-20:]}")'
                             ),
                         )
 
@@ -162,7 +161,7 @@ class Tester:
                         self.add_error(
                             filepath,
                             post_time,
-                            'Post ends with a space ("...{}")'.format(post_text[-20:]),
+                            f'Post ends with a space ("...{post_text[-20:]}")',
                         )
 
                     # Catch any footnote numbers left in, like "at a limner1 that he"
@@ -174,9 +173,7 @@ class Tester:
                         self.add_error(
                             filepath,
                             post_time,
-                            'Post contains footnote ("{}")'.format(
-                                post_text[start:end]
-                            ),
+                            f'Post contains footnote ("{post_text[start:end]}")',
                         )
 
                     # Catch any [bits in square brackets] left in:
@@ -188,8 +185,9 @@ class Tester:
                         self.add_error(
                             filepath,
                             post_time,
-                            'Post contains square brackets ("{}"))'.format(
-                                post_text[start:end]
+                            (
+                                "Post contains square brackets "
+                                f'("{post_text[start:end]}"))'
                             ),
                         )
 
@@ -204,8 +202,9 @@ class Tester:
                         self.add_error(
                             filepath,
                             post_time,
-                            '"{}" found: "{}")'.format(
-                                post_match.groups()[0], post_text[start:end]
+                            (
+                                f'"{post_match.groups()[0]}" found: '
+                                f'"{post_text[start:end]}")'
                             ),
                         )
 

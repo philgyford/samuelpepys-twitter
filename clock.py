@@ -1,6 +1,8 @@
 #!/usr/bin/env python
-from apscheduler.schedulers.background import BackgroundScheduler
 import logging
+
+from apscheduler.schedulers.background import BackgroundScheduler
+
 import poster
 
 logging.basicConfig()

@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# coding=utf-8
+import configparser
 import datetime
 import logging
 import os
@@ -7,15 +7,13 @@ import re
 import sys
 import time
 import urllib.parse as urlparse
+from zoneinfo import ZoneInfo, ZoneInfoNotFoundError
 
-import pytz
-import configparser
 import redis
 import tweepy
 from atproto import Client
 from atproto.exceptions import AtProtocolError, InvokeTimeoutError, UnauthorizedError
 from mastodon import Mastodon, MastodonError
-
 
 logging.basicConfig()
 
@@ -60,6 +58,13 @@ class Poster:
 
     def __init__(self):
         self.logger = logging.getLogger(__name__)
+        stdout = logging.StreamHandler(stream=sys.stdout)
+        formatter = logging.Formatter(
+            # "%(name)s: %(asctime)s | %(levelname)s | %(filename)s:%(lineno)s | "
+            # "%(process)d >>> %(message)s"
+            "%(asctime)s | %(levelname)s | %(message)s"
+        )
+        stdout.setFormatter(formatter)
 
         self.project_root = os.path.abspath(os.path.dirname(__file__))
 
@@ -69,9 +74,11 @@ class Poster:
 
         if self.verbose:
             if self.verbose == 1:
-                self.logger.setLevel(logging.INFO)
+                stdout.setLevel(logging.INFO)
             elif self.verbose == 2:
-                self.logger.setLevel(logging.DEBUG)
+                stdout.setLevel(logging.DEBUG)
+
+        self.logger.addHandler(stdout)
 
         self.redis = redis.Redis(
             host=self.redis_hostname,
@@ -100,9 +107,9 @@ class Poster:
             )
 
         try:
-            self.local_tz = pytz.timezone(self.timezone)
-        except pytz.exceptions.UnknownTimeZoneError:
-            self.logger.error("Unknown or no timezone in settings: %s" % self.timezone)
+            self.local_tz = ZoneInfo(self.timezone)
+        except ZoneInfoNotFoundError:
+            self.logger.error("Unknown or no timezone in settings: %s", self.timezone)
             sys.exit(0)
 
     def load_config(self):
@@ -171,7 +178,7 @@ class Poster:
 
         # eg datetime.datetime(2014, 4, 25, 18, 59, 51, tzinfo=<UTC>)
         last_run_time = self.get_last_run_time()
-        self.logger.debug(f"Last run time: {last_run_time}")
+        self.logger.debug("Last run time: %s", last_run_time)
 
         # We need to have a last_run_time set before we can send any posts.
         # So the first time this is run, we can't do anythning.
@@ -188,7 +195,7 @@ class Poster:
         local_time_now = datetime.datetime.now(self.local_tz)
 
         year_dir = str(int(local_time_now.strftime("%Y")) - self.years_ahead)
-        month_file = "%s.txt" % local_time_now.strftime("%m")
+        month_file = "{}.txt".format(local_time_now.strftime("%m"))
 
         # eg posts/1660/01.txt
         path = os.path.join(self.project_root, "posts", year_dir, month_file)
@@ -274,21 +281,20 @@ class Poster:
                     post["in_reply_to_time"] = in_reply_to_time
 
                     self.logger.info(
-                        "Preparing: '{}...' "
-                        "timed {}, "
-                        "is_reply: {}, "
-                        "local_last_run_time: {}, "
-                        "local_modern_post_time: {}, "
-                        "post_minus_last_run: {}, "
-                        "in_reply_to_time: {}".format(
-                            post["text"][:20],
-                            post["time"],
-                            post["is_reply"],
-                            local_last_run_time,
-                            local_modern_post_time,
-                            post_minus_last_run,
-                            in_reply_to_time,
-                        )
+                        "Preparing: '%s...' "
+                        "timed %s, "
+                        "is_reply: %s, "
+                        "local_last_run_time: %s, "
+                        "local_modern_post_time: %s, "
+                        "post_minus_last_run: %s, "
+                        "in_reply_to_time: %s",
+                        post["text"][:20],
+                        post["time"],
+                        post["is_reply"],
+                        local_last_run_time,
+                        local_modern_post_time,
+                        post_minus_last_run,
+                        in_reply_to_time,
                     )
 
                     posts_to_send.append(post)
@@ -340,10 +346,7 @@ class Poster:
             local_modern_post_time = self.modernize_time(post_time)
 
             if local_modern_post_time:
-                if post_kind == "r":
-                    is_reply = True
-                else:
-                    is_reply = False
+                is_reply = bool(post_kind == "r")
 
                 post = {
                     "time": post_time,
@@ -357,7 +360,7 @@ class Poster:
         """
         Set the 'last run time' in the database to now, in UTC.
         """
-        time_now = datetime.datetime.now(pytz.timezone("UTC"))
+        time_now = datetime.datetime.now(datetime.UTC)
         self.redis.set("last_run_time", time_now.strftime("%Y-%m-%d %H:%M:%S"))
 
     def get_last_run_time(self):
@@ -372,7 +375,7 @@ class Poster:
         if last_run_time:
             return datetime.datetime.strptime(
                 last_run_time, "%Y-%m-%d %H:%M:%S"
-            ).replace(tzinfo=pytz.timezone("UTC"))
+            ).replace(tzinfo=datetime.UTC)
         else:
             return None
 
@@ -385,22 +388,23 @@ class Poster:
             tzinfo=<DstTzInfo 'Europe/London' BST+1:00:00 DST>)
         Returns False if something goes wrong.
         """
-        naive_time = datetime.datetime.strptime(t, "%Y-%m-%d %H:%M")
+        naive_time = datetime.datetime.strptime(t, "%Y-%m-%d %H:%M")  # noqa: DTZ007
         try:
-            local_modern_time = self.local_tz.localize(
-                datetime.datetime(
-                    naive_time.year + self.years_ahead,
-                    naive_time.month,
-                    naive_time.day,
-                    naive_time.hour,
-                    naive_time.minute,
-                    naive_time.second,
-                )
+            local_modern_time = datetime.datetime(
+                naive_time.year + self.years_ahead,
+                naive_time.month,
+                naive_time.day,
+                naive_time.hour,
+                naive_time.minute,
+                naive_time.second,
+                tzinfo=self.local_tz,
             )
         except ValueError as e:
             # Unless something else is wrong, it could be that naive_time
             # is 29th Feb and there's no 29th Feb in the current, modern, year.
-            self.logger.info(f"Skipping {t} as can't make a modern time from it: {e}")
+            self.logger.info(
+                "Skipping %s as can't make a modern time from it: %s", t, e
+            )
             local_modern_time = False
 
         return local_modern_time
@@ -434,7 +438,7 @@ class Poster:
                     previous_status_id = self.redis.get("previous_tweet_id")
 
             self.logger.info(
-                "Tweeting: {} [{} characters]".format(post["text"], len(post["text"]))
+                "Tweeting: %s [%s characters]", post["text"], len(post["text"])
             )
 
             try:
@@ -480,7 +484,7 @@ class Poster:
                     previous_status_id = self.redis.get("previous_toot_id")
 
             self.logger.info(
-                "Tooting: {} [{} characters]".format(post["text"], len(post["text"]))
+                "Tooting: %s [%s characters]", post["text"], len(post["text"])
             )
 
             try:
@@ -543,9 +547,7 @@ class Poster:
                             }
 
                     self.logger.info(
-                        "Skeeting: {} [{} characters]".format(
-                            post["text"], len(post["text"])
-                        )
+                        "Skeeting: %s [%s characters]", post["text"], len(post["text"])
                     )
 
                     try:

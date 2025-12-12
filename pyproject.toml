@@ -11,6 +11,32 @@ dependencies = [
 requires-python = "~=3.13.0"
 version = "1.0"
 
+[tool.ruff.lint]
+ignore = []
+select = [
+  # Reference: https://docs.astral.sh/ruff/rules/
+  "B",      # flake8-bugbear
+  "E",      # pycodestyle
+  "F",      # Pyflakes
+  "G",      # flake8-logging-format
+  "I",      # isort
+  "N",      # pip8-naming
+  "Q",      # flake8-quotes
+  "BLE",    # flake8-blind-except
+  "DTZ",    # flake8-datetimez
+  "EM",     # flake8-errmsg
+  "INP",    # flake8-no-pep420
+  "FBT",    # flake8-boolean-trap
+  "PIE",    # flake8-pie
+  "RSE",    # flake-raise
+  "SIM",    # flake8-simplify
+  "T20",    # flake8-print
+  "TID",    # flake8-tidy-imports
+  "UP",     # pyupgrade
+  "RUF100", # unused-noqa
+  "RUF200", # invalid-pyproject-toml
+]
+
 [tool.uv.pip]
 generate-hashes = true
 python-version = "3.13"
@@ -18,6 +44,5 @@ python-version = "3.13"
 [dependency-groups]
 dev = [
     "pre-commit>=4.3.0",
-    "pyupgrade>=3.21.2",
     "ruff>=0.13.3",
 ]
