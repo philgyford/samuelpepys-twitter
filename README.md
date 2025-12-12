@@ -55,7 +55,7 @@ out any posts to be ignored by prepending them with a different character, and
 leave blank lines to make reading easier.
 
 The script doesn't check for length of post, so any posts longer than the
-service supports will probably be rejected. 
+service supports will probably be rejected.
 
 
 ## What gets posted
@@ -175,8 +175,7 @@ Then you can see all the keys, and get a key's value like:
 
 ### Running the scripts
 
-Either install Python requirements using pip from the `requirements.txt` file,
-or using uv with `uv sync`.
+Install Python requirements using uv with `uv sync`.
 
 Then set up either a `config.cfg` or `.env` file (see above).
 
@@ -190,11 +189,6 @@ Or you could run the clock process which will check for new posts once per
 minute:
 
     $ ./clock.py
-
-### Development
-
-If changing any requirements in `pyproject.toml`, then regenerate
-`requirements.txt` using `uv pip compile pyproject.toml -o requirements.txt`.
 
 ## Heroku setup
 
