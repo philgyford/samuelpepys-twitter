@@ -1,179 +1,226 @@
-YYYY-MM-DD HH:MM   12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+YYYY-MM-DD HH:MM x 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
-1663-02-28 15:42   The House have been with the King to give him their reasons for refusing to grant any indulgence to Presbyters or Papists.
+1663-02-28 15:42   The House have this noon been with the King to give him their reasons for refusing to grant any indulgence to Presbyters or Papists; which he, with great content and seeming pleasure, took, saying, that he doubted not but he and they should agree in all things.
 
-1663-02-28 14:23   At the Privy Seal I did see the docquet by which Sir W. Pen is made the Comptroller’s assistant, which I must endeavour to prevent.
+1663-02-28 14:23   I put in at White Hall, and at the Privy Seal I did see the docquet by which Sir W. Pen is made the Comptroller’s assistant, as Sir J. Minnes told me last night, which I must endeavour to prevent.
+
+1663-02-28 06:50   Waked with great pain in my right ear (which I find myself much subject to) having taken cold.
+
 
 1663-02-27 18:21   To Sir W. Batten’s to speak upon some business, where I found Sir J. Minnes pretty well fuddled I thought.
 
-1663-02-27 15:32   The Doctors conclude that there is no pain in hanging, for that it do stop the circulation of the blood; and so stops all sense and motion.
+1663-02-27 15:32 r All the Doctors at table conclude that there is no pain at all in hanging, for that it do stop the circulation of the blood; and so stops all sense and motion in an instant.
 
-1663-02-27 14:59   I did touch the dead body with my bare hand: it felt cold, but methought it was a very unpleasant sight.
+1663-02-27 14:59 r I did touch the dead body with my bare hand: it felt cold, but methought it was a very unpleasant sight.
 
-1663-02-27 14:48   Dr. Scarborough took some of his friends to see the body alone, which was a lusty fellow, a seaman, that was hanged for a robbery.
+1663-02-27 14:48 r After dinner Dr. Scarborough took some of his friends, and I went along with them, to see the body alone, which we did, which was a lusty fellow, a seaman, that was hanged for a robbery.
 
-1663-02-27 13:34   We drank out of a gilt cup given by King Henry VIII, with bells hanging at it, which every man is to ring after he hath drunk the whole cup.
+1663-02-27 13:34 r Among other observables we drank the King’s health out of a gilt cup given by King Henry VIII. to this Company, with bells hanging at it, which every man is to ring by shaking after he hath drunk up the whole cup.
 
-1663-02-27 12:15   All being settled, Dr. Tearne begun his lecture, this being the second upon the kidneys, ureters, &c, which was very fine.
+1663-02-27 12:15 r All being settled, Dr. Tearne begun his lecture, this being the second upon the kidneys, ureters, &c, which was very fine.
 
-1663-02-27 11:04   To Chyrurgeon’s Hall (we being all invited thither); where we were led into the Theatre; and by and by comes the reader, Dr. Tearne.
+1663-02-27 11:04   Commissioner Pett and I walked to Chyrurgeon’s Hall (we being all invited thither, and promised to dine there); where we were led into the Theatre; and by and by comes the reader, Dr. Tearne, with the Master and Company, in a very handsome manner.
 
-1663-02-26 15:02   A young gallant lately come from France, who was full of his French, he had enough to make him think himself a wise man a great while.
 
-1663-02-26 11:15   Pretty it is to consider how the King would appear to be a stiff Protestant; and yet would appear willing to give a liberty to these people.
+1663-02-26 20:50   Troubled that my wife is not come home from Chelsey, whither she is gone to see the play at the school where Ashwell is, but she came at last, it seems, by water, and tells me she is much pleased with Ashwell’s acting and carriage, which I am glad of.
 
-1663-02-26 11:07   The news is the odds yesterday in the votes between them that are for the Indulgence to the Papists and Presbyters, and those against it.
+1663-02-26 11:15 r And pretty it is to consider how the King would appear to be a stiff Protestant and son of the Church; and yet would appear willing to give a liberty to these people, because of his promise at Breda.
 
-1663-02-25 18:33   The Commons in Parliament, I hear, are very high to stand to the Act of Uniformity, and will not indulge the Papists nor the Presbyters.
+1663-02-26 11:07   All the news is the great odds yesterday in the votes between them that are for the Indulgence to the Papists and Presbyters, and those that are against it, which did carry it by 200 against 30.
+
+
+1663-02-25 18:33   The Commons in Parliament, I hear, are very high to stand to the Act of Uniformity, and will not indulge the Papists (which is endeavoured by the Court Party) nor the Presbyters.
 
 1663-02-25 16:31   To the Temple, my brother’s, the Wardrobe, to Mr. Moore, and other places, called at about small businesses.
 
-1663-02-24 21:42   My late distemper of heat and itching being come upon me again, so that I must think of sweating again as I did before.
 
-1663-02-24 08:19   Waked by Mr. Clerke’s being come to consult me about Field’s business, by calling him up to my bedside, and he says we shall trounce him.
+1663-02-24 21:42   I not very well, home to supper and to bed. My late distemper of heat and itching being come upon me again, so that I must think of sweating again as I did before.
 
-1663-02-23 20:44   My Lady Castlemaine hath all the King’s Christmas presents, made him by the peers, given to her, which is a most abominable thing.
+1663-02-24 08:19   Waked by Mr. Clerke’s being come to consult me about Field’s business, which we did by calling him up to my bedside, and he says we shall trounce him.
 
-1663-02-23 20:07   To Court, and saw “The Wilde Gallant,” performed by the King’s house, but it was ill acted, and so poor a thing as I never saw in my life.
 
-1663-02-23 17:31   I most pleased to see the little girl dance in boy’s apparel, she having very fine legs, only bends in the hams, as I perceive all women do.
+1663-02-23 22:15   I was told that my Lady Castlemaine hath all the King’s Christmas presents, made him by the peers, given to her, which is a most abominable thing; and that at the great ball she was much richer in jewells than the Queen and Duchess put both together.
 
-1663-02-23 17:29   To the Duke’s house, where we saw ”The Slighted Mayde” well acted, though the play hath little good in it.
+1663-02-23 21:07 r To Court, and there saw “The Wilde Gallant,” performed by the King’s house, but it was ill acted, and the play so poor a thing as I never saw in my life almost, and so little answering the name, that I could not, nor can at this time, tell certainly which was the Wild Gallant.
 
-1663-02-23 13:00   I resolved to take my wife to a play at Court to-night, and the rather because it is my birthday, being this day thirty years old.
+1663-02-23 17:29 r To the Duke’s house, where we saw it well acted, though the play hath little good in it, being most pleased to see the little girl dance in boy’s apparel, she having very fine legs, only bends in the hams, as I perceive all women do.
 
-1663-02-23 12:10   Home, I finding by a note that Mr. Clerke in my absence hath left here, that I am free; and that he hath stopped all matters in Court.
+1663-02-23 13:25 r Creed and I walked out to see what play was acted today, and we find it “The Slighted Mayde.” But, Lord! to see that though I did know myself to be out of danger, yet I durst not go through the street, but round by the garden into Tower Street.
 
-1663-02-23 08:07   Not daring to go by land, did (Griffin going along with me for fear), slip to White Hall by water; where to Mr. Coventry.
+1663-02-23 13:00 r I immediately had a light thought of taking pleasure to rejoice my heart, and so resolved to take my wife to a play at Court tonight, and the rather because it is my birthday, being this day thirty years old, for which let me praise God.
 
-1663-02-22 17:44   That which troubled me most was Sir J. Minnes coming from Court. He tells me that the Duke and Mr. Coventry make no great matter of it.
+1663-02-23 12:10 r At home I found Mr. Creed with my wife, and so he dined with us, I finding by a note that Mr. Clerke in my absence hath left here, that I am free; and that he hath stopped all matters in Court; I was very glad of it.
+
+1663-02-23 08:07   Up by times; and not daring to go by land, did (Griffin going along with me for fear), slip to White Hall by water; where to Mr. Coventry, and, as we used to do, to the Duke; the other of my fellows being come.
+
+
+1663-02-22 17:44 r That which troubled me most was Sir J. Minnes coming from Court at night, and instead of bringing great comfort from thence (but I expected no better from him), he tells me that the Duke and Mr. Coventry make no great matter of it.
 
 1663-02-22 17:32   To Sir W. Batten’s and Sir W. Pen’s, where discoursing much of yesterday’s trouble and scandal.
 
-1663-02-21 17:44   The men are not contented with under 5l. for their charges, which Mr. Clerke will not give them, and he advises me not to stir abroad.
 
-1663-02-21 17:14   I walked through the street to show myself among the neighbours, that they might not think worse than the business is.
+1663-02-21 17:44 r Mr. Clerke by and by, and tells me that he hath paid the fees of the Court for the commission; but the men are not contented with under 5l. for their charges, which he will not give them, and therefore advises me not to stir abroad till Monday that he comes or sends to me again.
 
-1663-02-21 16:50   These fellows, which are called the commissioners, are the most rake-shamed rogues that ever I saw in my life.
+1663-02-21 17:14 r Well, at last they went away, and I by advice took occasion to go abroad, and walked through the street to show myself among the neighbours, that they might not think worse than the business is.
 
-1663-02-21 16:38   Mr. Clerke, our solicitor, brings us a release from our adverse atturney, we paying the fees of the commission, which comes to five marks.
+1663-02-21 16:38 r Comes Mr. Clerke, our solicitor, who brings us a release from our adverse atturney, we paying the fees of the commission, which comes to five marks, and pay the charges of these fellows, which are called the commissioners, but are the most rake-shamed rogues that ever I saw.
 
-1663-02-21 14:40   By ladders I did get over the pale between our yards, and so to Sir W. Batten’s house, where I found them to be concerned for me.
+1663-02-21 14:40 r But, however, by ladders, did get over the pale between our yards, and so to their house, where I found them (as they have reason) to be much concerned for me, my lady especially.
 
-1663-02-21 14:25   By and by at my parler-window comes Sir W. Batten’s Mungo, to tell me that his master and lady would have me come to their house.
+1663-02-21 14:25 r By and by at my parler-window comes Sir W. Batten’s Mungo, to tell me that his master and lady would have me come to their house through Sir J. Minnes’s lodgings, which I could not do.
 
-1663-02-21 13:10   The bayleys come back, but found me not there; and I hearing in what manner they were come, did forbear letting them know where I was.
+1663-02-21 13:10 r I home to dinner. Before I had dined, the bayleys come back again with the constable, and at the office knock for me, but found me not there; and I hearing in what manner they were come, did forbear letting them know where I was; so they stood knocking and enquiring for me.
 
-1663-02-21 12:22   The man and four more of his fellows came to know what I would do; I told them stay till I heard from the King or my Lord Chief Baron.
+1663-02-21 12:22 r The man and four more of his fellows came to know what I would do; I told them stay till I heard from the King or my Lord Chief Baron, to both whom I had now sent.
 
-1663-02-21 12:10   Our solicitor against Field came by chance and told me that he would go and satisfy the fees of the Court, and would end the business.
+1663-02-21 12:10 r Our solicitor against Field came by chance and told me that he would go and satisfy the fees of the Court, and would end the business.
 
-1663-02-21 11:52   There comes a man, and shows me a writ from the Exchequer, called a Commission of Rebellion, tells me I am his prisoner in Field’s business.
+1663-02-21 11:52   There comes a man in as if upon ordinary business, and shows me a writ from the Exchequer, called a Commission of Rebellion, and tells me that I am his prisoner in Field’s business; which methought did strike me to the heart.
 
-1663-02-20 15:28   To the Charles pleasure boat, and I could have been sick if I would in going, the wind being very fresh, but very pleasant it was.
 
-1663-02-20 09:12   To Deptford and looked over the yard and had a call, wherein I am very highly pleased with our new manner of call-books, being my invention.
+1663-02-20 15:28 r Took boat and to the pleasure boat, which was come down to fetch us back, and I could have been sick if I would in going, the wind being very fresh, but very pleasant it was, and the first time I have sailed in any one of them. It carried us to Cuckold’s Point.
 
-1663-02-19 23:58   Home and to bed, being weary, sleepy, and my eyes begin to fail me, looking so long by candlelight upon white paper.
+1663-02-20 09:12   Up and by water with Commissioner Pett to Deptford, and there looked over the yard, and had a call, wherein I am very highly pleased with our new manner of call-books, being my invention.
 
-1663-02-19 13:34   To my office, this afternoon being the first we have met upon a great while, our times being changed because of the parliament sitting.
 
-1663-02-18 11:14   Casting up with Captain Cocke their accounts of 500 tons of hemp from Riga, bought upon account, wherein are many things worth my knowledge.
+1663-02-19 23:58 r So home and to bed, being weary, sleepy, and my eyes begin to fail me, looking so long by candlelight upon white paper.
 
-1663-02-17 19:22   My wife’s sister will give her husband trouble enough as little as she is, whereas I took her heretofore for a very child and a simple fool.
+1663-02-19 13:54   So to my office, where by and by we sat, this afternoon being the first we have met upon a great while, our times being changed because of the parliament sitting.
 
-1663-02-17 19:20   We sent for my wife’s sister’s viall, upon which she plays pretty well for a girl, but my expectation is much deceived in her.
+1663-02-19 13:20   Dined by my wife’s bedside, she not being yet well. We fell out almost upon my discourse of delaying the having of Ashwell, where my wife believing that I have a mind to have Pall, which I have not, though I could wish she did deserve to be had.
 
-1663-02-17 16:25   The Queen-Mother’s Court is now the greatest of all; our own Queen hath little or no company come to her, which I am sorry to see it.
 
-1663-02-17 16:07   Mr. Pickering tells me the story is true of a child being dropped at the ball at Court; the King had it in his closett, and did dissect it.
+1663-02-18 11:14   I to my office all the morning, casting up with Captain Cocke their accounts of 500 tons of hemp brought from Riga, and bought by him and partners upon account, wherein are many things worth my knowledge.
 
-1663-02-16 13:47   To my Lord Crew’s and dined there, there being much company, and the above-said matter is now the present publique discourse.
 
-1663-02-16 10:55   A priest was taken in his vests officiating somewhere in Holborn the other day, and was committed by Secretary Morris, according to law.
+1663-02-17 20:30 r I played also, which I have not done this long time before upon any instrument, and at last broke up and I to my office a little while, being fearful of being too much taken with musique, for fear of returning to my old dotage thereon, and so neglect my business as I used to do.
 
-1663-02-16 10:07   The great question is, whether the Presbyters will be contented to have the Papists have the same liberty of conscience with them, or no.
+1663-02-17 19:50 r We sent for her sister’s viall, upon which she plays pretty well for a girl, but my expectation is much deceived in her, not only for that, but in her spirit, she being I perceive a very subtle witty jade, and one that will give her husband trouble enough as little as she is.
 
-1663-02-15 05:43   It put me to very horrid pain; and what should this be but my cods, which after I woke were in very great pain for a good while.
+1663-02-17 19:20   I took coach and home, where I found my wife come home and in bed with her sister in law in the chamber with her, she not being able to stay to see the wassel, being so ill of her termes, which I was sorry for.
 
-1663-02-15 05:40   My wife did wake me being frighted with the noise I made in my sleep, a dream that one of our sea maisters did desire to see my drawing.
+1663-02-17 16:25 r And that the Queen-Mother’s Court is now the greatest of all; and that our own Queen hath little or no company come to her, which I know also to be very true, and am sorry to see it.
+
+1663-02-17 16:07   Mr. Pickering tells me the story is very true of a child being dropped at the ball at Court; and that the King had it in his closett a week after, and did dissect it; and making great sport of it, said that in his opinion it must have been a month and three hours old.
+
+
+1663-02-16 13:47 r Thence to my Lord Crew’s and dined there, there being much company, and the above-said matter is now the present publique discourse.
+
+1663-02-16 10:55 r It seems a priest was taken in his vests officiating somewhere in Holborn the other day, and was committed by Secretary Morris, according to law; and they say the Bishop of London did give him thanks for it.
+
+1663-02-16 10:13 r And the Papists, I hear, are very busy designing how to make the Presbyters consent to take their liberty, and to let them have the same with them, which some are apt to think they will.
+
+1663-02-16 10:07   To Westminster Hall, and there find great expectation what the Parliament will do in matters of religion. The great question is, whether the Presbyters will be contented to have the Papists have the same liberty of conscience with them, or no, or rather be denied it themselves.
+
+
+1663-02-15 05:43 r But methought he did handle it so hard that it put me to very horrid pain and what should this be but my cods, which after I woke were in very great pain for a good while. Which what a strange extravagant dream it was.
+
+1663-02-15 05:40   My wife did wake me being frighted with the noise I made in my sleep, being a dream that one of our sea maisters did desire to see the St. John’s Isle of my drawing, which methought I showed him.
+
 
 1663-02-14 13:55   Home to dinner, my wife and I upon a couple of ducks.
 
-1663-02-13 20:25   I would not choose Valentines because of getting charge both to me for mine and to them for her, which did not please her.
 
-1663-02-13 20:20   My wife had a great mind to choose Valentines against to-morrow, I Mrs. Clerke, or Pierce, she Mr. Hunt or Captain Ferrers.
+1663-02-13 20:20   My wife had a great mind to choose Valentines against tomorrow, I Mrs. Clerke, or Pierce, she Mr. Hunt or Captain Ferrers, but I would not because of getting charge both to me for mine and to them for her, which did not please her.
 
-1663-02-13 16:10   My Lord Windsor is come home from Jamaica, unlooked-for; which makes us think that these young Lords are not fit to do any service abroad.
+1663-02-13 16:15 r Though it is said that he could not have his health there, but hath razed a fort of the King of Spain upon Cuba, which is considerable, or said to be so, for his honour.
 
-1663-02-13 11:40   Our maid Susan is very ill, and so the whole trouble of the house lies upon our maid Mary, who do it very contentedly and mighty well.
+1663-02-13 16:10   Mr. Bland sitting with me, talking of my Lord Windsor’s being come home from Jamaica, unlooked-for; which makes us think that these young Lords are not fit to do any service abroad.
+
+1663-02-13 14:55   I to the Temple to discourse with my cozen Roger Pepys about my law business, and so back again, it being a monstrous thaw after the long great frost, so that there is no passing but by coach in the streets, and hardly that.
+
+1663-02-13 11:40   Our maid Susan is very ill, and so the whole trouble of the house lies upon our maid Mary, who do it very contentedly and mighty well, but I am sorry she is forced to it.
 
 1663-02-13 10:07   Mr. Cole, our timber merchant, sent me five couple of ducks.
 
-1663-02-12 14:20   Mary Ashwell dined with us, and after dinner went away again, being agreed to come to us about three weeks or a month hence.
 
-1663-02-12 12:10   My wife’s brother brought Mary Ashwell with him, whom we find a likely person to please us, both for person, discourse, and other qualitys.
+1663-02-12 15:00   Then came an old man from Mr. Povy, to give me some advice about his experience in the stone, which I am beholden to him for, and was well pleased with it, his chief remedy being Castle soap in a posset.
 
-1663-02-11 22:07   My wife read Sir H. Vane’s tryall to me, and I find it a very excellent thing, worth reading, and him to have been a very wise man.
+1663-02-12 14:20 r She dined with us, and after dinner went away again, being agreed to come to us about three weeks or a month hence. My wife and I well pleased with our choice, only I pray God I may be able to maintain it.
 
-1663-02-11 14:40   Our new maid Mary has played her part very well in her readiness and discretion in attending me, of which I am very glad.
+1663-02-12 12:10   Came my wife’s brother and brought Mary Ashwell with him, whom we find a very likely person to please us, both for person, discourse, and other qualitys.
 
-1663-02-11 13:48   My wife and I dined on a pullet and I eat heartily, having eat nothing but water gruel and posset drink.
 
-1663-02-10 19:22   Sir W. Warren left a state dish of silver, and cup, with my arms ready cut upon them, which is a noble present, and the best I ever had.
+1663-02-11 22:07   My wife read Sir H. Vane’s tryall to me, which she began last night, and I find it a very excellent thing, worth reading, and him to have been a very wise man.
 
-1663-02-10 11:02   Most of my disease, itching and pimples, are gone. I am glad to see that I am so much inquired after and my sickness taken notice of.
+1663-02-11 13:48   My wife and I dined on a pullet and I eat heartily, having eat nothing since Sunday but water gruel and posset drink, but must needs say that our new maid Mary has played her part very well in her readiness and discretion in attending me, of which I am very glad.
 
-1663-02-09 22:31   Sir J. Minnes’ Venice treacle being better than the others, I did take it and fell into a great sweat, and came out of it.
 
-1663-02-09 08:13   It being some disorder given the blood, but by what I know not, unless it be by my late quantitys of Dantzic-girkins that I have eaten.
+1663-02-10 19:30 r His letter mentions his giving me and my wife a pair of gloves; but we found a pair of plain white gloves for my hand, and a fair state dish of silver, and cup with my arms ready cut upon them, worth, I believe, about 18l, which is a noble present, and the best I ever had yet.
 
-1663-02-09 08:10   By the Apothecary’s advice, I am to sweat soundly, and that will carry all this matter away which nature would of itself eject.
+1663-02-10 19:22   Sir W. Warren came himself to the door and left a letter and box for me, and went his way.
 
-1663-02-09 06:30   I had a very bad night of it, in great pain in my stomach, and in great fever.
+1663-02-10 11:02 r Most of my disease, that is, itching and pimples, were gone. Visited by Mr. Coventry and others, and very glad I am to see that I am so much inquired after and my sickness taken notice of as I did.
 
-1663-02-08 19:49   I found this afternoon that all my body is inflamed, and my face in a sad redness and swelling and pimpled.
 
-1663-02-08 15:28   At Court, a child was dropped by one of the ladies in dancing, but nobody knew who, it being taken up by somebody in their handkercher.
+1663-02-09 22:31 r Sir J. Minnes advises me to the same thing, but would not have me take anything from the apothecary, but from him, his Venice treacle being better than the others, which I did consent to and did anon take and fell into a great sweat.
 
-1663-02-08 11:00   Though a great scholler, Dr. Duport made the most flat dead sermon, that ever I heard, and very long beyond his hour, which made it worse.
+1663-02-09 08:13 r It being some disorder given the blood, but by what I know not, unless it be by my late quantitys of Dantzic-girkins that I have eaten.
 
-1663-02-08 10:07   To chappell, where there preached little Dr. Duport, of Cambridge, upon Josiah’s words, “But I and my house, we will serve the Lord.”
+1663-02-09 08:10 r Could not rise and go to the Duke, as I should have done with the rest, but keep my bed and by the Apothecary’s advice, Mr. Battersby, I am to sweat soundly, and that will carry all this matter away which nature would of itself eject.
+
+1663-02-09 06:30 r I had a very bad night of it, in great pain in my stomach, and in great fever.
+
+
+1663-02-08 16:30 r I found that all my body is inflamed, and my face in a sad redness and swelling and pimpled, so that I was not only sick but ashamed of myself to see myself so changed in my countenance, so that after we had thus talked we parted and I walked home with much ado.
+
+1663-02-08 15:31 r The next morning all the Ladies of Honour appeared early at Court for their vindication, so that nobody could tell whose this mischance should be. But it seems Mrs. Wells fell sick that afternoon, and hath disappeared ever since, so that it is concluded that it was her.
+
+1663-02-08 15:28   Captn. Ferrers telling me, among other Court passages, how about a month ago, at a ball at Court, a child was dropped by one of the ladies in dancing, but nobody knew who, it being taken up by somebody in their handkercher.
+
+1663-02-08 14:15   Sir Thomas Willis and another stranger, and Creed and I, fell a-talking; they of the errours and corruption of the Navy, and great expence thereof, not knowing who I was, which at last I did undertake to confute, and disabuse them: and they took it very well.
+
+1663-02-08 10:07   To chappell, where there preached little Dr. Duport, of Cambridge, upon Josiah’s words, — “But I and my house, we will serve the Lord.” But though a great scholler, he made the most flat dead sermon, that ever I heard, and very long beyond his hour, which made it worse.
+
 
 1663-02-07 20:44   To my writing of letters late, and making my Alphabet to my new Navy book very pretty.
 
-1663-02-06 16:48   To my Lord Sandwich, there being a Committee to sit upon the contract for the Mole, which I dare say none of us that were there understood.
 
-1663-02-06 11:55   I bought Hudibras again, it being some ill humour to be so against that which all the world cries up to be the example of wit.
+1663-02-06 16:48   To my Lord Sandwich, there being a Committee to sit upon the contract for the Mole, which I dare say none of us that were there understood, but yet they agreed of things as Mr. Cholmely and Sir J. Lawson demanded, and so I left them to go on to agree, for I understood it not.
 
-1663-02-06 11:30   It being too soon to go to dinner, I looked upon the outside of the new theatre, now a-building in Covent Garden, which will be very fine.
+1663-02-06 11:55   And so to a bookseller’s in the Strand, and there bought Hudibras again, it being certainly some ill humour to be so against that which all the world cries up to be the example of wit; for which I am resolved once again to read him, and see whether I can find it or no.
 
-1663-02-05 22:10   I walked home, it being a great frost still, and to my office, there late writing letters of business, and so home to supper and to bed.
+1663-02-06 11:30   To Lincoln’s Inn Fields; and it being too soon to go to dinner, I walked up and down, and looked upon the outside of the new theatre, now a-building in Covent Garden, which will be very fine.
 
-1663-02-05 14:07   I found dinner so well done, above what I did expect from my mayde Susan, now Jane is gone, that I did call her in and give her sixpence.
+
+1663-02-05 22:10   Walked home, it being a very great frost still, and to my office, there late writing letters of office business, and so home to supper and to bed.
+
+1663-02-05 14:07   Home to dinner, and found it so well done, above what I did expect from my mayde Susan, now Jane is gone, that I did call her in and give her sixpence.
+
 
 1663-02-04 20:07   To the office, where after doing some business I went home, where I found our new mayde Mary, that is come in Jane’s place.
 
-1663-02-04 11:44   Dr. Crumlum did me honour by telling many what a present I had made to the school, shewing my Stephanus, in four volumes, cost me 4l. 10s.
+1663-02-04 11:44 r So down to the school, where Dr. Crumlum did me much honour by telling many what a present I had made to the school, showing my Stephanus, in four volumes, cost me 4l. 10s.
 
-1663-02-04 11:32   I went up to see the head forms posed in Latin, Greek, and Hebrew, but I think they did not answer in any so well as we did.
+1663-02-04 11:32 r Went up to see the head forms posed in Latin, Greek, and Hebrew, but I think they did not answer in any so well as we did, only in geography they did pretty well: Dr. Wilkins and Outram were examiners.
 
-1663-02-04 09:07   To Paul’s School. I heard some of their speeches, of the seven liberal sciences; but I think not so good as ours were in our time.
+1663-02-04 09:07   To Paul’s School, it being Apposition-day there. I heard some of their speeches, and they were just as schoolboys’ used to be, of the seven liberal sciences; but I think not so good as ours were in our time.
 
-1663-02-03 14:15   Mr. Ashwell’s daughter will be fit, I think, as any for our turn. The conditions I know not what they will be, he leaving it wholly to her.
+
+1663-02-03 14:15 r I find that his daughter will be very fit, I think, as any for our turn, but the conditions I know not what they will be, he leaving it wholly to her, which will be agreed on a while hence when my wife sees her.
 
 1663-02-03 13:55   Mr. Creed dined with me, and Mr. Ashwell, with whom after dinner I discoursed concerning his daughter coming to live with us.
 
-1663-02-02 17:33   Home and there found Jane gone. I could hardly forbear shedding tears for fear the poor wench should come to any ill condition.
 
-1663-02-02 15:15   I called at my brother’s, who is at church, at the buriall of young Cumberland, a lusty young man.
+1663-02-02 17:33   Home and there found Jane gone, for which my wife and I are very much troubled, and myself could hardly forbear shedding tears for fear the poor wench should come to any ill condition after her being so long with me.
 
-1663-02-02 13:48   Mr. Gawden and I did fall out, he defending himself in the readiness of his provision, when I know that the ships everywhere stay for them.
+1663-02-02 15:15   Thence called at my brother’s, who is at church, at the buriall of young Cumberland, a lusty young man.
 
-1663-02-02 10:03   Mr. Ashwell’s wife came to me, and by discourse I perceive their daughter is very fit for my turn if my family may be as much for hers.
+1663-02-02 14:30   I to the Temple, where at my cozen Roger’s chamber I met Madam Turner, and after a little stay led her home and there left her, she and her daughter having been at the play today at the Temple, it being a revelling time with them.
 
-1663-02-02 07:07   After paying Jane her wages I went away because I could hardly forbear weeping. She cried, saying it was not her fault that she went away.
+1663-02-02 13:48   Mr. Gawden and I did almost fall out, he defending himself in the readiness of his provision, when I know that the ships everywhere stay for them.
 
-1663-02-01 16:32   Walking in White Hall garden we did see the King coming privately from my Lady Castlemaine’s; which is a poor thing for a Prince to do.
+1663-02-02 11:55   I went to my Lord’s: the King and Duke being gone to chappell, it being collar-day, it being Candlemas-day; where I staid with him a while, there being Jonas Moore talking about some mathematical businesses.
 
-1663-02-01 13:51   I was pleased to see dinner neatly done, and this troubled me to think of parting with Jane, that is come to be a good cook.
+1663-02-02 10:03   I sent for Mr. Ashwell, and his wife came to me, and by discourse I perceive their daughter is very fit for my turn if my family may be as much for hers, but I doubt it will be to her loss to come to me for so small wages, but that will be considered of.
+
+1663-02-02 07:07   After paying Jane her wages, I went away, because I could hardly forbear weeping, and she cried, saying it was not her fault that she went away, and indeed it is hard to say what it is, but only her not desiring to stay that she do now go.
+
+
+1663-02-01 22:20 r My mind much troubled for the poor girl that she leaves us, and yet she not submitting herself, for some words she spoke boldly and yet I believe innocently and out of familiarity to her mistress about us weeks ago, I could not recall my words that she should stay with me.
+
+1663-02-01 22:15   Alone with my wife and Jane did fall to tell her what I did expect would become of her since, after so long being my servant, she had carried herself so as to make us be willing to put her away, and desired God to bless her.
+
+1663-02-01 16:32   Creed and I walking in White Hall garden did see the King coming privately from my Lady Castlemaine’s; which is a poor thing for a Prince to do; and I expressed my sense of it to Creed in terms which I should not have done, but that I believe he is trusty in that point.
+
+1663-02-01 13:51   Had a good dinner with my wife, with which I was pleased to see it neatly done, and this troubled me to think of parting with Jane, that is come to be a very good cook.
